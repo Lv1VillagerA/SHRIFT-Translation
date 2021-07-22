@@ -454,6 +454,113 @@ Ocelot#Triketos
 > END STRING
 
 > BEGIN STRING
+ハイスラッグ娘
+> CONTEXT: Enemies/340/name
+> CONTEXT: Enemies/341/name
+> CONTEXT: Enemies/342/name
+> CONTEXT: Enemies/343/name
+> CONTEXT: Enemies/378/name
+> CONTEXT: Enemies/379/name
+> CONTEXT: Enemies/380/name
+> CONTEXT: Enemies/392/name
+High Slug Girl#Ron
+> END STRING
+
+> BEGIN STRING
+ブラックドッグ
+> CONTEXT: Enemies/344/name
+> CONTEXT: Enemies/345/name
+> CONTEXT: Enemies/346/name
+> CONTEXT: Enemies/347/name
+> CONTEXT: Enemies/370/name
+> CONTEXT: Enemies/371/name
+> CONTEXT: Enemies/372/name
+Black Dog#Ron
+> END STRING
+
+> BEGIN STRING
+キメラビースト
+> CONTEXT: Enemies/350/name
+> CONTEXT: Enemies/351/name
+> CONTEXT: Enemies/355/name
+> CONTEXT: Enemies/393/name
+Chimera Beast#Ron
+> END STRING
+
+> BEGIN STRING
+奈落獄アバドーン
+> CONTEXT: Enemies/360/name
+> CONTEXT: Enemies/361/name
+> CONTEXT: Enemies/362/name
+> CONTEXT: Enemies/363/name
+Abyss Abaddon#Ron
+> END STRING
+
+> BEGIN STRING
+オールドワン
+> CONTEXT: Enemies/364/name
+> CONTEXT: Enemies/365/name
+> CONTEXT: Enemies/366/name
+Old One#Ron
+> END STRING
+
+> BEGIN STRING
+ベルゼバブ
+> CONTEXT: Enemies/374/name
+> CONTEXT: Enemies/375/name
+> CONTEXT: Enemies/386/name
+> CONTEXT: Enemies/396/name
+Beelzebub#Ron
+> END STRING
+
+> BEGIN STRING
+ハイラミア
+> CONTEXT: Enemies/376/name
+> CONTEXT: Enemies/377/name
+> CONTEXT: Enemies/394/name
+> CONTEXT: Enemies/395/name
+High Lamia#Ron
+> END STRING
+
+> BEGIN STRING
+ヴァシリカ
+> CONTEXT: Enemies/381/name
+> CONTEXT: Enemies/382/name
+> CONTEXT: Enemies/383/name
+> CONTEXT: Enemies/398/name
+Vasilica#Ron
+> END STRING
+
+> BEGIN STRING
+ウボ＝サスラ
+> CONTEXT: Enemies/384/name < UNTRANSLATED
+> CONTEXT: Enemies/385/name < UNTRANSLATED
+> CONTEXT: Enemies/397/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+奈落蟲アバドーン
+> CONTEXT: Enemies/387/name < UNTRANSLATED
+> CONTEXT: Enemies/388/name < UNTRANSLATED
+> CONTEXT: Enemies/389/name < UNTRANSLATED
+> CONTEXT: Enemies/399/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+双子になりたかったもの
+> CONTEXT: Enemies/390/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァンパイア
+> CONTEXT: Enemies/391/name
+Vampire#Ron
+> END STRING
+
+> BEGIN STRING
 ■■■チャプター１
 > CONTEXT: Enemies/499/name
 ■■■Chapter 1#Dargoth
@@ -724,10 +831,6 @@ have come here to stay with the protagonist.#Ron
 > CONTEXT: Enemies/560/BookAttribute/2 
 > CONTEXT: Enemies/594/BookAttribute/2 
 > CONTEXT: Enemies/615/BookAttribute/0  
-> CONTEXT: Enemies/618/BookAttribute/2 
-> CONTEXT: Enemies/626/BookAttribute/2
-> CONTEXT: Enemies/627/BookAttribute/2
-> CONTEXT: Enemies/628/BookAttribute/2
 Resists Magic#Ron
 > END STRING
 
@@ -737,10 +840,6 @@ Resists Magic#Ron
 自らすすんで改造に志願したと噂されているが、真偽は定かではない。
 彼女の物静かな容姿と口調は、相手を安心させ、油断させる。
 > CONTEXT: Enemies/512/BookDescription/4
-> CONTEXT: Enemies/618/BookDescription/4
-> CONTEXT: Enemies/626/BookDescription/4
-> CONTEXT: Enemies/627/BookDescription/4
-> CONTEXT: Enemies/628/BookDescription/4
 E-001, also known as Iron Maiden. Rumored to have
 been a high-class succubus before being converted
 into a biological weapon. She was also rumored to
@@ -2064,6 +2163,7 @@ a human, they don't compare to Empuse's at all.#RonIffyWording
 > CONTEXT: Enemies/581/BookAttribute/2
 > CONTEXT: Enemies/610/BookAttribute/2
 > CONTEXT: Enemies/611/BookAttribute/2
+> CONTEXT: Enemies/627/BookAttribute/0
 Resists All#Ron
 > END STRING
 
@@ -2822,14 +2922,18 @@ fit is typical of the Oni race.#Ron
 人間の精気や肉体を糧にし、一度に複数の産卵を行う
 回帰された魂は二度と開放されることは無い。
 > CONTEXT: Enemies/615/BookDescription/3
-
+The progenitor of the Harpy Spawn, who appears during
+breeding season. She feeds on the bodies and souls
+of humans to lay multiple eggs at the same time. A 
+soul that has converted will never be released again.#Strate
 > END STRING
 
 > BEGIN STRING
 その風貌や、胎内回帰の特性から
 クイーンを崇める宗教団体もいるのだとか。
 > CONTEXT: Enemies/615/BookDescription/6
-
+Due to her appearance and womb regression ability,
+there are even religious groups who worship the Queen.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -2895,6 +2999,39 @@ to defeat her found the tables turned on them.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
+【EX】奈落蟲アバドーン
+> CONTEXT: Enemies/618/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すべての攻撃に強い
+> CONTEXT: Enemies/618/BookAttribute/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世界を喰らう蟲、多元宇宙におけるゴミ処理係とも。
+奈落にて淡々と口元に来る廃れた世界を喰らっていたが
+とあるきっかけで実体化に必要な身体を手にすることになる。
+> CONTEXT: Enemies/618/BookDescription/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オールドワンに目を付けられ、協力する過程で
+> CONTEXT: Enemies/618/BookDescription/5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪魔に慕われ、強い意志を見せる主人公を見ているうちに
+彼こそが自身の奈落での孤独を癒やしてくれると盲信していた。
+> CONTEXT: Enemies/618/BookDescription/6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 ■双子
 > CONTEXT: Enemies/619/name
 ■ Twins#Triketos
@@ -2906,14 +3043,12 @@ M.O.W生物兵器　■■-■■■■（ロストナンバー）『双子』�
 彼女たちの物言いや、過去にも変わらぬ姿で現れていることから
 『時空を超越する能力』が備わっていると推測される。
 > CONTEXT: Enemies/619/BookDescription/2
-M.O.W. Biological weapons ■ ■ ■ ■ ■ ■ ■ ■ (lost number)
-"Twins".
-It is the cause of Mukuro's birth and the cause of the
-ancient disaster.
-Because they have appeared in the same manner as the
-women's stories and the past
-It is speculated that it has the ability to transcend
-space-time.#MTLed
+M.O.W. Bio-Weapons ■■-■■■■[ID NOT FOUND] "Twins".
+The cause of Mukuro's birth and the culprits behind
+the ancient calamity. Due to the way they speak and
+the fact that their appearance is the same as it was
+in the past, it is speculated that they possess the
+ability to transcend time and space.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -2928,14 +3063,12 @@ space-time.#MTLed
 逆に主人公のような元気な人間は襲わない。
 ハーピーが冥界に魂を運ぶのに対して、モドキは地獄へ持っていく。
 > CONTEXT: Enemies/620/BookDescription/2
-A ferocious carnivore that flies above the city of the
-city.
-Attacks a wounded or non-struggled person from the air and
-scolds blood and flesh.
-On the contrary, the energetic person like a hero does not
-attack.
-While Harpy carries his soul to the underworld, Modoki
-brings it to hell.#MTLed
+A fierce carnivorous demon that roams the skies.
+It attacks wounded and unarmed people from above,
+seeking their flesh and blood. On the other hand,
+they don't attack strong people like the protagonist.
+While regular harpies carry the soul to the
+afterlife, Harpy Spawn bring it to Hell instead.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -3079,4 +3212,92 @@ by concepts other than "time". They both argue
 constantly over how to treat them and are now nearly
 separated. Her true form is from Hera's curse, and
 it inspired Empuse's and Arachne's milking organs.#StrateLocalization
+> END STRING
+
+> BEGIN STRING
+■マッドハッター
+> CONTEXT: Enemies/626/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本来は形を持たない、世界が成り立つための基本法則。
+『調律者』の手足となるために、その存在を定義されている。
+> CONTEXT: Enemies/626/BookDescription/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+主な仕事が、『介入』における歴史や事象修正なため
+直接相手を消去するような能力も持ち合わせているようだ。
+白兎と同じで、同義存在が複数いることが確認されているが
+『調律者』が管理するため、それぞれ別個性となっているらしい。
+> CONTEXT: Enemies/626/BookDescription/4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ウボ＝サスラ
+> CONTEXT: Enemies/627/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無の世界に生命を創るために
+オールドワンが創り出した外来生命体（エイリアン）
+> CONTEXT: Enemies/627/BookDescription/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+背中に着いた卵のような器官に「素材」を納入し
+オールドワンの元に持ち帰る事を行動原理としている。
+搾精器官は備わっていないが、性別はメスに分類されており
+その粘液には、相手を屈服させる快楽刺激が含まれるという。
+> CONTEXT: Enemies/627/BookDescription/5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■サマエル・アポストル
+> CONTEXT: Enemies/628/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サマエルの力を、鎧として纏った人間の姿。
+ルカとマリオンによってかろうじて制御できていたが
+> CONTEXT: Enemies/628/BookDescription/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実際は、破壊意志が明確な分サマエルよりも危険な存在。
+もし、多元宇宙に放たれるようなことがあったならば
+世界を秒速で無作為に壊し渡り歩いてゆく
+アバドーンよりも最悪な次元天災になっていただろう。
+> CONTEXT: Enemies/628/BookDescription/5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■オールドワン
+> CONTEXT: Enemies/629/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+虚無より生まれし名も無き王。
+その存在はクトゥルフ神話に起因すると考えられるが
+> CONTEXT: Enemies/629/BookDescription/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実際には旧支配者でも外なる神でもない。
+『オールドワン』も、間に合わせの呼称でしかないため
+主人公を通して、介入者を虐殺の愉悦で酔わせて操り
+自身の『信仰者』を増やし、その存在を確かなものにしようとした。
+> CONTEXT: Enemies/629/BookDescription/5 < UNTRANSLATED
+
 > END STRING
