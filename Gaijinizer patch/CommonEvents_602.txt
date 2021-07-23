@@ -5,8 +5,7 @@
 その大きな乳房で犯されてしまった！
 > CONTEXT: CommonEvents_602/31/Dialogue 
 \\N[1] is embraced by the Queen,
-
-and loses himself in her large breasts!#Amaboye
+losing himself in her large breasts!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -16,7 +15,6 @@ and loses himself in her large breasts!#Amaboye
 心を穏やかに……身を任せなさい……
 > CONTEXT: CommonEvents_602/59/Dialogue 
 Oh void-bound soul...
-
 I shall absorb your sin...
 Now, calm your heart... Entrust yourself to me...#Amaboye
 > END STRING
@@ -33,7 +31,6 @@ Ah... Ahh...♡♡#Amaboye
 クイーンの優しい吸い付きで、どんどん吸い取られていく…
 > CONTEXT: CommonEvents_602/89/Dialogue 
 > CONTEXT: CommonEvents_607/58/Dialogue 
-\\N[1]'s will to resist rapidly fades,
-
-eroded by the Queen's gentle sucking.#Amaboye
+Under the Queen's gentle sucking,
+\\N[1]'s will to resist rapidly fades.#Amaboye
 > END STRING

@@ -68,7 +68,6 @@ This is more happiness than I deserve...#Amaboye
 クイーンの方へと運ばれていく……
 > CONTEXT: CommonEvents_614/80/Dialogue 
 \\N[1]'s body is lifted by the Harpy Spawn,
-
 and carried toward the Queen...#Amaboye
 > END STRING
 
@@ -105,7 +104,7 @@ You must accept them without hesitation#Amaboye
 Three...
 
 Mother's embrace is Salvation...
-Free from thinking, impose on me as a baby would#Amaboye
+Free from thinking, impose on me as a baby would.#Amaboye
 > END STRING
 
 > BEGIN STRING

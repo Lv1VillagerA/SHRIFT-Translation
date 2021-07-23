@@ -37,7 +37,6 @@ You no longer need to feel alone...#Amaboye
 これから、母の元に還るのです……
 > CONTEXT: CommonEvents_604/18/Dialogue 
 Starting now...
-
 Your soul will return to Mother...#Amaboye
 > END STRING
 
@@ -160,8 +159,7 @@ Mother's love for you...#Amaboye
 > CONTEXT: CommonEvents_604/278/Dialogue/kazuya-5 
 > CONTEXT: CommonEvents_609/321/Dialogue/kazuya-5 
 I'm melting...♡♡
-My... body... is...♡
-Within mommy's body...♡#Amaboye
+My... body... is...♡ Within mommy's body...♡#Amaboye
 > END STRING
 
 > BEGIN STRING
