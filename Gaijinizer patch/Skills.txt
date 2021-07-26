@@ -4332,7 +4332,7 @@ She wiggles and shakes her body...#afrgPR
 > BEGIN STRING
 激しく腰を動かし相手に見せつける、レイジー使用時のダンス。
 > CONTEXT: Skills/315/description
-One of Ivory's dances where she furiously gyrates her hips
+One of Lady's dances where she furiously gyrates her hips
 to show off to her opponent.#Ron
 > END STRING
 
@@ -5269,7 +5269,7 @@ Dance Lesson#afrg
 レイジーのトドメの激しい搾精ダンス。
 相手に８回中ダメージを与える。
 > CONTEXT: Skills/400/description
-Ivory's finishing, violent, milking dance move.
+Lady's finishing, violent, milking dance move.
 Inflicts moderate damage eight times.#Ron
 > END STRING
 

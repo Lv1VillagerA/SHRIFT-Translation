@@ -374,10 +374,10 @@ EX世界『市街地』に侵入しますか？
 > CONTEXT: Map293/events/3/pages/2/2/Dialogue 
 > CONTEXT: Map293/events/3/pages/3/2/Dialogue 
 > CONTEXT: Map293/events/3/pages/4/2/Dialogue
-Will you enter the "town area" EX world?
+Will you enter the "Urban Area" EX world?
 
 *Once you enter, you cannot come back until
-you progress to some extent.#Amaboye
+you progress to some extent.#Amaboye/Triketos
 > END STRING
 
 > BEGIN STRING

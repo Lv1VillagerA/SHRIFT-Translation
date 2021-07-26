@@ -105,6 +105,8 @@ I'm not going anywhere. ♡#Ron
 > CONTEXT: CommonEvents_166/633/InlineScript/1:23
 > CONTEXT: CommonEvents_166/655/InlineScript/1:23
 > CONTEXT: CommonEvents_166/693/InlineScript/1:23
+> CONTEXT: Map452/events/1/pages/0/372/InlineScript/2:18
+> CONTEXT: Map454/events/2/pages/0/55/InlineScript/2:18
 "Kazuya"#Ron
 > END STRING
 

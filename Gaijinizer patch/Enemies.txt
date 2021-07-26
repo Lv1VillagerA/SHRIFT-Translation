@@ -89,7 +89,7 @@ Ebony#afrg
 > CONTEXT: Enemies/107/name
 > CONTEXT: Enemies/109/name
 > CONTEXT: Enemies/229/name
-Ivory#afrg
+Lady#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1631,7 +1631,7 @@ mistake in their own dances.#Ron
 > BEGIN STRING
 （レイジー：ダンス搾精）
 > CONTEXT: Enemies/555/name
-(Ivory: Dancing Milking)#afrg
+(Lady: Dancing Milking)#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1640,7 +1640,7 @@ mistake in their own dances.#Ron
 もし彼女に隙を見せ、上に乗られるようなことがあれば
 音楽のリズムに合わせ、激しく犯されてしまうことだろう。
 > CONTEXT: Enemies/555/BookDescription/2
-Ivory's dancing is very passionate and intense,
+Lady's dancing is very passionate and intense,
 so a lot of stamina is required to follow her
 moves. If she sees an opening and gets on top of
 you, she'll violently rape you in time with the

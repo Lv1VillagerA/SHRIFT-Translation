@@ -35,7 +35,7 @@
 > CONTEXT: CommonEvents_712/64/Choice/3
 > CONTEXT: System/terms/commands/5
 > CONTEXT: System/skill_types/36
-Skill#Dargoth
+Skills#Triketos
 > END STRING
 
 > BEGIN STRING
