@@ -83,10 +83,10 @@ Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 
 そういうのが好きって思われてるんなら、心外だねぇ
 > CONTEXT: Map119/events/5/pages/0/223/Dialogue/enemy10
-...I'm not very interested in gifts such as that.
+...I'm not very interested in gifts like that.
 
 If you thought I liked that kind of thing,
-you will be sorely disappointed.#StrateUnsure
+you will be sorely disappointed.#Strate
 > END STRING
 
 > BEGIN STRING
