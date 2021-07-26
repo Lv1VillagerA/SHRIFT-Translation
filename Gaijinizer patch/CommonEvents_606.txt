@@ -4,8 +4,6 @@
 
 ヌルヌルの粘液で、上手く抜け出せない……！！
 > CONTEXT: CommonEvents_606/6/Dialogue
-\\N[1] tried to resist
-
-I can not get out well with muzzle
-of slimy......!!
+\\N[1] tried to break free, but he was covered in slime
+and couldn't get away...!#Amaboye/Triketos
 > END STRING
