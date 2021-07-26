@@ -32,10 +32,10 @@
 
 > BEGIN STRING
 スキル
-> CONTEXT: CommonEvents_712/64/Choice/3 < UNTRANSLATED
-> CONTEXT: System/terms/commands/5 < UNTRANSLATED
-> CONTEXT: System/skill_types/36 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/64/Choice/3
+> CONTEXT: System/terms/commands/5
+> CONTEXT: System/skill_types/36
+Skills#Triketos
 > END STRING
 
 > BEGIN STRING
