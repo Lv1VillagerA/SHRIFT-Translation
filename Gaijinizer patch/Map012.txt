@@ -19,6 +19,7 @@ anything.#MTLed
 
 　　　　　　　　乱雑に破られた日誌
 > CONTEXT: Map012/events/4/pages/0/2/Dialogue
+> CONTEXT: Map543/events/4/pages/0/2/Dialogue 
 
 A Messily Torn Journal#Ron
 > END STRING
@@ -28,6 +29,7 @@ A Messily Torn Journal#Ron
 なんだってこんな事に
 腕の血が止まらない
 > CONTEXT: Map012/events/4/pages/0/6/Dialogue
+> CONTEXT: Map543/events/4/pages/0/6/Dialogue 
 DAMMIT, DAMMIT, DAMMIT, DAMMIT.
 What the hell is this? My arm won't stop
 bleeding.#Ron
@@ -37,6 +39,7 @@ bleeding.#Ron
 あの発情したイヌが飛び掛かってきたとき
 俺は自分の末路に恐怖したんだ。
 > CONTEXT: Map012/events/4/pages/0/11/Dialogue
+> CONTEXT: Map543/events/4/pages/0/11/Dialogue 
 I thought I was done for when that dog in heat
 threw itself at me.#Ron
 > END STRING
@@ -46,6 +49,7 @@ threw itself at me.#Ron
 この先一生、あんな異形と死ぬまで交尾しつづけるだなんて
 考えただけでも恐ろしい
 > CONTEXT: Map012/events/4/pages/0/15/Dialogue
+> CONTEXT: Map543/events/4/pages/0/15/Dialogue 
 I mean, I'm right aren't I? It's horrible just
 thinking about mating with such a monstrosity
 until you die.#Ron
@@ -56,6 +60,7 @@ until you die.#Ron
 そしたらどうだ
 今度は血相変えて、俺を切り裂いてきやがった！！！
 > CONTEXT: Map012/events/4/pages/0/20/Dialogue
+> CONTEXT: Map543/events/4/pages/0/20/Dialogue 
 So I kicked it away. And then what happened?
 This time the look on its face changed, and the
 damn thing tore me up!!!#Ron
@@ -66,6 +71,7 @@ damn thing tore me up!!!#Ron
 停電してドアが反応しなくなった！！
 クソが！政府の連中は俺たちが脱出したと勘違いしたんだ！！
 > CONTEXT: Map012/events/4/pages/0/25/Dialogue
+> CONTEXT: Map543/events/4/pages/0/25/Dialogue 
 Even worse, as soon as I escaped into this reserve power
 room, there was a blackout and the door stopped responding!!
 Dammit! Those government morons thought we had all
@@ -77,6 +83,7 @@ escaped!!#Ron
 だが、そうすればドアの先で唸っているあの血気盛んなイヌどもに
 今度こそ殺される。そうだ、”殺される”んだ！！！
 > CONTEXT: Map012/events/4/pages/0/30/Dialogue
+> CONTEXT: Map543/events/4/pages/0/30/Dialogue 
 If I activate the reserve power supply here, the door will
 open. But if I do that, I'll be killed by that hot-blooded
 mutt howling on the other side of the door. That's right,
@@ -87,6 +94,7 @@ mutt howling on the other side of the door. That's right,
 いやだ……悪魔に犯されて死ぬのはいやだった。
 でも、こんな痛みに苦しみながら死ぬのはもっといやだ…
 > CONTEXT: Map012/events/4/pages/0/35/Dialogue
+> CONTEXT: Map543/events/4/pages/0/35/Dialogue 
 I don't want this... I didn't want to be raped to death
 by a demon. But I REALLY don't want to die in this
 massive pain...#Ron
@@ -97,6 +105,7 @@ massive pain...#Ron
 俺は生きる……
 　　　　　　　　　　いきてやる……
 > CONTEXT: Map012/events/4/pages/0/39/Dialogue
+> CONTEXT: Map543/events/4/pages/0/39/Dialogue 
 I've lost feeling in this hand I'm writing with to distract
 myself... I will live.
 I will live.#Ron
@@ -474,6 +483,7 @@ need.#Ron
 > BEGIN STRING
 電源を入れる
 > CONTEXT: Map012/events/5/pages/3/2/Choice/1
+> CONTEXT: Map543/events/5/pages/0/2/Choice/1 
 Switch on the power#Dargoth
 > END STRING
 
@@ -588,7 +598,6 @@ my important customer after all.#Ron
 
 やがて天井の隙間から別の空間へと去って行った。
 > CONTEXT: Map012/events/5/pages/3/52/Dialogue
-
 Hyakki skillfully leaped over the mass of piping
 in the way, before leaving through a hole in the
 ceiling.#Ron/Triketos
@@ -622,6 +631,7 @@ Ah, yeah.#Triketos
 > BEGIN STRING
 ……確かにスゴイ音だな。
 > CONTEXT: Map012/events/5/pages/3/73/Dialogue/kazuya
+> CONTEXT: Map543/events/5/pages/0/11/Dialogue/kazuya 
 ...It's certainly making a hell of a noise.#Ron
 > END STRING
 
@@ -629,6 +639,7 @@ Ah, yeah.#Triketos
 もたもたしている暇はないぞ。
 この音に引き寄せられて、バーゲストはこの部屋に来る。
 > CONTEXT: Map012/events/5/pages/3/75/Dialogue/yuuma
+> CONTEXT: Map543/events/5/pages/0/13/Dialogue/yuuma 
 There's no time to dawdle.
 The barghests are going to turn up attracted to
 this noise.#Ron
@@ -638,6 +649,7 @@ this noise.#Ron
 はやいとこ正面ドア以外の場所から
 ここを出るぞ。
 > CONTEXT: Map012/events/5/pages/3/78/Dialogue/yuuma
+> CONTEXT: Map543/events/5/pages/0/16/Dialogue/yuuma 
 Hurry up and get out of there without using the
 main door.#Ron
 > END STRING
@@ -772,6 +784,8 @@ supply. It was likely blocked off on purpose...#Ron
 > CONTEXT: Map012/events/8/pages/3/0/Dialogue/hyakki
 > CONTEXT: Map014/events/14/pages/0/0/Dialogue/hyakki
 > CONTEXT: Map014/events/14/pages/1/0/Dialogue/hyakki
+> CONTEXT: Map543/events/8/pages/1/0/Dialogue/hyakki 
+> CONTEXT: Map543/events/8/pages/3/0/Dialogue/hyakki 
 Hey♪. Do ya need something?#Ron
 > END STRING
 
@@ -830,6 +844,10 @@ Hey♪. Do ya need something?#Ron
 > CONTEXT: Map301/events/7/pages/0/4/Choice/0 
 > CONTEXT: Map303/events/6/pages/0/5/Choice/0 
 > CONTEXT: Map344/events/13/pages/1/9/Choice/0
+> CONTEXT: Map543/events/8/pages/1/3/Choice/0 
+> CONTEXT: Map543/events/8/pages/2/4/Choice/0 
+> CONTEXT: Map543/events/8/pages/3/3/Choice/0 
+> CONTEXT: Map543/events/8/pages/5/4/Choice/0 
 Show me your goods#Dargoth
 > END STRING
 
@@ -888,6 +906,10 @@ Show me your goods#Dargoth
 > CONTEXT: Map301/events/7/pages/0/4/Choice/1 
 > CONTEXT: Map303/events/6/pages/0/5/Choice/1 
 > CONTEXT: Map344/events/13/pages/1/9/Choice/1
+> CONTEXT: Map543/events/8/pages/1/3/Choice/1 
+> CONTEXT: Map543/events/8/pages/2/4/Choice/1 
+> CONTEXT: Map543/events/8/pages/3/3/Choice/1 
+> CONTEXT: Map543/events/8/pages/5/4/Choice/1 
 Never mind#Dargoth
 > END STRING
 
@@ -958,6 +980,19 @@ Never mind#Dargoth
 > CONTEXT: Map303/events/6/pages/0/7/Choice/0
 > CONTEXT: Map344/events/13/pages/1/11/Choice/0
 > CONTEXT: Map404/events/5/pages/1/6/Choice/0
+> CONTEXT: Map480/events/42/pages/0/20/Choice/0 
+> CONTEXT: Map481/events/42/pages/0/20/Choice/0 
+> CONTEXT: Map484/events/39/pages/0/11/Choice/0 
+> CONTEXT: Map491/events/39/pages/0/11/Choice/0 
+> CONTEXT: Map491/events/36/pages/0/11/Choice/0 
+> CONTEXT: Map499/events/3/pages/0/11/Choice/0 
+> CONTEXT: Map499/events/19/pages/0/11/Choice/0 
+> CONTEXT: Map506/events/1/pages/0/11/Choice/0 
+> CONTEXT: Map516/events/42/pages/0/20/Choice/0 
+> CONTEXT: Map543/events/8/pages/1/5/Choice/0 
+> CONTEXT: Map543/events/8/pages/2/6/Choice/0 
+> CONTEXT: Map543/events/8/pages/3/5/Choice/0 
+> CONTEXT: Map543/events/8/pages/5/6/Choice/0 
 Recovery Items#Dargoth
 > END STRING
 
@@ -1028,6 +1063,19 @@ Recovery Items#Dargoth
 > CONTEXT: Map303/events/6/pages/0/7/Choice/1 
 > CONTEXT: Map344/events/13/pages/1/11/Choice/1
 > CONTEXT: Map404/events/5/pages/1/6/Choice/1
+> CONTEXT: Map480/events/42/pages/0/20/Choice/1 
+> CONTEXT: Map481/events/42/pages/0/20/Choice/1 
+> CONTEXT: Map484/events/39/pages/0/11/Choice/1 
+> CONTEXT: Map491/events/39/pages/0/11/Choice/1 
+> CONTEXT: Map491/events/36/pages/0/11/Choice/1 
+> CONTEXT: Map499/events/3/pages/0/11/Choice/1 
+> CONTEXT: Map499/events/19/pages/0/11/Choice/1 
+> CONTEXT: Map506/events/1/pages/0/11/Choice/1 
+> CONTEXT: Map516/events/42/pages/0/20/Choice/1 
+> CONTEXT: Map543/events/8/pages/1/5/Choice/1 
+> CONTEXT: Map543/events/8/pages/2/6/Choice/1 
+> CONTEXT: Map543/events/8/pages/3/5/Choice/1 
+> CONTEXT: Map543/events/8/pages/5/6/Choice/1 
 Weapons & Ammo#Dargoth
 > END STRING
 
@@ -1082,6 +1130,10 @@ Weapons & Ammo#Dargoth
 > CONTEXT: Map280/events/14/pages/1/7/Choice/2
 > CONTEXT: Map280/events/14/pages/2/6/Choice/2
 > CONTEXT: Map280/events/14/pages/3/6/Choice/2
+> CONTEXT: Map543/events/8/pages/1/5/Choice/2 
+> CONTEXT: Map543/events/8/pages/2/6/Choice/2 
+> CONTEXT: Map543/events/8/pages/3/5/Choice/2 
+> CONTEXT: Map543/events/8/pages/5/6/Choice/2 
 Equipment#Dargoth
 > END STRING
 
@@ -1146,6 +1198,19 @@ Equipment#Dargoth
 > CONTEXT: Map280/events/14/pages/1/7/Choice/3
 > CONTEXT: Map280/events/14/pages/2/6/Choice/3
 > CONTEXT: Map280/events/14/pages/3/6/Choice/3
+> CONTEXT: Map480/events/42/pages/0/20/Choice/2 
+> CONTEXT: Map481/events/42/pages/0/20/Choice/2 
+> CONTEXT: Map484/events/39/pages/0/11/Choice/2 
+> CONTEXT: Map491/events/39/pages/0/11/Choice/2 
+> CONTEXT: Map491/events/36/pages/0/11/Choice/2 
+> CONTEXT: Map499/events/3/pages/0/11/Choice/2 
+> CONTEXT: Map499/events/19/pages/0/11/Choice/2 
+> CONTEXT: Map506/events/1/pages/0/11/Choice/2 
+> CONTEXT: Map516/events/42/pages/0/20/Choice/2 
+> CONTEXT: Map543/events/8/pages/1/5/Choice/3 
+> CONTEXT: Map543/events/8/pages/2/6/Choice/3 
+> CONTEXT: Map543/events/8/pages/3/5/Choice/3 
+> CONTEXT: Map543/events/8/pages/5/6/Choice/3 
 Other#Dargoth
 > END STRING
 
@@ -1177,6 +1242,8 @@ Other#Dargoth
 > CONTEXT: Map261/events/40/pages/3/45/Choice/0 
 > CONTEXT: Map280/events/14/pages/0/46/Choice/0 
 > CONTEXT: Map280/events/14/pages/1/46/Choice/0 
+> CONTEXT: Map543/events/8/pages/1/44/Choice/0 
+> CONTEXT: Map543/events/8/pages/3/42/Choice/0 
 I want you to sell the "Trump Card"if(s[423])#Triketos
 > END STRING
 
@@ -1199,6 +1266,7 @@ I want you to sell the "Trump Card"if(s[423])#Triketos
 > CONTEXT: Map157/events/9/pages/0/35/Choice/0 
 > CONTEXT: Map163/events/14/pages/0/35/Choice/0 
 > CONTEXT: Map190/events/1/pages/0/35/Choice/0 
+> CONTEXT: Map543/events/8/pages/1/49/Choice/0 
 NG+ Shopif(s[562])#Triketos
 > END STRING
 
@@ -1223,5 +1291,7 @@ NG+ Shopif(s[562])#Triketos
 > CONTEXT: Map261/events/40/pages/2/0/Dialogue/hyakki
 > CONTEXT: Map280/events/14/pages/2/0/Dialogue/hyakki
 > CONTEXT: Map280/events/14/pages/3/0/Dialogue/hyakki
+> CONTEXT: Map543/events/8/pages/2/0/Dialogue/hyakki 
+> CONTEXT: Map543/events/8/pages/5/0/Dialogue/hyakki 
 ...Need something?#Dargoth
 > END STRING
