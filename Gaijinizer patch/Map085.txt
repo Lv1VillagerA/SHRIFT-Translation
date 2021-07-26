@@ -33,7 +33,7 @@ Milking (Ebony)en(v[48] \>= 25)#Ron
 > BEGIN STRING
 搾精（レイジー）en(v[48] \>= 50) 
 > CONTEXT: Map085/events/5/pages/0/40/Choice/2
-Milking (Ivory)en(v[48] \>= 50)#Ron
+Milking (Lady)en(v[48] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -505,7 +505,7 @@ Current Friendship: \\C[2]\\v[48]\\C[0]#Triketos
 あれは君とは独立したバックダンサーなの？
 > CONTEXT: Map085/events/5/pages/1/164/Dialogue/kazuya
 Are those two dancers you call "Ebony" and 
-"Ivory" independent backup dancers?#Ron
+"Lady" independent backup dancers?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -535,7 +535,7 @@ that was kinda boring.#Ron
  彼女たちが着ている衣装とかは、
  雑誌で見たやつを私がセクシーにアレンジしてるの。
 > CONTEXT: Map085/events/5/pages/1/177/Dialogue/enemy6
-Ebony and Ivory were based on one of the
+Ebony and Lady were based on one of the
 researchers in the facility. And their clothes
 were based on sexy outfits I'd seen in
 magazines.#Ron/Triketos
@@ -557,7 +557,7 @@ right?#Ron
 レイジーちゃんは激しいから、ちょっと疲れちゃうんだよ…
 > CONTEXT: Map085/events/5/pages/1/193/Dialogue/enemy6
 The reason I send Ebony-chan out first is because
-she's easy to move. Ivory-chan's intense so I get
+she's easy to move. Lady-chan's intense so I get
 a little tired moving her.#Ron
 > END STRING
 
@@ -585,7 +585,7 @@ That's what you said during the show, wasn't it?#Ron
 
  月１のこの番組で、年に１～２回くらいかなぁ？
 > CONTEXT: Map085/events/5/pages/1/205/Dialogue/enemy6
-That's why Ivory-chan coming out on that monthly
+That's why Lady-chan coming out on that monthly
 show was like maybe a once or twice a year thing.#Ron
 > END STRING
 
@@ -808,7 +808,7 @@ Is everyone excited?!#Ron
 
 逆レイプＳＨＯＷ史上最高のステップをご覧あれ！！
 > CONTEXT: Map085/events/5/pages/1/335/Dialogue/enemy6
-Following Ivory-chan is \\N[1]-kun's solo dance!
+Following Lady-chan is \\N[1]-kun's solo dance!
 
 Feast your eyes on the best ever reverse rape
 show dance moves!!#Ron

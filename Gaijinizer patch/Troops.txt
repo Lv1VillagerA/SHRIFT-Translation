@@ -3792,7 +3792,7 @@ G-Gross...#Ron
 そのまま溶けてニーナの影に消えていった…
 > CONTEXT: Troops/71/pages/3/2/Dialogue
 > CONTEXT: Troops/72/pages/3/2/Dialogue
-Ivory falls to her knees, and just like that she
+Lady falls to her knees, and just like that she
 melts and disappears into Nina's shadow...#MTLed
 > END STRING
 
@@ -3803,7 +3803,7 @@ melts and disappears into Nina's shadow...#MTLed
 > CONTEXT: Troops/71/pages/3/9/Dialogue/enemy6
 Amaaazing, \\N[1]-kun!
 
-Ivory-chan lost for the first time ever!!#Ron
+Lady-chan lost for the first time ever!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6460,7 +6460,7 @@ Nina [All Books] Lazy#MTLed
 > CONTEXT: Troops/129/pages/0/14/Dialogue/enemy6
 Okaaay.
 
-It's Ivory-chan, as requested!#Ron
+It's Lady-chan, as requested!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6492,7 +6492,7 @@ rules isn't it...? ♡#Ron
 > CONTEXT: Troops/129/pages/0/26/Dialogue/enemy6
 Well, it'd take considerable practice for a human
 to pull off those moves. ♡ Now go and enjoy the
-unparalleled Ivory-chan to your heart's content!#Ron
+unparalleled Lady-chan to your heart's content!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9706,7 +9706,7 @@ using that ability...#Ron
 
 ド派手なやつを、遠慮なくやっちゃって！！！
 > CONTEXT: Troops/251/pages/4/26/Dialogue/enemy6
-Ebony!! Ivory!!
+Ebony!! Lady!!
 
 Don't be shy, do one of your super flashy moves!!#Ron
 > END STRING

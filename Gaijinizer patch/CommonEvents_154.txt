@@ -122,7 +122,7 @@ ear...#Ron
 私とダンスバトルしたのは、\\N[1]くんが初めて……
 > CONTEXT: CommonEvents_154/64/Dialogue/enemy8
 \\N[1]-kun, you stunningly beat both Ebony-chan
-and Ivory-chan. You're the first one to ever have
+and Lady-chan. You're the first one to ever have
 a dance battle with me...#Ron
 > END STRING
 
@@ -149,7 +149,7 @@ My "first time". ♡
  優しくリードしてあげるよ……♡
 > CONTEXT: CommonEvents_154/75/Dialogue/enemy8
 Don't worry... I learned how to do it from Ebony
-and Ivory. I'll gently take the lead... ♡#Ron
+and Lady. I'll gently take the lead... ♡#Ron
 > END STRING
 
 > BEGIN STRING

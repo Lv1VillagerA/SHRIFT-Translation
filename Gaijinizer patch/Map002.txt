@@ -1385,7 +1385,7 @@ Do you want to view this scene?#Triketos
 > BEGIN STRING
 "ヒント：レイジーのダンスに見とれる"
 > CONTEXT: Map002/events/1/pages/0/1421/InlineScript/2:1
-"Hint: Be charmed by Ivory's dance."#Triketos
+"Hint: Be charmed by Lady's dance."#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1439,7 +1439,7 @@ Do you want to view this scene?#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1461/Dialogue
-[Nina]: Ivory
+[Nina]: Lady
 
 Do you want to view this scene?#Triketos
 > END STRING
