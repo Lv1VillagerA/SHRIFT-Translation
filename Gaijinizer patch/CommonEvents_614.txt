@@ -17,8 +17,7 @@ You're beautiful today, too...♡#Amaboye
 頭を地面に擦りつけている……
 > CONTEXT: CommonEvents_614/34/Dialogue 
 \\N[1] kneels to the Queen, dropping his head
-
-and rubbing it into the ground...#Amaboye
+and pressing it into the ground...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -80,7 +79,7 @@ and carried toward the Queen...#Amaboye
 One...
 
 Mother's love is absolute...
-You must not refuse it#Amaboye
+You must not refuse it.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -92,7 +91,7 @@ You must not refuse it#Amaboye
 Two...
 
 Mother's words are truth...
-You must accept them without hesitation#Amaboye
+You must accept them without hesitation.#Amaboye
 > END STRING
 
 > BEGIN STRING

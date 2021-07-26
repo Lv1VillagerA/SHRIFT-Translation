@@ -12878,9 +12878,9 @@ Her voice will resonate directly in your brain!
 『恍惚』の対策は常に意識したほうがいい！！
 強い精神を保つんだ！！
 > CONTEXT: Troops/300/pages/1/53/Dialogue/other1
-It's probably a level you can't fight against
-normally... Use whatever countermeasures you can!
-
+It's probably\\C[2] strong enough that you can't
+fight against it normally... 
+Use whatever countermeasures you can!
 Keep your mind stable and focused!#Amaboye
 > END STRING
 
@@ -12910,7 +12910,7 @@ eternally...#Amaboye
 
 苦しみや……不安から解き放たれ……何も考えず…
 > CONTEXT: Troops/300/pages/2/29/Dialogue/kazuya
-Eternally... "work as your kin," right?
+Eternally "become one of your own", right?
 
 Free from suffering and unease...
 Thinking of nothing...#Amaboye

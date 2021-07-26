@@ -11,7 +11,7 @@ U...uaaaaaa...! !#Amaboye
 そのまま下半身が呑み込まれてしまった！！
 > CONTEXT: CommonEvents_607/18/Dialogue 
 \\N[1] gets caught by the Queen's tentacles,
-and his lower body is taken inside!!#Amaboye
+as his lower body is pulled inside!!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -37,7 +37,7 @@ K...guh...!#Amaboye
 
 なんとかして、下半身を膣から引き抜かなければ…！！
 > CONTEXT: CommonEvents_607/62/Dialogue 
-\\C[2]'s full body is slimy with the Queen's
+\\C[2]My entire body is slimy with the Queen's
 mucus...
 
 I have to pull my lower body free somehow...!#Amaboye

@@ -69,7 +69,7 @@ Please accept... this pleasure...#Amaboye/iffy
 > CONTEXT: CommonEvents_609/33/Dialogue/kazuya-5 
 Ahhh... I can't...♡
 
-Coming... Again...♡#Amaboye
+Coming... again...♡#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -180,8 +180,8 @@ Now... relax...#Amaboye
 幾度とない射精のせいで、意識が朦朧としてしまっている……
 > CONTEXT: CommonEvents_609/189/Dialogue 
 After countless ejaculations, \\N[1]
-could barely manage consciousness,
-let alone any strength to resist.#Amaboye
+could barely manage to stay conscious,
+let alone have any strength to resist.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -190,6 +190,5 @@ let alone any strength to resist.#Amaboye
 クイーンの胎内へと引きずり込まれていく……
 > CONTEXT: CommonEvents_609/193/Dialogue 
 The weakly convulsing \\N[1] was slurped into
-
 the Queen's womb...#Amaboye
 > END STRING

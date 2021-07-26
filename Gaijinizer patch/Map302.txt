@@ -7,7 +7,7 @@
 While escorting civilians, the evacuation force
 met with the worst case scenario:
 
-Contact with the "Mother Demon".#Amaboye/Iffy
+They made contact with the "Mother Demon".#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -113,7 +113,7 @@ Commander- 「Are you a survivor? Don't worry, it's
 
 　　　　他部隊が来るまで、ここで立ち往生さ。」
 > CONTEXT: Map302/events/11/pages/0/5/Dialogue 
-Commander- 「We came across that one called the "Queen", right?
-             Well, unfortunately we got obliterated,
-             so now we're stranded until another troop comes.#Amaboye
+Commander- 「We came across that individual called the "Queen".
+             Unfortunately it completely routed us,
+             so we're stranded until another squad comes.#Amaboye
 > END STRING

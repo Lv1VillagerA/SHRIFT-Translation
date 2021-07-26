@@ -38,9 +38,10 @@ been sacrificed to the Queen...#Amaboye
 
  よく彼女の体調をあそこまで回復させたな？
 > CONTEXT: Map308/events/5/pages/0/22/Dialogue/other2 
-Wow, I was certain you would feed that girl your
-own breast milk, but you did a really good job
-at improving her condition as a human.#Amaboye/iffy
+Huh, I thought you were going to
+feed her your milk.
+
+How did she recover so well?#Amaboye/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -48,9 +49,9 @@ at improving her condition as a human.#Amaboye/iffy
 
 相手に求められたら、拒めないもんだとばかり……
 > CONTEXT: Map308/events/5/pages/0/27/Dialogue/other2 
-Since Mother Rabbit accepts other parties by
-nature, I had thought you had no way to refuse
-a request...#Amaboye
+I thought that since Mother Rabbit was a ​demon
+that always accepts others, you had no way
+to refuse a request...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -69,7 +70,7 @@ In truth, that's also thanks to my Boy's work.#Amaboye
 『ここのコンビニに裏口があること』や
 『開いていて、中に入れる』ことを知っていた……。
 > CONTEXT: Map308/events/5/pages/0/36/Dialogue/enemy4 
-Thanks to our "Bond", I knew how the convenience
+Thanks to our "Bond", I knew that the convenience
 store had a back entrance, and that it was always
 unlocked.#Amaboye
 > END STRING
@@ -103,8 +104,8 @@ The timing and situation were surprisingly lucky.#Amaboye
 
 あの鉄格子に鍵をかけられる可能性だってあったわけだしな…
 > CONTEXT: Map308/events/5/pages/0/53/Dialogue/other1 
-If they were there as in \\N[1]'s world,
-I might even have been locked out...#Amaboye
+If they were there like they were in \\N[1]'s
+world, I might even have been locked out...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -125,9 +126,9 @@ stick around. Let's head out.#Amaboye
  お前が、この世界のユウマにでも見つかったら
  まーた話がややこしくなっちまうからな……
 > CONTEXT: Map308/events/5/pages/0/65/Dialogue/other1 
-Since you're just an "Intervention body,"
-Getting found even just by Yuuma could really
-mess this world up after all...#Amaboye
+Since you're an "intervening" body... an outsider...
+getting found by the Yuuma of this world could
+cause unwanted complications...#Amaboye/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -148,8 +149,8 @@ I'm there, too.
 
 可能性は高いだろうさ。
 > CONTEXT: Map308/events/5/pages/0/78/Dialogue/other1 
-Well, if Yuuma's working evacuation services,
-it's probably to keep you safe in the shelter...
+Well, if Yuuma's part of the evacuation, they're
+probably taking you to the shelter right now...
 
 The odds are pretty high.#Amaboye
 > END STRING
@@ -211,10 +212,10 @@ Was this really for the best?#Amaboye
 
 あの子は………
 > CONTEXT: Map308/events/5/pages/0/128/Dialogue/other2 
-You seemed so enthusiastic, and I doubted I could
-change your mind, so I didn't say anything,
-but...
-That girl was...#Amaboye
+You were so eager, so I didn't want to say
+anything but...
+
+That girl is...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -279,8 +280,8 @@ To prove the meaning of her own existence...#Amaboye
 > CONTEXT: Map308/events/5/pages/0/158/Dialogue/kazuya 
 To be honest... I had my doubts until recently,
 too. Men who have sex with demons lose their 
-soul to the demon, and they should
-lose the ability to reincarnate.#Amaboye
+souls to them, and they should lose the
+ability to reincarnate.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -406,7 +407,7 @@ But the "Queen" has more devotees in general...#Amaboye
 ホント、誰にも分からねぇもんだよ……
 > CONTEXT: Map308/events/5/pages/0/213/Dialogue/other2 
 There's no way for anyone to know what
-"True salvation" for humanity is to begin with...#Amaboye
+"true salvation" for humanity is to begin with...#Amaboye
 > END STRING
 
 > BEGIN STRING

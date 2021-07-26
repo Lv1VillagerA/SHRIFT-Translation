@@ -16,7 +16,7 @@ Mother shall deliver you salvation...#Amaboye
 > CONTEXT: CommonEvents_613/34/Dialogue 
 You shall revere your Mother...
 
-Seek salvation...
+Beg for salvation...
 From the bottom of your heart...#Amaboye
 > END STRING
 
@@ -33,7 +33,7 @@ Uu... Huh...!?#Amaboye
 > CONTEXT: CommonEvents_613/42/Dialogue 
 \\N[1]'s body kneels of its own accord...!
 
-Then it faces the Queen, and tries to lower his
+It then faces the Queen, as he tries to lower his
 head...!#Amaboye
 > END STRING
 
@@ -63,6 +63,5 @@ It is your fate... to return to your Mother...#Amaboye
 タコのような触手を大きく広げた……！
 > CONTEXT: CommonEvents_613/81/Dialogue 
 The queen angles her lower body toward me
-
-and spreads octopus-like tentacles outward...!#Amaboye
+as she spreads octopus-like tentacles outward...!#Amaboye
 > END STRING
