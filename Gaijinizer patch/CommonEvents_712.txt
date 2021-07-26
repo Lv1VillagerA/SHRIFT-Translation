@@ -67,10 +67,10 @@ Skills#Triketos
 
 > BEGIN STRING
 防御体勢
-> CONTEXT: CommonEvents_712/90/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_760/178/Choice/0 < UNTRANSLATED
-> CONTEXT: Skills/20/name < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/90/Choice/0
+> CONTEXT: CommonEvents_760/178/Choice/0
+> CONTEXT: Skills/20/name
+Defensive Posture
 > END STRING
 
 > BEGIN STRING
