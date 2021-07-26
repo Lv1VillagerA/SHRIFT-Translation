@@ -630,7 +630,7 @@ empty wall while holding up the memento.#Ron
 > BEGIN STRING
 セットする想ひ魂を選択してください。
 > CONTEXT: Map075/events/4/pages/1/2/Dialogue
-> CONTEXT: Map075/events/4/pages/2/2/Dialogue
+> CONTEXT: Map075/events/4/pages/2/8/Dialogue 
 > CONTEXT: Map094/events/4/pages/1/2/Dialogue
 Select a Memento to set.#Triketos
 > END STRING
@@ -638,7 +638,7 @@ Select a Memento to set.#Triketos
 > BEGIN STRING
 この場から去る
 > CONTEXT: Map075/events/4/pages/1/5/Choice/0
-> CONTEXT: Map075/events/4/pages/2/5/Choice/0
+> CONTEXT: Map075/events/4/pages/2/11/Choice/0 
 > CONTEXT: Map094/events/4/pages/1/5/Choice/0
 Leave#TriketosLocalization
 > END STRING
@@ -646,7 +646,7 @@ Leave#TriketosLocalization
 > BEGIN STRING
 想ひ魂（奈落）if(s[363])
 > CONTEXT: Map075/events/4/pages/1/9/Choice/0
-> CONTEXT: Map075/events/4/pages/2/9/Choice/0
+> CONTEXT: Map075/events/4/pages/2/15/Choice/0 
 > CONTEXT: Map094/events/4/pages/1/9/Choice/0
 Memento (Abyss)if(s[363])#Ron
 > END STRING
@@ -657,7 +657,7 @@ Memento (Abyss)if(s[363])#Ron
 想ひ魂タイプ：追体験
 戦闘　　　　：なし
 > CONTEXT: Map075/events/4/pages/1/11/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/11/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/17/ChoiceHelp 
 > CONTEXT: Map094/events/4/pages/1/11/ChoiceHelp
 Found In: Sacrificial Shrine
 Memento Type: Memory Recreation
@@ -668,7 +668,7 @@ Combat: No#RonLocalization
 【想ひ魂（奈落）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/17/Dialogue
-> CONTEXT: Map075/events/4/pages/2/17/Dialogue
+> CONTEXT: Map075/events/4/pages/2/23/Dialogue 
 > CONTEXT: Map094/events/4/pages/1/17/Dialogue
 【Memento (Abyss)】
 Do you want to project this Memento?#Ron
@@ -679,7 +679,7 @@ Do you want to project this Memento?#Ron
 
 \\C[2]どうにかこの事を躯に伝えられればいいのだが…
 > CONTEXT: Map075/events/4/pages/1/39/Dialogue
-> CONTEXT: Map075/events/4/pages/2/39/Dialogue
+> CONTEXT: Map075/events/4/pages/2/45/Dialogue 
 > CONTEXT: Map094/events/4/pages/1/39/Dialogue
 It seems I've seen the truth...
 
@@ -691,7 +691,7 @@ It seems I've seen the truth...
 
 彼女に会うことができれば……
 > CONTEXT: Map075/events/4/pages/1/43/Dialogue
-> CONTEXT: Map075/events/4/pages/2/43/Dialogue
+> CONTEXT: Map075/events/4/pages/2/49/Dialogue 
 > CONTEXT: Map094/events/4/pages/1/43/Dialogue
 \\C[2]If I could just get back to there and meet
 her again...#Ron
@@ -700,7 +700,7 @@ her again...#Ron
 > BEGIN STRING
 想ひ魂（蜘蛛糸）if(s[372])
 > CONTEXT: Map075/events/4/pages/1/68/Choice/0
-> CONTEXT: Map075/events/4/pages/2/68/Choice/0
+> CONTEXT: Map075/events/4/pages/2/74/Choice/0 
 Memento (Spider Web)if(s[372])#Triketos
 > END STRING
 
@@ -710,7 +710,7 @@ Memento (Spider Web)if(s[372])#Triketos
 想ひ魂タイプ：追体験
 戦闘　　　　：なし
 > CONTEXT: Map075/events/4/pages/1/70/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/70/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/76/ChoiceHelp 
 Found In: Arachne's Web
 Memento Type: Memory Recreation
 Combat: No#RonLocalization
@@ -720,7 +720,7 @@ Combat: No#RonLocalization
 【想ひ魂（蜘蛛糸）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/76/Dialogue
-> CONTEXT: Map075/events/4/pages/2/76/Dialogue
+> CONTEXT: Map075/events/4/pages/2/82/Dialogue 
 【Memento (Spider Web)】
 Do you want to project this Memento?#Triketos
 > END STRING
@@ -728,7 +728,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（蛇追跡）if(s[373])
 > CONTEXT: Map075/events/4/pages/1/110/Choice/0
-> CONTEXT: Map075/events/4/pages/2/110/Choice/0
+> CONTEXT: Map075/events/4/pages/2/116/Choice/0 
 Memento (Snake's Pursuit)if(s[373])#Triketos
 > END STRING
 
@@ -740,8 +740,8 @@ Memento (Snake's Pursuit)if(s[373])#Triketos
 備考　　　　：『免罪符』『百鬼』投影不可『心蝕』発生有
 > CONTEXT: Map075/events/4/pages/1/112/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/158/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/112/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/158/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/118/ChoiceHelp 
+> CONTEXT: Map075/events/4/pages/2/164/ChoiceHelp 
 Found In: Park
 Memento Type: Scene Replay
 Combat: No
@@ -752,7 +752,7 @@ Note: Indulgence and Hyakki not projected.#RonLocalization
 【想ひ魂（蛇追跡）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/119/Dialogue
-> CONTEXT: Map075/events/4/pages/2/119/Dialogue
+> CONTEXT: Map075/events/4/pages/2/125/Dialogue 
 【Memento (Snake's Pursuit)】
 Do you want to project this Memento?#Triketos
 > END STRING
@@ -760,7 +760,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（蛇待伏）if(s[374])
 > CONTEXT: Map075/events/4/pages/1/156/Choice/0
-> CONTEXT: Map075/events/4/pages/2/156/Choice/0
+> CONTEXT: Map075/events/4/pages/2/162/Choice/0 
 Memento (Snake's Ambush)if(s[374])#Triketos
 > END STRING
 
@@ -768,7 +768,7 @@ Memento (Snake's Ambush)if(s[374])#Triketos
 【想ひ魂（蛇待伏）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/165/Dialogue
-> CONTEXT: Map075/events/4/pages/2/165/Dialogue
+> CONTEXT: Map075/events/4/pages/2/171/Dialogue 
 【Memento (Snake's Ambush)】
 Do you want to project this Memento?#Triketos
 > END STRING
@@ -776,7 +776,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（猫又）if(s[364])
 > CONTEXT: Map075/events/4/pages/1/202/Choice/0
-> CONTEXT: Map075/events/4/pages/2/202/Choice/0
+> CONTEXT: Map075/events/4/pages/2/208/Choice/0 
 > CONTEXT: Map094/events/4/pages/1/68/Choice/0
 Memento (Nekomata)if(s[364])#Triketos
 > END STRING
@@ -788,7 +788,7 @@ Memento (Nekomata)if(s[364])#Triketos
 戦闘　　　　：あり
 備考　　　　：『免罪符』『百鬼』投影不可『心蝕』発生有
 > CONTEXT: Map075/events/4/pages/1/204/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/204/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/210/ChoiceHelp 
 > CONTEXT: Map094/events/4/pages/1/70/ChoiceHelp
 Found In: My Room
 Memento Type: Scene Replay
@@ -800,7 +800,7 @@ Note: Indulgence and Hyakki not projected.#RonLocalization
 【想ひ魂（猫又）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/211/Dialogue
-> CONTEXT: Map075/events/4/pages/2/211/Dialogue
+> CONTEXT: Map075/events/4/pages/2/217/Dialogue 
 > CONTEXT: Map094/events/4/pages/1/77/Dialogue
 【Memento (Nekomata)】
 Do you want to project this Memento?#Triketos
@@ -809,7 +809,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（舞台）if(s[365])
 > CONTEXT: Map075/events/4/pages/1/249/Choice/0
-> CONTEXT: Map075/events/4/pages/2/249/Choice/0
+> CONTEXT: Map075/events/4/pages/2/255/Choice/0 
 > CONTEXT: Map094/events/4/pages/1/115/Choice/0
 Memento (Stage)if(s[365])#Ron
 > END STRING
@@ -824,10 +824,11 @@ Memento (Stage)if(s[365])#Ron
 > CONTEXT: Map075/events/4/pages/1/342/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/387/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/432/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/251/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/342/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/387/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/432/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/257/ChoiceHelp 
+> CONTEXT: Map075/events/4/pages/2/348/ChoiceHelp 
+> CONTEXT: Map075/events/4/pages/2/393/ChoiceHelp 
+> CONTEXT: Map075/events/4/pages/2/438/ChoiceHelp 
+> CONTEXT: Map075/events/4/pages/2/483/ChoiceHelp 
 > CONTEXT: Map094/events/4/pages/1/117/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/208/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/253/ChoiceHelp
@@ -841,7 +842,7 @@ Note: Indulgence not projected.#RonLocalization
 【想ひ魂（舞台）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/258/Dialogue
-> CONTEXT: Map075/events/4/pages/2/258/Dialogue
+> CONTEXT: Map075/events/4/pages/2/264/Dialogue 
 > CONTEXT: Map094/events/4/pages/1/124/Dialogue
 【Memento (Stage)】
 Do you want to project this Memento?#Triketos
@@ -850,7 +851,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（双子）if(s[366])
 > CONTEXT: Map075/events/4/pages/1/295/Choice/0
-> CONTEXT: Map075/events/4/pages/2/295/Choice/0
+> CONTEXT: Map075/events/4/pages/2/301/Choice/0 
 > CONTEXT: Map094/events/4/pages/1/161/Choice/0
 Memento (Twins)if(s[366])#Triketos
 > END STRING
@@ -862,7 +863,7 @@ Memento (Twins)if(s[366])#Triketos
 戦闘　　　　：あり
 備考　　　　：『免罪符』投影不可『心蝕』発生有
 > CONTEXT: Map075/events/4/pages/1/297/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/297/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/303/ChoiceHelp 
 > CONTEXT: Map094/events/4/pages/1/163/ChoiceHelp
 Found In: Sacrificial Shrine
 Memento Type: Scene Replay
@@ -874,7 +875,7 @@ Note: Indulgence not projected.#RonLocalization
 【想ひ魂（双子）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/304/Dialogue
-> CONTEXT: Map075/events/4/pages/2/304/Dialogue
+> CONTEXT: Map075/events/4/pages/2/310/Dialogue 
 > CONTEXT: Map094/events/4/pages/1/170/Dialogue
 【Memento (Twins)】
 Do you want to project this Memento?#Triketos
@@ -883,7 +884,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（人形）if(s[367])
 > CONTEXT: Map075/events/4/pages/1/340/Choice/0
-> CONTEXT: Map075/events/4/pages/2/340/Choice/0
+> CONTEXT: Map075/events/4/pages/2/391/Choice/0 
 > CONTEXT: Map094/events/4/pages/1/206/Choice/0
 Memento (Doll)if(s[367])#Triketos
 > END STRING
@@ -892,7 +893,7 @@ Memento (Doll)if(s[367])#Triketos
 【想ひ魂（人形）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/349/Dialogue
-> CONTEXT: Map075/events/4/pages/2/349/Dialogue
+> CONTEXT: Map075/events/4/pages/2/400/Dialogue 
 > CONTEXT: Map094/events/4/pages/1/215/Dialogue
 【Memento (Doll)】
 Do you want to project this Memento?#Triketos
@@ -901,7 +902,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（鉄処女）if(s[368])
 > CONTEXT: Map075/events/4/pages/1/385/Choice/0
-> CONTEXT: Map075/events/4/pages/2/385/Choice/0
+> CONTEXT: Map075/events/4/pages/2/436/Choice/0 
 > CONTEXT: Map094/events/4/pages/1/251/Choice/0
 Memento (Iron Maiden)if(s[368])#Triketos
 > END STRING
@@ -910,7 +911,7 @@ Memento (Iron Maiden)if(s[368])#Triketos
 【想ひ魂（鉄処女）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/394/Dialogue
-> CONTEXT: Map075/events/4/pages/2/394/Dialogue
+> CONTEXT: Map075/events/4/pages/2/445/Dialogue 
 > CONTEXT: Map094/events/4/pages/1/260/Dialogue
 【Memento (Iron Maiden)】
 Do you want to project this Memento?#Triketos
@@ -919,7 +920,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（謎掛獅子）if(s[371])
 > CONTEXT: Map075/events/4/pages/1/430/Choice/0
-> CONTEXT: Map075/events/4/pages/2/430/Choice/0
+> CONTEXT: Map075/events/4/pages/2/481/Choice/0 
 Memento (Lion Riddler)if(s[371])#Triketos
 > END STRING
 
@@ -927,7 +928,7 @@ Memento (Lion Riddler)if(s[371])#Triketos
 【想ひ魂（謎掛獅子）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/439/Dialogue
-> CONTEXT: Map075/events/4/pages/2/439/Dialogue
+> CONTEXT: Map075/events/4/pages/2/490/Dialogue 
 【Memento (Lion Riddler)】
 Do you want to project this Memento?#Triketos
 > END STRING
@@ -935,7 +936,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（夢植物）if(s[369])
 > CONTEXT: Map075/events/4/pages/1/476/Choice/0
-> CONTEXT: Map075/events/4/pages/2/476/Choice/0
+> CONTEXT: Map075/events/4/pages/2/619/Choice/0 
 > CONTEXT: Map094/events/4/pages/1/296/Choice/0
 Memento (Plant Dream)if(s[369])#Ron
 > END STRING
@@ -950,10 +951,10 @@ Memento (Plant Dream)if(s[369])#Ron
 > CONTEXT: Map075/events/4/pages/1/535/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/592/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/652/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/478/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/534/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/590/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/650/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/621/ChoiceHelp 
+> CONTEXT: Map075/events/4/pages/2/677/ChoiceHelp 
+> CONTEXT: Map075/events/4/pages/2/733/ChoiceHelp 
+> CONTEXT: Map075/events/4/pages/2/793/ChoiceHelp 
 > CONTEXT: Map094/events/4/pages/1/298/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/354/ChoiceHelp
 Found In: Pink Bed
@@ -966,7 +967,7 @@ Note: Indulgence not projected.#RonLocalization
 【想ひ魂（夢植物）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/485/Dialogue
-> CONTEXT: Map075/events/4/pages/2/485/Dialogue
+> CONTEXT: Map075/events/4/pages/2/628/Dialogue 
 > CONTEXT: Map094/events/4/pages/1/305/Dialogue
 【Memento (Plant Dream)】. Do you want to project this
 Memento?#Ron
@@ -975,7 +976,7 @@ Memento?#Ron
 > BEGIN STRING
 想ひ魂（夢猫）if(s[370])
 > CONTEXT: Map075/events/4/pages/1/533/Choice/0
-> CONTEXT: Map075/events/4/pages/2/532/Choice/0
+> CONTEXT: Map075/events/4/pages/2/675/Choice/0 
 > CONTEXT: Map094/events/4/pages/1/352/Choice/0
 Memento (Cat Dream)if(s[370])#Triketos
 > END STRING
@@ -984,7 +985,7 @@ Memento (Cat Dream)if(s[370])#Triketos
 【想ひ魂（夢猫）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/542/Dialogue
-> CONTEXT: Map075/events/4/pages/2/541/Dialogue
+> CONTEXT: Map075/events/4/pages/2/684/Dialogue 
 > CONTEXT: Map094/events/4/pages/1/361/Dialogue
 【Memento (Cat Dream)】
 Do you want to project this Memento?#Triketos
@@ -993,7 +994,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（夢人魚）if(s[377])
 > CONTEXT: Map075/events/4/pages/1/590/Choice/0
-> CONTEXT: Map075/events/4/pages/2/588/Choice/0
+> CONTEXT: Map075/events/4/pages/2/731/Choice/0 
 Memento (Echo)if(s[377])#Triketos
 > END STRING
 
@@ -1001,7 +1002,7 @@ Memento (Echo)if(s[377])#Triketos
 【想ひ魂（夢人魚）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/599/Dialogue
-> CONTEXT: Map075/events/4/pages/2/597/Dialogue
+> CONTEXT: Map075/events/4/pages/2/740/Dialogue 
 【Memento (Echo)】
 Do you want to project this Memento?#Triketos
 > END STRING
@@ -1009,7 +1010,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（夢狐） if(s[378])
 > CONTEXT: Map075/events/4/pages/1/650/Choice/0
-> CONTEXT: Map075/events/4/pages/2/648/Choice/0
+> CONTEXT: Map075/events/4/pages/2/791/Choice/0 
 Memento (Kitsune Dream) if(s[378])#Triketos
 > END STRING
 
@@ -1017,7 +1018,7 @@ Memento (Kitsune Dream) if(s[378])#Triketos
 【想ひ魂（夢狐）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/659/Dialogue
-> CONTEXT: Map075/events/4/pages/2/657/Dialogue
+> CONTEXT: Map075/events/4/pages/2/800/Dialogue 
 【Memento (Kitsune Dream)】
 Do you want to project this Memento?#Triketos
 > END STRING
@@ -1025,7 +1026,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（朧）if(s[375])
 > CONTEXT: Map075/events/4/pages/1/710/Choice/0
-> CONTEXT: Map075/events/4/pages/2/708/Choice/0
+> CONTEXT: Map075/events/4/pages/2/851/Choice/0 
 Memento (Faint)if(s[375])#Triketos
 > END STRING
 
@@ -1038,9 +1039,9 @@ Memento (Faint)if(s[375])#Triketos
 > CONTEXT: Map075/events/4/pages/1/712/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/757/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/802/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/710/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/755/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/800/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/853/ChoiceHelp 
+> CONTEXT: Map075/events/4/pages/2/898/ChoiceHelp 
+> CONTEXT: Map075/events/4/pages/2/943/ChoiceHelp 
 Found In: Unknown
 Memento Type: Unknown
 Combat: No
@@ -1051,7 +1052,7 @@ Note: Memento contents unknown.#RonLocalization
 【想ひ魂（朧）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/719/Dialogue
-> CONTEXT: Map075/events/4/pages/2/717/Dialogue
+> CONTEXT: Map075/events/4/pages/2/860/Dialogue 
 【Memento (Faint)】
 Do you want to project this Memento?#Triketos
 > END STRING
@@ -1059,7 +1060,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（虚）if(s[376])
 > CONTEXT: Map075/events/4/pages/1/755/Choice/0
-> CONTEXT: Map075/events/4/pages/2/753/Choice/0
+> CONTEXT: Map075/events/4/pages/2/896/Choice/0 
 Memento (Imaginary)if(s[376])#Triketos
 > END STRING
 
@@ -1067,7 +1068,7 @@ Memento (Imaginary)if(s[376])#Triketos
 【想ひ魂（虚）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/764/Dialogue
-> CONTEXT: Map075/events/4/pages/2/762/Dialogue
+> CONTEXT: Map075/events/4/pages/2/905/Dialogue 
 【Memento (Imaginary)】
 Do you want to project this Memento?#Triketos
 > END STRING
@@ -1075,7 +1076,7 @@ Do you want to project this Memento?#Triketos
 > BEGIN STRING
 想ひ魂（芸猫）if(s[379])
 > CONTEXT: Map075/events/4/pages/1/800/Choice/0 < UNTRANSLATED
-> CONTEXT: Map075/events/4/pages/2/798/Choice/0 < UNTRANSLATED
+> CONTEXT: Map075/events/4/pages/2/941/Choice/0 < UNTRANSLATED
 
 > END STRING
 
@@ -1083,6 +1084,62 @@ Do you want to project this Memento?#Triketos
 【想ひ魂（芸猫）】
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/809/Dialogue < UNTRANSLATED
-> CONTEXT: Map075/events/4/pages/2/807/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/4/pages/2/950/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]まずはセーブしよう
+> CONTEXT: Map075/events/4/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+想ひ魂（犬群）if(s[380])
+> CONTEXT: Map075/events/4/pages/2/346/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【想ひ魂（犬群）】
+この想ひ魂を投影しますか？
+> CONTEXT: Map075/events/4/pages/2/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+想ひ魂（追遊戯）if(s[741])
+> CONTEXT: Map075/events/4/pages/2/527/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+発見場所　　：マイルーム
+想ひ魂タイプ：再体験
+戦闘　　　　：なし
+備考　　　　：『免罪符』投影不可
+> CONTEXT: Map075/events/4/pages/2/529/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map075/events/4/pages/2/575/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【想ひ魂（追遊戯）】
+この想ひ魂を投影しますか？
+> CONTEXT: Map075/events/4/pages/2/536/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+想ひ魂（母）if(s[741])
+> CONTEXT: Map075/events/4/pages/2/573/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【想ひ魂（母）】
+この想ひ魂を投影しますか？
+> CONTEXT: Map075/events/4/pages/2/582/Dialogue < UNTRANSLATED
 
 > END STRING

@@ -457,6 +457,20 @@ carelessly on the wall. " \\i[665] \\i[1277] \\i[1096] \\i[1452] "#MTLed
 > CONTEXT: Map394/events/5/pages/0/13/Dialogue
 > CONTEXT: Map394/events/5/pages/1/1/Dialogue
 > CONTEXT: Map404/events/6/pages/0/1/Dialogue
+> CONTEXT: Map448/events/23/pages/0/36/Dialogue 
+> CONTEXT: Map448/events/23/pages/1/1/Dialogue 
+> CONTEXT: Map451/events/23/pages/0/1/Dialogue 
+> CONTEXT: Map477/events/21/pages/0/1/Dialogue 
+> CONTEXT: Map480/events/27/pages/0/1/Dialogue 
+> CONTEXT: Map481/events/27/pages/0/1/Dialogue 
+> CONTEXT: Map484/events/39/pages/0/48/Dialogue 
+> CONTEXT: Map487/events/8/pages/0/1/Dialogue 
+> CONTEXT: Map491/events/39/pages/0/48/Dialogue 
+> CONTEXT: Map491/events/36/pages/0/48/Dialogue 
+> CONTEXT: Map499/events/3/pages/0/48/Dialogue 
+> CONTEXT: Map499/events/19/pages/0/48/Dialogue 
+> CONTEXT: Map506/events/1/pages/0/49/Dialogue 
+> CONTEXT: Map516/events/27/pages/0/1/Dialogue 
 A tea set's been placed here. It looks like you'll be able
 to make a calming beverage if you have some\\i[201]\\c[3] Herbs\\c[0].#Ron
 > END STRING
@@ -495,6 +509,20 @@ to make a calming beverage if you have some\\i[201]\\c[3] Herbs\\c[0].#Ron
 > CONTEXT: Map394/events/5/pages/0/16/Choice/0
 > CONTEXT: Map394/events/5/pages/1/4/Choice/0
 > CONTEXT: Map404/events/6/pages/0/4/Choice/0
+> CONTEXT: Map448/events/23/pages/0/39/Choice/0 
+> CONTEXT: Map448/events/23/pages/1/4/Choice/0 
+> CONTEXT: Map451/events/23/pages/0/4/Choice/0 
+> CONTEXT: Map477/events/21/pages/0/4/Choice/0 
+> CONTEXT: Map480/events/27/pages/0/4/Choice/0 
+> CONTEXT: Map481/events/27/pages/0/4/Choice/0 
+> CONTEXT: Map484/events/39/pages/0/51/Choice/0 
+> CONTEXT: Map487/events/8/pages/0/4/Choice/0 
+> CONTEXT: Map491/events/39/pages/0/51/Choice/0 
+> CONTEXT: Map491/events/36/pages/0/51/Choice/0 
+> CONTEXT: Map499/events/3/pages/0/51/Choice/0 
+> CONTEXT: Map499/events/19/pages/0/51/Choice/0 
+> CONTEXT: Map506/events/1/pages/0/52/Choice/0 
+> CONTEXT: Map516/events/27/pages/0/4/Choice/0 
 Take a break [Herbs: \\v[5]] en(v[5] \>= 1)#Dargoth
 > END STRING
 
@@ -534,6 +562,20 @@ Take a break [Herbs: \\v[5]] en(v[5] \>= 1)#Dargoth
 > CONTEXT: Map394/events/5/pages/0/120/Dialogue
 > CONTEXT: Map394/events/5/pages/1/25/Dialogue
 > CONTEXT: Map404/events/6/pages/0/25/Dialogue
+> CONTEXT: Map448/events/23/pages/0/60/Dialogue 
+> CONTEXT: Map448/events/23/pages/1/25/Dialogue 
+> CONTEXT: Map451/events/23/pages/0/25/Dialogue 
+> CONTEXT: Map477/events/21/pages/0/25/Dialogue 
+> CONTEXT: Map480/events/27/pages/0/25/Dialogue 
+> CONTEXT: Map481/events/27/pages/0/25/Dialogue 
+> CONTEXT: Map484/events/39/pages/0/72/Dialogue 
+> CONTEXT: Map487/events/8/pages/0/25/Dialogue 
+> CONTEXT: Map491/events/39/pages/0/72/Dialogue 
+> CONTEXT: Map491/events/36/pages/0/72/Dialogue 
+> CONTEXT: Map499/events/3/pages/0/72/Dialogue 
+> CONTEXT: Map499/events/19/pages/0/72/Dialogue 
+> CONTEXT: Map506/events/1/pages/0/73/Dialogue 
+> CONTEXT: Map516/events/27/pages/0/25/Dialogue 
 Due to the effect of the herbal tea, it's \\C[2]harder for
 \\N[1]'s lust to increase for a short time!#Triketos
 > END STRING
@@ -582,6 +624,9 @@ Due to the effect of the herbal tea, it's \\C[2]harder for
 > CONTEXT: Map304/events/5/pages/1/0/Dialogue 
 > CONTEXT: Map304/events/5/pages/2/0/Dialogue 
 > CONTEXT: Map378/events/1/pages/0/0/Dialogue
+> CONTEXT: Map480/events/25/pages/0/0/Dialogue 
+> CONTEXT: Map481/events/25/pages/0/0/Dialogue 
+> CONTEXT: Map516/events/25/pages/0/0/Dialogue 
 There's a bed. Looks like I can use it to rest my
 tired body.#Ron
 > END STRING
@@ -629,6 +674,9 @@ tired body.#Ron
 > CONTEXT: Map304/events/5/pages/1/3/Choice/0 
 > CONTEXT: Map304/events/5/pages/2/3/Choice/0 
 > CONTEXT: Map378/events/1/pages/0/3/Choice/0
+> CONTEXT: Map480/events/25/pages/0/3/Choice/0 
+> CONTEXT: Map481/events/25/pages/0/3/Choice/0 
+> CONTEXT: Map516/events/25/pages/0/3/Choice/0 
 Rest#Dargoth
 > END STRING
 
@@ -677,16 +725,19 @@ Slowly open your eyes....#Ron
 > CONTEXT: Map157/events/5/pages/0/24/Dialogue
 > CONTEXT: Map158/events/5/pages/0/24/Dialogue
 > CONTEXT: Map163/events/5/pages/0/24/Dialogue
-> CONTEXT: Map193/events/25/pages/0/25/Dialogue
+> CONTEXT: Map193/events/25/pages/0/45/Dialogue
 > CONTEXT: Map274/events/5/pages/0/24/Dialogue
 > CONTEXT: Map283/events/25/pages/1/70/Dialogue
 > CONTEXT: Map283/events/25/pages/2/17/Dialogue
 > CONTEXT: Map299/events/5/pages/2/24/Dialogue
 > CONTEXT: Map302/events/5/pages/2/24/Dialogue
 > CONTEXT: Map304/events/5/pages/2/24/Dialogue
-> CONTEXT: Map378/events/1/pages/0/36/Dialogue
+> CONTEXT: Map378/events/1/pages/0/42/Dialogue
 > CONTEXT: Map401/events/1/pages/0/39/Dialogue
 > CONTEXT: Map401/events/1/pages/1/22/Dialogue
+> CONTEXT: Map480/events/25/pages/0/25/Dialogue 
+> CONTEXT: Map481/events/25/pages/0/25/Dialogue 
+> CONTEXT: Map516/events/25/pages/0/25/Dialogue 
 
 \\n[1] has completely recovered!#Ron
 > END STRING

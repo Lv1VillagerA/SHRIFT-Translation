@@ -2,28 +2,28 @@
 > BEGIN STRING
 デバッグモードen(s[999999999])
 > CONTEXT: Map370/events/1/pages/0/12/Choice/0
-> CONTEXT: Map370/events/1/pages/0/112/Choice/0
+> CONTEXT: Map370/events/1/pages/0/113/Choice/0
 Debug Modeen(s[999999999])#Triketos
 > END STRING
 
 > BEGIN STRING
 ウイルススキャン
 > CONTEXT: Map370/events/1/pages/0/12/Choice/1
-> CONTEXT: Map370/events/1/pages/0/112/Choice/1
+> CONTEXT: Map370/events/1/pages/0/113/Choice/1
 Virus Scan#Triketos
 > END STRING
 
 > BEGIN STRING
 『介入』システム管理
 > CONTEXT: Map370/events/1/pages/0/12/Choice/2
-> CONTEXT: Map370/events/1/pages/0/112/Choice/2
+> CONTEXT: Map370/events/1/pages/0/113/Choice/2
 Intervention System Settings#Triketos
 > END STRING
 
 > BEGIN STRING
 チートコードen(s[999999999])
 > CONTEXT: Map370/events/1/pages/0/12/Choice/3
-> CONTEXT: Map370/events/1/pages/0/112/Choice/3
+> CONTEXT: Map370/events/1/pages/0/113/Choice/3
 Cheat Codesen(s[999999999])#Triketos
 > END STRING
 
@@ -45,7 +45,7 @@ Please deal with them using the available controls.#Ron
 ウイルススキャンを開始します
 デバッカー各位は定期的に診断してください
 > CONTEXT: Map370/events/1/pages/0/21/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/119/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/120/ChoiceHelp
 Initiates a virus scan.
 Please periodically scan all debuggers.#RonIffy
 > END STRING
@@ -53,14 +53,14 @@ Please periodically scan all debuggers.#RonIffy
 > BEGIN STRING
 "[SYSTEM]\\nウイルススキャン、開始"
 > CONTEXT: Map370/events/1/pages/0/25/InlineScript/1:6
-> CONTEXT: Map370/events/1/pages/0/122/InlineScript/1:6
+> CONTEXT: Map370/events/1/pages/0/123/InlineScript/1:6
 "[SYSTEM]\\nVirus scan started."#Triketos
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n異常は検出されませんでした"
 > CONTEXT: Map370/events/1/pages/0/29/InlineScript/1:6
-> CONTEXT: Map370/events/1/pages/0/125/InlineScript/1:6
+> CONTEXT: Map370/events/1/pages/0/126/InlineScript/1:6
 "[SYSTEM]\\nNo anomalies detected."#Triketos
 > END STRING
 
@@ -69,7 +69,7 @@ Please periodically scan all debuggers.#RonIffy
 『介入』システムに異常がある場合
 こちらのコマンドで原因を調査、解決してください
 > CONTEXT: Map370/events/1/pages/0/33/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/129/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/130/ChoiceHelp
 In the event of abnormalities within the intervention
 system, please use this command to troubleshoot and
 resolve the issue.#Ron
@@ -78,15 +78,13 @@ resolve the issue.#Ron
 > BEGIN STRING
 【介入】：ID System\\RGSS301.dll
 > CONTEXT: Map370/events/1/pages/0/36/Choice/0
-> CONTEXT: Map370/events/1/pages/0/132/Choice/0
-> CONTEXT: Map370/events/1/pages/0/152/Choice/0
+> CONTEXT: Map370/events/1/pages/0/133/Choice/0
 Intervention ID: System\\RGSS301.dll#Triketos
 > END STRING
 
 > BEGIN STRING
 【莉句?】：ID 縺雁燕繧定ｦ九※縺?ｋ縺
 > CONTEXT: Map370/events/1/pages/0/36/Choice/1
-> CONTEXT: Map370/events/1/pages/0/132/Choice/1
 \\X[40]Intervention ID: I see you#Ron
 > END STRING
 
@@ -95,7 +93,6 @@ Intervention ID: System\\RGSS301.dll#Triketos
 ステータス：\\C[18]異常\\C[0]
 診断：外部の要因によりアクセス権が停止しています
 > CONTEXT: Map370/events/1/pages/0/38/Dialogue
-> CONTEXT: Map370/events/1/pages/0/134/Dialogue
 Access ID: System\\RGSS301.dll
 Status: \\C[18]Abnormal\\C[0]
 Diagnosis: Access rights have been suspended
@@ -108,7 +105,6 @@ as a result of external factors.#TriketosLocalize/Ron
 診断：不正なアクセスです。
 \\C[2]『クイックスタート』にて、早急に対処してください。
 > CONTEXT: Map370/events/1/pages/0/44/Dialogue
-> CONTEXT: Map370/events/1/pages/0/140/Dialogue
 Access ID: System\\RGSS301.dll
 Status: \\C[18]Abnormal\\C[0]
 Diagnosis: Invalid access.
@@ -120,7 +116,7 @@ Diagnosis: Invalid access.
 各種チートコード一覧です
 【ユーザー[HYAKKI]によりロックされています】
 > CONTEXT: Map370/events/1/pages/0/56/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/164/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/145/ChoiceHelp
 Displays a summary of various cheat commands.
 [Locked by user 'HYAKKI']#Ron
 > END STRING
@@ -128,7 +124,7 @@ Displays a summary of various cheat commands.
 > BEGIN STRING
 フラグ管理en(s[999999999])
 > CONTEXT: Map370/events/1/pages/0/61/Choice/0
-> CONTEXT: Map370/events/1/pages/0/169/Choice/0
+> CONTEXT: Map370/events/1/pages/0/150/Choice/0
 Flag Managementen(s[999999999])#Triketos
 > END STRING
 
@@ -141,7 +137,7 @@ Quick Starten(s[570])#Triketos
 > BEGIN STRING
 介入同調率調整en(s[999999999])
 > CONTEXT: Map370/events/1/pages/0/61/Choice/2
-> CONTEXT: Map370/events/1/pages/0/169/Choice/2
+> CONTEXT: Map370/events/1/pages/0/150/Choice/2
 Intervention Sync Rate Tuningen(s[999999999])#Triketos
 > END STRING
 
@@ -150,7 +146,7 @@ Intervention Sync Rate Tuningen(s[999999999])#Triketos
 各種フラグ一覧です
 【ユーザー[HYAKKI]によりロックされています】
 > CONTEXT: Map370/events/1/pages/0/63/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/171/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/152/ChoiceHelp
 List of System Flags
 [Locked by user 'HYAKKI']#Triketos
 > END STRING
@@ -167,12 +163,14 @@ system have those coordinates predesignated.#RonIffyWording
 > BEGIN STRING
 "[SYSTEM]\\n介入対象がロストしました"
 > CONTEXT: Map370/events/1/pages/0/73/InlineScript/1:6
+> CONTEXT: Map510/events/4/pages/0/143/InlineScript/1:6
 "[SYSTEM]\\nThe intervention target has been lost."#Triketos
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n異常対処用の操作媒体を検索中…"
 > CONTEXT: Map370/events/1/pages/0/76/InlineScript/1:6
+> CONTEXT: Map510/events/4/pages/0/146/InlineScript/1:6
 "[SYSTEM]\\nSearching for abnormality handling media..."#Triketos
 > END STRING
 
@@ -183,7 +181,7 @@ system have those coordinates predesignated.#RonIffyWording
 規定値以下になると『傍観者』となるので注意してください　
 【ユーザー[HYAKKI]によりロックされています】
 > CONTEXT: Map370/events/1/pages/0/93/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/181/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/162/ChoiceHelp
 Tunes the intervention system interference tools.
 Difficulty may be lowered by reducing alignment ratio.
 Caution: Excessive lowering may engage "Spectator Mode".
@@ -193,7 +191,7 @@ Caution: Excessive lowering may engage "Spectator Mode".
 > BEGIN STRING
 タイトル画面に戻る
 > CONTEXT: Map370/events/1/pages/0/100/Choice/0
-> CONTEXT: Map370/events/1/pages/0/188/Choice/0
+> CONTEXT: Map370/events/1/pages/0/169/Choice/0
 Go back to the Title Screen.#Triketos
 > END STRING
 
@@ -201,7 +199,7 @@ Go back to the Title Screen.#Triketos
 選択肢ヘルプ
 デバッグモード：【警告】
 一部システムが意図的にロックされています
-> CONTEXT: Map370/events/1/pages/0/114/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/115/ChoiceHelp
 Debug Mode [Caution]
 Parts of this system have been intentionally locked.#Ron
 > END STRING
@@ -210,7 +208,7 @@ Parts of this system have been intentionally locked.#Ron
 アクセスID：System\\RGSS301.dll
 ステータス：\\C[11]通常\\C[0]
 診断：問題なく動作しています
-> CONTEXT: Map370/events/1/pages/0/154/Dialogue
+> CONTEXT: Map370/events/1/pages/0/135/Dialogue
 Access ID: System\\RGSS301.dll
 Status:\\C[11]Normal\\C[0]
 Diagnosis: No problems found.#Triketos
@@ -218,7 +216,7 @@ Diagnosis: No problems found.#Triketos
 
 > BEGIN STRING
 クイックスタートen(s[999999999])
-> CONTEXT: Map370/events/1/pages/0/169/Choice/1
+> CONTEXT: Map370/events/1/pages/0/150/Choice/1
 Quick Starten(s[999999999])#Triketos
 > END STRING
 
@@ -226,7 +224,233 @@ Quick Starten(s[999999999])#Triketos
 選択肢ヘルプ
 規定の場所よりスタートできます
 【ユーザー[HYAKKI]によりロックされています】
-> CONTEXT: Map370/events/1/pages/0/176/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/157/ChoiceHelp
 Start From Designated Location.
 [Locked by user 'HYAKKI']#Triketos/Ron
+> END STRING
+
+> BEGIN STRING
+………………来たね。
+
+アンタなら、ここが分かると思った………
+> CONTEXT: Map370/events/1/pages/1/9/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]………チェシャは消滅したよ。
+
+\\C[0]双子に、全部喰われちまった。
+> CONTEXT: Map370/events/1/pages/1/13/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでも、アンタがこれを起動できているのは
+
+\\C[2]私がここに居るから……。
+> CONTEXT: Map370/events/1/pages/1/17/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実は……\\C[2]ここに来たのは初めてじゃないんだ。
+
+\\C[10]虐殺の道を辿った\\C[0]\\V[40]を止めるために
+チェシャを分離するときに、ここを使ったんだよ。
+> CONTEXT: Map370/events/1/pages/1/21/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも今回は、私一人の力じゃ、
+アンタに\\V[40]の介入権限を戻せない……
+
+\\C[2]\\V[40]本人を正気に戻さないと……
+> CONTEXT: Map370/events/1/pages/1/26/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いちおう、策はあるんだけど……
+
+その前に……一つ聞いておきたいんだ。
+> CONTEXT: Map370/events/1/pages/1/31/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私も……\\C[2]どちらかといえば、双子と同意見だよ。
+
+\\C[10]『介入』\\C[0]は、知られてなかったからこそ黙認できた
+でもその仕組みを知ってしまったら、元には戻れない……
+> CONTEXT: Map370/events/1/pages/1/37/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\V[40]も、介入の存在を知ってしまった人間……
+
+たとえその存在を感じていなくても、常に意識してしまう。
+\\C[2]『これは本当に運命だったのか』\\C[0]って……
+> CONTEXT: Map370/events/1/pages/1/42/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かに、今の\\V[40]は、騙されているような状況だ。
+
+だけど、\\V[40]の今後の苦悩を考えると、
+それも一つの選択かもしれない……
+> CONTEXT: Map370/events/1/pages/1/47/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+運命とか介入とか、そういうのを考えることなく
+ただただ幸せな日々を過ごすことが出来る……
+
+それでもアンタは、\\V[40]を助けるかい？
+> CONTEXT: Map370/events/1/pages/1/52/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]もしこのままでいいと思うなら……
+この時点で、ウィンドウを閉じな。
+
+双子の言うとおり、そっとしておいてやるんだよ。
+> CONTEXT: Map370/events/1/pages/1/57/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だけどもし、それでも私と一緒に助けに行くってんなら……
+
+\\C[10]アンタの意思で、このボタンを押すんだ。
+> CONTEXT: Map370/events/1/pages/1/67/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+助けに行く
+> CONTEXT: Map370/events/1/pages/1/71/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……………分かった。
+
+それじゃあアタシも、アンタにとことん付き合うよ。
+> CONTEXT: Map370/events/1/pages/1/75/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………聞いただろう？
+
+出てきな！\\V[40]を助けに行くよ！
+> CONTEXT: Map370/events/1/pages/1/79/Dialogue/hyakki2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はいはーい
+
+そこまでハッキリ言われちゃうんじゃ、しょうがないよねぇ
+> CONTEXT: Map370/events/1/pages/1/86/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、アバドーンのお腹の中はアイツの独壇場だよ。
+
+さっき言ってた『策』ってなんなの？百鬼ちゃん。
+> CONTEXT: Map370/events/1/pages/1/90/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+決まってるだろ
+
+アタシとアンタで、\\C[2]直接\\V[40]を叩き起こす
+> CONTEXT: Map370/events/1/pages/1/94/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アタシらは\\C[10]『チェシャのセーブデータ』\\C[0]に
+アクセスする権限はないけど
+
+\\C[2]自分たちの世界に戻る事ぐらいはできる。
+> CONTEXT: Map370/events/1/pages/1/98/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そこで直接、玩具にされてる\\V[40]を見つけて
+
+正気に戻ったところで、すかさず介入権限を
+コイツに戻すんだ。
+> CONTEXT: Map370/events/1/pages/1/103/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チェシャ本人の\\C[10]介入権限\\C[0]はないけれど……
+
+アタシの中の\\C[10]『介入能力』もチェシャのものだ
+きっと、上手く機能してくれるはずだ。
+> CONTEXT: Map370/events/1/pages/1/108/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから……失敗は許されない。
+
+１度っきりの、最後のチャンスだ。
+> CONTEXT: Map370/events/1/pages/1/113/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わーお、思ったより無謀な策だった……
+
+それってボクがついていく意味ある？
+> CONTEXT: Map370/events/1/pages/1/117/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君、サラッとボクに\\C[10]『介入』を手伝え\\C[10]なんて言ってるけど
+
+今のボクにそんな力はないよ？
+いったいなにを手伝えっていうのさ。
+> CONTEXT: Map370/events/1/pages/1/121/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……………なるほどね。
+
+オーケィ、いいよ。付き合おうかな。
+> CONTEXT: Map370/events/1/pages/1/131/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よし……
+
+それじゃあ、アタシの世界に戻るよ。
+行き先は……\\C[10]『アバドンの腹の中』\\C[0]だ
+> CONTEXT: Map370/events/1/pages/1/135/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]マッドハッターの介入じゃないから、多少無茶するよ
+
+しっかりついてくるんだ。
+> CONTEXT: Map370/events/1/pages/1/140/Dialogue/hyakki < UNTRANSLATED
+
 > END STRING

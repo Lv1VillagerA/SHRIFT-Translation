@@ -118,7 +118,7 @@ T-thanks...♡#Ron
 > CONTEXT: CommonEvents_278/90/Dialogue
 I've fallen over, slumped on the ground.
 
-Ivory is slowly approaching...#Ron
+Lady is slowly approaching...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -140,7 +140,7 @@ breaths.#RonIffy
 > CONTEXT: CommonEvents_239/128/Dialogue
 > CONTEXT: CommonEvents_247/134/Dialogue
 > CONTEXT: CommonEvents_278/116/Dialogue
-Embarrassed and my legs unsteady, Ivory takes my hand and
+Embarrassed and my legs unsteady, Lady takes my hand and
 gently dances together with me...#Ron
 > END STRING
 
@@ -151,7 +151,7 @@ gently dances together with me...#Ron
 > CONTEXT: CommonEvents_239/138/Dialogue
 > CONTEXT: CommonEvents_247/144/Dialogue
 > CONTEXT: CommonEvents_278/126/Dialogue
-\\N[1] is gradually letting his guard down around Ivory...#Ron
+\\N[1] is gradually letting his guard down around Lady...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -172,7 +172,7 @@ Now the second dance begins!#Ron
 > CONTEXT: CommonEvents_239/177/Dialogue/enemy6
 > CONTEXT: CommonEvents_247/185/Dialogue/enemy6
 Our next dancer is known for her passionate, wild
-dancing. It's "Ivory-chan". ♪#Ron
+dancing. It's "Lady-chan". ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -194,7 +194,7 @@ So this is quite the rare appearance!#Ron
 > CONTEXT: CommonEvents_239/185/Dialogue/enemy6
 > CONTEXT: CommonEvents_247/193/Dialogue/enemy6
 In contrast to Ebony-chan's slow and seductive
-moves, Ivory-chan's dances feature intense hip
+moves, Lady-chan's dances feature intense hip
 gyrations!! Will \\N[1]-kun really be able to
 follow along with her?!#Ron
 > END STRING
