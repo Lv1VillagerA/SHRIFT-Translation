@@ -82,16 +82,21 @@ Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 ………あたいは贈り物とかにはあまり興味はないけど
 
 そういうのが好きって思われてるんなら、心外だねぇ
-> CONTEXT: Map119/events/5/pages/0/223/Dialogue/enemy10 < UNTRANSLATED
+> CONTEXT: Map119/events/5/pages/0/223/Dialogue/enemy10
+...I'm not very interested in gifts like that.
 
+If you thought I liked that kind of thing,
+you will be sorely disappointed.#Strate
 > END STRING
 
 > BEGIN STRING
 あたいが欲しいのは『動く獲物』……
 
 そして、綺麗な鉱石さ。
-> CONTEXT: Map119/events/5/pages/0/227/Dialogue/enemy10 < UNTRANSLATED
+> CONTEXT: Map119/events/5/pages/0/227/Dialogue/enemy10
+What I want is moving prey......
 
+And beautiful gems.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -129,10 +134,10 @@ Clear corruption (Queen)if(v[36] \>= 2)#Triketos
 
  あの腹ボテ野郎の心蝕を消してほしいんだろう？
 > CONTEXT: Map119/events/5/pages/0/284/Dialogue/enemy10
-I understand ... I know
+Kukuku...... I understand.
 
-I would like to get rid of that carious glutes
-of bastard bastards?#GT
+You want me to erase that bloated bitch's
+corruption, don't you?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -141,10 +146,10 @@ of bastard bastards?#GT
 
  だけど、あたいの腹の中の方が極上さ
 > CONTEXT: Map119/events/5/pages/0/288/Dialogue/enemy10 
-How was the inside of the guy's belly?
-The comfort to be melted would have been pleasant
+How did it feel inside her belly?
+I bet it felt good to be melted in there, right?
 
-But the inside of my belly is the best#GT
+However, mine is still better.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -152,9 +157,9 @@ But the inside of my belly is the best#GT
 
 さぁ、こっちに来るんだ……
 > CONTEXT: Map119/events/5/pages/0/293/Dialogue/enemy10 
-I will remind you of that ...
+I will remind you of that......
 
-Well, I'm coming here ...#GT
+Now, come here......#Strate
 > END STRING
 
 > BEGIN STRING

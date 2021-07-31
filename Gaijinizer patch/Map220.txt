@@ -343,7 +343,7 @@ trying to get away from Mother Rabbit......#Strate
 
 一時はどうなることかと思ったよ……
 > CONTEXT: Map220/events/1/pages/0/182/Dialogue/enemy19
-Ebony and Ivory pulled you off, but Mother Rabbit
+Ebony and Lady pulled you off, but Mother Rabbit
 started to resist on the way...
 
 At one point I wasn't sure what would happen...#StrateLocalization
@@ -530,7 +530,7 @@ Fufufu......#Strate
 > CONTEXT: Map220/events/1/pages/0/297/Dialogue/kazuya
 !!!??
 
-Ebony! Ivory!?#Strate
+Ebony! Lady!?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -559,7 +559,7 @@ Burn it firmly into your eyes!#Strate
 
 \\N[1]の身体にがんじがらめに組み付いている…
 > CONTEXT: Map220/events/1/pages/0/315/Dialogue
-Ebony and Ivory are clinging tightly to \\N[1]'s
+Ebony and Lady are clinging tightly to \\N[1]'s
 body...#Strate
 > END STRING
 

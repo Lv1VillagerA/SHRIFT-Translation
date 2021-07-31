@@ -4,6 +4,9 @@
 【真慈悲ルートクリア済み】
 【マザーラビット入室済み・キズナ状態】
 > CONTEXT: Map193/events/2/pages/0/1/Dialogue
+> CONTEXT: Map480/events/2/pages/0/1/Dialogue
+> CONTEXT: Map481/events/2/pages/0/1/Dialogue
+> CONTEXT: Map516/events/2/pages/0/1/Dialogue
 Opening Criteria:
 * Clear True Mercy
 * Bond with Mother Rabbit in My Room#Ron
@@ -14,6 +17,9 @@ Opening Criteria:
 【真慈悲ルートクリア済み】
 【ランパス・エンプーサ・バーゲスト入室済み・キズナ状態】
 > CONTEXT: Map193/events/5/pages/0/1/Dialogue
+> CONTEXT: Map480/events/5/pages/0/1/Dialogue
+> CONTEXT: Map481/events/5/pages/0/1/Dialogue
+> CONTEXT: Map516/events/5/pages/0/1/Dialogue
 Opening Criteria:
 * Clear True Mercy
 * Bond with Barghest, Lampas, and Empuse in My
@@ -26,6 +32,9 @@ Opening Criteria:
 【スフィンクス入室済み・キズナ状態】
 【百鬼入室済み・キズナ状態】
 > CONTEXT: Map193/events/6/pages/0/1/Dialogue
+> CONTEXT: Map480/events/6/pages/0/1/Dialogue
+> CONTEXT: Map481/events/6/pages/0/1/Dialogue
+> CONTEXT: Map516/events/6/pages/0/1/Dialogue
 Opening Criteria:
 * Clear True Mercy
 * Bond with Sphinx in My Room
@@ -35,12 +44,17 @@ Opening Criteria:
 > BEGIN STRING
 <namepop 百鬼\>
 > CONTEXT: Map193/events/19/pages/1/0/NamePop
+> CONTEXT: Map480/events/19/pages/1/0/NamePop
+> CONTEXT: Map481/events/19/pages/1/0/NamePop
 <namepop Hyakki\>#Triketos
 > END STRING
 
 > BEGIN STRING
 <namepop 運命の始まり\>
 > CONTEXT: Map193/events/20/pages/1/0/NamePop
+> CONTEXT: Map480/events/20/pages/1/0/NamePop
+> CONTEXT: Map481/events/20/pages/1/0/NamePop
+> CONTEXT: Map516/events/20/pages/1/0/NamePop
 <namepop Fate's_Origin\>#TriketosLocalizedToFit
 > END STRING
 
@@ -49,6 +63,9 @@ Opening Criteria:
 
 自身の能力安定値を初期化してください。
 > CONTEXT: Map193/events/24/pages/1/0/Dialogue
+> CONTEXT: Map480/events/24/pages/1/0/Dialogue
+> CONTEXT: Map481/events/24/pages/1/0/Dialogue
+> CONTEXT: Map516/events/24/pages/1/0/Dialogue
 \\C[2]Authentication error: Physical status does not match
 system records. Please reset to initial stable state.#Ron
 > END STRING
@@ -58,6 +75,9 @@ system records. Please reset to initial stable state.#Ron
 
 \\C[2]黒イモリでリセット…とかかな？
 > CONTEXT: Map193/events/24/pages/1/4/Dialogue/kazuya
+> CONTEXT: Map480/events/24/pages/1/4/Dialogue/kazuya
+> CONTEXT: Map481/events/24/pages/1/4/Dialogue/kazuya
+> CONTEXT: Map516/events/24/pages/1/4/Dialogue/kazuya
 "Reset to initial stable state"...?
 
 \\C[2]Maybe I could use one of those charred
@@ -65,8 +85,18 @@ salamander things?#Ron
 > END STRING
 
 > BEGIN STRING
+
+ひどく身体がだるい………
+> CONTEXT: Map193/events/25/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 本編取りこぼし
 > CONTEXT: Map193/events/42/pages/0/0/Choice/0
+> CONTEXT: Map480/events/42/pages/0/0/Choice/0
+> CONTEXT: Map481/events/42/pages/0/0/Choice/0
+> CONTEXT: Map516/events/42/pages/0/0/Choice/0
 Missed Pickups#Triketos
 > END STRING
 
@@ -75,12 +105,26 @@ Missed Pickups#Triketos
 
 この想ひ魂を習得するための条件を満たしていません。
 > CONTEXT: Map193/events/26/pages/0/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map480/events/26/pages/0/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map481/events/26/pages/0/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map516/events/26/pages/0/71/Dialogue < UNTRANSLATED
 
+> END STRING
+
+> BEGIN STRING
+"ゲームクリア"
+> CONTEXT: Map193/events/49/pages/0/0/InlineScript/2:1
+> CONTEXT: Map200/events/1/pages/0/121/InlineScript/2:1
+"Game Cleared"#Triketos
 > END STRING
 
 > BEGIN STRING
 <namepop モルモー\>
 > CONTEXT: Map193/events/23/pages/1/0/NamePop
 > CONTEXT: Map193/events/23/pages/2/0/NamePop
+> CONTEXT: Map480/events/23/pages/1/0/NamePop
+> CONTEXT: Map480/events/23/pages/2/0/NamePop
+> CONTEXT: Map481/events/23/pages/1/0/NamePop
+> CONTEXT: Map481/events/23/pages/2/0/NamePop
 <namepop Mormo\>#Triketos
 > END STRING

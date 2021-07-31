@@ -3792,7 +3792,7 @@ G-Gross...#Ron
 そのまま溶けてニーナの影に消えていった…
 > CONTEXT: Troops/71/pages/3/2/Dialogue
 > CONTEXT: Troops/72/pages/3/2/Dialogue
-Ivory falls to her knees, and just like that she
+Lady falls to her knees, and just like that she
 melts and disappears into Nina's shadow...#MTLed
 > END STRING
 
@@ -3803,7 +3803,7 @@ melts and disappears into Nina's shadow...#MTLed
 > CONTEXT: Troops/71/pages/3/9/Dialogue/enemy6
 Amaaazing, \\N[1]-kun!
 
-Ivory-chan lost for the first time ever!!#Ron
+Lady-chan lost for the first time ever!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6460,7 +6460,7 @@ Nina [All Books] Lazy#MTLed
 > CONTEXT: Troops/129/pages/0/14/Dialogue/enemy6
 Okaaay.
 
-It's Ivory-chan, as requested!#Ron
+It's Lady-chan, as requested!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6492,7 +6492,7 @@ rules isn't it...? ♡#Ron
 > CONTEXT: Troops/129/pages/0/26/Dialogue/enemy6
 Well, it'd take considerable practice for a human
 to pull off those moves. ♡ Now go and enjoy the
-unparalleled Ivory-chan to your heart's content!#Ron
+unparalleled Lady-chan to your heart's content!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9706,7 +9706,7 @@ using that ability...#Ron
 
 ド派手なやつを、遠慮なくやっちゃって！！！
 > CONTEXT: Troops/251/pages/4/26/Dialogue/enemy6
-Ebony!! Ivory!!
+Ebony!! Lady!!
 
 Don't be shy, do one of your super flashy moves!!#Ron
 > END STRING
@@ -12823,9 +12823,9 @@ Queen (Boss)#Triketos
 
 母の胎へ………おいで………
 > CONTEXT: Troops/300/pages/1/30/Dialogue
-Who knows......... 
-To my mother's womb......... 
-Come on.........#GT
+Now...
+
+Come on... to Mother's womb...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -12834,9 +12834,9 @@ Come on.........#GT
 
 ただあなたに…………魂の安寧を………
 > CONTEXT: Troops/300/pages/1/34/Dialogue
-Fear............ Not......... Anxiety.........
-Not............ Just to you............
-The well-being of the soul.........#GT
+No fear...
+No unease...
+Just peace... for you and your soul...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -12844,9 +12844,9 @@ The well-being of the soul.........#GT
 
  今の声は………！？
 > CONTEXT: Troops/300/pages/1/40/Dialogue/kazuya
-............... tsu!?
+...Hn!?
 
-Now the voice is....!?!?#GT
+That voice was...!?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -12854,9 +12854,10 @@ Now the voice is....!?!?#GT
 
 なるほど……信者がいるわけだよ……
 > CONTEXT: Troops/300/pages/1/44/Dialogue/other2
-This guy is low intelligence and I
-think it's silent.
-I see...... There are believers.#GT
+And I had her pegged for being stupid and unable
+to speak!
+
+I see... So this is why she has so many faithful.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -12867,8 +12868,8 @@ I see...... There are believers.#GT
 > CONTEXT: Troops/300/pages/1/48/Dialogue/other1
 \\N[1], be careful!!
 
-This voice echoes directly in the brain!
-\\C[2] There is an effect to make it "Ecstacy"!#GT
+Her voice will resonate directly in your brain!
+\\C[2]It can probably force you into Ecstasy!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -12877,10 +12878,10 @@ This voice echoes directly in the brain!
 『恍惚』の対策は常に意識したほうがいい！！
 強い精神を保つんだ！！
 > CONTEXT: Troops/300/pages/1/53/Dialogue/other1
-It's probably a brainwashing that can't resist
-the state of the \\C[2] prime... It is better to
-always be aware of the measures of ecstasy!!#GT
-Keep a strong spirit!!
+It's probably\\C[2] strong enough that you can't
+fight against it normally... 
+Use whatever countermeasures you can!
+Keep your mind stable and focused!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -12888,8 +12889,9 @@ Keep a strong spirit!!
 
 なぜ………母を拒む…………
 > CONTEXT: Troops/300/pages/2/20/Dialogue
-The soul towards nothing.........
-Why......... I refuse my mother......#GT
+A lost soul, headed toward the void...
+
+Why... do you refuse Mother...#Amaboye/localization
 > END STRING
 
 > BEGIN STRING
@@ -12897,9 +12899,10 @@ Why......... I refuse my mother......#GT
 
 死んだ後も………魂は…………永遠に………
 > CONTEXT: Troops/300/pages/2/24/Dialogue
-If you accept my mother.........
-Even after he died......... 
-The soul is...... Forever.........#GT
+If you accepted Mother...
+
+Even after death... your soul would...
+eternally...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -12907,16 +12910,16 @@ The soul is...... Forever.........#GT
 
 苦しみや……不安から解き放たれ……何も考えず…
 > CONTEXT: Troops/300/pages/2/29/Dialogue/kazuya
-Forever, "work as your barbarian" ... right?
+Eternally "become one of your own", right?
 
-Suffering and... from liberty...
-without thinking about anything...#GT
+Free from suffering and unease...
+Thinking of nothing...#Amaboye
 > END STRING
 
 > BEGIN STRING
 悪いけど、他を当たってくれ……！！
 > CONTEXT: Troops/300/pages/2/33/Dialogue/kazuya
-I'm sorry, but hit me elsewhere..!!#GT
+Sorry, but ask someone else!!#Amaboye
 > END STRING
 
 > BEGIN STRING

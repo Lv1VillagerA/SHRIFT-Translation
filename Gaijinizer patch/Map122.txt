@@ -1,9 +1,25 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
+おいおい、どうしたんだい\\N[1]？
+
+私に虐められたくなったのかい？
+> CONTEXT: Map122/events/5/pages/0/20/Dialogue/enemy14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いつでも相手してやるよ
+
+アンタのカワイイ顔を、じっくり見せてもらうからね♡
+> CONTEXT: Map122/events/5/pages/0/24/Dialogue/enemy14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 ふん、\\N[1]か……
 
 なんの用だい？
-> CONTEXT: Map122/events/5/pages/0/19/Dialogue/enemy14
+> CONTEXT: Map122/events/5/pages/0/30/Dialogue/enemy14
 Hmmm, \\N[1]?
 
 What is it?#Ron
@@ -13,7 +29,7 @@ What is it?#Ron
 ……………何見てるんだよ。
 
 用があるなら早く言いな
-> CONTEXT: Map122/events/5/pages/0/25/Dialogue/enemy14
+> CONTEXT: Map122/events/5/pages/0/38/Dialogue/enemy14
 ...What are you looking at?
 
 If you have something to say, then hurry up and
@@ -22,19 +38,19 @@ say it.#Ron
 
 > BEGIN STRING
 雑談する en(v[52] \>= 25) 
-> CONTEXT: Map122/events/5/pages/0/33/Choice/0
+> CONTEXT: Map122/events/5/pages/0/46/Choice/0
 Chaten(v[52] \>= 25)#MTLed
 > END STRING
 
 > BEGIN STRING
 搾精（抱き締め）en(v[52] \>= 25) 
-> CONTEXT: Map122/events/5/pages/0/33/Choice/1
+> CONTEXT: Map122/events/5/pages/0/46/Choice/1
 Milking (Tight Hug)en(v[52] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（蛇体巻き）en(v[52] \>= 50) 
-> CONTEXT: Map122/events/5/pages/0/33/Choice/2
+> CONTEXT: Map122/events/5/pages/0/46/Choice/2
 Milking (Constrict)en(v[52] \>= 50)#Ron
 > END STRING
 
@@ -42,7 +58,7 @@ Milking (Constrict)en(v[52] \>= 50)#Ron
 選択肢ヘルプ
 【ティタノボア】種族：魔獣
 友好度：\\V[52]
-> CONTEXT: Map122/events/5/pages/0/35/ChoiceHelp
+> CONTEXT: Map122/events/5/pages/0/48/ChoiceHelp
 [Titanoboa] Race: Beast
 Current Friendship: \\C[2]\\v[52]\\C[0]#Ron
 > END STRING
@@ -51,7 +67,7 @@ Current Friendship: \\C[2]\\v[52]\\C[0]#Ron
 選択肢ヘルプ
 条件【\\C[2]友好度２５以上\\C[0]】
 （現在友好度　　\\V[52]/100）
-> CONTEXT: Map122/events/5/pages/0/42/ChoiceHelp
+> CONTEXT: Map122/events/5/pages/0/55/ChoiceHelp
 Requires:【\\C[2] Friendship 25+\\C[0]】
 Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
 
@@ -61,7 +77,7 @@ Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
 選択肢ヘルプ
 条件【\\C[2]友好度５０以上\\C[0]】
 （現在友好度　　\\V[52]/100）
-> CONTEXT: Map122/events/5/pages/0/75/ChoiceHelp
+> CONTEXT: Map122/events/5/pages/0/88/ChoiceHelp
 Requires:【\\C[2] Friendship 50+\\C[0]】
 Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
 
@@ -72,7 +88,7 @@ Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
 
 なんだいこりゃあ…いらないよ。
 贈り物なら、せめて喰えるモノにしてくれよね。
-> CONTEXT: Map122/events/5/pages/0/193/Dialogue/enemy14
+> CONTEXT: Map122/events/5/pages/0/206/Dialogue/enemy14
 ...
 
 What's this garbage? If you're going to give me
@@ -81,7 +97,7 @@ something, at least make it edible.#Ron
 
 > BEGIN STRING
 心蝕を消すif(v[52] \>= 100) 
-> CONTEXT: Map122/events/5/pages/0/206/Choice/0
+> CONTEXT: Map122/events/5/pages/0/219/Choice/0
 Clear corruptionif(v[52] \>= 100)#Ron
 > END STRING
 
@@ -89,7 +105,7 @@ Clear corruptionif(v[52] \>= 100)#Ron
 選択肢ヘルプ
 条件【\\C[2]友好度１００\\C[0]】
 （現在友好度　　\\V[52]/100）
-> CONTEXT: Map122/events/5/pages/0/208/ChoiceHelp
+> CONTEXT: Map122/events/5/pages/0/221/ChoiceHelp
 Requires:【\\C[2] Friendship 100\\C[0]】
 Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
 > END STRING
@@ -98,7 +114,7 @@ Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
 フフフ……いいさ、たまにはね。
 
 遊んでやるよ…\\N[1]♡
-> CONTEXT: Map122/events/5/pages/0/217/Dialogue/enemy14
+> CONTEXT: Map122/events/5/pages/0/230/Dialogue/enemy14
 Fufufu... I suppose it's fine once in a while...
 
 I'll play with you, \\N[1]... ♡#Ron
@@ -106,7 +122,7 @@ I'll play with you, \\N[1]... ♡#Ron
 
 > BEGIN STRING
 "ティタノボアの心蝕が治った！！"
-> CONTEXT: Map122/events/5/pages/0/228/InlineScript/1:12
+> CONTEXT: Map122/events/5/pages/0/241/InlineScript/1:12
 "Titanoboa's corruption cured!!"#Ron
 > END STRING
 
@@ -150,6 +166,7 @@ Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
 > BEGIN STRING
 え、えっと……
 > CONTEXT: Map122/events/5/pages/1/12/Dialogue/kazuya
+> CONTEXT: Map469/events/3/pages/0/380/Dialogue/kazuya
 > CONTEXT: Troops/115/pages/0/11/Dialogue/kazuya-0
 > CONTEXT: Troops/189/pages/0/16/Dialogue/kazuya
 Um, err...#Ron
