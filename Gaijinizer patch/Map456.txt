@@ -3,40 +3,52 @@
 急いで！急いで！
 
 あの『食事』に巻き込まれたら終わりだよ！！
-> CONTEXT: Map456/events/1/pages/0/23/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map456/events/1/pages/0/23/Dialogue/sirousagi_fc1
+Hurry, come on!
 
+If you're caught up in that "feeding" it's all
+over!#Amaboye
 > END STRING
 
 > BEGIN STRING
 追跡されちゃう可能性が高いけど、もう行くしかない！
 
 早くこのゲートを通って！！
-> CONTEXT: Map456/events/1/pages/0/27/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map456/events/1/pages/0/27/Dialogue/sirousagi_fc1
+We'll likely be tailed, but there's no choice!
 
+Jump through this gate!#Amaboye
 > END STRING
 
 > BEGIN STRING
 しょ…『食事』！？
 
 っていうか、あれがアバドーンの仕業なのか…！？
-> CONTEXT: Map456/events/1/pages/0/31/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map456/events/1/pages/0/31/Dialogue/kazuya
+Fe...feeding?
 
+Hold on, this is Abaddon's doing!?#Amaboye
 > END STRING
 
 > BEGIN STRING
 な、なんだかすごい色してるけど……
 
 本当に飛び込んでいいの…！？
-> CONTEXT: Map456/events/1/pages/0/36/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map456/events/1/pages/0/36/Dialogue/ruka_fc1
+It has such a bright color...
 
+Is it really safe to jump into this?#Amaboye
 > END STRING
 
 > BEGIN STRING
 というより、今度は何処に連れて行くつもりなのだ！？
 
 それに、さっきの空間の崩壊具合はまるで……！！
-> CONTEXT: Map456/events/1/pages/0/40/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map456/events/1/pages/0/40/Dialogue/alice_fc6
+And where are you planning to take us this time!?
 
+Plus, that earlier space-time destruction looked
+just like...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -44,26 +56,31 @@
 
 とりあえず、今はこの中に入って！！
 はやく！！はやく！！！
-> CONTEXT: Map456/events/1/pages/0/46/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map456/events/1/pages/0/46/Dialogue/sirousagi_fc1
+I don't have time to explain all that right now~!
 
+For now, just jump in here!
+Quickly, quickly!!#Amaboye
 > END STRING
 
 > BEGIN STRING
 ……\\N[1]くん！！！！
-> CONTEXT: Map456/events/1/pages/0/51/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map456/events/1/pages/0/51/Dialogue/enemy30
+...\\N[1]-kun!!!#Amaboye
 > END STRING
 
 > BEGIN STRING
 くっ…！！
 
 しょうがない！一斉に飛び込むぞ！！
-> CONTEXT: Map456/events/1/pages/0/53/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map456/events/1/pages/0/53/Dialogue/kazuya
+Kh...!
 
+There's no helping it, let's all jump together! #Amaboye
 > END STRING
 
 > BEGIN STRING
 夜深ちゃん、しっかり掴まってて！
-> CONTEXT: Map456/events/1/pages/0/57/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map456/events/1/pages/0/57/Dialogue/kazuya
+Yami-chan, hold on tight!#Amaboye
 > END STRING
