@@ -200,51 +200,62 @@ Receive evaluation#Ron
 さぁ……私のスカートの中にいらっしゃい…♡
 
 私のヌルヌルの身体で、たっぷりと可愛がってあげるわ…♡
-> CONTEXT: CommonEvents_741/71/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/71/Dialogue/highslag_fc1
+Now to welcome you inside my skirt. ♡
 
+I'll use my slimy body to give you lots of
+affection. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あっ……あっ……♡
 
 あああっ……！♡
-> CONTEXT: CommonEvents_741/75/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_806/21/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/75/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_806/21/Dialogue/kazuya-0
+Aah... Aaah... ♡
 
+Aaaaaaah! ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ハイスラッグ娘の身体が、足元から徐々に身体を伝ってくる…
 
 彼女はそれを見て、明らかにこちらの反応を楽しんでいるようだ…
-> CONTEXT: CommonEvents_741/79/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_806/25/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_741/79/Dialogue
+> CONTEXT: CommonEvents_806/25/Dialogue
+High Slug Girl is slowly crawling her way up my body.
 
+She seems to enjoy seeing my obvious reaction to her doing
+this.#Ron
 > END STRING
 
 > BEGIN STRING
 やがて………
 
 彼女の蛞蝓の身体は、ねっとりと僕の股間を包み込んだ……
-> CONTEXT: CommonEvents_741/107/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_806/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/107/Dialogue
+> CONTEXT: CommonEvents_806/53/Dialogue
+Before finally, her slug body makes its way up to engulfing
+my crotch...#Ron
 > END STRING
 
 > BEGIN STRING
 うああああああっ…♡♡♡
-> CONTEXT: CommonEvents_741/111/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_742/69/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_806/57/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/111/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_742/69/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_806/57/Dialogue/kazuya-0
+Uwaaaah... ♡♡♡
 > END STRING
 
 > BEGIN STRING
 アハハッ！情けない声……♡
 
 その反応が見たかったのよ…♡
-> CONTEXT: CommonEvents_741/113/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/113/Dialogue/highslag_fc1
+Ahahah! What a pathetic moan. ♡
 
+That's the reaction I wanted to see. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -252,48 +263,62 @@ Receive evaluation#Ron
 ヌルヌルに包まれただけで感じている声を出してしまう…♡
 
 人間の生殖器って、本当に単純ね……♡♡
-> CONTEXT: CommonEvents_741/117/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/117/Dialogue/highslag_fc1
+Even though your body's going to be melted and
+devoured, the slimy sensation of being wrapped up
+in me was enough to make you moan. ♡
+Human sexual organs really are simple things. ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 ほぉら、その負け犬の声をもっと聞かせなさい♡
 
 でないと、すぐに消化液を出してしまうわよ…♡
-> CONTEXT: CommonEvents_741/122/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/122/Dialogue/highslag_fc1
+Come on, let me hear more of your defeated moans.
 
+Otherwise I'll release my digestive liquids right
+away. ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 あっ……あっ……♡
 
 あああああああああっ……！♡
-> CONTEXT: CommonEvents_741/127/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/127/Dialogue/kazuya-0
+Aaah... Aaah... ♡
 
+Aaaaaaaaaaah! ♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、
 
 ハイスラッグ娘の身体の脈動に合わせて射精してしまった……
-> CONTEXT: CommonEvents_741/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/139/Dialogue
+\\N[1] has been made to ejaculate in time
+with the rhythmic pulsing of High Slug Girl.#Ron
 > END STRING
 
 > BEGIN STRING
 ……………
 
 …………誰が出していいって言ったかしら……？
-> CONTEXT: CommonEvents_741/143/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/143/Dialogue/highslag_fc1
+......
 
+Who told you it was okay to cum?#Ron
 > END STRING
 
 > BEGIN STRING
 はあっ……！はあっ……！
 
 だめぇ……気持ちよ……すぎてぇ…♡
-> CONTEXT: CommonEvents_741/147/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/147/Dialogue/kazuya-0
+Haah! Haah!
 
+I couldn't... hold back...
+It felt... too good... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -301,8 +326,11 @@ Receive evaluation#Ron
 貴方、精子の量も質も中々なのね…♡
 
 今のは、この上質の種に免じて許してあげる…
-> CONTEXT: CommonEvents_741/152/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/152/Dialogue/highslag_fc1
+Fufufu... well that's fine. The quantity and
+quality of your semen isn't half-bad. ♡
+I'll let you off the hook for having high-quality
+seed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -310,14 +338,17 @@ Receive evaluation#Ron
 
 こんなにみっともなく快楽によがり狂うなんて
 あなた、人間としての誇りはないの？
-> CONTEXT: CommonEvents_741/157/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/157/Dialogue/highslag_fc1
+But you really are the bottom of the barrel as a
+male. To think you'd disgracefully lose your mind
+to pleasure like this, don't you have any pride
+as a human?#Ron
 > END STRING
 
 > BEGIN STRING
 うぐっ……
-> CONTEXT: CommonEvents_741/162/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/162/Dialogue/kazuya-0
+Uggh...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -325,8 +356,11 @@ Receive evaluation#Ron
 馬鹿にされて、怒ってしまった？
 
 違うというのなら、少しぐらい抵抗してみなさいよ♡
-> CONTEXT: CommonEvents_741/164/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/164/Dialogue/highslag_fc1
+Ahahaha... Frustrated? ♡
 
+Did I just make you angry? If what I said was
+so wrong, then try resisting me a little.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -334,18 +368,22 @@ Receive evaluation#Ron
 動けないなりに、私を睨み付けてみたらどうなの？
 
 ほぉら、こんなコトされちゃってるのよ…？♡
-> CONTEXT: CommonEvents_741/169/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/169/Dialogue/highslag_fc1
+If you're a human male, then why don't you stare
+at me with burning resentment in your immobile
+state? Come on, look at what I'm doing to you.#RonIffy ♡
 > END STRING
 
 > BEGIN STRING
 あっ…………♡
 
 うあ……♡
-> CONTEXT: CommonEvents_741/184/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_741/206/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_806/88/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/184/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_741/206/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_806/88/Dialogue/kazuya-0
+Aaah... ♡
 
+Uaah... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -353,8 +391,11 @@ Receive evaluation#Ron
 そんなことよりも、こっちが気になるものね？♡
 
 自分のプライドなんてどうでも良いわよね…♡
-> CONTEXT: CommonEvents_741/188/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/188/Dialogue/highslag_fc1
+Fufufu, what a good boy. ♡
+You're far more interested in this than resisting
+me, aren't you? You aren't concerned with notions
+of your own pride and self-respect, are you? ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -362,32 +403,44 @@ Receive evaluation#Ron
 この強化された魔力で、ちょっと自分の粘液に細工をしたの…
 
 \\C[2]私に対して発情するような作用\\C[0]をね…♡
-> CONTEXT: CommonEvents_741/193/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/193/Dialogue/highslag_fc1
+I think you've already realized by now, but I
+worked a little of the magic I was strengthened
+with into my slime. \\C[2]That gave it the effect of
+inducing lust for me into anyone it touches. ♡#RonIffy
 > END STRING
 
 > BEGIN STRING
 ほぉら……だから仕方ないのよ……♡
 
 貴方が惨めにおねだりしても、それは魔力のせいよ…♡
-> CONTEXT: CommonEvents_741/198/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/198/Dialogue/highslag_fc1
+That's why can't help but pathetically beg for
+more. ♡
 
+It's all because of that magic. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ、自分の口で言いなさい
 
 『私に包み込まれて、可愛がられたい』って…♡
-> CONTEXT: CommonEvents_741/202/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/202/Dialogue/highslag_fc1
+Now I want you to say it yourself.
 
+Say that you want to be engulfed and doted on by
+me. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ああああっ……！♡♡
 
 たべてぇ……♡僕をたべてぇえぇ……♡
-> CONTEXT: CommonEvents_741/212/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/212/Dialogue/kazuya-0
+Aaaaaah! ♡♡
 
+Eat me... ♡
+Eat meeeeee... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -395,41 +448,48 @@ Receive evaluation#Ron
 
 さぁ……自分から頭を差し出しなさい……♡
 包み込んであげるわ♡
-> CONTEXT: CommonEvents_741/216/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/216/Dialogue/highslag_fc1
+Fufu... well done. ♡
 
+Now offer your head to me. ♡
+I'll engulf it for you. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、言われるがまま
 
 ハイスラッグ娘のスカートの中にグリグリと顔を突っ込んだ……
-> CONTEXT: CommonEvents_741/234/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_806/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/234/Dialogue
+> CONTEXT: CommonEvents_806/117/Dialogue
+Doing as instructed, \\N[1] shoves his face into the
+inside of High Slug Girl's skirt.#Ron
 > END STRING
 
 > BEGIN STRING
 んぐうううっ…！♡♡♡
-> CONTEXT: CommonEvents_741/256/Dialogue/kazuya-10 < UNTRANSLATED
-> CONTEXT: CommonEvents_806/139/Dialogue/kazuya-10 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/256/Dialogue/kazuya-10
+> CONTEXT: CommonEvents_806/139/Dialogue/kazuya-10
+Nmmmmph! ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、
 
 ハイスラッグ娘の身体に完全に包み込まれてしまった！
-> CONTEXT: CommonEvents_741/258/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_806/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/258/Dialogue
+> CONTEXT: CommonEvents_806/141/Dialogue
+\\N[1] is now entirely engulfed inside High Slug Girl's
+body.#Ron
 > END STRING
 
 > BEGIN STRING
 アハハッ！無様ねぇ…！♡
 
 本当に自分から食べられに来るなんて♡
-> CONTEXT: CommonEvents_741/262/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/262/Dialogue/highslag_fc1
+Ahaha! How unsightly! ♡
 
+To think you're actually coming to be eaten. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -437,24 +497,30 @@ Receive evaluation#Ron
 自ら顔を突っ込む男性って、一体どんな心境なの？
 
 自分で自分を哀れに感じないのかしら？♡
-> CONTEXT: CommonEvents_741/266/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/266/Dialogue/highslag_fc1
+Hey, what state of mind is a man in when he
+shoves his own face into a female's skirt?
+Does he not have any sense for how pathetic he
+is? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 んっ…！♡♡♡んんっ……♡♡
-> CONTEXT: CommonEvents_741/271/Dialogue/kazuya-10 < UNTRANSLATED
-> CONTEXT: CommonEvents_806/178/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/271/Dialogue/kazuya-10
+> CONTEXT: CommonEvents_806/178/Dialogue/kazuya-10
+Mmph! ♡♡♡
 
+Mmmph... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、
 
 夢中になってヌルヌルに頭を擦り付けている……
-> CONTEXT: CommonEvents_741/273/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_806/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/273/Dialogue
+> CONTEXT: CommonEvents_806/180/Dialogue
+\\N[1] is single-mindedly rubbing his face against her
+slime.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -462,8 +528,11 @@ Receive evaluation#Ron
 
 それじゃあ、本格的に溶かしてあげる…♡
 言葉通り、天にも昇る気持ちで逝けるわよ…
-> CONTEXT: CommonEvents_741/277/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/277/Dialogue/highslag_fc1
+Fufu... you can't hear me, can you? ♡
+In that case it's about time to properly dissolve
+you. I'll literally send you to heaven with
+pleasure. ♡
 > END STRING
 
 > BEGIN STRING
@@ -471,8 +540,10 @@ Receive evaluation#Ron
 溶かされながらイってしまうオスばかりなのに
 
 今回は、さっきも言ったように『強化』してあるから…♡
-> CONTEXT: CommonEvents_741/282/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/282/Dialogue/highslag_fc1
+Though I normally make males cum using slimy
+stimulation, this time I've been "strengthened",
+as I mentioned earlier. ♡#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -480,27 +551,35 @@ Receive evaluation#Ron
 
 ご褒美に、いつもより激しく動いてあげる……♡
 限界まで搾り取ってあげるわ…♡♡
-> CONTEXT: CommonEvents_741/287/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/287/Dialogue/highslag_fc1
+Don't tell me you thought I was done with you.
+As part of your reward, I'll move a lot more
+roughly than usual until I've squeezed you out to
+your limit. ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 んんんんんんんんんんんっ！！♡♡♡
 
 んんんーーーーっ！♡♡
-> CONTEXT: CommonEvents_741/318/Dialogue/kazuya-10 < UNTRANSLATED
-> CONTEXT: CommonEvents_741/381/Dialogue/kazuya-10 < UNTRANSLATED
-> CONTEXT: CommonEvents_784/32/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: CommonEvents_803/116/Dialogue/kazuya-5 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/318/Dialogue/kazuya-10
+> CONTEXT: CommonEvents_741/381/Dialogue/kazuya-10
+> CONTEXT: CommonEvents_784/32/Dialogue/kazuya-5
+> CONTEXT: CommonEvents_803/116/Dialogue/kazuya-5
+Mmmmmmmmmmmmphh!! ♡♡♡
 
+Mmmmmmmphhh!! ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 アハハハハハッ！！♡♡
 
 さっき出したばかりなのに、まだこんなに出るの…！？♡
-> CONTEXT: CommonEvents_741/350/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/350/Dialogue/highslag_fc1
+Ahahahahaha!! ♡♡
 
+You're cumming so much even though you only just
+released!! ♡#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -508,8 +587,11 @@ Receive evaluation#Ron
 持っている魔力と精気は一級品なのね♡
 
 とても素晴らしいご馳走にありつけたわ…♡
-> CONTEXT: CommonEvents_741/354/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/354/Dialogue/highslag_fc1
+Your magic and energy is first-rate despite you
+being such a weak male. ♡
 
+You've been such a good feast for me. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -517,16 +599,22 @@ Receive evaluation#Ron
 誰が休んでいいなんて言ったの？
 
 もっと出せるでしょう？\\N[1]…♡
-> CONTEXT: CommonEvents_741/359/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/359/Dialogue/highslag_fc1
+Come on, moan some more for me. No one said you
+could take a break. ♡
 
+You can still cum some more, can't you? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ほぉら…！これでトドメよ…！♡
 
 貴方の精液、根こそぎ搾り出してあげる…！！♡♡
-> CONTEXT: CommonEvents_741/445/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/445/Dialogue/highslag_fc1
+Now it's time to finish you off! ♡
 
+I'll thoroughly squeeze all of your energy out
+for you!! ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -534,8 +622,11 @@ Receive evaluation#Ron
 
 搾れば搾るほど美味しい汁が出てくる……♡
 笑いが止まらないわ…！♡
-> CONTEXT: CommonEvents_741/547/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/547/Dialogue/highslag_fc1
+Ahahahahahahaha! ♡
 
+The more I squeeze out, the tastier your juices
+become. I can't stop laughing! ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -543,16 +634,21 @@ Receive evaluation#Ron
 貴方、私に消化されてるのよ？喰われてるのよ？
 
 なぜそんな勢いで射精なんてしているのかしら！♡
-> CONTEXT: CommonEvents_741/552/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/552/Dialogue/highslag_fc1
+Pathetic, \\N[1]! Absolutely pathetic! ♡
+I'm digesting you right now, you know. You're
+being eaten. Why are you ejaculating so
+forcefully?! ♡#Ron
 > END STRING
 
 > BEGIN STRING
 …………………♡♡♡
 
 ぅ…………ぅ…♡♡
-> CONTEXT: CommonEvents_741/558/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/558/Dialogue/kazuya-10
+......... ♡♡♡
 
+Uugh.... ugh... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -560,16 +656,22 @@ Receive evaluation#Ron
 精液を出しすぎて、もう声も出せなくなったみたいね…♡
 
 そのまま蕩けた夢見心地でいるといいわ…♡
-> CONTEXT: CommonEvents_741/562/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/562/Dialogue/highslag_fc1
+Oh my, it seems you've released so much semen
+that you can no longer speak. ♡
 
+You just stay like that in your dreamy trance. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 もうだいぶ、美味しい精気も堪能させてもらったし……
 
 後はゆっくり、骨まで溶かしてあげる……♡
-> CONTEXT: CommonEvents_741/567/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/567/Dialogue/highslag_fc1
+I've had my fill of your delicious energy...
 
+All that's left is to slowly dissolve you down to
+your bones. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -577,54 +679,71 @@ Receive evaluation#Ron
 溶かされる時の痛みはないわよ………
 
 ちゃんと最期まで面倒を見てあげるわ……♡
-> CONTEXT: CommonEvents_741/571/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/571/Dialogue/highslag_fc1
+But don't worry, I'll marinade you in plenty of
+pleasure so it won't hurt when I melt you down.
+I'll make sure I take care of you properly right
+until the end. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 …………………♡♡♡
 
 ぁ…………ぅ…♡♡
-> CONTEXT: CommonEvents_741/576/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/576/Dialogue/kazuya-10
+......... ♡♡♡
 
+Aah...... ugh... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 身体が軽くなり、ふわふわとした気持ちになる……
 
 全身のヌルヌルの感触だけが、脳に快楽を伝えてくる……
-> CONTEXT: CommonEvents_741/583/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_741/583/Dialogue
+My body feels light... like I'm floating on air...
 
+The only signal my brain is receiving is the slimy pleasure
+encasing my entire body.#Ron
 > END STRING
 
 > BEGIN STRING
 僕はいま、どれだけ溶かされているのだろうか……
 
 いや、まだ玩ばれている最中なのだろうか……
-> CONTEXT: CommonEvents_741/587/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_741/587/Dialogue
+I wonder just how much of me has been dissolved already...
 
+No... she might still be playing with me...#Ron
 > END STRING
 
 > BEGIN STRING
 彼女の身体の脈動に合わせて、射精する……
 
 いや、もう自分が出している感覚すら危うい……
-> CONTEXT: CommonEvents_741/591/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_741/591/Dialogue
+I ejaculate in time with her pulsing body...
 
+Actually, I'm not sure if I can even feel when I
+release inside her...#RonIffy
 > END STRING
 
 > BEGIN STRING
 僕の頭の中は、もう快楽で埋め尽くされている……
 
 きっとこのまま、彼女に溶かされるのだろう……
-> CONTEXT: CommonEvents_741/595/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_741/595/Dialogue
+My head is completely filled with pleasure...
 
+I'm sure she'll dissolve me like this...#Ron
 > END STRING
 
 > BEGIN STRING
 密着したナメクジ体を通して
 
 彼女の高貴な高笑いが、僕の脳内に心地よく響いていた……
-> CONTEXT: CommonEvents_741/599/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/599/Dialogue
+I can feel her high-class, loud laughter pleasantly
+resounding through my head, transmitted through her slug
+body that I'm stuck fast to...#RonIffyWording
 > END STRING
