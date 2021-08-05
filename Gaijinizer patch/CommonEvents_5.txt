@@ -43,8 +43,11 @@ Either way, I'm looking forward to it!!#Ron
 もしかして、貴方も最初から、私と交尾したかったのかしら？
 
 だとしたら、少し脅かしすぎたのかもしれないわね。
-> CONTEXT: CommonEvents_5/59/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_5/59/Dialogue/highslag_fc1
+Fufufu, how obedient. ♡
+Were you perhaps hoping to mate with me from the
+beginning? If that's the case, I might have come
+on a little too strong.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -52,8 +55,11 @@ Either way, I'm looking forward to it!!#Ron
 
 \\C[2]私が嘘をついたとは思わなかったの？
 それとも、悪魔とやらは嘘を言わないのかしら？
-> CONTEXT: CommonEvents_5/64/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_5/64/Dialogue/highslag_fc1
+But still, you've responded rather earnestly.
+\\C[2]Didn't it occur to you that I might've been
+lying? Or did you think demons and such don't
+tell lies?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -61,40 +67,49 @@ Either way, I'm looking forward to it!!#Ron
 
 もちろん嘘なんかじゃないわ。
 ちゃんと搾精の方法も選ばせてあげる……♡
-> CONTEXT: CommonEvents_5/70/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_5/70/Dialogue/highslag_fc1
+Fufu... don't look so concerned.
 
+Of course I wasn't lying. I'll let you decide
+how you'd like to be squeezed out. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ、どの方法で私の相手をしてくれるのかしら…？♡
-> CONTEXT: CommonEvents_5/77/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_5/77/Dialogue/highslag_fc1
+Now then, which method would you prefer? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 交尾したい
-> CONTEXT: CommonEvents_5/79/Choice/0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_5/79/Choice/0
+Mating#RonLocalization
 > END STRING
 
 > BEGIN STRING
 胸に突っ込ませて欲しい
-> CONTEXT: CommonEvents_5/79/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_5/79/Choice/1
+Stick it in your breasts#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ふふっ…私と交尾したいのね…？
 
 いいわよ、最高の時間にしましょう…♡
-> CONTEXT: CommonEvents_5/81/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_5/81/Dialogue/highslag_fc1
+Fufu, so you want to mate with me?
 
+That's fine by me, let's have a supremely
+wonderful time together. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ふふっ…貴方の『剣』を、私に味わわせてくれるの…？
 
 それは楽しみね…♡
-> CONTEXT: CommonEvents_5/89/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_5/89/Dialogue/highslag_fc1
+Fufu... you'll let me have a taste of your
+"sword"?
 
+I'm looking forward to it. ♡#Ron
 > END STRING
