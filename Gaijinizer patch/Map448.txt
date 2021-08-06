@@ -153,7 +153,7 @@ W-Why is there a tea set here of all places?#Ron
 > CONTEXT: Map448/events/23/pages/0/7/Dialogue/enemy15
 Oh, that?
 
-Tom-Tom uses it. But since we're in a barrier
+Tommie uses it. But since we're in a barrier
 it should be fine for you to use it if you want.#CheckLater
 > END STRING
 
