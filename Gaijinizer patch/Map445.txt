@@ -21,7 +21,7 @@ That was nicely dodged, \\N[1]-kun.#Ron
 予想以上に\\C[10]『世界融解』\\C[0]のスピードが早いな…
 > CONTEXT: Map445/events/1/pages/0/13/Dialogue/sirousagi_fc1
 \\}A low-level high slug girl has been strengthened this
-much? The \\C[10]world fusion\\C[0] is happening much faster than
+much? The \\C[10]World Fusion\\C[0] is happening much faster than
 I expected.#Ron
 > END STRING
 
@@ -92,10 +92,10 @@ helpers from another world to attack.#Ron
 こういう眷属でもない刺客に対しては
 ちょっと想定外だったかな……
 > CONTEXT: Map445/events/1/pages/0/50/Dialogue/sirousagi_fc1
-Our countermeasures against Abaddon were perfect
-themselves, but for a being that doesn't have
-underlings to be sending assassins was outside of
-our expectations.#Ron
+Our countermeasures were tailored to be perfect
+against Abaddon themselves. For a being without
+underlings to send assassins was completely
+outside our expectations.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -116,8 +116,8 @@ of that interested me.#Ron
 フフフ…その表情、すごく虐め甲斐がありそう…♡
 > CONTEXT: Map445/events/1/pages/0/62/Dialogue/highslag_fc1
 But toying with you seems like it would be very
-interesting. Fufufu... it looks like bullying you
-would be very much worth my time. ♡#RonIffyWording
+interesting. Fufufu... Tormenting you seems like
+it would be very much worth my time. ♡#RonIffyWording
 > END STRING
 
 > BEGIN STRING
