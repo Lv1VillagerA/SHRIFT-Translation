@@ -122,9 +122,9 @@ A demon is a demon, but I have a hard time
 dealing with ones that aren't hostile at all.
 
 
-Especially when I'm not in the middle of
-escaping, and there's no reason to be guarded
-since she's on my side.#CheckLater
+Especially when I'm not trying to escape from
+them and they've declared themselves to be an
+ally... I can't help but be wary...#Ron
 > END STRING
 
 > BEGIN STRING

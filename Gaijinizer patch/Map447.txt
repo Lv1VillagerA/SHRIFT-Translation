@@ -220,7 +220,7 @@ It's not any of those things... umm...#Ron
 (N-No! I can't let myself get worked up.
 
  Not after I was just told how much I was
- "oozing out" or whatever.)#Ron
+ "oozing" masochist vibes or whatever.)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -278,7 +278,7 @@ summoned me here?#Ron
 Bingo.
 
 That girl and I are "monsters"... for now you can
-just call us \\C[2]monmusumes\\C[0].#Ron
+just call us \\C[2]monster girls\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -298,7 +298,7 @@ use squeezing humans as a means of reproduction.#Ron
 
 『魔物』、か……
 > CONTEXT: Map447/events/1/pages/0/177/Dialogue/kazuya
-Monmusumes...
+Monster girls...
 
 Monsters...#Ron
 > END STRING
@@ -396,9 +396,9 @@ those twins who tricked Mukuro?!!#Ron
 ホントにアイツから何も教えられてないんだね 
 まぁ…相手に教えないのは、ボクもあまり人のこと言えないか 
 > CONTEXT: Map447/events/1/pages/0/234/Dialogue/sirousagi_fc1
-Honestly, she hasn't told me a thing about what's
-going on. Not that I'm in any position to
-criticize someone else for that.#CheckLater
+Huh? That's all you know? She really hasn't told
+you anything, has she? Not that I'm in any
+position to criticize someone else for that.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -418,12 +418,12 @@ time.#Ron
 
 そうなればボクの居る世界も、遅かれ早かれその影響を受ける
 > CONTEXT: Map447/events/1/pages/0/247/Dialogue/sirousagi_fc1
-You're not the only one they're after, they're
-going to put not just this world... but
-everything connected to interventions in jeopardy.
-
+You're not the only one they're after. They're
+going to not just threaten this world... any
+world ever affected by an Intervention will
+be in jeopardy.
 And if that happens, my world will also be
-affected sooner or later.#RonIffyWording
+affected, sooner or later.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -619,10 +619,10 @@ is drawn to you.#Ron
 
 『そういうオーラが滲み出てる』\\N[1]くん。
 > CONTEXT: Map447/events/1/pages/0/370/Dialogue/sirousagi_fc1
-So while it's plenty possible you might be
-sexually approached by her, given the situation
-try to keep it in moderation, okay? Mr. "Oozing"
-\\N[1]-kun.#RonIffyWording
+So while it's definitely possible you might be
+sexually approached by her... given everything
+that's happening, try to keep it in moderation,
+okay Masochist-kun?#RonIffyWording
 > END STRING
 
 > BEGIN STRING

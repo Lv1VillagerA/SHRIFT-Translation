@@ -10317,7 +10317,7 @@ One of Yami's support skills. Drastically increases
 > BEGIN STRING
 魔撃の号令
 > CONTEXT: Skills/900/name
-Demon Attack Order#RonIffyWording
+Sovereign's Magic Decree#RonIffyWording
 > END STRING
 
 > BEGIN STRING

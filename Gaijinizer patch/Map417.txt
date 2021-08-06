@@ -58,10 +58,10 @@ right?#Ron#Ron
 
 こんな使い方があったとは……
 > CONTEXT: Map417/events/1/pages/0/57/Dialogue/sirousagi_fc1
-It's a pretty delicate part of human beings, but
-you've managed to carve yourself out a place
-nicely. I didn't think you could use it like
-this.#RonIffy
+Considering how fragile this part of human beings
+can be, you've managed to carve yourself out a
+nice little spot in here. To think you could
+actually use it like this...#RonIffy
 > END STRING
 
 > BEGIN STRING

@@ -132,10 +132,10 @@ So then... what're you waiting for here?#Ron
 
 あとは向こうとの\\C[2]『タイミング』\\C[0]を待つだけ……
 > CONTEXT: Map419/events/1/pages/0/72/Dialogue/sirousagi_fc1
-You coming here creates an "opportunity", and the
-hand of this clock has started moving towards
-that time. All that's left is to wait until it
-points to the right \\C[2]timing\\C[0].#RonIffyWording
+You coming here has created an "opportunity", and
+the hands of this clock have started moving toward
+that time. All we have to do is wait for it to
+point to the \\C[2]right moment\\C[0]...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -143,8 +143,8 @@ points to the right \\C[2]timing\\C[0].#RonIffyWording
 
 時間になったら、また教えるからさ。
 > CONTEXT: Map419/events/1/pages/0/77/Dialogue/sirousagi_fc1
-Well, though I did rush you over here, you can
-just make yourself at home. I'll let you know
+Well, even though I did rush you over here, you
+can just make yourself at home. I'll let you know
 when the time comes.#RonIffy
 > END STRING
 

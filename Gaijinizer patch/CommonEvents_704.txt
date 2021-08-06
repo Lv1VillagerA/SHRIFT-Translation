@@ -12,9 +12,10 @@ Whoa!!#Ron
 
 大きく体勢を崩して転倒してしまった！！
 > CONTEXT: CommonEvents_704/18/Dialogue
-Because \\N[1] was a fraction of a second too slow, he
-ended up getting grazed by the attack, causing his
-stance to crumble and making him fall to the ground!!#RonIffyWording
+\\N[1] was a fraction of a second too slow, and the
+attack grazes him...
+
+His stance crumbles and he falls to the ground!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -186,7 +187,7 @@ C-Children?!#Ron
 > CONTEXT: CommonEvents_704/141/Dialogue/highslag_fc1
 What are you so surprised about? Do "demons" here
 not attack humans for reproductive purposes like
-us monsters?#CheckLater
+us monsters?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -245,8 +246,8 @@ you'd like.
 > CONTEXT: CommonEvents_704/188/Dialogue
 Though one of her hands is opening up clothes to show her
 cleavage, the other is still holding the rapier pointed
-right at me. She's trying to get my guard down, but this
-is a trap.#RonIffy
+right at me. She's trying to get my guard down... this
+is clearly a trap.#RonIffy
 > END STRING
 
 > BEGIN STRING
