@@ -35,7 +35,7 @@ Do you actually enjoy being seduced like this?#Ron
 > CONTEXT: CommonEvents_704/46/Dialogue/highslag_fc1
 Now then, there is no more escape. ♡
 
-Be a good boy and become my spouse. ♡#Ron
+Be a good boy and become my mate. ♡#Ron
 > END STRING
 
 > BEGIN STRING

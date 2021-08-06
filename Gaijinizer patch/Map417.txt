@@ -89,9 +89,9 @@ Hmmm?#Ron
 ボクとは初対面なんだっけ。
 > CONTEXT: Map417/events/1/pages/0/68/Dialogue/sirousagi_fc1
 Ah, I get it now!
-
-I think Kazuya-kun first met me through
-\\N[1]-kun here.#CheckLater
+The Kazuya-kun I met isn't the same as the
+\\N[1]-kun here. So I guess that means this
+is technically our first time meeting.#RonLocalization
 > END STRING
 
 > BEGIN STRING
