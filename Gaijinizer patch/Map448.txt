@@ -210,8 +210,8 @@ Sheep「Hey, long time no see.」#Ron
 　　ベッドはさすがに持ってこれなかったけどね……」
 > CONTEXT: Map448/events/24/pages/0/2/Dialogue
 Sheep「\\C[2]I've brought the save point and item box here with me.\\C[0]
-       
-	   Obviously I couldn't bring the bed, too.」#Ron
+
+       Obviously I couldn't bring the bed, too.」#Ron
 > END STRING
 
 > BEGIN STRING
