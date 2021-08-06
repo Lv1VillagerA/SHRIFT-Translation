@@ -51,9 +51,9 @@ Gh?!#Ron
 引き抜こうとしたがビクともしない…！！
 > CONTEXT: CommonEvents_704/52/Dialogue
 I tried putting strength into my legs to stand back up,
-but \\C[2]High Slug Girl's slug body was already covering
-my legs! I can't move them even a little to try and pull
-them out!!#Ron
+but \\C[2]High Slug Girl's slug body was already covering them!
+I can't seem to move them even a little to pull
+them out...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -86,9 +86,10 @@ My consciousness is...#Ron
 既にハイスラッグ娘は、レイピアを 
 自身の手に持ち直している…… 
 > CONTEXT: CommonEvents_704/101/Dialogue
-This time I focused on positioning myself back in front
-of her while evading her attacks, but High Slug Girl had
-already moved the rapier back into her hand.#RonIffyWording
+This time I focused on moving back to the front of her
+while dodging her attacks, but by the time I got there
+the High Slug Girl had already moved the rapier back
+into her hand.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -325,7 +326,7 @@ holding the blade in her hand!#Ron
 It's no good, \\N[1]!
 
 The way things are now, \\C[2]you still can't relax
-your evasion stance!!#Ron
+your evasive stance!!#Ron
 > END STRING
 
 > BEGIN STRING

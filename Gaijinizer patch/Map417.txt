@@ -12,7 +12,7 @@ No one's here?#Ron
 > BEGIN STRING
 ばばーん！！
 > CONTEXT: Map417/events/1/pages/0/31/Dialogue/sirousagi_fc1
-Taa daa!!#RonIffy
+Tada!!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -27,10 +27,10 @@ Taa daa!!#RonIffy
 
 ……いや、ホントにどこから飛んできた！？
 > CONTEXT: Map417/events/1/pages/0/35/Dialogue
-Some mysterious person wearing rabbit-like clothes has
-suddenly jumped out from out of nowhere.
+Some mysterious person wearing rabbit-like clothes
+suddenly jumped out of thin air...
 
-Where on earth did they appear from?!#RonIffyWording
+...Where on earth did they come from?!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -39,7 +39,7 @@ Where on earth did they appear from?!#RonIffyWording
 いきなり飛び出してきたように見えたが………
 > CONTEXT: Map417/events/1/pages/0/40/Dialogue
 It looked like she suddenly popped out of nothing without
-any warning.#Ron
+any warning...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -49,7 +49,8 @@ any warning.#Ron
 > CONTEXT: Map417/events/1/pages/0/53/Dialogue/sirousagi_fc1
 Haah, I'm finally here.
 
-This is the fabled "My Room" space, right?#Ron
+This is the fabled space they call "My Room",
+right?#Ron#Ron
 > END STRING
 
 > BEGIN STRING
@@ -151,7 +152,7 @@ always.#Ron
 > CONTEXT: Map417/events/1/pages/0/97/Dialogue/sirousagi_fc1
 Now that's enough of the long-winded chit-chat,
 let's be on our way lickety-split. I don't think
-this whole "world fusion" thing is good for
+this whole "World Fusion" thing is good for
 either of us.#RonLocalization
 > END STRING
 
@@ -195,7 +196,7 @@ brief answers.#Ron
 > CONTEXT: Map417/events/1/pages/0/118/Dialogue/sirousagi_fc1
 What lies ahead of you here is Cheshire's \\C[2]Tea
 Party\\C[0]. You'll need to get a grip on the
-\\C[10]world fusion \\C[0]that's going to happen and try
+\\C[10]World Fusion \\C[0]that's going to happen and try
 to prevent it.#Ron
 > END STRING
 

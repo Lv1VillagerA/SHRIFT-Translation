@@ -4,9 +4,10 @@
 
 突然飛んできた斬撃に、ハイスラッグ娘が思わず身を退いた！
 > CONTEXT: Map447/events/1/pages/0/14/Dialogue
-Just as I was being covered by her slug body and I lost
-consciousness, High Slug Girl unconsciously pulled back in
-response to a slashing attack suddenly flying at her.#RonIffyWording
+Just as I was being covered by her slug body and was
+losing consciousness... High Slug Girl unconsciously
+pulled back in response to a slashing attack
+suddenly flying at her!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -16,8 +17,8 @@ response to a slashing attack suddenly flying at her.#RonIffyWording
 きわどい和服を着た悪魔が立っていた……
 > CONTEXT: Map447/events/1/pages/0/18/Dialogue
 When my hazy consciousness came back to me, I saw my
-rescuer standing in front of me. A demon dressed in risque
-Japanese clothing.#RonIffyWording
+rescuer standing in front of me... a demon dressed in
+risque Japanese clothing.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -47,7 +48,7 @@ looks like you got here just in the nick of time.#Ron
 ネコマタの\\C[2]『夜深（やみ）』\\C[0]ちゃん！
 > CONTEXT: Map447/events/1/pages/0/31/Dialogue/sirousagi_fc1
 Though she may be a demon, she is the "Sovereign"
-who protects humanity, the nekomata \\C[2]Yami\\C[0]-chan!#Ron
+who protects humanity, the Nekomata \\C[2]Yami\\C[0]-chan!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -103,13 +104,13 @@ are slim.#Ron
 That's fine, I'll withdraw for now.
 
 It would seem I need to revise my fighting style
-now that I know you have that sort of interest.#Ron
+now that I know you're interested in "that"...#Ron
 > END STRING
 
 > BEGIN STRING
 そ、『その気』…？
 > CONTEXT: Map447/events/1/pages/0/77/Dialogue/kazuya
-I-Interest?#Ron
+T-That?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -241,9 +242,9 @@ before. Different from the aura demons have.#Ron
 この結界って、一体何なんだろう？
 > CONTEXT: Map447/events/1/pages/0/147/Dialogue/enemy15
 I thought that this barrier over us might have
-been her doing, but seeing as how it's still up
-even after she's gone, I suppose it wasn't. Just
-what on earth is it?#Ron
+been her doing... but seeing that it didn't
+disappear even after she left, I suppose it
+wasn't. Just what on earth is it?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -321,9 +322,9 @@ imaginary space.#Ron
 ……まぁ、詳しい説明は、全員揃ってからにするつもり
 > CONTEXT: Map447/events/1/pages/0/189/Dialogue/sirousagi_fc1
 You're one of the "guests" I called here for the
-purpose of saving \\N[1]-kun here. The rest
-of the details can wait until everyone else is
-gathered here, though.#Ron
+purpose of helping \\N[1]-kun. The rest of the
+details can wait until everyone else has
+finally gathered.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -332,7 +333,7 @@ gathered here, though.#Ron
 さっきのナメクジの子みたいな相手から
 今みたいに守って欲しいってこと？ 
 > CONTEXT: Map447/events/1/pages/0/194/Dialogue/enemy15
-Save him?
+Helping him?
 
 You mean you wanted me to protect him from that
 slug girl before?#Ron

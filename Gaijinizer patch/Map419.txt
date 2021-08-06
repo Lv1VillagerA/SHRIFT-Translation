@@ -100,9 +100,9 @@ that protects us against Abaddon's attacks.#Ron
 あの世界、いま別の問題を抱えてて
 アバドーンの影響がなくてもヤバい状況なんだ。
 > CONTEXT: Map419/events/1/pages/0/54/Dialogue/sirousagi_fc1
-I thought I'd get the "guests" from my world first
-but that world has its own problems right now,
-and things are bad enough there even without
+I thought I'd get the "guests" from my world
+first, but that world has its own problems right
+now... Things are bad enough there even without
 Abaddon's influence.#Ron
 > END STRING
 
@@ -112,10 +112,10 @@ Abaddon's influence.#Ron
 
 そこでこの『待合室』ってワケさ。
 > CONTEXT: Map419/events/1/pages/0/59/Dialogue/sirousagi_fc1
-So making a gate they could freely come and go
-through would be too dangerous, I can't make the
-situation too complicated. And that's why we have
-this "waiting room".#RonIffyWording
+Making a gate they could freely go through would
+be too dangerous... and I don't want to
+complicate this even further.
+That's why we have this "waiting room".#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -270,7 +270,7 @@ world get in here?#Ron
 > CONTEXT: Map419/events/1/pages/0/155/Dialogue/sirousagi_fc1
 And that feeling coming from her...
 
-Is it all an effect of the \\C[10]world fusion?\\C[0]
+Is it all an effect of the \\C[10]World Fusion?\\C[0]
 Did she run into Abaddon?#Ron
 > END STRING
 
@@ -302,7 +302,7 @@ help with something.#Ron
 
 いきなり、ここに連れてこられたってわけ。
 > CONTEXT: Map419/events/1/pages/0/172/Dialogue/highslag_fc1
-I told them I didn't know what this \\C[10]world fusion\\C[0]
+I told them I didn't know what this \\C[10]World Fusion\\C[0]
 was, but that I'd go with them since I had some
 free time. And the moment I said that I was
 suddenly brought here.#Ron
@@ -338,7 +338,7 @@ about, aren't you?#Ron
 Those twins asked me to dispose of you, whether
 by using violence, or by making a meal out of you.
 They said I could even make you into my mate if
-I took a liking to you. ♡
+I took a liking to you. ♡#Ron
 > END STRING
 
 > BEGIN STRING
