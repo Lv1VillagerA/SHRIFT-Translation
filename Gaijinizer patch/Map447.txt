@@ -573,24 +573,29 @@ be a part of her that's picked up on it.#Ron
 お茶会の『ゲスト』は、呼ばれた世界はバラバラだけど
 
 みんなキミと何かしら『因縁』がある人物ばかりなんだ。
-> CONTEXT: Map447/events/1/pages/0/344/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map447/events/1/pages/0/344/Dialogue/sirousagi_fc1
+The tea party guests may have been called from
+various different worlds, but all of them have
+some kind of connection to you.#Ron
 > END STRING
 
 > BEGIN STRING
 夜深ちゃん、\\N[1]くんとは別の世界の子だけど 
 
 実はキミとは結構因縁のある悪魔なんだよ 
-> CONTEXT: Map447/events/1/pages/0/348/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map447/events/1/pages/0/348/Dialogue/sirousagi_fc1
+Yami-chan is from a world different to yours, but
+she's a demon you have quite a substantial link
+with.#Ron
 > END STRING
 
 > BEGIN STRING
 夜深ちゃんの世界の\\N[1]くん……
 
 実は、\\C[2]夜深ちゃんの猫だった頃の元飼い主なんだよね
-> CONTEXT: Map447/events/1/pages/0/353/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map447/events/1/pages/0/353/Dialogue/sirousagi_fc1
+The \\N[1]-kun of her world \\C[2]was actually her
+owner back when she was in cat form.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -598,8 +603,13 @@ be a part of her that's picked up on it.#Ron
 彼女自身は子猫だったから、キミがそうだって気付いてない。
 
 でも、心のどこかで気になってはいるはずだよ。
-> CONTEXT: Map447/events/1/pages/0/363/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map447/events/1/pages/0/363/Dialogue/sirousagi_fc1
+He supposedly vanished one day before she turned
+into a demon, but since she was a kitten at the
+time, she herself hasn't yet realized who you are.
 
+But deep down, there'll be some part of her that
+is drawn to you.#Ron
 > END STRING
 
 > BEGIN STRING
