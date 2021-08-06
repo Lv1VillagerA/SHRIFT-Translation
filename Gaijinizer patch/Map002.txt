@@ -2505,13 +2505,13 @@ Do you want to watch this scene?#Ron
 > BEGIN STRING
 ハイスラッグ娘  if(s[688])
 > CONTEXT: Map002/events/1/pages/0/2827/Choice/0
-High Slug Girl  if(s[688])
+High Slug Girl  if(s[688])#Ron
 > END STRING
 
 > BEGIN STRING
 ブラックドッグ if(s[692])
-> CONTEXT: Map002/events/1/pages/0/2827/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2827/Choice/1
+Black Dog if(s[692])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2594,43 +2594,47 @@ Do you want to view this scene?#Ron
 
 > BEGIN STRING
 "ヒント：単独のブラドに負ける"
-> CONTEXT: Map002/events/1/pages/0/2920/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2920/InlineScript/2:1
+"Hint: Lose to a single Black Dog"#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：ラッシュ戦闘時に負ける"
-> CONTEXT: Map002/events/1/pages/0/2928/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/2985/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2928/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/2985/InlineScript/2:1
+"Hint: Lose the rush battle"#Ron
 > END STRING
 
 > BEGIN STRING
 パイズリ en(s[693])
-> CONTEXT: Map002/events/1/pages/0/2934/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2934/Choice/0
+Paizuri en(s[693])#Ron
 > END STRING
 
 > BEGIN STRING
 集団 en(s[694])
-> CONTEXT: Map002/events/1/pages/0/2934/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2934/Choice/1
+Group en(s[694])#Ron
 > END STRING
 
 > BEGIN STRING
 【ブラックドッグ】：パイズリ
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2938/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2938/Dialogue
+[Black Dog]: Paizuri
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【ブラックドッグ】：集団搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2954/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2954/Dialogue
+[Black Dog]: Group Squeezing
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING

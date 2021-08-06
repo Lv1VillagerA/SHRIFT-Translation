@@ -1,6 +1,6 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 仲間たちとの繋がりが絶たれてしまった………
-> CONTEXT: CommonEvents_785/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_785/49/Dialogue
+Your connection to your comrades has been cut off...#Ron
 > END STRING
