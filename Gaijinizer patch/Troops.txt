@@ -16928,7 +16928,7 @@ High Slug Girl appears!#Ron
 > CONTEXT: Troops/351/pages/1/16/Dialogue
 > CONTEXT: Troops/385/pages/3/4/Dialogue
 > CONTEXT: Troops/385/pages/4/4/Dialogue
-High Slug Girl has started emitting an ominous aura.#Ron
+High Slug Girl has started emitting an ominous aura...#Ron
 > END STRING
 
 > BEGIN STRING

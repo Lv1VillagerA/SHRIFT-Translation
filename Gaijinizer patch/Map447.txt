@@ -4,9 +4,10 @@
 
 突然飛んできた斬撃に、ハイスラッグ娘が思わず身を退いた！
 > CONTEXT: Map447/events/1/pages/0/14/Dialogue
-Just as I was being covered by her slug body and I lost
-consciousness, High Slug Girl unconsciously pulled back in
-response to a slashing attack suddenly flying at her.#RonIffyWording
+Just as I was being covered by her slug body and was
+losing consciousness... High Slug Girl unconsciously
+pulled back in response to a slashing attack
+suddenly flying at her!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -16,8 +17,8 @@ response to a slashing attack suddenly flying at her.#RonIffyWording
 きわどい和服を着た悪魔が立っていた……
 > CONTEXT: Map447/events/1/pages/0/18/Dialogue
 When my hazy consciousness came back to me, I saw my
-rescuer standing in front of me. A demon dressed in risque
-Japanese clothing.#RonIffyWording
+rescuer standing in front of me... a demon dressed in
+risque Japanese clothing.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -47,7 +48,7 @@ looks like you got here just in the nick of time.#Ron
 ネコマタの\\C[2]『夜深（やみ）』\\C[0]ちゃん！
 > CONTEXT: Map447/events/1/pages/0/31/Dialogue/sirousagi_fc1
 Though she may be a demon, she is the "Sovereign"
-who protects humanity, the nekomata \\C[2]Yami\\C[0]-chan!#Ron
+who protects humanity, the Nekomata \\C[2]Yami\\C[0]-chan!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -103,13 +104,13 @@ are slim.#Ron
 That's fine, I'll withdraw for now.
 
 It would seem I need to revise my fighting style
-now that I know you have that sort of interest.#Ron
+now that I know you're interested in "that"...#Ron
 > END STRING
 
 > BEGIN STRING
 そ、『その気』…？
 > CONTEXT: Map447/events/1/pages/0/77/Dialogue/kazuya
-I-Interest?#Ron
+T-That?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -219,7 +220,7 @@ It's not any of those things... umm...#Ron
 (N-No! I can't let myself get worked up.
 
  Not after I was just told how much I was
- "oozing out" or whatever.)#Ron
+ "oozing" masochist vibes or whatever.)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -241,9 +242,9 @@ before. Different from the aura demons have.#Ron
 この結界って、一体何なんだろう？
 > CONTEXT: Map447/events/1/pages/0/147/Dialogue/enemy15
 I thought that this barrier over us might have
-been her doing, but seeing as how it's still up
-even after she's gone, I suppose it wasn't. Just
-what on earth is it?#Ron
+been her doing... but seeing that it didn't
+disappear even after she left, I suppose it
+wasn't. Just what on earth is it?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -277,7 +278,7 @@ summoned me here?#Ron
 Bingo.
 
 That girl and I are "monsters"... for now you can
-just call us \\C[2]monmusumes\\C[0].#Ron
+just call us \\C[2]monster girls\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -297,7 +298,7 @@ use squeezing humans as a means of reproduction.#Ron
 
 『魔物』、か……
 > CONTEXT: Map447/events/1/pages/0/177/Dialogue/kazuya
-Monmusumes...
+Monster girls...
 
 Monsters...#Ron
 > END STRING
@@ -321,9 +322,9 @@ imaginary space.#Ron
 ……まぁ、詳しい説明は、全員揃ってからにするつもり
 > CONTEXT: Map447/events/1/pages/0/189/Dialogue/sirousagi_fc1
 You're one of the "guests" I called here for the
-purpose of saving \\N[1]-kun here. The rest
-of the details can wait until everyone else is
-gathered here, though.#Ron
+purpose of helping \\N[1]-kun. The rest of the
+details can wait until everyone else has
+finally gathered.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -332,7 +333,7 @@ gathered here, though.#Ron
 さっきのナメクジの子みたいな相手から
 今みたいに守って欲しいってこと？ 
 > CONTEXT: Map447/events/1/pages/0/194/Dialogue/enemy15
-Save him?
+Helping him?
 
 You mean you wanted me to protect him from that
 slug girl before?#Ron
@@ -395,9 +396,9 @@ those twins who tricked Mukuro?!!#Ron
 ホントにアイツから何も教えられてないんだね 
 まぁ…相手に教えないのは、ボクもあまり人のこと言えないか 
 > CONTEXT: Map447/events/1/pages/0/234/Dialogue/sirousagi_fc1
-Honestly, she hasn't told me a thing about what's
-going on. Not that I'm in any position to
-criticize someone else for that.#CheckLater
+Huh? That's all you know? She really hasn't told
+you anything, has she? Not that I'm in any
+position to criticize someone else for that.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -417,12 +418,12 @@ time.#Ron
 
 そうなればボクの居る世界も、遅かれ早かれその影響を受ける
 > CONTEXT: Map447/events/1/pages/0/247/Dialogue/sirousagi_fc1
-You're not the only one they're after, they're
-going to put not just this world... but
-everything connected to interventions in jeopardy.
-
+You're not the only one they're after. They're
+going to not just threaten this world... any
+world ever affected by an Intervention will
+be in jeopardy.
 And if that happens, my world will also be
-affected sooner or later.#RonIffyWording
+affected, sooner or later.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -573,24 +574,29 @@ be a part of her that's picked up on it.#Ron
 お茶会の『ゲスト』は、呼ばれた世界はバラバラだけど
 
 みんなキミと何かしら『因縁』がある人物ばかりなんだ。
-> CONTEXT: Map447/events/1/pages/0/344/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map447/events/1/pages/0/344/Dialogue/sirousagi_fc1
+The tea party guests may have been called from
+various different worlds, but all of them have
+some kind of connection to you.#Ron
 > END STRING
 
 > BEGIN STRING
 夜深ちゃん、\\N[1]くんとは別の世界の子だけど 
 
 実はキミとは結構因縁のある悪魔なんだよ 
-> CONTEXT: Map447/events/1/pages/0/348/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map447/events/1/pages/0/348/Dialogue/sirousagi_fc1
+Yami-chan is from a world different to yours, but
+she's a demon you have quite a substantial link
+with.#Ron
 > END STRING
 
 > BEGIN STRING
 夜深ちゃんの世界の\\N[1]くん……
 
 実は、\\C[2]夜深ちゃんの猫だった頃の元飼い主なんだよね
-> CONTEXT: Map447/events/1/pages/0/353/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map447/events/1/pages/0/353/Dialogue/sirousagi_fc1
+The \\N[1]-kun of her world \\C[2]was actually her
+owner back when she was in cat form.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -598,8 +604,13 @@ be a part of her that's picked up on it.#Ron
 彼女自身は子猫だったから、キミがそうだって気付いてない。
 
 でも、心のどこかで気になってはいるはずだよ。
-> CONTEXT: Map447/events/1/pages/0/363/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map447/events/1/pages/0/363/Dialogue/sirousagi_fc1
+He supposedly vanished one day before she turned
+into a demon, but since she was a kitten at the
+time, she herself hasn't yet realized who you are.
 
+But deep down, there'll be some part of her that
+is drawn to you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -608,10 +619,10 @@ be a part of her that's picked up on it.#Ron
 
 『そういうオーラが滲み出てる』\\N[1]くん。
 > CONTEXT: Map447/events/1/pages/0/370/Dialogue/sirousagi_fc1
-So while it's plenty possible you might be
-sexually approached by her, given the situation
-try to keep it in moderation, okay? Mr. "Oozing"
-\\N[1]-kun.#RonIffyWording
+So while it's definitely possible you might be
+sexually approached by her... given everything
+that's happening, try to keep it in moderation,
+okay Masochist-kun?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
