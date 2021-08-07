@@ -4,52 +4,61 @@
 
 ひとまず、直接追っては来れないみたいだ…
 焦ったぁ……
-> CONTEXT: Map458/events/2/pages/0/8/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/8/Dialogue/sirousagi_fc1
+...That should work for now.
 
+At the very least, he doesn't seem able to
+chase us directly. That was unnerving...#Amaboye
 > END STRING
 
 > BEGIN STRING
 いたたた………
 
 お尻打った……
-> CONTEXT: Map458/events/2/pages/0/14/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/14/Dialogue/ruka_fc1
+Owowow... I landed butt first...#Amaboye
 > END STRING
 
 > BEGIN STRING
 あの……夜深ちゃん………
 
 なんでいつの間に正面から抱きついてるの……？
-> CONTEXT: Map458/events/2/pages/0/19/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/19/Dialogue/kazuya-0
+Um... Yami-chan...
+When did you start hugging me from the front?#Amaboye
 > END STRING
 
 > BEGIN STRING
 えへへ、ごめんね
 
 しっかり掴まりすぎちゃった
-> CONTEXT: Map458/events/2/pages/0/23/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/23/Dialogue/enemy15
+Ehehe, sorry...
 
+It seems I held on too tight.#Amaboye
 > END STRING
 
 > BEGIN STRING
 …ドサクサに紛れて何をイチャイチャしておる…
-> CONTEXT: Map458/events/2/pages/0/30/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/30/Dialogue/alice_fc5
+...Don't use a panic as an excuse to flirt...#Amaboye
 > END STRING
 
 > BEGIN STRING
 こ、ここは……学校…？
-> CONTEXT: Map458/events/2/pages/0/40/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/40/Dialogue/kazuya
+Th... this is... a school...?
 > END STRING
 
 > BEGIN STRING
 この世界の学校か……
 
 確かに、神学校や魔導学園に雰囲気は似てるな……
-> CONTEXT: Map458/events/2/pages/0/42/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/42/Dialogue/ruka_fc1
+A school of this world...
 
+The atmosphere does feel similar to those
+seminaries and wizarding academies I saw, huh...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -57,16 +66,21 @@
 
 床にも道具やメモが散乱しているように見えるが、
 普段からこんなに散らかっているような場所なのか？
-> CONTEXT: Map458/events/2/pages/0/46/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/46/Dialogue/alice_fc5
+That being said, let alone people, I can't sense
+any life here at all.
+Tools and memoes are strewn over the floor too,
+is this usually such a messy place?#Amaboye
 > END STRING
 
 > BEGIN STRING
 いや………明らかに様子がおかしい。
 
 まるで、集団で慌てて飛び出した後みたいだ……
-> CONTEXT: Map458/events/2/pages/0/51/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/51/Dialogue/kazuya
+No... this situation is definitely abnormal.
 
+It's as if they all fled in a mass panic...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -74,8 +88,11 @@
 さっきまでみたいな結界の中じゃない……
 
 \\C[2]ということは、実際に逃げた人たちがいる……！
-> CONTEXT: Map458/events/2/pages/0/57/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/57/Dialogue/enemy30
+And judging from this atmosphere, we're in the
+real world, not in a barrier like earlier...
 
+\\C[2]Which means, the people here really did flee!#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
@@ -83,8 +100,11 @@
 さっきの結界内でも、ハイスラッグ娘が待ち伏せしてたんだ。
 
 \\C[2]この世界にも、アバドーンの刺客が来ている可能性は高い。
-> CONTEXT: Map458/events/2/pages/0/64/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/64/Dialogue/sirousagi_fc1
+...That's possible. Even in the earlier barrier,
+that High Slug ambushed us.
+\\C[2]It's likely Abaddon's assassins came to this
+world, too.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -92,14 +112,17 @@
 もしかしたら、逃げ遅れてる人たちがいるかもしれない！
 
 一人の統治者として、放っておけないよ！
-> CONTEXT: Map458/events/2/pages/0/69/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/69/Dialogue/enemy30
+\\N[1]-kun, let's check the situation outside
+this room! There may be people who failed to get
+away!
+As Sovereign, I can't let that happen!#Amaboye
 > END STRING
 
 > BEGIN STRING
 アリス…！
-> CONTEXT: Map458/events/2/pages/0/81/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/81/Dialogue/ruka_fc1
+Alice...!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -107,8 +130,11 @@
 
 それに先ほどの白兎の態度……
 いつものふざけた感じとは、到底思えんしな……
-> CONTEXT: Map458/events/2/pages/0/83/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/83/Dialogue/alice_fc5
+...We're already on this ship, we can't stop now.
 
+White Rabbit's earlier attitude was different,
+too. She doesn't seem to be screwing with us now. #Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -116,8 +142,11 @@
 
 \\C[2]そのためにまず、チェシャとやらの『お茶会』に出席し
 そこで詳しい話を聞くのだな？
-> CONTEXT: Map458/events/2/pages/0/88/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/88/Dialogue/alice_fc5
+Basically, if we defeat "Abaddon", the situation
+will settle down, right?
+\\C[2]And for that we need to go to this Cheshire's
+"tea party" and hear the full story there?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -125,8 +154,11 @@
 
 \\C[2]でもその前に、キミたちや夜深ちゃんみたいな
 『ゲスト』を各世界から拾っていかないといけない。
-> CONTEXT: Map458/events/2/pages/0/95/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/95/Dialogue/sirousagi_fc1
+...Exactly.
 
+\\C[2]But first, we need to pick up our "Guests" like
+you and Yami-chan from each world.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -134,8 +166,11 @@
 それだけじゃアバドーンに勝つためには全く十分じゃない。
 
 なんとしても、『ゲスト』全員を揃えなくちゃいけない……
-> CONTEXT: Map458/events/2/pages/0/100/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/100/Dialogue/sirousagi_fc1
+\\N[1]-kun and Luka are strong, but with just
+that we'll never beat Abaddon.
 
+Our only chance is with all the guests together...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -143,8 +178,11 @@
 それがヤツに挑むための『最低条件』………
 
 これはチェシャとボクも、完全に同意見だよ。
-> CONTEXT: Map458/events/2/pages/0/105/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/105/Dialogue/sirousagi_fc1
+This isn't some baseless fear or leeway, this is
+the "bare minimum" for challenging that thing.
 
+I and Cheshire have the same opinion on this.#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
@@ -152,16 +190,21 @@
 
 仕方ない、どのみちその『ゲスト』を探さねばならんのだ
 早いところ探索にとりかかるぞ。
-> CONTEXT: Map458/events/2/pages/0/115/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/115/Dialogue/alice_fc5
+And so this is one of those worlds, huh...
 
+If we have to get all of the "guests", there's no
+helping it... let's start searching soon.#Amaboye
 > END STRING
 
 > BEGIN STRING
 あれぇ？アリスちゃんにしては随分素直な対応だね。
 
 普段みたいに、ボクをシメて聞き出そうとかしないんだ？
-> CONTEXT: Map458/events/2/pages/0/123/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/123/Dialogue/sirousagi_fc1
+Hmmm? That's rather docile of you, Alice-chan.
 
+You're not gonna hound me for answers like usual?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -169,8 +212,11 @@
 お前が信用ならんから、チェシャに会うというだけだ。
 
 そやつは我々を集めようとしている張本人なのだろう？
-> CONTEXT: Map458/events/2/pages/0/127/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/127/Dialogue/alice_fc5
+...Don't take this the wrong way.
+I'm not trusting you, it just seems meeting
+Cheshire would be better. They're the ringleader
+gathering us all together, right?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -178,8 +224,11 @@
 ゆっくりと事情を聞く機会くらいは設けられるはず。
 
 \\C[0]貴様から無理矢理聞き出すより、そちらの方が情報は確かだ
-> CONTEXT: Map458/events/2/pages/0/132/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/132/Dialogue/alice_fc5
+\\C[2]In that case, I can at least wait to get the
+full picture at that "Tea Party" or whatever.
 
+\\C[0]It sure beats trying to force info out of you.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -187,16 +236,21 @@
 余は空気読まずでも、愚かでもない。
 
 この問題を解決せねば、帰っても意味はないのだろう？
-> CONTEXT: Map458/events/2/pages/0/137/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/137/Dialogue/alice_fc5
+After what happened earlier, I'm neither oblivious
+nor stupid enough to demand our return now.
+There's no point in returning unless we fix this
+problem first, right?#Amaboye
 > END STRING
 
 > BEGIN STRING
 そういうわけだ、\\N[1]。
 
 ルカ共々しばらくの間、お前に協力させてもらうぞ。
-> CONTEXT: Map458/events/2/pages/0/148/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/148/Dialogue/alice_fc5
+That's how it is, \\N[1].
 
+Luka and I will be helping you out for a while.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -204,16 +258,21 @@
 ここにいた人たちのことも気になるし。
 
 一緒に行こう、\\N[1]！
-> CONTEXT: Map458/events/2/pages/0/152/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/152/Dialogue/ruka_fc1
+At any rate, we can't just ignore those who need
+help, and that includes whoever was here.
 
+Let's go, \\N[1]!#Amaboye
 > END STRING
 
 > BEGIN STRING
 ああ、こちらこそ。
 
 心強い味方が増えて、とても嬉しいよ！
-> CONTEXT: Map458/events/2/pages/0/159/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/159/Dialogue/kazuya
+Ah, same to you.
 
+I'm happy we got such strong allies!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -221,8 +280,11 @@
 
 さっき、白兎が言っていたこと……
 \\C[2]『全ての並行世界に関わる、重大なインシデント』……
-> CONTEXT: Map458/events/2/pages/0/165/Dialogue < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/165/Dialogue
+I tried to hide it, but I was flummoxed earlier
+with what White Rabbit was saying...
 
+\\C[2]"A massive incident that involves all worlds"...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -230,8 +292,11 @@
 
 \\C[0]夜深の世界、そしてルカやアリスの世界すら巻き込む
 あの空間を穴だらけにする、大規模なアバドーンの攻撃……
-> CONTEXT: Map458/events/2/pages/0/170/Dialogue < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/170/Dialogue
+\\C[10]"Left alone, the world will be destroyed".
 
+\\C[0]Yami's world and even Luka's and Alice's, all
+riddled with holes by Abaddon's massive assault.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -239,8 +304,11 @@
 
 いったい『双子』は……『アバドーン』は
 何をしようとしているんだ……！？
-> CONTEXT: Map458/events/2/pages/0/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map458/events/2/pages/0/175/Dialogue
+All these absurd developments come one after the
+other...
+What on earth are the twins... is "Abaddon"
+trying to do?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -248,8 +316,10 @@
 
 \\C[2]『アリス』\\C[0]と\\C[2]『夜深』\\C[0]がサポートパートナーとして
 仲間に加わった！
-> CONTEXT: Map458/events/2/pages/0/184/Dialogue < UNTRANSLATED
+> CONTEXT: Map458/events/2/pages/0/184/Dialogue
+\\C[2]Luka\\C[0] joins you as a party member!
 
+\\C[2]Alice\\C[0] and \\C[2]Yami\\C[0] join you as support partners!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -257,48 +327,55 @@
 
 実はちょっと、出発する前に注意事項をいくつか
 教えておきたいんだけど……
-> CONTEXT: Map458/events/9/pages/1/1/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/1/Dialogue/sirousagi_fc1
+Hey, are you ready?
 
+Truth is, before we leave there are some details
+I need you to know...#Amaboye
 > END STRING
 
 > BEGIN STRING
 キミやルカが共闘する上で、とても大事なことなんだ…
 
 是非とも聞いていって欲しいな
-> CONTEXT: Map458/events/9/pages/1/9/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/9/Dialogue/sirousagi_fc1
+It's critical that you understand how fighting
+alongside Luka and the others will work...
 
+Please ask any questions you have now.#Amaboye
 > END STRING
 
 > BEGIN STRING
 『つながり』について
-> CONTEXT: Map458/events/9/pages/1/13/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/13/Choice/0
+About our "bond"#Amaboye
 > END STRING
 
 > BEGIN STRING
 ゲームオーバーの条件
-> CONTEXT: Map458/events/9/pages/1/13/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/13/Choice/1
+Conditions for a game over#Amaboye
 > END STRING
 
 > BEGIN STRING
 この場所での目的
-> CONTEXT: Map458/events/9/pages/1/13/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/13/Choice/2
+What to do here#Amaboye
 > END STRING
 
 > BEGIN STRING
 聞かなくても大丈夫
-> CONTEXT: Map458/events/9/pages/1/13/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/13/Choice/3
+I'm fine, thanks#Amaboye
 > END STRING
 
 > BEGIN STRING
 キミがルカと共闘する上で、最も重要なこと……
 
 それは、\\C[2]『つながり』\\C[0]さ。
-> CONTEXT: Map458/events/9/pages/1/15/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/15/Dialogue/sirousagi_fc1
+The most important bit for you all to fight
+together is your \\C[2]"bond"\\C[0].#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -306,8 +383,11 @@
 あのモヤの中に入ってから、何か変化に気付かない？
 
 主に戦闘面に関して…
-> CONTEXT: Map458/events/9/pages/1/19/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/19/Dialogue/sirousagi_fc1
+Luka, Alice, have you noticed any changes since
+stepping into that haze?
 
+Particularly in how you fight...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -315,8 +395,10 @@
 
 ちょっとだけ身体が重いっていうか、
 うまく力が出せてないような気がする……
-> CONTEXT: Map458/events/9/pages/1/24/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/24/Dialogue/ruka_fc1
+Now that I think about it...
+my body feels a bit heavy?
+Like I can't use my power that well...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -324,8 +406,11 @@
 
 術式に間違いはないはずなのだが
 なにやら魔法の性質が普段と全く違う気がしたぞ。
-> CONTEXT: Map458/events/9/pages/1/29/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/29/Dialogue/alice_fc5
+My magic felt off, too.
 
+The technique should have been perfect, but it
+felt like the magic had a different nature.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -333,8 +418,11 @@
 
 実は、ボクたちの世界と違って、この辺の世界では
 \\C[2]ほとんど空間中のマナっていうか『魔素』がない\\C[0]
-> CONTEXT: Map458/events/9/pages/1/34/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/34/Dialogue/sirousagi_fc1
+Yup, that's to be expected.
 
+Unlike our world, over here \\C[2]there's practically
+none of the ambient magic particles you call mana.\\C[0]#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -342,8 +430,11 @@
 ありとあらゆる行動が、ここら一帯では制限されてしまう
 
 下手すれば、炎魔法が指先程度の大きさになるかもね。
-> CONTEXT: Map458/events/9/pages/1/39/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/39/Dialogue/sirousagi_fc1
+Magic goes without saying, but martial arts and
+anything that uses mana as support is strongly
+limited over here. What was once a blaze might
+now fail to light a match.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -351,8 +442,10 @@
 魔界から直接元素を呼び出す召喚方式なんだけど……
 
 今からキミたちにそんなの教えてる暇ないじゃない？
-> CONTEXT: Map458/events/9/pages/1/44/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/44/Dialogue/sirousagi_fc1
+So the demons here summon the magic they need
+directly from hell instead... but I don't have
+the time to teach you how that works.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -360,8 +453,11 @@
 『つながり』を使って出力をコンバートしてるんだよ。
 
 \\C[0]ルカくんの世界の形式を、そのまま使えるようにね
-> CONTEXT: Map458/events/9/pages/1/49/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/49/Dialogue/sirousagi_fc1
+And so \\C[2]I'm using a "bond" between you and
+\\N[1]-kun from when I went to My Room, and
+converting that into usable power for you.
+\\C[0]That way Luka and Alice can use magic as normal.#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
@@ -369,16 +465,20 @@
 さっきの見てた限りだと、実戦には問題ないみたいだ。
 
 存分に暴れ回ってよ。
-> CONTEXT: Map458/events/9/pages/1/54/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/54/Dialogue/sirousagi_fc1
+The conversion process limits output a bit, but
+from what I saw earlier combat shouldn't be an
+issue.
+Go wild.#Amaboye
 > END STRING
 
 > BEGIN STRING
 （……一番最初に、あの扉の前に現れたのには
 
 　そういう意図もあったのか……）
-> CONTEXT: Map458/events/9/pages/1/59/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/59/Dialogue/kazuya
+(...So that's why she showed up in front of the
+door at the start...)#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -386,8 +486,11 @@
 『キミが詰み状態になる』とき……
 
 まぁ、\\C[2]『つながり』が絶たれてしまえば終わりだね
-> CONTEXT: Map458/events/9/pages/1/65/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/65/Dialogue/sirousagi_fc1
+Game over...
+When the enemy's put you in "checkmate"...
 
+Basically, \\C[2]if you lose your "bonds", it's over.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -395,8 +498,11 @@
 
 \\C[2]本来なら一緒に居られないはずの存在を、
 マイルームの『つながり』を利用して、存在させている。
-> CONTEXT: Map458/events/9/pages/1/70/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/70/Dialogue/sirousagi_fc1
+Yami-chan and Luka are connected to you through
+me. \\C[2]I'm dragging together existences which
+should normally never meet, using My Room's
+"bonds".#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -404,8 +510,11 @@
 
 つまり、\\C[10]『キミが心から快楽に負けてしまったとき』
 ボクの『つながり』は途切れてしまうんだ。
-> CONTEXT: Map458/events/9/pages/1/75/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/75/Dialogue/sirousagi_fc1
+So if My Room becomes unstable... say, \\C[10]by you
+losing yourself to pleasure...
 
+The "bonds" I'm holding for you will break.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -413,8 +522,11 @@
 夜深ちゃんみたいな『ゲスト』も途端に存在できなくなる…
 
 \\C[0]全員、強制的に自分の世界に帰っちゃうって事
-> CONTEXT: Map458/events/9/pages/1/80/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/80/Dialogue/sirousagi_fc1
+\\C[2]If these "bonds" break, all the "guests",
+even those like Yami-chan, will lose their
+ability to hold form here. \\C[0]Everyone will
+be forcibly sent back to their own worlds.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -422,16 +534,21 @@
 
 \\C[10]キミが相手にメロメロになったり、中出ししたりしたら
 その時点で、キミはエサ確定さ。
-> CONTEXT: Map458/events/9/pages/1/85/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/85/Dialogue/sirousagi_fc1
+So, well, the lose condition is same as always.
 
+\\C[10]If you get infatuated or have an internal
+ejaculation, you will become their food.#Amaboye
 > END STRING
 
 > BEGIN STRING
 でも……白兎は複数いるんだろ？
 
 一回絶たれた『つながり』っていうのは、修復不可能なの？
-> CONTEXT: Map458/events/9/pages/1/90/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/90/Dialogue/ruka_fc1
+But aren't there several White Rabbits?
 
+If the "bonds" break, couldn't you repair them?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -439,8 +556,11 @@
 
 \\C[2]ボクは今、白兎として元の世界に干渉できないんだ。
 \\C[0]理由はちょっと言えないけど……
-> CONTEXT: Map458/events/9/pages/1/94/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/94/Dialogue/sirousagi_fc1
+...I can't, actually.
 
+\\C[2]I can't mess with my home world as White Rabbit
+right now. \\C[0]Though I can't really say why...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -448,8 +568,11 @@
 
 簡単に言えば、ボクは孤立無援みたいな状態さ。
 他の身体で来ることも、向こうに戻ることすら出来ない…
-> CONTEXT: Map458/events/9/pages/1/99/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/99/Dialogue/sirousagi_fc1
+Right now I have no link to the "White Rabbit" of
+that world...
+Simply put, I'm isolated right now. I can't bring
+in another body or even go back home.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -457,16 +580,21 @@
 
 距離的に離れることは出来るけど
 \\C[10]この身が消滅する出来事があれば、それもアウトだね
-> CONTEXT: Map458/events/9/pages/1/104/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/104/Dialogue/sirousagi_fc1
+So the me before you is all you get.
+I can take some distance without a problem,
+\\C[10]but if this body is destroyed, that's the
+end, too.#Amaboye
 > END STRING
 
 > BEGIN STRING
 面倒な……
 
 \\N[1]の他に、貴様まで守らねばならんのか…
-> CONTEXT: Map458/events/9/pages/1/109/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/109/Dialogue/alice_fc5
+What a pain...
 
+Not just \\N[1], we have to protect you too?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -474,16 +602,21 @@
 
 ボクは基本的に戦闘に参加しないし、別行動も多い。
 色々やらなきゃいけないこともあるからね。
-> CONTEXT: Map458/events/9/pages/1/113/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/113/Dialogue/sirousagi_fc1
+Nah, I can't put you through that.
+I don't fight in combat, and I have other stuff
+to do.#Amaboye
 > END STRING
 
 > BEGIN STRING
 ま、つまりボクはいつも通りってこと。
 
 二人や夜深ちゃんは、\\N[1]くんの援護に集中してね
-> CONTEXT: Map458/events/9/pages/1/118/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/118/Dialogue/sirousagi_fc1
+Well, basically I'll be going about as usual.
 
+You two and yami-chan, focus on protecting
+\\N[1]-kun.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -491,8 +624,11 @@
 \\C[2]チェシャのお茶会への『ゲスト』を見つけること
 
 \\C[0]人助けもいいけど、最優先の目的はそれだからね。
-> CONTEXT: Map458/events/9/pages/1/124/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/124/Dialogue/sirousagi_fc1
+For the time being, our goal is \\C[2]to find
+Cheshire's Tea Party guests.
+\\C[0]You can save people while you're at it, but
+this is our main objective.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -500,8 +636,11 @@
 
 \\C[0]早いところ全員揃えて
 チェシャのいるお茶会の会場に向かわないと……
-> CONTEXT: Map458/events/9/pages/1/129/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/129/Dialogue/sirousagi_fc1
+Counting this world, \\C[2]there are 2 "guests" left...
 
+\\C[0]We need to quickly bring them together and head
+to Cheshire's Tea Party location.#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
@@ -509,16 +648,20 @@
 ここにもアバドーンの刺客が来ている可能性がある。
 
 十分に注意して進んだ方がいいね
-> CONTEXT: Map458/events/9/pages/1/134/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/134/Dialogue/sirousagi_fc1
+But as I said earlier, it's likely Abaddon's
+assassins are waiting for us here, too.
 
+Stay on guard as you explore.#Amaboye
 > END STRING
 
 > BEGIN STRING
 さっきの転送……万全な状態でのものじゃなかったから
 
 アバドーンが追跡してくる可能性もあるし……
-> CONTEXT: Map458/events/9/pages/1/139/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/139/Dialogue/sirousagi_fc1
+Our last transport wasn't clean either, so
+it's possible Abaddon's following us too...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -526,58 +669,72 @@
 アバドーンとやらにもバレているのではないか？
 
 万全に準備すれば、何が違ったのだ？
-> CONTEXT: Map458/events/9/pages/1/143/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/143/Dialogue/alice_fc5
+If these assassins already have our location,
+wouldn't Abaddon know too?
 
+What would a proper transportation have changed?#Amaboye
 > END STRING
 
 > BEGIN STRING
 正確には『アバドーンが世界に干渉できない対策』だね
 
 あんな虫食い攻撃を毎回されたら、ヤバいでしょ？
-> CONTEXT: Map458/events/9/pages/1/148/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/148/Dialogue/sirousagi_fc1
+To clarify, a proper transport would have used
+measures to "stop Abaddon from interfering"...
+It would be a pain if we faced that spatial
+erosion attack every time, right?#Amaboye
 > END STRING
 
 > BEGIN STRING
 ケーキを『見られてる』のと『喰われる』のは、全然違う。
 
 まぁ、だからこそ、異世界の刺客は予想外だったんだけど…
-> CONTEXT: Map458/events/9/pages/1/152/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/152/Dialogue/sirousagi_fc1
+"Looking at" and "eating" a cake are completely
+different. Well, thanks to that I didn't expect
+these assassins at all though...#Amaboye
 > END STRING
 
 > BEGIN STRING
 とにかく、アバドーンがまた襲ってくる可能性もある
 
 急いでこの世界の『ゲスト』を見つけよう。
-> CONTEXT: Map458/events/9/pages/1/156/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/156/Dialogue/sirousagi_fc1
+Anyways, Abaddon could still come to attack us.
 
+Let's hurry and find the "guest" of this world.#Amaboye
 > END STRING
 
 > BEGIN STRING
 ほんとぉ？
 
 後で『聞いてないよ～！』って泣いても知らないよ？
-> CONTEXT: Map458/events/9/pages/1/162/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map458/events/9/pages/1/162/Dialogue/sirousagi_fc1
+Really?
 
+I don't want to hear any complaints from you
+about this afterwards!#Amaboye
 > END STRING
 
 > BEGIN STRING
 大丈夫
-> CONTEXT: Map458/events/9/pages/1/168/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/168/Choice/0
+I'm fine#Amaboye
 > END STRING
 
 > BEGIN STRING
 ゴメン嘘
-> CONTEXT: Map458/events/9/pages/1/168/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map458/events/9/pages/1/168/Choice/1
+Sorry, I lied#Amaboye
 > END STRING
 
 > BEGIN STRING
 何やら部屋の外が騒がしい……
 
 部屋を出ますか？
-> CONTEXT: Map458/events/10/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map458/events/10/pages/1/2/Dialogue
+It seems noisy outside this room...
+Leave the room?#Amaboye
 > END STRING
