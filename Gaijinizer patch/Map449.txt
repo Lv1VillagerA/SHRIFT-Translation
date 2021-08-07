@@ -17,10 +17,10 @@ aren't the same.#Ron
 使う単語は同じなのに、その立場や意味が違ってるだなんて
 とっても不思議…
 > CONTEXT: Map449/events/1/pages/0/10/Dialogue/enemy15
-Like "Demon Rounds", and "M.O.W."...
-
-We have the same words but their meanings and
-uses are completely different.#RonIffy
+Like "Demon Rounds" and "M.O.W."...
+We use those words, but what they stand for
+and how they are used is completely different.
+It's so strange...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -30,7 +30,7 @@ uses are completely different.#RonIffy
 戦争真っ只中のこっちの世界じゃ、想像もできないな…
 > CONTEXT: Map449/events/1/pages/0/15/Dialogue/kazuya
 Yeah... For someone like me whose world is in the
-middle of the war, it's hard to imagine \\C[2]a world
+middle of war, it's hard to imagine \\C[2]a world
 in which demons and humans co-exist together.#Ron
 > END STRING
 
@@ -122,9 +122,9 @@ A demon is a demon, but I have a hard time
 dealing with ones that aren't hostile at all.
 
 
-Especially when I'm not in the middle of
-escaping, and there's no reason to be guarded
-since she's on my side.#CheckLater
+Especially when I'm not trying to escape from
+them and they've declared themselves to be an
+ally... I can't help but be wary...#Ron
 > END STRING
 
 > BEGIN STRING
