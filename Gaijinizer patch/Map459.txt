@@ -3,24 +3,27 @@
 ？？？「うあああっ……！
 
 　　　　やめてぇ……！も、もうでなっ……ああっ…」
-> CONTEXT: Map459/events/5/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/8/Dialogue
+???- 「Uaaaaah...!
+       Stop...! I-I can't come an... ah...」#Amaboye
 > END STRING
 
 > BEGIN STRING
 ？？？「男の再勃起を確認……
 
 　　　　陵辱フェーズ、再開……」
-> CONTEXT: Map459/events/5/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/15/Dialogue
+???- 「Repeat erection confirmed...
+       Restarting rape phase...」#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
 学生「ああああひぃぃぃ…！♡
 
 　　　は、はなしてぇ……♡こわれるぅ…！♡」
-> CONTEXT: Map459/events/5/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/19/Dialogue
+Student- 「Aaaahiii...!　♡
+           Let me go...♡ I'm breaking...!　♡」
 > END STRING
 
 > BEGIN STRING
@@ -28,30 +31,36 @@
 学生が襲われてる…！！
 
 生きているうちに助けてあげないと！！
-> CONTEXT: Map459/events/5/pages/0/23/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/23/Dialogue/enemy30
+\\N[1]-kun, look!
+That student's being attacked!
 
+Let's save them while we still can!!#Amaboye
 > END STRING
 
 > BEGIN STRING
 くっ……！やめろ！！
 
 その子を離せ！！
-> CONTEXT: Map459/events/5/pages/0/29/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/29/Dialogue/kazuya
+Kuh...! Stop this!
+Let the kid go!#Amaboye
 > END STRING
 
 > BEGIN STRING
 ………新たな対象を、２体、確認……
-> CONTEXT: Map459/events/5/pages/0/45/Dialogue/c_beast_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/45/Dialogue/c_beast_fc1
+...2 new targets detected...#Amaboye
 > END STRING
 
 > BEGIN STRING
 ……\\C[2]キメラビースト！？
 
 \\C[0]どうしてこんなところに…！！
-> CONTEXT: Map459/events/5/pages/0/47/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/47/Dialogue/ruka_fc1
+...\\C[2]Chimera Beast!?
 
+\\C[0]Why is one here...!?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -59,8 +68,11 @@
 
 もしかして、あのキメラビースト……
 \\C[10]『世界融解』\\C[0]の影響を受けてない……？
-> CONTEXT: Map459/events/5/pages/0/51/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/51/Dialogue/sirousagi_fc1
+That kid came, but he's still definitely alive...
 
+...In that case, is that Chimera Beast not
+affected by the \\C[10]"World Fusion"\\C[0]?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -68,8 +80,11 @@
 
 どういうことだ…！
 アバドーンの刺客ではないということか？
-> CONTEXT: Map459/events/5/pages/0/56/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/56/Dialogue/alice_fc6
+What...? What do you mean!?
 
+Are you saying they're not one of Abaddon's
+assassins?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -77,8 +92,11 @@
 \\C[2]刺客の誰かに連れてこられたのか……\\C[0]
 
 可能性としては、そっちの方が高いね。
-> CONTEXT: Map459/events/5/pages/0/61/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/61/Dialogue/sirousagi_fc1
+They could have been \\C[2]brought here by one of the
+assassins\\C[0] like the Black Dogs were instead...
 
+That seems to be more likely.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -86,59 +104,68 @@
 あいつはキメラ種の中でも、完成された個体……
 
 少しでも隙を見せたら、すぐにヤられるよ。
-> CONTEXT: Map459/events/5/pages/0/66/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/66/Dialogue/sirousagi_fc1
+But don't let your guard down...
 
+This is a fully-realized chimera we're dealing
+with, she'll take any opening you give her.#Amaboye
 > END STRING
 
 > BEGIN STRING
 "EX4　キメラビースト"
-> CONTEXT: Map459/events/5/pages/0/74/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map460/events/154/pages/0/22/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/74/InlineScript/2:1
+> CONTEXT: Map460/events/154/pages/0/22/InlineScript/2:1
+"EX4 Chimera Beast"#Amaboye
 > END STRING
 
 > BEGIN STRING
 ………搾精目標、補足……
 
 陵辱準備……開始……
-> CONTEXT: Map459/events/5/pages/0/80/Dialogue/c_beast_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/80/Dialogue/c_beast_fc1
+...Adding targets to list to be squeezed...
+Initializing rape program...#Amaboye
 > END STRING
 
 > BEGIN STRING
 来るよ、\\N[1]くん！！
-> CONTEXT: Map459/events/5/pages/0/84/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/84/Dialogue/enemy30
+\\N[1]-kun, here they come!#Amaboye
 > END STRING
 
 > BEGIN STRING
 ………行動、不能……
 
 一時……退却………
-> CONTEXT: Map459/events/5/pages/0/102/Dialogue/c_beast_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/102/Dialogue/c_beast_fc1
+...Continued action, impossible...
+Temporary... retreat...#Amaboye
 > END STRING
 
 > BEGIN STRING
 き、キミ…！！大丈夫か！？
-> CONTEXT: Map459/events/5/pages/0/141/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/141/Dialogue/kazuya
+H-hey...! Are you alright!?#Amaboye
 > END STRING
 
 > BEGIN STRING
 学生「あ……あへ……♡あぁ……
 
 　　　も、もう出な……♡」
-> CONTEXT: Map459/events/5/pages/0/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/146/Dialogue
+Student- 「Ah... ahe...♡ Aah...
+           N... no more...♡」#Amaboye
 > END STRING
 
 > BEGIN STRING
 …………よかった、まだ１回か２回だったみたいだ……
 
 大した衰弱具合じゃなさそう……
-> CONTEXT: Map459/events/5/pages/0/150/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/150/Dialogue/kazuya
+...Thank goodness, it seems he only came once or
+twice...
 
+He doesn't seem too weakened...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -146,24 +173,31 @@
 吸われたのはギリギリ精気だけっぽいから
 
 魂も吸収されてないし、ひとまず安心だね！
-> CONTEXT: Map459/events/5/pages/0/154/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/154/Dialogue/enemy15
+His body's shaking like crazy, but it seems she
+just barely stopped at his energy, and his soul
+seems intact, so that's a relief!#Amaboye
 > END STRING
 
 > BEGIN STRING
 いや……まぁ……うん……その通りだが……
 
 その判断基準は正直どうなのだ……？
-> CONTEXT: Map459/events/5/pages/0/160/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/160/Dialogue/alice_fc5
+Well... uh... that's true...
 
+But what the hell is that standard...?#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
 でも、彼をここに放置して先に進むわけにもいかないな…
 
 さっきの教室に、この子を運んで避難させよう
-> CONTEXT: Map459/events/5/pages/0/164/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/164/Dialogue/kazuya
+Hm, we can't just leave him here and hurry on...
 
+Let's carry him to that earlier classroom to
+shelter him there.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -171,8 +205,9 @@
 
 アバドーンってやつの刺客が
 まだ近くに潜んでいる可能性が高いし………
-> CONTEXT: Map459/events/5/pages/0/168/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/168/Dialogue/ruka_fc1
+That's true... Abaddon's assassins are probably
+lying in wait somewhere around here, too...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -180,8 +215,10 @@
 \\C[2]『つながり』\\C[0]を使って刺客を喚んでいるのだとすると
 
 そこまで刺客の個体数はいないはずだ……
-> CONTEXT: Map459/events/5/pages/0/176/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/176/Dialogue/sirousagi_fc1
+...If we assume Abaddon is using \\C[2]"bonds"\\C[0] to
+summon assassins the same way I am, then he
+shouldn't have that many...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -189,8 +226,11 @@
 \\C[2]刺客に連れられてきた魔物\\C[0]は違う……
 
 条件はあれど、どんな刺客でも、何体でも呼び込める……
-> CONTEXT: Map459/events/5/pages/0/181/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/181/Dialogue/sirousagi_fc1
+But if \\C[2]they're beasts brought along by the
+assassins\\C[0] like those Black Dogs, things are a
+bit different... Under the right conditions,
+any assassin could summon countless allies...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -198,30 +238,37 @@
 キメラ種の中でも優秀な『キメラビースト』……
 
 これは………
-> CONTEXT: Map459/events/5/pages/0/186/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/186/Dialogue/sirousagi_fc1
+Plus, the earlier chimera was of the advanced
+"Chimera Beast" model...
 
+So there's a chance...#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
 おい、白兎
 
 また何をぶつくさと……
-> CONTEXT: Map459/events/5/pages/0/191/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/191/Dialogue/alice_fc5
+Hey, White Rabbit.
 
+What are you muttering abou...#Amaboye
 > END STRING
 
 > BEGIN STRING
 なっ……！！！
-> CONTEXT: Map459/events/5/pages/0/231/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/231/Dialogue/kazuya
+Wha...!#Amaboye
 > END STRING
 
 > BEGIN STRING
 わぁーお、やっぱりね。
 
 １体で終わるわけないと思ったんだ。
-> CONTEXT: Map459/events/5/pages/0/233/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/233/Dialogue/sirousagi_fc1
+Wow, seems I was right.
 
+I didn't think things would be over with just one.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -229,8 +276,10 @@
 
 \\C[2]このキメラビーストたちは、刺客が意図的に呼んだヤツらだ
 自らの意志で迷い込んだってワケじゃない。
-> CONTEXT: Map459/events/5/pages/0/237/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/237/Dialogue/sirousagi_fc1
+But with this I'm certain:
+\\C[2]These Chimera Beasts were deliberately summoned
+by an assassin, they didn't wander in by chance.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -238,80 +287,95 @@
 悪魔と同じ理で、倒せば元の世界に強制送還だろうけど……
 
 こりゃあ、骨が折れそうだね……
-> CONTEXT: Map459/events/5/pages/0/242/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/242/Dialogue/sirousagi_fc1
+Having been called to this world, defeating them
+should forcibly send them back to their home world
+like with normal demons...
+But these numbers are rough...#Amaboye
 > END STRING
 
 > BEGIN STRING
 対象、３名確認……
 
 うち１名、射精による衰弱を検知……
-> CONTEXT: Map459/events/5/pages/0/248/Dialogue/c_beast_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/248/Dialogue/c_beast_fc1
+3 targets confirmed...
+1 detected to have ejaculation-induced weakness...#Amaboye
 > END STRING
 
 > BEGIN STRING
 他２体を優先的に無力化……
 
 開始……
-> CONTEXT: Map459/events/5/pages/0/253/Dialogue/c_beast_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/253/Dialogue/c_beast_fc1
+Other 2, priority targets to neutralize...
+Beginning...#Amaboye
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん！来るよ！
 
 気をつけて！
-> CONTEXT: Map459/events/5/pages/0/257/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/257/Dialogue/enemy30
+\\N[1]-kun, they're coming!
 
+Stay on guard!#Amaboye
 > END STRING
 
 > BEGIN STRING
 くそっ…！
 
 こっちは抵抗できない一般人が近くにいるってのに…！
-> CONTEXT: Map459/events/5/pages/0/261/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/261/Dialogue/kazuya
+Damn...!
 
+We have a helpless civilian to protect too...!#Amaboye
 > END STRING
 
 > BEGIN STRING
 ったく……
 
 どこから湧いて出てるの…！？こいつら…
-> CONTEXT: Map459/events/5/pages/0/302/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/302/Dialogue/enemy38
+Jeez...
 
+Where are all these things coming from!?#Amaboye
 > END STRING
 
 > BEGIN STRING
 目の前に突如として飛び込んできたのは
 
 女子中学生……にしては随分と身長の高い女の子だった。
-> CONTEXT: Map459/events/5/pages/0/308/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/308/Dialogue
+What suddenly appeared in front of us was a
+middle school girl... a rather tall one at that.#Amaboye
 > END STRING
 
 > BEGIN STRING
 手と脚に物騒な魔具を付けているのもそうだが
 
 全身から闘気に溢れるオーラが感じられる………
-> CONTEXT: Map459/events/5/pages/0/312/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/312/Dialogue
+Even beyond the dangerous-looking magical tools
+on her arms and legs, it felt as if her whole
+body was overflowing with a fighting spirit...#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
 だが…………
 
 それ以上に、僕が驚いていたのは……
-> CONTEXT: Map459/events/5/pages/0/316/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/316/Dialogue
+However, what surprised me most was...#Amaboye
 > END STRING
 
 > BEGIN STRING
 あ、瑞紀（みずき）ちゃんだ！
 
 やっほー！お久しぶりー！
-> CONTEXT: Map459/events/5/pages/0/336/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/336/Dialogue/enemy15
+Ah, it's Mizuki-chan!
+Hey! How have you been?!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -319,8 +383,10 @@
 
 どうしてこんな所に！
 神社の方は大丈夫なの！？
-> CONTEXT: Map459/events/5/pages/0/341/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/341/Dialogue/enemy38
+Ya... Yami-chan...!?
+Why are you here?
+Is the shrine okay!?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -328,16 +394,21 @@
 
 瑞紀ちゃんも、いつも言ってた『ベンキョウ』中？
 悪魔を倒しながら動き回るってすごいね！
-> CONTEXT: Map459/events/5/pages/0/346/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/346/Dialogue/enemy15
+Ehehe, well, a lot happened so I'm out for the
+moment♪
+How about you, are you "studying"? It's amazing
+how you can go around beating demons like that!#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
 学校って、見るのも中に入るのも初めてだったけど
 
 とっても広くて、走り回り甲斐がありそうな廊下だね！
-> CONTEXT: Map459/events/5/pages/0/351/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/351/Dialogue/enemy15
+It's my first time seeing or going inside a
+school, but these wide hallways seem great for
+running around in!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -346,7 +417,7 @@
 
 今のこれはそういうことじゃなくて…
 > CONTEXT: Map459/events/5/pages/0/356/Dialogue/enemy38 < UNTRANSLATED
-
+I mean... I did talk about running around 
 > END STRING
 
 > BEGIN STRING
