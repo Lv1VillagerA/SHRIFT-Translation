@@ -34,9 +34,9 @@ R,ruuuuun!#Amaboye
 
 自分だけ…！！！
 > CONTEXT: Map455/events/2/pages/0/108/Dialogue/kazuya
-
+Ah, hey! Leaving us behind like that...!#Ron
 > END STRING
-Ah, hey! Leaving us behind like that...!
+
 > BEGIN STRING
 \\N[1]くん！逃げよう！！！
 

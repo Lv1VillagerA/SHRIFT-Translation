@@ -10304,7 +10304,7 @@ Sovereign's Insight#Ron
 > BEGIN STRING
 夜深は魔撃の号令を放った！！
 > CONTEXT: Skills/900/message2
-Yami unleashes Magic Attack Command!#RonIffy
+Yami unleashes Sovereign's Magic Decree!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10318,7 +10318,7 @@ One of Yami's support skills. Drastically increases
 > BEGIN STRING
 魔撃の号令
 > CONTEXT: Skills/900/name
-Sovereign's Magic Decree#RonIffyWording
+Sovereign's Magic Decree#Ron/Triketos
 > END STRING
 
 > BEGIN STRING

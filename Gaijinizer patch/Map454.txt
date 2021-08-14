@@ -81,8 +81,7 @@ And where is this place, anyway?!#Ron
 > CONTEXT: Map454/events/2/pages/0/48/Dialogue/ruka_fc1
 A-And also... why is Kazuya here?!
 
-I thought he was in the Pocket Monster Lord
-Castle with me.#CheckLater
+I thought he was in the Pocket Castle with me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,9 +89,7 @@ Castle with me.#CheckLater
 
 魔王城…？？？？
 > CONTEXT: Map454/events/2/pages/0/60/Dialogue/kazuya
-P-Pocket...
-
-Monster Lord Castle?#CheckLater
+P-Pocket... Castle?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -197,7 +194,7 @@ I know.#Ron
 > BEGIN STRING
 ……一応、同一人物だぞ。
 > CONTEXT: Map454/events/2/pages/0/115/Dialogue/alice_fc5
-He is basically the same person.#RonIffyWording
+......He's the exact same person.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -324,7 +321,7 @@ final battle.#Ron
 ルカが、途中で妙なモノを見つけてな……
 > CONTEXT: Map454/events/2/pages/0/169/Dialogue/alice_fc5
 Then after we'd reached a certain point in our
-strategy meeting, we eacah went to our own rooms
+strategy meeting, we each went to our own rooms
 for the night. But then as we were going back,
 Luka spotted something strange.#Ron
 > END STRING
@@ -541,7 +538,7 @@ our own world until we return?#Ron
 
 そんなこと出来るんだ…
 > CONTEXT: Map454/events/2/pages/0/271/Dialogue/kazuya
-You can do that? Amazing.#Ron
+You can do that? Amazing...#Ron
 > END STRING
 
 > BEGIN STRING

@@ -133,10 +133,10 @@ that'd make him one hell of an enemy.#RonIffy
 
 可能性がないわけじゃないのが笑えないよ…
 > CONTEXT: Map448/events/21/pages/0/26/Dialogue/kazuya
-An enemy powerful enough to need multiple "guests"
-like Yami-chan to help. We can't entirely dismiss
-the possibility that Abaddon does have such an
-ability.#Ron
+This is an enemy powerful enough to need multiple
+"guests" like Yami-chan to help. We can't
+entirely dismiss the possibility that Abaddon has
+such an ability.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -169,9 +169,9 @@ T-Tommie?#CheckLater
 
 それ以来、あだ名が『あさコン』になってるの。
 > CONTEXT: Map448/events/23/pages/0/16/Dialogue/enemy15
-Yeah, her actual name is "Tomoko" but when I
-called her "Tommie" the first time we met, and
-the name stuck and it's been her nickname ever
+Yeah, her actual name is "Tomoko", but I called
+her "Tommie" since the first time we met.
+The name stuck and it's been her nickname ever
 since.#CheckLater
 > END STRING
 
@@ -181,7 +181,7 @@ since.#CheckLater
 
 だから、そういうティーセットも置いてあるよ♪
 > CONTEXT: Map448/events/23/pages/0/21/Dialogue/enemy15
-Tommie loves her teas so she keeps everything
+Tommie loves her tea so she keeps everything
 she needs to steep the leaves from scratch in one
 place. Hence the tea set. ♪#CheckLater
 > END STRING
@@ -195,7 +195,7 @@ place. Hence the tea set. ♪#CheckLater
 I-I see...
 
 In that case I won't hesitate to make myself
-a herbal tea.#Ron
+some herbal tea.#Ron
 > END STRING
 
 > BEGIN STRING

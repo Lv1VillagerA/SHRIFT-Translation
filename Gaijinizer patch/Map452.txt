@@ -7,7 +7,7 @@
 > CONTEXT: Map452/events/1/pages/0/22/Dialogue/enemy38
 Hmph, there you are.
 It was tricky holding myself back so I didn't
-destroy the shrine, so you really did me a solid
+destroy the shrine, so you really did me a favor
 by coming out yourselves.#Ron
 > END STRING
 
@@ -113,7 +113,7 @@ Her voice just squeaked...#Ron
 
 あまり刺激しないように、これ以上の追求はやめておこう…
 > CONTEXT: Map452/events/1/pages/0/68/Dialogue
-It seems this is a touchy subject for her.
+It seems this is a touchy subject for her...
 
 I'll avoid getting her too worked up and just leave it at
 that.#Ron
@@ -185,7 +185,7 @@ It's time to play with that human!#RonLocalization
 
 その髪のような毛先は、先端が黄金色に輝いている……
 > CONTEXT: Map452/events/1/pages/0/120/Dialogue
-What appeared at the same time as the vasopire's shout
+What appeared at the same time as the vanpire's shout
 was a dog-like demon casting a large black silhouette,
 the tips of what appeared to be its hair glittering with
 a golden hue.#Ron
@@ -303,7 +303,7 @@ We can get through this!#Ron
 I've been able to inflict heavy damage on my opponent
 with Yami's support!
 
-Black Dog is backing off!#Ron
+Black Dog is backing off...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -628,7 +628,7 @@ attacks, I wonder.#Ron
 
 他のブラックドッグ達も、今にも飛びかからんとしている…
 > CONTEXT: Map452/events/1/pages/0/514/Dialogue
-Perhaps sensing our fear, Black Dog is slowly
+Perhaps sensing our fear, the Black Dog is slowly
 regaining her will to fight. The other Black Dogs
 are also getting ready to pounce.#Ron
 > END STRING

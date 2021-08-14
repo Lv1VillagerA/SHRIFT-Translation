@@ -17162,7 +17162,7 @@ of response made me think she was broken!!!#RonIffyWording
 \\C[2]彼女のカウントダウンが終わるまで耐えてみようよ！
 何かチャンスが生まれるかも！
 > CONTEXT: Troops/353/pages/0/82/Dialogue/enemy30
-I can't be absolutely sure, but it sounds like we
+I can't be absolutely sure, \\C[2]but it sounds like we
 need to hold out until the countdown's finished
 and we get some kind of opening!#Ron
 > END STRING
@@ -17220,7 +17220,7 @@ But there's too many! If this keeps up...!#Ron
 > BEGIN STRING
 ばばーん！！！
 > CONTEXT: Troops/353/pages/0/118/Dialogue/sirousagi_fc1
-TAA-DAA!!#Ron
+TADA!!#Ron
 > END STRING
 
 > BEGIN STRING
