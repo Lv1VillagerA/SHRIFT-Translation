@@ -17162,7 +17162,7 @@ of response made me think she was broken!!!#RonIffyWording
 \\C[2]彼女のカウントダウンが終わるまで耐えてみようよ！
 何かチャンスが生まれるかも！
 > CONTEXT: Troops/353/pages/0/82/Dialogue/enemy30
-I can't be absolutely sure, but it sounds like we
+I can't be absolutely sure, \\C[2]but it sounds like we
 need to hold out until the countdown's finished
 and we get some kind of opening!#Ron
 > END STRING
@@ -17195,9 +17195,9 @@ well. \\C[2]This is more than one person can handle!#Ron
 \\C[2]無理して攻撃すれば、みるみるうちに取り囲まれてしまうだろう
 > CONTEXT: Troops/353/pages/0/101/Dialogue
 I couldn't find an opening to attack High Slug Girl, but
-the force of numbers of these Black Dogs means I don't have
-the time to attack either. \\C[2]If I attack recklessly I'll
-end up completely surrounded before I know it.#RonIffy
+with all of these Black Dogs I wouldn't have the chance
+to attack even if I did. \\C[2]If I overextend myself I'll
+end up completely surrounded in moments.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -17220,7 +17220,7 @@ But there's too many! If this keeps up...!#Ron
 > BEGIN STRING
 ばばーん！！！
 > CONTEXT: Troops/353/pages/0/118/Dialogue/sirousagi_fc1
-TAA-DAA!!#Ron
+TADA!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17241,8 +17241,8 @@ TAA-DAA!!#Ron
 > CONTEXT: Troops/353/pages/0/124/Dialogue/sirousagi_fc1
 Huh? Was I just a little too slow?
 
-Then again if you're still in one piece that
-answers the question.#RonIffy
+Then again if you're still in one piece, that
+answers that question.#RonIffy
 > END STRING
 
 > BEGIN STRING

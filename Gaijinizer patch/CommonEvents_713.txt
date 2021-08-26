@@ -79,7 +79,7 @@ Go, Bloody Fissure Thunder Thrust!!#Ron
 
 壊斧・大山鳴動！！
 > CONTEXT: CommonEvents_713/75/Dialogue/ruka_fc1
-Be struck with all the power of earth!!
+Be struck with all the power of the earth!!
 
 Earth Rumbling Decapitation!!#RonIffyWording
 > END STRING
@@ -162,9 +162,9 @@ Demon Skull Beheading!!#Ron
 \\\>\\C[0]相手に無属性の大ダメージを５回与える
 \\\>\\C[2]与えるダメージの振り幅が大きい
 > CONTEXT: CommonEvents_713/148/ChoiceHelp
-\\\>\\C[13]Type: Void　\\C[14]Power: Very High
-\\\>\\C[0]Deals void damage to an enemy five times.
-\\\>\\C[2]Does a wide spread of damage.#CheckLater
+\\\>\\C[13]Type: Null　\\C[14]Power: Very High
+\\\>\\C[0]Deals null-type damage to an enemy five times.
+\\\>\\C[2]Does a wide spread of damage.#Ron
 > END STRING
 
 > BEGIN STRING

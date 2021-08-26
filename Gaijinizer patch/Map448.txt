@@ -103,7 +103,7 @@ cross into a barrier.#Ron
 一体、通常の結界とどういう風に違うんだろう…？
 > CONTEXT: Map448/events/21/pages/0/13/Dialogue/kazuya
 White Rabbit said that this barrier is special,
-but how on earth is it any different to a normal
+but how on earth is it any different than a normal
 one?#RonIffyWording
 > END STRING
 
@@ -114,8 +114,8 @@ one?#RonIffyWording
 そもそも特定の結界を見つけるなんて、出来るのか…？
 > CONTEXT: Map448/events/21/pages/0/17/Dialogue/other1
 Mmmm, it definitely doesn't look different. She
-said it'd stop Abaddon from finding you, but is
-it really possible to find a specific barrier
+said it'd stop Abaddon from finding you... But
+is it really possible to find a specific barrier
 anyway?#Ron
 > END STRING
 
@@ -133,10 +133,10 @@ that'd make him one hell of an enemy.#RonIffy
 
 可能性がないわけじゃないのが笑えないよ…
 > CONTEXT: Map448/events/21/pages/0/26/Dialogue/kazuya
-An enemy powerful enough to need multiple "guests"
-like Yami-chan to help. We can't entirely dismiss
-the possibility that Abaddon does have such an
-ability.#Ron
+This is an enemy powerful enough to need multiple
+"guests" like Yami-chan to help. We can't
+entirely dismiss the possibility that Abaddon has
+such an ability.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -153,7 +153,7 @@ W-Why is there a tea set here of all places?#Ron
 > CONTEXT: Map448/events/23/pages/0/7/Dialogue/enemy15
 Oh, that?
 
-Tom-Tom uses it. But since we're in a barrier
+Tommie uses it. But since we're in a barrier
 it should be fine for you to use it if you want.#CheckLater
 > END STRING
 
@@ -169,9 +169,9 @@ T-Tommie?#CheckLater
 
 それ以来、あだ名が『あさコン』になってるの。
 > CONTEXT: Map448/events/23/pages/0/16/Dialogue/enemy15
-Yeah, her actual name is "Tomoko" but when I
-called her "Tommie" the first time we met, and
-the name stuck and it's been her nickname ever
+Yeah, her actual name is "Tomoko", but I called
+her "Tommie" since the first time we met.
+The name stuck and it's been her nickname ever
 since.#CheckLater
 > END STRING
 
@@ -181,7 +181,7 @@ since.#CheckLater
 
 だから、そういうティーセットも置いてあるよ♪
 > CONTEXT: Map448/events/23/pages/0/21/Dialogue/enemy15
-Tommie loves her teas so she keeps everything
+Tommie loves her tea so she keeps everything
 she needs to steep the leaves from scratch in one
 place. Hence the tea set. ♪#CheckLater
 > END STRING
@@ -195,7 +195,7 @@ place. Hence the tea set. ♪#CheckLater
 I-I see...
 
 In that case I won't hesitate to make myself
-a herbal tea.#Ron
+some herbal tea.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -210,8 +210,8 @@ Sheep「Hey, long time no see.」#Ron
 　　ベッドはさすがに持ってこれなかったけどね……」
 > CONTEXT: Map448/events/24/pages/0/2/Dialogue
 Sheep「\\C[2]I've brought the save point and item box here with me.\\C[0]
-       
-	   Obviously I couldn't bring the bed, too.」#Ron
+
+       Obviously I couldn't bring the bed, too.」#Ron
 > END STRING
 
 > BEGIN STRING
