@@ -394,8 +394,8 @@ Was her objective simply to bolster battle power?#Ron
 > CONTEXT: Map454/events/2/pages/0/204/Dialogue/sirousagi_fc1
 Or maybe...
 
-Instead of choosing the goddess, I'd...
-There was no need to...#CheckLater
+Choosing the timeline without that goddess...
+I didn't have to after all...#CheckLater
 > END STRING
 
 > BEGIN STRING
