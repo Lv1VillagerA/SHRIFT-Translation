@@ -196,7 +196,7 @@ touch me.#RonIffyWording
 > CONTEXT: Map450/events/1/pages/0/92/Dialogue/kazuya
 Just by having them touch you?
 
-You mean while you're in kitten form?#Ron
+You mean, while you're a kitten?#Ron
 > END STRING
 
 > BEGIN STRING

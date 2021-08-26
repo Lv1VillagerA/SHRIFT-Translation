@@ -26,7 +26,7 @@ he can trace...#Amaboye
 > BEGIN STRING
 に、逃げるよーーー！！！
 > CONTEXT: Map455/events/2/pages/0/106/Dialogue/sirousagi_fc1
-R,ruuuuun!#Amaboye
+R...Ruuuuun!#Amaboye
 > END STRING
 
 > BEGIN STRING

@@ -103,7 +103,7 @@ cross into a barrier.#Ron
 一体、通常の結界とどういう風に違うんだろう…？
 > CONTEXT: Map448/events/21/pages/0/13/Dialogue/kazuya
 White Rabbit said that this barrier is special,
-but how on earth is it any different to a normal
+but how on earth is it any different than a normal
 one?#RonIffyWording
 > END STRING
 
@@ -114,8 +114,8 @@ one?#RonIffyWording
 そもそも特定の結界を見つけるなんて、出来るのか…？
 > CONTEXT: Map448/events/21/pages/0/17/Dialogue/other1
 Mmmm, it definitely doesn't look different. She
-said it'd stop Abaddon from finding you, but is
-it really possible to find a specific barrier
+said it'd stop Abaddon from finding you... But
+is it really possible to find a specific barrier
 anyway?#Ron
 > END STRING
 

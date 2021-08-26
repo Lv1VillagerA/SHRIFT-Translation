@@ -5574,7 +5574,7 @@ Submissive Masturbation#afrgPR
 > CONTEXT: Skills/754/description
 > CONTEXT: Skills/846/description
 > CONTEXT: Skills/862/description
-Deals non-attribute magical damage to your opponent. 
+Deals null-type magical damage to your opponent. 
 Does little damage, but ignores magic resistance.#afrg
 > END STRING
 

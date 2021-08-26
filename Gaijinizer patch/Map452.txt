@@ -98,8 +98,8 @@ come out of your mouth, you brat!#Ron
 > CONTEXT: Map452/events/1/pages/0/61/Dialogue/enemy38
 One day, my race will be just as famous as theirs!
 
-Just you watch... I'll get out of this pathetic
-situation!#RonIffy
+Just you wait... I'll free us from being seen as
+nothing more than "vampire knock-offs"!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -267,8 +267,8 @@ Show me what you've got, \\N[1]!#Ron
 
 じっくり見させてもらうわ！
 > CONTEXT: Map452/events/1/pages/0/160/Dialogue/enemy37
-I'll have you show me whether you have the power
-to make it worth my while to toy with you!#RonIffyWording
+I'll have you thoroughly prove to me whether
+you're worthy of my attentions!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -352,8 +352,8 @@ I can sense more of them!!#Ron
 > CONTEXT: Map452/events/1/pages/0/283/Dialogue/enemy37
 Ahahahaha!!
 
-You seem surprised. This is what makes the Black
-Dog so terrifying!#RonIffy
+You seem surprised. Did you really think that
+was all you had to fear from Black Dog?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -362,10 +362,13 @@ Dog so terrifying!#RonIffy
 今度から単独だと思っても、周囲には気を付けることねぇ？ 
 こうやって、囲まれたって知らないんだから！ 
 > CONTEXT: Map452/events/1/pages/0/288/Dialogue/enemy37
-They travel in packs when "hunting"!
-Next time, you have to watch your flanks even if
-you think there's only one of them. Otherwise you
-can be surrounded before you realize it!#RonIffy
+What strikes fear in the hearts of mortals is
+their proclivity for traveling in packs when
+hunting!
+
+You'll have to watch your flanks more carefully
+next time you face one, lest you be surrounded
+before you even realize what's happening!#Ron
 > END STRING
 
 > BEGIN STRING
