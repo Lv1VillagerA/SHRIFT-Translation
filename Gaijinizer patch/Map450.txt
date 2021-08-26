@@ -114,9 +114,10 @@ U-Ummm...#Ron
 いくら相手が無害だっていっても、今は状況が状況だ……
 白兎にも言われてたじゃないか……）
 > CONTEXT: Map450/events/1/pages/0/53/Dialogue/kazuya-a
-(I-I've gotta calm down... no matter how harmless she
- might appear to be, I've got to consider the situation.
- This is exactly what White Rabbit was talking about.)#Ron
+(I-I've gotta calm down... no matter how harmless
+ she might appear to be, I've got to consider the
+ situation. This is exactly what White Rabbit was
+ talking about.)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -171,10 +172,10 @@ with me, I can manage.#Ron
 
 肝試しだったり、ふらっと立ち寄ったりする人もいるし。
 > CONTEXT: Map450/events/1/pages/0/82/Dialogue/enemy15
-Also, though I said this shrine is abandoned, that
-doesn't mean people never come here. I get people
-turning up here on tests of courage, or even just
-casually wandering in.#Ron
+Also, though I said this shrine is abandoned,
+that doesn't mean people never come here. I get
+people turning up here on tests of courage, or
+even just casually wandering in.#Ron
 > END STRING
 
 > BEGIN STRING
