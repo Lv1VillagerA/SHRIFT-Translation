@@ -179,7 +179,7 @@ That's not what that was about...#Ron
 \\C[2]Black Dog focuses heavily on physical attacks,
 so Sylph Storm or Yami's counter skill are both
 effective. They'll protect you from getting
-pinned down and stop you from losing.#RonIffy
+pinned down and stop you from losing.#Ron
 > END STRING
 
 > BEGIN STRING

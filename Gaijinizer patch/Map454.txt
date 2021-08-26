@@ -16,8 +16,8 @@ Black Dogs in pursuit.#Ron
 > CONTEXT: Map454/events/2/pages/0/13/Dialogue/sirousagi_fc1
 Oooh, nicely done \\N[1]-kun.
 
-It might just be a small opening for us, but
-you've driven them all away.#CheckLater
+Though you only had a small opening back there,
+you managed to use it to drive them all away.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -34,9 +34,10 @@ with Demon Realm meat as well.#Ron
 
 結構むちゃくちゃな話題の切り出し方になっちゃった…
 > CONTEXT: Map454/events/2/pages/0/22/Dialogue/kazuya
-Though I managed to think of it in the end, my
-mind was all over the place because of the
-situation so I just started blabbering.#RonIffy
+I'm glad I managed to think of it in the end...
+
+Because of the situation, my mind was all over
+the place... I just started blabbering.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +82,7 @@ And where is this place, anyway?!#Ron
 > CONTEXT: Map454/events/2/pages/0/48/Dialogue/ruka_fc1
 A-And also... why is Kazuya here?!
 
-I thought he was in the Pocket Monster Lord
-Castle with me.#CheckLater
+I thought he was in the Pocket Castle with me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,9 +90,7 @@ Castle with me.#CheckLater
 
 魔王城…？？？？
 > CONTEXT: Map454/events/2/pages/0/60/Dialogue/kazuya
-P-Pocket...
-
-Monster Lord Castle?#CheckLater
+P-Pocket... Castle?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -197,7 +195,7 @@ I know.#Ron
 > BEGIN STRING
 ……一応、同一人物だぞ。
 > CONTEXT: Map454/events/2/pages/0/115/Dialogue/alice_fc5
-He is basically the same person.#RonIffyWording
+......He's the exact same person.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -324,7 +322,7 @@ final battle.#Ron
 ルカが、途中で妙なモノを見つけてな……
 > CONTEXT: Map454/events/2/pages/0/169/Dialogue/alice_fc5
 Then after we'd reached a certain point in our
-strategy meeting, we eacah went to our own rooms
+strategy meeting, we each went to our own rooms
 for the night. But then as we were going back,
 Luka spotted something strange.#Ron
 > END STRING
@@ -396,8 +394,8 @@ Was her objective simply to bolster battle power?#Ron
 > CONTEXT: Map454/events/2/pages/0/204/Dialogue/sirousagi_fc1
 Or maybe...
 
-Instead of choosing the goddess, I'd...
-There was no need to...#CheckLater
+Choosing the timeline without that goddess...
+I didn't have to after all...#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -431,7 +429,7 @@ Just what are you up to?#Ron
 \\C[2]あのモヤ自体は、チェシャの生成物さ。
 > CONTEXT: Map454/events/2/pages/0/223/Dialogue/sirousagi_fc1
 You're half-right, and half-wrong.
-I was the one who coordinated to endure the mist
+I was the one who coordinated to ensure the mist
 would appear in front of Luka, \\C[2]but the mist
 itself is the creation of Cheshire.#Ron
 > END STRING
@@ -442,10 +440,10 @@ itself is the creation of Cheshire.#Ron
 
 この結界空間も、アイツとの共同生成物だし……
 > CONTEXT: Map454/events/2/pages/0/228/Dialogue/sirousagi_fc1
-I wouldn't have the power to steal the eyes from
-the Dream Lord so perfectly, and create such an
-outrageous wormhole. This barrier is also
-something I created together with her.#CheckLater
+I wouldn't have the power to go behind the back
+of the Queen of Dreams so perfectly and create
+such an outrageous wormhole. This barrier is also
+something I created together with her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -455,9 +453,9 @@ something I created together with her.#CheckLater
 目を付けられたのが原因だったっけ……
 > CONTEXT: Map454/events/2/pages/0/233/Dialogue/ruka_fc1
 Speaking of which, wasn't the whole irregularity
-with our world caused by your mistake being
-noticed by the Dream Lord, allowing him to zero
-in on us?#CheckLater
+with our world caused by your mistake being taken
+advantage of by the Queen of Dreams, allowing her
+to zero in on us?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -484,10 +482,10 @@ should know that.#Ron
 世界の崩壊の危機にどういった対策を取るか
 常に頭を悩ませているというのに……
 > CONTEXT: Map454/events/2/pages/0/245/Dialogue/alice_fc5
-For starters the "Land of Night" is not the cause
-of our world's irregularities. We've been racking
-our brains trying to figure out how to deal with
-the threat of the world collapsing.#CheckLater
+The Land of Night isn't the worst of our
+problems, either. We've been racking our brains
+over how we should deal with the threat of the
+world collapsing, too.#Ron/Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -541,7 +539,7 @@ our own world until we return?#Ron
 
 そんなこと出来るんだ…
 > CONTEXT: Map454/events/2/pages/0/271/Dialogue/kazuya
-You can do that? Amazing.#Ron
+You can do that? Amazing...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -552,8 +550,8 @@ You can do that? Amazing.#Ron
 > CONTEXT: Map454/events/2/pages/0/275/Dialogue/sirousagi_fc1
 That's the authority Cheshire, or rather, the
 "Mad Hatter" holds. She can temporarily expand
-the intervention function in worlds connected to
-Abaddon.#RonIffy
+the power of Intervention to worlds that are
+connected with Abaddon.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -564,8 +562,8 @@ Abaddon.#RonIffy
 > CONTEXT: Map454/events/2/pages/0/280/Dialogue/sirousagi_fc1
 Normally the creation of a wormhole that defies
 time and space is something that would be
-questionable even for the administrative class to
-do. But it's something she can do right now.#RonIffyWording
+questionable, even for an Administrator.
+But it's something she can do right now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -587,8 +585,7 @@ going into a decisive battle without a break.#DL
 > CONTEXT: Map454/events/2/pages/0/290/Dialogue/sirousagi_fc1
 The help I'm providing \\N[1] is connected
 to your world as well, you know. \\C[10]If we do
-nothing then the existence of the world itself
-will disappear.#RonIffyWording
+nothing then this world will cease to exist.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -597,10 +594,10 @@ will disappear.#RonIffyWording
 
 決して他人事じゃない……
 > CONTEXT: Map454/events/2/pages/0/295/Dialogue/sirousagi_fc1
-And not just \\N[1]'s world, but many other
-parallel worlds will also be affected, causing
-huge incidents. This isn't just someone else's
-problem.#Ron
+And it won't end with just \\N[1]'s world,
+many other parallel worlds will also be affected,
+causing huge incidents. This isn't just someone
+else's problem.#Ron
 > END STRING
 
 > BEGIN STRING

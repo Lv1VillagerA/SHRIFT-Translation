@@ -41,7 +41,7 @@ public order.#Ron
 > CONTEXT: Map450/events/1/pages/0/18/Dialogue/enemy15
 But there was a lot of discontent when I was
 picked for the job. A lot of demons thought it was
-outrageous to give such a position to a nekomata
+outrageous to give such a position to a Nekomata
 like me with an unknown background.#Ron
 > END STRING
 
@@ -51,9 +51,10 @@ like me with an unknown background.#Ron
 
 自然とみんな認めてくれるようになったんだ。
 > CONTEXT: Map450/events/1/pages/0/23/Dialogue/enemy15
-But then after resolving all sorts of incidents
-and battling bad demons with everyone's support,
-I started naturally getting everyone's approval.#Ron
+But then, I started resolving all sorts of
+incidents. After battling bad demons with
+everyone's support, I started to naturally gain
+their approval.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -195,7 +196,7 @@ touch me.#RonIffyWording
 > CONTEXT: Map450/events/1/pages/0/92/Dialogue/kazuya
 Just by having them touch you?
 
-You mean while you're in kitten form?#Ron
+You mean, while you're a kitten?#Ron
 > END STRING
 
 > BEGIN STRING

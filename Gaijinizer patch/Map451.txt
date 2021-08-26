@@ -16,8 +16,8 @@ at this rate!#Ron
 
 そこから出て、この気配の正体を探ろう！
 > CONTEXT: Map451/events/1/pages/0/4/Dialogue/enemy30
-Just outside this room, in the corner of the
-hallway, there's a hole you can use that leads
+Just look outside this room, in the corner of the
+hallway. There's a hole you can use that leads
 out from the side of the main shrine!
 
 Let's go out through there and find out what
