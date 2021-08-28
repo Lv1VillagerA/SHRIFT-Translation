@@ -369,9 +369,9 @@ so wrong, then try resisting me a little.#Ron
 
 ほぉら、こんなコトされちゃってるのよ…？♡
 > CONTEXT: CommonEvents_741/169/Dialogue/highslag_fc1
-If you're a human male, then why don't you stare
-at me with burning resentment in your immobile
-state? Come on, look at what I'm doing to you.#RonIffy ♡
+If you're really a man, then why aren't you
+staring at me with resentment in that immobile
+state? Come on, look at what I'm doing to you. ♡#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -415,8 +415,8 @@ inducing lust for me into anyone it touches. ♡#RonIffy
 
 貴方が惨めにおねだりしても、それは魔力のせいよ…♡
 > CONTEXT: CommonEvents_741/198/Dialogue/highslag_fc1
-That's why can't help but pathetically beg for
-more. ♡
+That's why you can't help but pathetically beg
+for more. ♡
 
 It's all because of that magic. ♡#Ron
 > END STRING
@@ -743,7 +743,6 @@ I'm sure she'll dissolve me like this...#Ron
 
 彼女の高貴な高笑いが、僕の脳内に心地よく響いていた……
 > CONTEXT: CommonEvents_741/599/Dialogue
-I can feel her high-class, loud laughter pleasantly
-resounding through my head, transmitted through her slug
-body that I'm stuck fast to...#RonIffyWording
+As I'm stuck deep in her slug body, I can hear her loud,
+high-class laughter echoing pleasantly through my head...#RonIffyWording
 > END STRING

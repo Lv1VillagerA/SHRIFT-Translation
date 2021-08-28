@@ -48,9 +48,9 @@ spoils of war.#Ron
 まるで腰の力が働かない……！
 > CONTEXT: CommonEvents_747/134/Dialogue
 I tried to get myself free, but because my strength had
-left me, it was like my lower half was engulfed in a big
-marshmallow and I couldn't find the power in my hips
-to shake her off.#RonLocalization
+gone, it was like my lower half was engulfed in a big
+marshmallow. I couldn't find the power in my hips
+to shake her off...#RonLocalization
 > END STRING
 
 > BEGIN STRING
