@@ -5330,37 +5330,37 @@ has trapped Kazuya's body inside her clothes!#DL
 > BEGIN STRING
 火や冷気や真空波の入り交じったブレスが\\N[1]たちを襲う！！！！！！！！！！
 > CONTEXT: Skills/407/message2 < UNTRANSLATED
-
+The party is hit with waves of heat, frost, and vacuum!#CheckLater
 > END STRING
 
 > BEGIN STRING
 トリプルブレス
-> CONTEXT: Skills/407/name < UNTRANSLATED
-
+> CONTEXT: Skills/407/name
+Triple Breath#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]たちにトリプルブレスを吹きかけた！
-> CONTEXT: Skills/407/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/407/message1
+ blows Triple Breath onto \\N[1]'s party!#Ron
 > END STRING
 
 > BEGIN STRING
 強烈な一撃が\\N[1]たちを襲う…！
-> CONTEXT: Skills/408/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/408/message2
+The party is hit with a powerful attack!#Ron
 > END STRING
 
 > BEGIN STRING
 魔蠅の一撃
-> CONTEXT: Skills/408/name < UNTRANSLATED
-
+> CONTEXT: Skills/408/name
+Magic Fly Attack#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]たちに魔蠅の一撃を放った！
-> CONTEXT: Skills/408/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/408/message1
+ unleashes Magic Fly Attack on \\N[1]'s party!#Ron
 > END STRING
 
 > BEGIN STRING
