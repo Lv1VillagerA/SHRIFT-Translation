@@ -8453,19 +8453,19 @@ Fear Curse Symbol#afrg
 > BEGIN STRING
 \\N[1]の精気が快楽と引き換えにみるみる吸い取られていく…！
 > CONTEXT: Skills/729/message2 < UNTRANSLATED
-
+\\N[1]'s being quickly drained in exchange for pleasure!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 スラッグドレイン
-> CONTEXT: Skills/729/name < UNTRANSLATED
-
+> CONTEXT: Skills/729/name
+Slug Drain#Ron
 > END STRING
 
 > BEGIN STRING
 は、\\N[1]の身体を蛞蝓の身体で玩んだ！
-> CONTEXT: Skills/729/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/729/message1
+ uses her slug body to play with \\N[1]'s body!#Ron
 > END STRING
 
 > BEGIN STRING

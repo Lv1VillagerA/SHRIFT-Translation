@@ -4,8 +4,8 @@
 
 レロレロと舌で舐め回している……
 > CONTEXT: CommonEvents_27/4/Dialogue
-Black Dog rolls her tongue all over as she play-bites
-on \\N[1]'s neck.#RonIffyWording
+Black Dog runs her tongue all over as she play-bites
+\\N[1]'s neck.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
