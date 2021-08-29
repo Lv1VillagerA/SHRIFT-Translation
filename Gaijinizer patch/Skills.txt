@@ -10730,7 +10730,7 @@ Luka enters a state of mindfulness!!#RonIffy
 > BEGIN STRING
 裏練気
 > CONTEXT: Skills/921/name
-Shadow-Honed Energy#Ron
+Inner Focused Mind#Ron
 > END STRING
 
 > BEGIN STRING

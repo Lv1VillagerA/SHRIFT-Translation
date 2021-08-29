@@ -299,8 +299,10 @@ Let us begin our revenge match. ♡#Ron
 くっ……
 
 強い……！！
-> CONTEXT: Map461/events/4/pages/0/219/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/219/Dialogue/kazuya
+Kgh...
 
+They're strong!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -308,8 +310,11 @@ Let us begin our revenge match. ♡#Ron
 こやつら、こんなに強かったか……！？
 
 いくら余やルカの出力が弱まっているとはいえ、これは…
-> CONTEXT: Map461/events/4/pages/0/223/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/223/Dialogue/alice_fc5
+Hold on, were these guys always this strong?!
 
+Even if Luka and I have had our powers weakened,
+this is absurd...#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -317,8 +322,11 @@ Let us begin our revenge match. ♡#Ron
 
 アバドーンに加担した際の特典のようなモノらしいけど
 これがある限り、あなたたちに負ける気がしないわ…♡
-> CONTEXT: Map461/events/4/pages/0/228/Dialogue/beelzebub_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/228/Dialogue/beelzebub_fc1
+Didn't I tell you? It's the \\C[10]World Fusion\\C[0]...
+It's like a special perk for those who choose to
+work with Abaddon. And as long as we have it, I
+don't think you have any chance of beating us.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -326,8 +334,11 @@ Let us begin our revenge match. ♡#Ron
 思いのままに繁殖する……
 
 それがアバドーンが私たちに提示した提案……
-> CONTEXT: Map461/events/4/pages/0/233/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/233/Dialogue/beelzebub_fc2
+With free reign to use this power as we please,
+we'll plunge humanity into a state of terror and
+multiply as much as we desire. That is the future
+Abaddon offered to us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -335,14 +346,17 @@ Let us begin our revenge match. ♡#Ron
 あなたを徹底的に搾って、無力化すること……♡♡
 
 うふふふふっ…♡
-> CONTEXT: Map461/events/4/pages/0/238/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/238/Dialogue/beelzebub_fc2
+And so our top priority is you, \\N[1]...
 
+We'll thoroughly squeeze you out and render you
+powerless. Ufufufu... ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 ………そろそろ、時間……
-> CONTEXT: Map461/events/4/pages/0/246/Dialogue/beelzebub_fc3 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/246/Dialogue/beelzebub_fc3
+We're out of time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -350,22 +364,27 @@ Let us begin our revenge match. ♡#Ron
 
 ルカ、\\N[1]。
 あなたたちとの決着は、次の機会にお預けよ。
-> CONTEXT: Map461/events/4/pages/0/248/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/248/Dialogue/beelzebub_fc1
+...You're right.
 
+Luka, \\N[1]... we'll have to put this on
+hold and settle things next time we meet.#Ron
 > END STRING
 
 > BEGIN STRING
 本当はもう少し遊んでいたいけど……
 
 この世界はもう『時間切れ』みたい……
-> CONTEXT: Map461/events/4/pages/0/253/Dialogue/beelzebub_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/253/Dialogue/beelzebub_fc1
+I really would have liked to play with you a
+little longer, but it seems this world is already
+out of time...#Ron
 > END STRING
 
 > BEGIN STRING
 なに…！？
-> CONTEXT: Map461/events/4/pages/0/257/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/257/Dialogue/kazuya
+What?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -373,8 +392,10 @@ Let us begin our revenge match. ♡#Ron
 
 そして『世界融解』の力は更に強まり
 私たちの力は、もっと強くなるのよ…
-> CONTEXT: Map461/events/4/pages/0/278/Dialogue/beelzebub_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/278/Dialogue/beelzebub_fc1
+This world's going to be consumed by Abaddon
+soon. That will further strengthen the World
+Fusion, making us even more powerful.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -382,8 +403,11 @@ Let us begin our revenge match. ♡#Ron
 
 生きていたら、また会いましょう。
 ふふふ……
-> CONTEXT: Map461/events/4/pages/0/283/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/283/Dialogue/beelzebub_fc1
+Goodbye, Luka.
 
+Let's meet again if you survive.
+Fufufu...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -391,8 +415,11 @@ Let us begin our revenge match. ♡#Ron
 
 アバドーンの『食事』が始まっちゃったよ！
 はやく次の世界に行かないと、巻き込まれちゃう！！
-> CONTEXT: Map461/events/4/pages/0/323/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/323/Dialogue/sirousagi_fc1
+Come on, hurry!!
+Abaddon's started eating, and if we don't quickly
+hightail it to the next world, we'll be caught up
+in it as well.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -400,16 +427,20 @@ Let us begin our revenge match. ♡#Ron
 ちょっとここから遠い場所にあるんだ！
 
 早く行かないと間に合わなくなっちゃう！！
-> CONTEXT: Map461/events/4/pages/0/328/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/328/Dialogue/sirousagi_fc1
+\\C[2]The dimensional rift to the next world is a
+little ways away from here! We've gotta move fast
+or we won't make it in time!!#Ron
 > END STRING
 
 > BEGIN STRING
 『食事』…！？『次の世界』！？
 
 あ、あなたたちは一体…！
-> CONTEXT: Map461/events/4/pages/0/333/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/333/Dialogue/enemy38
+"Eating"?! "Next world"?!
 
+J-Just who the hell are you guys?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -417,8 +448,10 @@ Let us begin our revenge match. ♡#Ron
 どうやら今は迷っている場合ではないようだ
 
 あの『空間の穴』は、明らかにマズい…！
-> CONTEXT: Map461/events/4/pages/0/346/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/346/Dialogue/enemy37
+This doesn't seem like a good time to hang around
+being confused, Mizuki. That hole in the fabric
+of spacetime is obviously bad news for us!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -426,20 +459,25 @@ Let us begin our revenge match. ♡#Ron
 少なくとも、我らと敵対関係ではないらしい……
 
 とにかく、この場を離れるぞ！！
-> CONTEXT: Map461/events/4/pages/0/351/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/351/Dialogue/enemy37
+Though these people seem to have something to do
+with this phenomenon, at the very least, they
+don't appear to be hostile. So for now, let's
+just get away from here!!#Ron
 > END STRING
 
 > BEGIN STRING
 瑞紀ちゃん…！！
-> CONTEXT: Map461/events/4/pages/0/356/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/356/Dialogue/enemy30
+Mizuki-chan!!#Ron
 > END STRING
 
 > BEGIN STRING
 くっ……！
 
 仕方がないわね…！！
-> CONTEXT: Map461/events/4/pages/0/358/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/358/Dialogue/enemy38
+Kuh...!
 
+Guess I've got no other choice!!#Ron
 > END STRING

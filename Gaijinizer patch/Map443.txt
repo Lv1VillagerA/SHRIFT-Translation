@@ -1,103 +1,116 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 うわっと！！！！
-> CONTEXT: Map443/events/11/pages/0/17/Dialogue/kazuya < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/18/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map443/events/11/pages/0/17/Dialogue/kazuya
+> CONTEXT: Map463/events/11/pages/0/18/Dialogue/kazuya
+Whoa!!!!#Ron
 > END STRING
 
 > BEGIN STRING
 …………オルトロス！
-> CONTEXT: Map443/events/11/pages/0/31/Dialogue/enemy36 < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/32/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map443/events/11/pages/0/31/Dialogue/enemy36
+> CONTEXT: Map463/events/11/pages/0/32/Dialogue/enemy38
+Orthrus!#Ron
 > END STRING
 
 > BEGIN STRING
 アオオオォォォン！！！！！！！！！
-> CONTEXT: Map443/events/11/pages/0/33/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/34/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map443/events/11/pages/0/33/Dialogue/enemy37
+> CONTEXT: Map463/events/11/pages/0/34/Dialogue/enemy37
+Awoooooon!!!!!#Ron
 > END STRING
 
 > BEGIN STRING
 瑞紀が自分の脚に装着している魔具に呼びかけると
 
 炎の渦を噴射し、空中を空高く滑空した！！
-> CONTEXT: Map443/events/11/pages/0/43/Dialogue < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map443/events/11/pages/0/43/Dialogue
+> CONTEXT: Map463/events/11/pages/0/44/Dialogue
+When Mizuki called out to the magic equipment she had on
+her legs, a whirlwind of flame shot her high into the air
+and allowed her to glide over the gap!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん！！飛んで！！
-> CONTEXT: Map443/events/11/pages/0/58/Dialogue/enemy15 < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/59/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map443/events/11/pages/0/58/Dialogue/enemy15
+> CONTEXT: Map463/events/11/pages/0/59/Dialogue/enemy30
+Jump, \\N[1]-kun!!#Ron
 > END STRING
 
 > BEGIN STRING
 で、でも……この距離じゃどう考えても……！！
-> CONTEXT: Map443/events/11/pages/0/60/Dialogue/kazuya < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/61/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map443/events/11/pages/0/60/Dialogue/kazuya
+> CONTEXT: Map463/events/11/pages/0/61/Dialogue/kazuya
+B-But... there's no way I can clear that!!#Ron
 > END STRING
 
 > BEGIN STRING
 大丈夫！！私がしっかり捕まえてあげる！！！
 
 私の身体にぶつかる勢いでジャンプするの！！！
-> CONTEXT: Map443/events/11/pages/0/62/Dialogue/enemy15 < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/63/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map443/events/11/pages/0/62/Dialogue/enemy15
+> CONTEXT: Map463/events/11/pages/0/63/Dialogue/enemy15
+Don't worry, I'll be sure to catch you!!!
 
+Put everything you have into it, jump hard enough
+that you'll crash into me!!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 \\N[1]くんなら出来るよ！！
 
 ほら、私をしっかり見て！！
-> CONTEXT: Map443/events/11/pages/0/66/Dialogue/enemy15 < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/67/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map443/events/11/pages/0/66/Dialogue/enemy15
+> CONTEXT: Map463/events/11/pages/0/67/Dialogue/enemy15
+I know you can do it!!
 
+Come on, just keep looking at me!!#Ron
 > END STRING
 
 > BEGIN STRING
 くっ……！！
 
 ええい！イチかバチかだ！
-> CONTEXT: Map443/events/11/pages/0/84/Dialogue/kazuya < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/85/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map443/events/11/pages/0/84/Dialogue/kazuya
+> CONTEXT: Map463/events/11/pages/0/85/Dialogue/kazuya
+Kugh!!
 
+Alright! It's all or nothing!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、勢いあまって夜深を押し倒してしまった！
-> CONTEXT: Map443/events/11/pages/0/102/Dialogue < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map443/events/11/pages/0/102/Dialogue
+> CONTEXT: Map463/events/11/pages/0/103/Dialogue
+\\N[1] put too much force into his jump and ended up
+crashing into Yami, knocking her over!#Ron
 > END STRING
 
 > BEGIN STRING
 ご、ごめん…
-> CONTEXT: Map443/events/11/pages/0/104/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/105/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: Map443/events/11/pages/0/104/Dialogue/kazuya-0
+> CONTEXT: Map463/events/11/pages/0/105/Dialogue/kazuya-0
+S-Sorry about that...#Ron
 > END STRING
 
 > BEGIN STRING
 大丈夫だよ……♡
 
 えへへ、よくできました♡
-> CONTEXT: Map443/events/11/pages/0/107/Dialogue/enemy15 < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/108/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map443/events/11/pages/0/107/Dialogue/enemy15
+> CONTEXT: Map463/events/11/pages/0/108/Dialogue/enemy15
+That's okay... ♡
 
+Ehehe, good job. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 イチャついてる場合じゃないでしょ、お二人さん！
 
 ほら、早く立って！！
-> CONTEXT: Map443/events/11/pages/0/112/Dialogue/enemy36 < UNTRANSLATED
-> CONTEXT: Map463/events/11/pages/0/113/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map443/events/11/pages/0/112/Dialogue/enemy36
+> CONTEXT: Map463/events/11/pages/0/113/Dialogue/enemy38
+This isn't the time or place to be flirting, you
+two! Come on, hurry up and get back on your feet!!#Ron
 > END STRING
