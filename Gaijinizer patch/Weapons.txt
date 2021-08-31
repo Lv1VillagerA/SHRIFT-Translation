@@ -656,14 +656,15 @@ Custom Sword#Strate
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]希少金属ミスリルで造られた特注の剣
 \\C[6]自ターン開始時、ＨＰが２０％回復
-> CONTEXT: Weapons/123/description < UNTRANSLATED
-
+> CONTEXT: Weapons/123/description
+\\C[11][Luka Only] \\C[0]A bespoke sword made from the rare
+metal Mythril. \\C[6]Restores 20% HP at the start of his turn.#Ron
 > END STRING
 
 > BEGIN STRING
 ミスリルソード
-> CONTEXT: Weapons/123/name < UNTRANSLATED
-
+> CONTEXT: Weapons/123/name
+Mythril Sword#Ron
 > END STRING
 
 > BEGIN STRING
