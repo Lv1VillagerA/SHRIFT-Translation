@@ -44,7 +44,7 @@ capable of opposing us...#Ron
 And to be able to handle attacks from all three
 of us all by yourself, you must be quite used to
 fighting. Though I do wonder just how much longer
-you can hold out. ♡#Ron
+you can hold out...? ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -394,8 +394,8 @@ What?!#Ron
 私たちの力は、もっと強くなるのよ…
 > CONTEXT: Map461/events/4/pages/0/278/Dialogue/beelzebub_fc1
 This world's going to be consumed by Abaddon
-soon. That will further strengthen the World
-Fusion, making us even more powerful.#Ron
+soon. It will further strengthen the World
+Fusion, making us even more powerful...#Ron
 > END STRING
 
 > BEGIN STRING

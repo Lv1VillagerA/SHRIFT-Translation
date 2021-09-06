@@ -26,9 +26,9 @@ Awoooooon!!!!!#Ron
 炎の渦を噴射し、空中を空高く滑空した！！
 > CONTEXT: Map443/events/11/pages/0/43/Dialogue
 > CONTEXT: Map463/events/11/pages/0/44/Dialogue
-When Mizuki called out to the magic equipment she had on
-her legs, a whirlwind of flame shot her high into the air
-and allowed her to glide over the gap!!#RonLocalization
+When Mizuki called out to the magic greaves she had on
+her legs, a whirlwind of flame shot her high into the air,
+allowing her to glide over the gap!!#RonLocalization
 > END STRING
 
 > BEGIN STRING

@@ -69,10 +69,9 @@ doesn't exist here...#RonIffy
 
 つまり、魔物もここで生きているんだよ。
 > CONTEXT: Map465/events/3/pages/0/37/Dialogue/sirousagi_fc1
-This is a world in which monsters exist in the
-human realm as the second intelligent species.
-In other words, monsters also live here in
-this world.#RonIffyWording
+This is a world in which monsters exist alongside
+humanity as another, sentient species. In other
+words, monsters exist naturally in this world.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -127,7 +126,7 @@ same world as the next guest.#RonLocalization
 彼女、そのパチモンみたいな種族のせいで
 \\C[2]あんまりいい境遇じゃない\\C[0]って聞いたけど…
 > CONTEXT: Map465/events/3/pages/0/66/Dialogue/sirousagi_fc1
-But I wonder about that girl. I've heard \\C[2]she
+I wonder about that girl... I've heard \\C[2]she
 hasn't had an easy time of it\\C[0] because of how her
 species seems like nothing more than a cheap
 imitation.#Ron
@@ -201,7 +200,7 @@ Just what on earth happened to my world?#Ron
 So this Abaddon is causing worlds to collapse...
 And I'm a "guest" that's meant to prevent that...
 
-And you, White Rabbit, happen to be our guide?
+And you, White Rabbit, happen to be our guide?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -233,7 +232,7 @@ and the Demon Realm.#RonIffy
 > CONTEXT: Map465/events/3/pages/0/126/Dialogue/enemy37
 But putting that aside, the problem is Abaddon's
 manifestation. If those holes in our world are
-his doing, then it makes sense, but why is he
+his doing then it makes sense, but why is he
 manifesting now?#Ron
 > END STRING
 
@@ -242,9 +241,9 @@ manifesting now?#Ron
 
 食ベルダケ。悪巧ミ、シナイ
 > CONTEXT: Map465/events/3/pages/0/131/Dialogue/enemy37
-He simply Demon Realm's "Black Hole"...
+He's just demonic "black hole"...
 
-He just eats, no plan.#RonIffy
+Only consumes, no thought.#RonIffy
 > END STRING
 
 > BEGIN STRING
