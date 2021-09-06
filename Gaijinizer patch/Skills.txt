@@ -10499,8 +10499,9 @@ Delta Aero#Ron
 > BEGIN STRING
 \\C[2]味方の風・雷属性の被ダメージ軽減
 \\C[6]味方の物理・魔法命中率２０％上昇
-> CONTEXT: Skills/910/description < UNTRANSLATED
-
+> CONTEXT: Skills/910/description
+\\C[2]Reduces incoming wind and lightning damage for the party.
+\\C[6]Increases accuracy of physical and wind attacks by 20%.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10519,8 +10520,9 @@ Sylph#Ron
 > BEGIN STRING
 \\C[2]味方の物理属性の被ダメージ軽減
 \\C[6]味方のスタン無効付与
-> CONTEXT: Skills/911/description < UNTRANSLATED
-
+> CONTEXT: Skills/911/description
+\\C[2]Reduces incoming physical damage for the party.
+\\C[6]Party gains immunity to Stun.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10539,8 +10541,9 @@ Gnome#Ron
 > BEGIN STRING
 \\C[2]味方の物理・魔法攻撃力上昇
 \\C[6]味方の恍惚無効
-> CONTEXT: Skills/912/description < UNTRANSLATED
-
+> CONTEXT: Skills/912/description
+\\C[2]Increases party's physical and magic attack.
+\\C[6]Party gains immunity to Ecstasy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10559,8 +10562,9 @@ Salamander#Ron
 > BEGIN STRING
 \\C[2]味方の氷・炎属性の被ダメージ軽減
 \\C[6]味方の物理・魔法回避率２０％上昇
-> CONTEXT: Skills/913/description < UNTRANSLATED
-
+> CONTEXT: Skills/913/description
+\\C[2]Reduces incoming ice and fire damage for the party.
+\\C[6]Increases party's evasion by 20%.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10591,8 +10595,9 @@ Meditate#Ron
 > BEGIN STRING
 相手に物理属性のダメージを与える
 \\C[2]必中攻撃。
-> CONTEXT: Skills/915/description < UNTRANSLATED
-
+> CONTEXT: Skills/915/description
+Deals physical damage to an opponent.
+\\C[2]Guaranteed to hit.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10610,8 +10615,9 @@ Demon Decapitation#Ron
 > BEGIN STRING
 相手に風属性の物理ダメージを与える。
 \\C[2]戦闘開始時であればあるほどダメージアップ。
-> CONTEXT: Skills/916/description < UNTRANSLATED
-
+> CONTEXT: Skills/916/description
+\\C[0]Deals wind damage to an enemy.
+\\C[2]Damage increased if used at the start of battle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10635,8 +10641,9 @@ The powerful attack smashes even the ground apart!#Ron
 > BEGIN STRING
 相手に雷属性の物理ダメージを与える
 \\C[2]クリティカル率が高い。
-> CONTEXT: Skills/917/description < UNTRANSLATED
-
+> CONTEXT: Skills/917/description
+Deals lightning damage to an enemy.
+\\C[2]High chance to get a critical.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10660,8 +10667,9 @@ His sword strike cleaves through everything!#RonLocalization
 > BEGIN STRING
 相手に氷属性の物理ダメージを与える
 \\C[2]このターンの攻撃を必中以外回避する。
-> CONTEXT: Skills/918/description < UNTRANSLATED
-
+> CONTEXT: Skills/918/description
+Deals ice damage to an enemy.
+\\C[2]Guaranteed evasion of all but auto-hit attacks.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10672,15 +10680,16 @@ Serene Demon Sword#Ron
 
 > BEGIN STRING
 は一旦剣を鞘に収め、居合い斬りを繰り出した！
-> CONTEXT: Skills/918/message1 < UNTRANSLATED
+> CONTEXT: Skills/918/message1
  sheathes his sword, before drawing it out in a big strike!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 相手に物理攻撃のダメージを与える
 \\C[2]相手に攻撃低下・敏捷低下のデバフを付ける
-> CONTEXT: Skills/919/description < UNTRANSLATED
-
+> CONTEXT: Skills/919/description
+Deals physical damage to an enemy.
+\\C[2]Applies an attack and agility debuff.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10698,8 +10707,9 @@ Demon Skull Beheading#Ron
 > BEGIN STRING
 相手に無属性の物理ダメージを５回与える
 \\C[2]与えるダメージの振り幅が大きい
-> CONTEXT: Skills/920/description < UNTRANSLATED
-
+> CONTEXT: Skills/920/description
+Deals null-type damage to an enemy five times.
+\\C[2]Does a wide spread of damage.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10723,8 +10733,9 @@ Luka enters a state of mindfulness!!#RonIffy
 > BEGIN STRING
 次の物理攻撃を必ずクリティカルにする
 \\C[2]ターンを消費しない。\\C[30]【初心】とは効果が重複しない。
-> CONTEXT: Skills/921/description < UNTRANSLATED
-
+> CONTEXT: Skills/921/description
+\\C[0]Guarantees a critical on the next attack.
+\\C[2]Doesn't use a turn. \\C[30]Effect doesn't stack with [Focus].#Ron
 > END STRING
 
 > BEGIN STRING
