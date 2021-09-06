@@ -5330,7 +5330,7 @@ has trapped Kazuya's body inside her clothes!#DL
 > BEGIN STRING
 火や冷気や真空波の入り交じったブレスが\\N[1]たちを襲う！！！！！！！！！！
 > CONTEXT: Skills/407/message2 < UNTRANSLATED
-The party is hit with waves of heat, frost, and vacuum!#CheckLater
+The party is hit with waves of heat, frost, and void!#Ron
 > END STRING
 
 > BEGIN STRING

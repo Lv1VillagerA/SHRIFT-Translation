@@ -36,9 +36,10 @@ He's still inside the school!!#Ron
 
 \\C[2]でも、キミが生き残れば元に戻せる！！！
 > CONTEXT: Map463/events/11/pages/0/185/Dialogue/sirousagi_fc1
-\\C[10]This world's already done for! It's all going
-to be devoured by that worm-eaten thing! \\C[2]But if
-you survive, you can return it back to normal.#CheckLater
+\\C[10]This world's already done for! That thing
+making all those holes is going to devour it all!
+\\C[2]But if you survive, you can return it back to
+normal.#Ron
 > END STRING
 
 > BEGIN STRING

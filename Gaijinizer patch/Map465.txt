@@ -15,9 +15,9 @@ character here.#Ron
 
 はやいとこ、最後の『ゲスト』と合流しないと……
 > CONTEXT: Map465/events/3/pages/0/5/Dialogue/sirousagi_fc1
-It's pretty tough when you can't make even a
-single mistake or change your body. We need to
-hurry and meet up with the final guest.#CheckLater
+It's pretty tough when you don't get any second
+chances or do-overs. We need to hurry and meet
+up with our final guest...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -317,7 +317,7 @@ differences.
 Those overlapping commonalities from species in
 worlds that have been consumed could be used to
 strengthen a particular individual who shares
-similar traits.RonSuperIffyLocalization
+similar traits.#RonSuperIffyLocalization
 > END STRING
 
 > BEGIN STRING
@@ -479,9 +479,10 @@ might be more appropriate for you to use "san".#Ron
 
 かけ離れてる面子ばかりなんだろう……この一行……
 > CONTEXT: Map465/events/3/pages/0/231/Dialogue/kazuya
-Why is it that Luka, Alice, and everyone else
-in this party feel so much older than their
-appearance would suggest?#CheckLater
+Luka, Alice, and now you...
+
+Why is this party filled with people who look
+so much younger than they act?#Ron/Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -615,7 +616,7 @@ her owner.#RonLocalization
 > CONTEXT: Map465/events/29/pages/1/33/Dialogue/enemy37
 I hate getting along... forming packs...!!
 
-Weak beasts do that!#CheckLater
+Only weak beasts do that!#Ron
 > END STRING
 
 > BEGIN STRING

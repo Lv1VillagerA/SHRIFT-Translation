@@ -269,8 +269,8 @@ what you look like with a pregnant belly.#Ron
 
 それならば、私もいっそのこと……
 > CONTEXT: CommonEvents_770/223/Dialogue/other5
-You can ejaculate even with that kind of thing
-happening to you. In which case I'd rather...#RonIffy
+You can even ejaculate with that kind of thing
+happening to you. In which case I'd......#RonIffy
 > END STRING
 
 > BEGIN STRING

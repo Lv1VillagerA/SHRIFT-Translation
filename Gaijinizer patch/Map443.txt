@@ -51,10 +51,10 @@ B-But... there's no way I can clear that!!#Ron
 私の身体にぶつかる勢いでジャンプするの！！！
 > CONTEXT: Map443/events/11/pages/0/62/Dialogue/enemy15
 > CONTEXT: Map463/events/11/pages/0/63/Dialogue/enemy15
-Don't worry, I'll be sure to catch you!!!
+Don't worry, I'll definitely catch you!!!
 
-Put everything you have into it, jump hard enough
-that you'll crash into me!!!#RonIffyWording
+Just put all your energy into it, and jump so
+you'll crash straight into me!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
