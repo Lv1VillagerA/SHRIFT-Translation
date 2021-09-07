@@ -219,9 +219,10 @@ through the looking-glass?#Ron
 
 単語が一致したとしても、さして不思議ではない。
 > CONTEXT: Map465/events/3/pages/0/121/Dialogue/enemy37
-Well, that fairy tale is an enigmatic story that
-quickly made its way into the folklore of demons
-and the Demon Realm.#RonIffy
+Well, that fairy tale is a story that spread
+oddly fast and became quite popular among
+demons and the Demon Realm itself.
+It's not *that* surprising all the words line up.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING

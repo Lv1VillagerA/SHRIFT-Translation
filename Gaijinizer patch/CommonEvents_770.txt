@@ -306,8 +306,8 @@ Luka summon Gnome to mitigate the attack.#Ron
 > CONTEXT: CommonEvents_770/238/Dialogue/other5
 You can defend against their "Triple Breath"
 attack by \\C[2]using Sylph who protects against both
-lightning and wind. If you summon Undine as well,
-Luka won't be able to attack.#CheckLater
+lightning and wind. Summoning Undine will also
+give you a little more defense.#RonLocalization
 > END STRING
 
 > BEGIN STRING
