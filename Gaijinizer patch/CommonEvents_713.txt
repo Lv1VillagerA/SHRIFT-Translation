@@ -31,7 +31,7 @@
 > CONTEXT: CommonEvents_713/5/ChoiceHelp
 \\\>\\C[13]Type:Physical \\C[14]Power: Medium
 \\\>\\C[0]Deals physical damage to an opponent.
-\\\>\\C[2]Guaranteed hit.#Ron
+\\\>\\C[2]Guaranteed to hit.#Ron
 > END STRING
 
 > BEGIN STRING
