@@ -21,10 +21,12 @@
 う、うそでしょ……！？
 
 ぼく、またこのすがた…！？
-> CONTEXT: Map422/events/2/pages/0/10/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map446/events/2/pages/0/16/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map466/events/4/pages/0/274/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: Map422/events/2/pages/0/10/Dialogue/kazuya-c
+> CONTEXT: Map446/events/2/pages/0/16/Dialogue/kazuya-c
+> CONTEXT: Map466/events/4/pages/0/274/Dialogue/kazuya-c
+N-No way...!
 
+I'm... back in this form again...!#Ron
 > END STRING
 
 > BEGIN STRING

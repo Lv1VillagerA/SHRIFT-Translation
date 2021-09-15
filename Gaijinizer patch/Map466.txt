@@ -1,8 +1,8 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 ひ、広い……
-> CONTEXT: Map466/events/4/pages/0/76/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/76/Dialogue/kazuya
+T-This place is huge...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10,16 +10,22 @@
 中は色んなエリアがあるね…
 
 さっきのエリアなんか、ファンシーな感じだったし…
-> CONTEXT: Map466/events/4/pages/0/78/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/78/Dialogue/ruka_fc1
+Though it looked eerie from the outside, there
+are actually all sorts of areas on the inside.
+Like that fancy-looking one we passed through
+earlier.#Ron
 > END STRING
 
 > BEGIN STRING
 あそこにいた猫ちゃんたち、可愛かったね！
 
 時間があったら、撫でにいきたかったなぁ
-> CONTEXT: Map466/events/4/pages/0/83/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/83/Dialogue/enemy15
+The cats in there were so cute!
 
+I would've liked to pat them if we'd had more
+time to spare.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -27,8 +33,11 @@
 
 一応あれ、魔物だからね…？
 寝てたからスルーできたけど、凶暴かもしれないし…
-> CONTEXT: Map466/events/4/pages/0/88/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/88/Dialogue/enemy38
+Those were monsters, Yami-chan...
 
+We were able to slip past because they were
+sleeping but they might've been vicious.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -36,8 +45,14 @@
 領地を没収されて、その後は魔物の住処になったらしいね。
 
 だから、各エリアで魔物たちが好みの環境を作ってる。
-> CONTEXT: Map466/events/4/pages/0/93/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/93/Dialogue/sirousagi_fc1
+This place was originally the estate of a wealthy
+human, but it became the home of monsters after
+it was seized from him.
 
+That's why each area's monsters have built an
+environment for themselves that suits their
+own preferences.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,8 +60,11 @@
 ここに住む魔物も少なくなったって聞いたけど……
 
 それでもけっこうな数の魔物が徘徊してるみたいだ。
-> CONTEXT: Map466/events/4/pages/0/98/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/98/Dialogue/sirousagi_fc1
+There used to be a big cheese controlling the
+place called Baphomet, but after being defeated,
+the number of monsters here has gone down. Though
+there's still plenty of them roaming around.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,39 +72,53 @@
 我らを襲ってくる魔物がいる可能性がありそうだな……
 
 油断せずに進むぞ。
-> CONTEXT: Map466/events/4/pages/0/103/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/103/Dialogue/alice_fc5
+Even though there aren't any of Abaddon's
+assassins around, it still feels like we could be
+attacked by the monsters here. Let's stay on our
+guard as we move through here.#Ron
 > END STRING
 
 > BEGIN STRING
 来たわね……\\N[1]。
 
 ようこそ、私たちの世界に…
-> CONTEXT: Map466/events/4/pages/0/120/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/120/Dialogue/enemy38
+You came, \\N[1].
 
+Welcome... to our world.#Ron
 > END STRING
 
 > BEGIN STRING
 あ！ヴァシリカちゃん！！
 
 やっほー♪元気してた？
-> CONTEXT: Map466/events/4/pages/0/126/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/126/Dialogue/enemy15
+Ah! It's Vasilica-chan!!
 
+Heya~ ♪
+How's everything going?#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{友達かっ！？
 \\}\\}気安くちゃん付けするんじゃないわよ！このネコ！
-> CONTEXT: Map466/events/4/pages/0/130/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/130/Dialogue/enemy38
+\\{\\{We aren't friends, you know!!
 
+And don't put "chan" on the end of my name like
+it's nothing, you stupid cat!#Ron
 > END STRING
 
 > BEGIN STRING
 以前は不覚を取ったけど、今回はそうはいかないわ！
 
 私の恐ろしさ、思い知らせてやるんだから！！
-> CONTEXT: Map466/events/4/pages/0/133/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/133/Dialogue/enemy38
+Last time was an embarrassing defeat for me, but
+that won't be happening again!
 
+I'll show you just how terrifying I can be!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -94,16 +126,20 @@
 
 さすがにナワバリ意識の強いブラックドッグを
 別種のナワバリだらけのここに入れられなかったか。
-> CONTEXT: Map466/events/4/pages/0/137/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/137/Dialogue/sirousagi_fc1
+It doesn't look like she brought Black Dog with
+her this time. With their keen understanding of
+territory, it's only natural they wouldn't enter
+a place full of other monster turfs like this.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 でも、彼女もアバドーンの刺客……
 
 たとえ一人でも、その実力は確かなはずだ……
-> CONTEXT: Map466/events/4/pages/0/142/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/142/Dialogue/kazuya
+But she's still one of Abaddon's assassins. Even
+by herself she should still be plenty powerful.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -111,8 +147,11 @@
 
 あまり特異な魔力は感じられんが
 ベルゼバブたち同様、油断はできんぞ…！！
-> CONTEXT: Map466/events/4/pages/0/146/Dialogue/alice_fc6 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/146/Dialogue/alice_fc6
+You mean from the effects of the \\C[10]World Fusion\\C[0]?
+I don't feel any special power emanating from her
+but just like with the Beelzebubs, we shouldn't
+let our guard down!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -120,8 +159,11 @@
 
 だけど\\N[1]、
 今回アンタの相手をするのは私じゃないわ…
-> CONTEXT: Map466/events/4/pages/0/151/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/151/Dialogue/enemy38
+Fufu... That's exactly right...
 
+But \\N[1], I shall not be the one you face
+this day...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -129,30 +171,38 @@
 
 アンタたちが、はるばるここまで来てくれたんですもの
 まずは小手調べに、彼女と戦わせてあげるわ！
-> CONTEXT: Map466/events/4/pages/0/156/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/156/Dialogue/enemy38
+In truth, \\C[2]there are other monsters who have
+thrown their lot in with Abaddon.\\C[0] And though
+you all have come far to get here, I shall first
+have you participate in a trial by combat!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 なに…！？
 
 仲間だと！
-> CONTEXT: Map466/events/4/pages/0/161/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/161/Dialogue/alice_fc6
+What?!
 
+An ally of hers?!#Ron
 > END STRING
 
 > BEGIN STRING
 お前は……！！
-> CONTEXT: Map466/events/4/pages/0/180/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/180/Dialogue/kazuya
+You're...!!#Ron
 > END STRING
 
 > BEGIN STRING
 目の前に現れたのは、巨大な蛇の下半身を持つ褐色の女性…
 
 身に付けた装飾や杖からは、かなり高位の存在であるように見える…
-> CONTEXT: Map466/events/4/pages/0/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/182/Dialogue
+What appeared in front of us was a tan-skinned woman with
+the lower half of a giant snake. The ornaments on her body
+and the scepter she carried gave off a very high-class and
+dignified bearing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -160,22 +210,27 @@
 
 蛇の下をチロチロさせながら
 こちらを吟味するように、じっと凝視している…
-> CONTEXT: Map466/events/4/pages/0/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/186/Dialogue
+She's staring fixedly at us while her lower half twitches,
+seemingly sizing us up. Her bewitching snake body writhing
+as if to flaunt its allure.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 こいつは……ラミア…！？
-> CONTEXT: Map466/events/4/pages/0/191/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/191/Dialogue/enemy38
+That's... a lamia?!#Ron
 > END STRING
 
 > BEGIN STRING
 彼女は\\C[2]『ハイラミア』……
 
 この世界の遺跡を守る立場にある、高位な魔物よ！
-> CONTEXT: Map466/events/4/pages/0/193/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/193/Dialogue/enemy38
+This is \\C[2]"High Lamia"...
 
+She's a high-ranking monster who protects the
+ruins of this world!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -183,31 +238,38 @@
 \\C[10]『世界融解』\\C[0]の力で、更にパワーアップ……
 
 果たして、アンタたちに対処できるかしらねぇ？
-> CONTEXT: Map466/events/4/pages/0/197/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/197/Dialogue/enemy38
+Her magic power even normally would be threat
+enough, but with the \\C[10]World Fusion \\C[0]powering it
+up even further, I wonder whether you'll be able
+to deal with her.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 さぁ！行きなさいハイラミア！！
 
 アンタの魔法で、\\N[1]を無力化しちゃいなさい！
-> CONTEXT: Map466/events/4/pages/0/202/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/202/Dialogue/enemy37
+Now go, High Lamia!!
 
+Use your magic to incapacitate \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
 っていうかさぁ…
 
 アンタなんでそんなに偉そうなわけ？
-> CONTEXT: Map466/events/4/pages/0/212/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/212/Dialogue/enemy39
+So I've been wondering...
 
+Why're you acting all high and mighty?#Ron
 > END STRING
 
 > BEGIN STRING
 えっ…？
-> CONTEXT: Map466/events/4/pages/0/217/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/92/pages/1/148/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/217/Dialogue/enemy38
+> CONTEXT: Troops/92/pages/1/148/Dialogue/kazuya-0
+Huh?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -215,8 +277,11 @@
 \\N[1]って子を誘惑する話には乗ったわよ？
 
 でも、アンタの部下みたいな扱いを受けるのは心外だわ。
-> CONTEXT: Map466/events/4/pages/0/220/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/220/Dialogue/enemy39
+I mean yeah, I did go along with your plan to
+help Abaddon and seduce this \\N[1] kid...
+But it really gets on my nerves when you treat
+me like I'm your subordinate.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -224,29 +289,35 @@
 
 例の一件以来、世界を救ったってことで
 魔物のみんなからちょーーーっと株上がった程度でさ…
-> CONTEXT: Map466/events/4/pages/0/225/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/225/Dialogue/enemy39
+Aren't you getting a little carried away? All
+the other monsters only sliiiightly like you more
+since you saved the world in that thing that
+happened.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]お情けでこの洋館の玄関付近に住まわせてもらってる分際で\\C[0]
 
 そんな場所で仁王立ちして、我が物顔するんじゃないわよ
-> CONTEXT: Map466/events/4/pages/0/230/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/230/Dialogue/enemy39
+\\C[2]We all let you live around the entrance-way to
+this Western-style house out of pity. \\C[0]So don't
+stand there acting like you own the place.#Ron
 > END STRING
 
 > BEGIN STRING
 ぐぬぬ……！
-> CONTEXT: Map466/events/4/pages/0/234/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/234/Dialogue/enemy38
+Grggggh!#Ron
 > END STRING
 
 > BEGIN STRING
 ……なんか今、
 聞いちゃいけないような事情を聞いた気がする…
-> CONTEXT: Map466/events/4/pages/0/236/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/236/Dialogue/kazuya
+It kind of feels like we just heard about
+something we really shouldn't have...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -254,8 +325,10 @@
 ちゃんと協力してあげるわ……
 
 とっても面白そう…♪
-> CONTEXT: Map466/events/4/pages/0/243/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/243/Dialogue/enemy39
+But... I'm very much on board with the idea of
+seducing a human. This looks like it's going to
+be very interesting. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -263,28 +336,33 @@
 
 あなたはどんな『甘え方』をするのかしらね♡
 \\N[1]ちゃん…♡
-> CONTEXT: Map466/events/4/pages/0/248/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/248/Dialogue/enemy39
+Will you be able to avoid my strengthened magic?
 
+I wonder how I should pamper you... ♡
+\\N[1]-chan... ♡
 > END STRING
 
 > BEGIN STRING
 避けろ！！\\N[1]！！！
-> CONTEXT: Map466/events/4/pages/0/256/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/256/Dialogue/other2
+\\N[1], get out of the way!!#Ron
 > END STRING
 
 > BEGIN STRING
 ………っ！！！
 
 この球……追尾して…！！
-> CONTEXT: Map466/events/4/pages/0/258/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/258/Dialogue/kazuya
+......!!
 
+The orb's making a beeline for me!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん！！！！
-> CONTEXT: Map466/events/4/pages/0/262/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/262/Dialogue/enemy30
+\\N[1]-kun!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -292,8 +370,10 @@
 
 いや、違う…！
 なんだそのぬいぐるみは！？
-> CONTEXT: Map466/events/4/pages/0/278/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/278/Dialogue/alice_fc5
+She shrunk him?! No, wait...!
 
+What's with that stuffed animal?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -301,8 +381,11 @@
 可愛くなったじゃないの、\\N[1]ちゃん♡
 
 ますます私好みになっちゃって♡
-> CONTEXT: Map466/events/4/pages/0/283/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/283/Dialogue/enemy39
+Oh my. ♡
 
+You've gotten so much cuter, \\N[1]-chan. ♡
+You really are turning into my type. ♡#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -310,8 +393,15 @@
 
 \\C[2]単なる知能低下や知識忘却じゃなくて
 ママに甘えたくて甘えたくてしょうがなくなるのよ♡
-> CONTEXT: Map466/events/4/pages/0/288/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/288/Dialogue/enemy39
+My magic has the effect of \\C[2]regressing my
+opponent back into a childhood state.
 
+
+\\C[2]It doesn't merely regress intelligence or cause
+them to forget knowledge, but makes them want to
+be coddled by their mommy so much they can't bear
+it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -319,8 +409,10 @@
 でもあんたの魔法って、姿まで子供に変えたっけ…？
 
 単なる精神攻撃だったような……
-> CONTEXT: Map466/events/4/pages/0/295/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/295/Dialogue/enemy38
+Huh? I thought you said that your magic changes
+their appearance only, that it was just a
+psychological attack...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -328,8 +420,11 @@
 どうもその辺の制御がうまくいかなくてね……
 
 まだ少し、加減が難しいのよ……
-> CONTEXT: Map466/events/4/pages/0/300/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/300/Dialogue/enemy39
+Perhaps as a result of the \\C[10]World Fusion \\C[0]you
+mentioned, I seem to have lost some control over
+that aspect of it. Exercising fine control over
+is still a little tricky...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -337,8 +432,11 @@
 その子がカワイイ状態に自動で変化してくれるの♡
 
 今の\\N[1]ちゃんがウサギを持ってるみたいにね…♡
-> CONTEXT: Map466/events/4/pages/0/305/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/305/Dialogue/enemy39
+But thanks to that, my power not only shrunk him
+in size, but also automatically transformed him
+into something much cuter, as you can see with
+the little bunny he's holding. ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -346,48 +444,53 @@
 お目にかかることは滅多にないのよ…♡♡
 
 さぁ…こっちにいらっしゃい……♡
-> CONTEXT: Map466/events/4/pages/0/310/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/310/Dialogue/enemy39
+Fufufu... human children live deep in the village
+so it's rare I get to see one for myself. ♡♡
 
+Now then, come here you cutie. ♡#RonLocalization
 > END STRING
 
 > BEGIN STRING
 あ……あぁうぅ……♡
-> CONTEXT: Map466/events/4/pages/0/319/Dialogue/kazuya-c < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/319/Dialogue/kazuya-c
+A-Aaau... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ダメ……！！
 
 \\N[1]くん！！
-> CONTEXT: Map466/events/4/pages/0/321/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/321/Dialogue/enemy30
+\\N[1]-kun, no!!#Ron
 > END STRING
 
 > BEGIN STRING
 ………いくわよ！オルトロス！！
-> CONTEXT: Map466/events/4/pages/0/325/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/325/Dialogue/enemy38
+Let's go, Ortolos!!#Ron
 > END STRING
 
 > BEGIN STRING
 たあっ！！！
-> CONTEXT: Map466/events/4/pages/0/327/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/327/Dialogue/ruka_fc1
+Taaagh!!!#Ron
 > END STRING
 
 > BEGIN STRING
 ……！？
 
 ウソでしょ…！
-> CONTEXT: Map466/events/4/pages/0/342/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/342/Dialogue/enemy38
+...?!
 
+No way!!#Ron
 > END STRING
 
 > BEGIN STRING
 武器が……通らない……！？
-> CONTEXT: Map466/events/4/pages/0/346/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/346/Dialogue/enemy30
+Our weapons... have no effect?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -395,8 +498,11 @@
 
 ルカだけでなく、あの三人の攻撃が
 全く効いていないぞ……！？
-> CONTEXT: Map466/events/4/pages/0/348/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/348/Dialogue/alice_fc5
+What's the meaning of this?!
 
+All three of their attacks were ineffective, not
+just Luka's...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -404,8 +510,9 @@
 
 \\C[2]\\N[1]くんが子供になっちゃってるから
 ボクの魔力コンバートがうまくいってないんだ…！
-> CONTEXT: Map466/events/4/pages/0/353/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/353/Dialogue/sirousagi_fc1
+S-Sorry... \\C[2]now that \\N[1]-kun's a child, I can't
+properly convert my magic anymore!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -413,14 +520,17 @@
 彼の精神が未熟になったせいで、マイルームが不安定なんだ…
 
 \\C[2]ここにいる全員が、ほぼ無力化されちゃってる…！
-> CONTEXT: Map466/events/4/pages/0/358/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/358/Dialogue/sirousagi_fc1
+I use his connections to those in My Room to
+power the conversion, and when he returns to an
+immature state, My Room becomes unstable. \\C[2]That
+means all of you here have become much weaker!#Ron
 > END STRING
 
 > BEGIN STRING
 ぐっ…！！
-> CONTEXT: Map466/events/4/pages/0/378/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/378/Dialogue/ruka_fc1
+Gghh!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -428,52 +538,65 @@
 思わぬピンチに陥ったみたいねぇ？
 
 まさかの一網打尽のチャンスじゃない！
-> CONTEXT: Map466/events/4/pages/0/380/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/380/Dialogue/enemy37
+Ahahahahaha! It would appear you've all fallen
+into quite the predicament. This is my chance to
+catch you all in one fell swoop!#Ron
 > END STRING
 
 > BEGIN STRING
 ハイラミアの魔法は、ちょっとやそっとじゃ切れないわよ？
 
 魔法が解けるまで、果たして逃げ切れるかしらねぇ…？
-> CONTEXT: Map466/events/4/pages/0/385/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/385/Dialogue/enemy37
+High Lamia's magic won't simply wear off on its
+own. I wonder if you'll be able to hold on until
+you can find a way to dispel it?#RonLocalization
 > END STRING
 
 > BEGIN STRING
 うぅ……♡
 
 ま…ま…？
-> CONTEXT: Map466/events/4/pages/0/391/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/391/Dialogue/kazuya-c
+Ugh... ♡
 
+M-Mommy...?#Ron
 > END STRING
 
 > BEGIN STRING
 そうよ、私がママよ♡
 
 こっちにいらっしゃい、\\N[1]ちゃん♡
-> CONTEXT: Map466/events/4/pages/0/395/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/395/Dialogue/enemy39
+That's right, I'm your mommy. ♡
 
+Come here, \\N[1]-chan. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 違うよ！！！！！！！
 
 私が\\N[1]くんのママだよ！！！
-> CONTEXT: Map466/events/4/pages/0/399/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/399/Dialogue/enemy30
+She's lying!!!
 
+*I'm* your mommy, \\N[1]-kun!!#Ron
 > END STRING
 
 > BEGIN STRING
 夜深ちゃん？
-> CONTEXT: Map466/events/4/pages/0/403/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map466/events/4/pages/0/403/Dialogue/enemy38
+Yami-chan?#Ron
 > END STRING
 
 > BEGIN STRING
 ええい、このままでは対抗手段がない！！
 
 一旦\\N[1]を連れて退却するぞ！！
-> CONTEXT: Map466/events/4/pages/0/405/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map466/events/4/pages/0/405/Dialogue/alice_fc6
+Either way, we don't have any way to fight her
+like this!!
 
+Let's grab \\N[1] and retreat for now!!#Ron
 > END STRING
