@@ -8736,12 +8736,13 @@ It's over.#Triketos
 > BEGIN STRING
 ミズキのサポートスキル。
 相手に物理属性超特大ダメージを与える。
-> CONTEXT: Skills/755/description < UNTRANSLATED
-> CONTEXT: Skills/766/description < UNTRANSLATED
-> CONTEXT: Skills/788/description < UNTRANSLATED
-> CONTEXT: Skills/790/description < UNTRANSLATED
-> CONTEXT: Skills/930/description < UNTRANSLATED
-
+> CONTEXT: Skills/755/description
+> CONTEXT: Skills/766/description
+> CONTEXT: Skills/788/description
+> CONTEXT: Skills/790/description
+> CONTEXT: Skills/930/description
+One of Mizuki's support skills.
+Deals high physical damage to an opponent.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9178,9 +9179,9 @@ Great physical damage to a single enemy.#MTLed
 
 > BEGIN STRING
 の傍らで、ミズキはケルベロスを叩きつけた！
-> CONTEXT: Skills/790/message1 < UNTRANSLATED
-> CONTEXT: Skills/930/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/790/message1
+> CONTEXT: Skills/930/message1
+ looks on as Mizuki slams Cerberus into the ground!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -10922,33 +10923,34 @@ Focus#Ron
 
 > BEGIN STRING
 地面を伝い、衝撃波は迷いなく相手へ直撃する！
-> CONTEXT: Skills/930/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/930/message2
+A shockwave moves unerring through the ground to the enemy!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ヘルインパクト
-> CONTEXT: Skills/930/name < UNTRANSLATED
-
+> CONTEXT: Skills/930/name
+Hell Impact#Ron
 > END STRING
 
 > BEGIN STRING
 ミズキは剛撃の号令を放った！！
-> CONTEXT: Skills/931/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/931/message2
+Mizuki unleashes Staunch Attack Decree!!#Ron
 > END STRING
 
 > BEGIN STRING
 ミズキのサポートスキル。
 このターンの間、\\N[1]の物理攻撃力を大幅に上昇させる。
-> CONTEXT: Skills/931/description < UNTRANSLATED
-
+> CONTEXT: Skills/931/description
+One of Mizuki's support skills.
+Significantly raises \\N[1]'s physical ATK this turn.#Ron
 > END STRING
 
 > BEGIN STRING
 剛撃の号令
-> CONTEXT: Skills/931/name < UNTRANSLATED
-
+> CONTEXT: Skills/931/name
+Staunch Attack Decree#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -11145,8 +11147,8 @@ Focus#Ron
 
 > BEGIN STRING
 はマスケットを放った！
-> CONTEXT: Skills/945/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/945/message1
+ hurls muskets!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -11158,20 +11160,20 @@ Focus#Ron
 
 > BEGIN STRING
 フリントロック
-> CONTEXT: Skills/946/name < UNTRANSLATED
-
+> CONTEXT: Skills/946/name
+Flintlock#Ron
 > END STRING
 
 > BEGIN STRING
 はフリントロックを放った！
-> CONTEXT: Skills/946/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/946/message1
+ hurls flintlock rifles!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 はてつはうを放った！
-> CONTEXT: Skills/947/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/947/message1
+ hurls Tetsuhau!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11183,14 +11185,14 @@ Focus#Ron
 
 > BEGIN STRING
 カノン砲
-> CONTEXT: Skills/948/name < UNTRANSLATED
-
+> CONTEXT: Skills/948/name
+Cannon#Ron
 > END STRING
 
 > BEGIN STRING
 はカノン砲を放った！
-> CONTEXT: Skills/948/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/948/message1
+ hurls a cannon!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -11202,14 +11204,14 @@ Focus#Ron
 
 > BEGIN STRING
 手りゅう弾
-> CONTEXT: Skills/949/name < UNTRANSLATED
-
+> CONTEXT: Skills/949/name
+Hand Grenade#Ron
 > END STRING
 
 > BEGIN STRING
 は手りゅう弾を放った！
-> CONTEXT: Skills/949/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/949/message1
+ hurls two hand grenades!#RonLocalization
 > END STRING
 
 > BEGIN STRING

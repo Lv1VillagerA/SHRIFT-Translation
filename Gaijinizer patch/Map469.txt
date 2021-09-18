@@ -3,8 +3,10 @@
 ようやく撒いたか……？
 
 魔法の効果も、さすがにもう切れるだろう……。
-> CONTEXT: Map469/events/3/pages/0/92/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/92/Dialogue/alice_fc5
+Did we finally give her the slip?
 
+Her magic should be wearing off about now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,8 +14,11 @@
 
 \\N[1]の体力も子供基準になってるせいか
 だいぶキツそうだし…
-> CONTEXT: Map469/events/3/pages/0/96/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/96/Dialogue/ruka_fc1
+You're right, let's have a quick rest.
 
+\\N[1] isn't looking too hot, I guess he
+doesn't have the same stamina in kid form...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -21,8 +26,10 @@
 
 \\N[1]くん本人を走らせるんじゃなくて
 誰かが抱えて走れば、少しは違ったんじゃないの？
-> CONTEXT: Map469/events/3/pages/0/101/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/101/Dialogue/sirousagi_fc1
+I had a thought. Wouldn't it be better to have
+someone carry \\N[1]-kun instead of making
+him run around?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,16 +37,21 @@
 
 ニッコニッコしながら、クランク回す\\N[1]くんを
 観察してたけど……
-> CONTEXT: Map469/events/3/pages/0/106/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/106/Dialogue/sirousagi_fc1
+I'm looking at you, Yami-chan...
+You were watching him at practically point-blank
+range with a big grin on your face as he was
+turning those cranks.#Ron
 > END STRING
 
 > BEGIN STRING
 だって、必死にトテトテ走ったりクランク回したりする
 
 \\N[1]くんが可愛かったから、見てたくて♡
-> CONTEXT: Map469/events/3/pages/0/111/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/111/Dialogue/enemy15
+Oh come on, the way he totters when he's
+desperately running and turning the cranks is so
+cute I can't help but want to watch. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -47,8 +59,10 @@
 
 この姿では、いくら子供に戻った相手といえど
 人一人抱えて走り回るのは、ちょっとな………
-> CONTEXT: Map469/events/3/pages/0/115/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/115/Dialogue/alice_fc5
+If he were in his adult form we'd at least have
+our powers back, but carrying him around even
+in this child form would be a little too much...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -56,24 +70,32 @@
 
 \\N[1]が子供に戻ってる影響なのか
 心なしか、自分自身の体力も少なくなってる気がするし……
-> CONTEXT: Map469/events/3/pages/0/120/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/120/Dialogue/ruka_fc1
+I agree. Maybe it's because of the effect on us
+of \\N[1]'s age being regressed, but I get
+the feeling that even with my stamina I'd get
+pretty worn out carrying him around.#Ron
 > END STRING
 
 > BEGIN STRING
 ……………あれ？
 
 これ、私が言うべきだったのかしら……？
-> CONTEXT: Map469/events/3/pages/0/130/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/130/Dialogue/enemy38
+...Huh?
 
+Am I supposed to chime in on this?#Ron
 > END STRING
 
 > BEGIN STRING
 ふん、うまくハイラミアからは逃げおおせているようね…
 
 でも…そろそろチェックメイトよ。
-> CONTEXT: Map469/events/3/pages/0/144/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/144/Dialogue/enemy38
+Hmph, you've done well to successfully evade High
+Lamia.
 
+But I'm afraid this is checkmate.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +103,11 @@
 
 私たちの世界のために、消えてもらうわよ！
 \\N[1]！
-> CONTEXT: Map469/events/3/pages/0/148/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/148/Dialogue/enemy38
+I take little pleasure in dispatching a child...
 
+But I'll make you disappear for the sake of my
+world, \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,8 +115,11 @@
 
 私と\\N[1]ちゃんの追いかけっこは
 まだまだ気の済むまでやるんだから。
-> CONTEXT: Map469/events/3/pages/0/175/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/175/Dialogue/enemy39
+Hey, don't write me off like that.
 
+\\N[1]-chan and I are far from finished with
+our game of tag.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -99,8 +127,11 @@
 どんだけ追いかけ回せば気が済むのよ！！
 
 ほんっとアンタの子供好きときたら…！！
-> CONTEXT: Map469/events/3/pages/0/180/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/180/Dialogue/enemy38
+You had your fun already! Just how much more do
+you want to chase him around?!!
 
+You really have a thing for little kiddies!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -108,16 +139,21 @@
 
 \\C[0]せっかくの一網打尽のチャンスなんだから
 ちゃんとやることはやりなさい！！！
-> CONTEXT: Map469/events/3/pages/0/185/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/185/Dialogue/enemy38
+\\C[2]Also, that magic you put on him is about to wear
+off! \\C[0]This is our chance to catch all of them in
+one go, so do your job properly!!!#Ron
 > END STRING
 
 > BEGIN STRING
 魔法なんて、もう一度かければいい話じゃない……
 
 まったくガミガミと……
-> CONTEXT: Map469/events/3/pages/0/190/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/190/Dialogue/enemy39
+Didn't you say all I had to do was use my magic
+on him once?
 
+You're such a nag...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -125,46 +161,57 @@
 そろそろ『取り巻き』の連中には消えてもらおうかしら
 
 \\N[1]ちゃんの世話は、私一人で充分よ…♡
-> CONTEXT: Map469/events/3/pages/0/194/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/194/Dialogue/enemy39
+But perhaps I'll make all his friends around him
+disappear. After all, I'm more than enough to
+look after \\N[1]-chan. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 くっ……あと少し……
 
 あと少しで\\N[1]の魔法が切れるのに…！！
-> CONTEXT: Map469/events/3/pages/0/205/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/205/Dialogue/ruka_fc1
+Kgh... Just a little longer...
 
+We just need a little longer for the magic on
+\\N[1] to wear off!!#Ron
 > END STRING
 
 > BEGIN STRING
 そう、もう少し……
 
 もう少しだね。
-> CONTEXT: Map469/events/3/pages/0/209/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/209/Dialogue/sirousagi_fc1
+That's right, just a little longer...
 
+Just a little more time.#Ron
 > END STRING
 
 > BEGIN STRING
 そろそろか……
-> CONTEXT: Map469/events/3/pages/0/213/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/213/Dialogue/sirousagi_fc1
+Almost there...#Ron
 > END STRING
 
 > BEGIN STRING
 こ、この攻撃は……
 
 まさか……！！
-> CONTEXT: Map469/events/3/pages/0/242/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/242/Dialogue/enemy38
+T-That attack...
 
+Don't tell me...!!#Ron
 > END STRING
 
 > BEGIN STRING
 よし、時間ぴったり
 
 ……彼こそが、最後の『ゲスト』……
-> CONTEXT: Map469/events/3/pages/0/252/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/252/Dialogue/sirousagi_fc1
+Right on time.
 
+The man before you is our final guest.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -172,48 +219,62 @@
 
 魔物の大群に立ち向かう、人間代表の朴念仁！
 \\C[2]その名も『マリオン』！！！
-> CONTEXT: Map469/events/3/pages/0/267/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/267/Dialogue/sirousagi_fc1
+Making full use of his predecessor Saito's angelic
+magic to violently hurl weapons and face down
+hordes of monsters, it's the obstinate
+representative of humanity, Marion!!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 な、なによ……！！
 
 なんでよりによって、この子が来るのよ…！！
-> CONTEXT: Map469/events/3/pages/0/274/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/274/Dialogue/enemy39
+W-What is this?!!
 
+Why has this boy come now of all times?!!#Ron
 > END STRING
 
 > BEGIN STRING
 マリオン……！！
 
 また私たちの邪魔をする気なのね…！！？
-> CONTEXT: Map469/events/3/pages/0/278/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/278/Dialogue/enemy38
+Marion!!
 
+Have you come to interfere with us once again?!!#Ron
 > END STRING
 
 > BEGIN STRING
 ……！！
 
 姿が元に戻った…！！
-> CONTEXT: Map469/events/3/pages/0/292/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/292/Dialogue/kazuya
+...!!
 
+I'm back to normal!!#Ron
 > END STRING
 
 > BEGIN STRING
 我らの力も、戻ったのを感じる…！！
 
 今なら戦えるぞ、瑞紀！！
-> CONTEXT: Map469/events/3/pages/0/296/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/296/Dialogue/enemy37
+I can feel our power returning to us as well!!
 
+Now we can fight her, Mizuki!!#Ron
 > END STRING
 
 > BEGIN STRING
 よし！反撃開始だ！
 
 今まで散々追いかけ回された、お返しをしてやるぞ！！
-> CONTEXT: Map469/events/3/pages/0/300/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/300/Dialogue/alice_fc6
+Right! Begin the counterattack!
 
+She's hounded us all the way here, so let's
+return the favor!!#Ron
 > END STRING
 
 > BEGIN STRING

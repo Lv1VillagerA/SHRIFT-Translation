@@ -15,7 +15,7 @@
 \\C[6]■コマンドen(s[999999999])
 > CONTEXT: CommonEvents_712/64/Choice/0
 > CONTEXT: CommonEvents_760/102/Choice/0
-\\C[6]■ Luka ■en(s[999999999])#Ron
+\\C[6]■ Commands ■en(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
