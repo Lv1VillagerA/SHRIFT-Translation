@@ -45,7 +45,7 @@ Who will you use the Recovery Apple on?#Ron
 > CONTEXT: CommonEvents_762/36/ChoiceHelp
 \\\>\\C[13]Target: \\N[1] \\C[14]Effect: Status recovery
 \\\>\\C[0]Characteristics: Reduces lust by 30 and removes negative
-psychological status effects.#Ron
+\\\>psychological status effects.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -55,7 +55,7 @@ psychological status effects.#Ron
 > CONTEXT: CommonEvents_762/45/ChoiceHelp
 \\\>\\C[13]Target: All allies \\C[14]Effect: Attack buff
 \\\>\\C[0]Characteristics: Increases the physical attack of all allies
-for three turns.#Ron
+\\\>for three turns.#Ron
 > END STRING
 
 > BEGIN STRING

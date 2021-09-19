@@ -122,7 +122,8 @@ Marion has switched out his weapon for the \\C[2]Hand Grenade\\C[0]!#Ron
 \\\>\\C[2]武器切り替えを一定回数行う事で使用可能になる。
 > CONTEXT: CommonEvents_761/72/ChoiceHelp
 \\\>\\C[13]Type: Null　\\C[14]Power: Very High x3
-\\\>\\C[2]Can only equip after weapon-swapping a fixed number of times.#Ron
+\\\>\\C[2]Can only equip after weapon-swapping a fixed number of times.
+\\\>\\C[24]Will unequip itself after use.#RonLocalization
 > END STRING
 
 > BEGIN STRING

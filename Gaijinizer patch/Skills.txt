@@ -8444,10 +8444,10 @@ Fear Curse Symbol#afrg
 
 > BEGIN STRING
 は回復リンゴを使った！
-> CONTEXT: Skills/728/message1 < UNTRANSLATED
-> CONTEXT: Skills/894/message1 < UNTRANSLATED
-> CONTEXT: Skills/951/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/728/message1
+> CONTEXT: Skills/894/message1
+> CONTEXT: Skills/951/message1
+ uses a Recovery Apple!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10154,8 +10154,8 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 武器切り替え
-> CONTEXT: Skills/890/name < UNTRANSLATED
-
+> CONTEXT: Skills/890/name
+Weapon Swap#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10167,9 +10167,9 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 マスケット
-> CONTEXT: Skills/891/name < UNTRANSLATED
-> CONTEXT: Skills/945/name < UNTRANSLATED
-
+> CONTEXT: Skills/891/name
+> CONTEXT: Skills/945/name
+Musket#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10182,9 +10182,9 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 てつはう
-> CONTEXT: Skills/892/name < UNTRANSLATED
-> CONTEXT: Skills/947/name < UNTRANSLATED
-
+> CONTEXT: Skills/892/name
+> CONTEXT: Skills/947/name
+Tetsuhau#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10208,9 +10208,9 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 回復リンゴ
-> CONTEXT: Skills/894/name < UNTRANSLATED
-> CONTEXT: Skills/951/name < UNTRANSLATED
-
+> CONTEXT: Skills/894/name
+> CONTEXT: Skills/951/name
+Recovery Apple#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10222,14 +10222,14 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 減欲リンゴ
-> CONTEXT: Skills/895/name < UNTRANSLATED
-
+> CONTEXT: Skills/895/name
+Lust-Inhibiting Apple#Ron
 > END STRING
 
 > BEGIN STRING
 は減欲リンゴを使った！
-> CONTEXT: Skills/895/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/895/message1
+ uses Lust-Inhibiting Apple!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10241,14 +10241,14 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 猛攻リンゴ
-> CONTEXT: Skills/896/name < UNTRANSLATED
-
+> CONTEXT: Skills/896/name
+Vicious Attack Apple#Ron
 > END STRING
 
 > BEGIN STRING
 は猛攻リンゴを使った！
-> CONTEXT: Skills/896/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/896/message1
+ uses Vicious Attack Apple!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10265,8 +10265,8 @@ Flying Feline Slash#Ron
 
 > BEGIN STRING
 のサポートスキルが発動！
-> CONTEXT: Skills/897/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/897/message1
+ activates a support skill!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11173,7 +11173,7 @@ Flintlock#Ron
 > BEGIN STRING
 はてつはうを放った！
 > CONTEXT: Skills/947/message1
- hurls Tetsuhau!#Ron
+ hurls a tetsuhau bomb!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11223,14 +11223,14 @@ Hand Grenade#Ron
 
 > BEGIN STRING
 ジャッジメント・デイ
-> CONTEXT: Skills/950/name < UNTRANSLATED
-
+> CONTEXT: Skills/950/name
+Judgment Day#Ron
 > END STRING
 
 > BEGIN STRING
 はジャッジメント・デイを放った！
-> CONTEXT: Skills/950/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/950/message1
+ unleashes Judgement Day!#Ron
 > END STRING
 
 > BEGIN STRING
