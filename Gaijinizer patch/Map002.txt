@@ -2522,8 +2522,8 @@ Black Dog if(s[692])#Ron
 
 > BEGIN STRING
 ベルゼバブ if(s[698])
-> CONTEXT: Map002/events/1/pages/0/2827/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2827/Choice/3
+Beelzebubs if(s[698])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2673,42 +2673,46 @@ Do you want to view this scene?#Ron
 
 > BEGIN STRING
 "ヒント：３人いるときに負ける"
-> CONTEXT: Map002/events/1/pages/0/3038/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3038/InlineScript/2:1
+"Hint: Lose when fighting all three."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：赤個体と単独で戦うときに負ける"
-> CONTEXT: Map002/events/1/pages/0/3046/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3046/InlineScript/2:1
+"Hint: Lose when fighting just the red one."#Ron
 > END STRING
 
 > BEGIN STRING
 ３人 en(s[699])
-> CONTEXT: Map002/events/1/pages/0/3052/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3052/Choice/0
+All Three en(s[699])#Ron
 > END STRING
 
 > BEGIN STRING
 赤単独 en(s[700])
-> CONTEXT: Map002/events/1/pages/0/3052/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3052/Choice/1
+Just Red en(s[700])#Ron
 > END STRING
 
 > BEGIN STRING
 【ベルゼバブ】：集団搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3056/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3056/Dialogue
+[Beelzebubs]: Group Squeezing
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【ベルゼバブ】：単独搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3074/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3074/Dialogue
+[Beelzebubs]: Solo Squeezing
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
