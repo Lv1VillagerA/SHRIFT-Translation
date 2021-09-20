@@ -8016,20 +8016,20 @@ Instinctive Thrusting#afrg
 
 > BEGIN STRING
 \\N[1]の精気が、みるみるうちに吸い上げられてく……
-> CONTEXT: Skills/672/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/672/message2
+\\N[1]'s energy is drained from him in a flash...#Ron
 > END STRING
 
 > BEGIN STRING
 ドレインマント
-> CONTEXT: Skills/672/name < UNTRANSLATED
-
+> CONTEXT: Skills/672/name
+Draining Cloak#Ron
 > END STRING
 
 > BEGIN STRING
 は\\n[1]をマントで完全に覆い尽くした！
-> CONTEXT: Skills/672/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/672/message1
+ completely covers \\n[1] with her cloak!#Ron
 > END STRING
 
 > BEGIN STRING

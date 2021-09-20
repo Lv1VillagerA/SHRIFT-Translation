@@ -18568,16 +18568,18 @@ Would you like to read it again?#Ron
 
 > BEGIN STRING
 ああああああっ……♡♡
-> CONTEXT: Troops/397/pages/0/17/Dialogue/kazuya-c < UNTRANSLATED
-
+> CONTEXT: Troops/397/pages/0/17/Dialogue/kazuya-c
+Aaaaaaah... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 おねえちゃんは、首元に何度もかみついた……
 
 ううん、「吸い付いた」…？
-> CONTEXT: Troops/397/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/397/pages/0/49/Dialogue
+The lady bit down on my neck over and over...
 
+No wait, she sucked on it?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18585,46 +18587,51 @@ Would you like to read it again?#Ron
 
 まるでボクが……おねえちゃんのものだって
 「しるし」を付けているように……
-> CONTEXT: Troops/397/pages/0/54/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/397/pages/0/54/Dialogue
+Over... and over...
 
+Almost like... she was marking me as hers...#Ron
 > END STRING
 
 > BEGIN STRING
 そしてボクは……
 
 おねえちゃんの「しもべ」になった……
-> CONTEXT: Troops/397/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/397/pages/0/62/Dialogue
+And then I became her "servant"...#Ron
 > END STRING
 
 > BEGIN STRING
 おねえちゃんのマントの中で……
 
 とても気持ちよくねむる………
-> CONTEXT: Troops/397/pages/0/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/397/pages/0/176/Dialogue
+It feels so good sleeping inside her cloak...#Ron
 > END STRING
 
 > BEGIN STRING
 ぼくがぎゅっと抱きしめると……
 
 おねえちゃんも、ぎゅってしてくれる……
-> CONTEXT: Troops/397/pages/0/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/397/pages/0/180/Dialogue
+When I squeeze her tight, she holds me tightly to her as
+well.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 大事なことを……忘れてるきがするけど………
 
 ぼくはいま……とってもしあわせ……
-> CONTEXT: Troops/397/pages/0/184/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/397/pages/0/184/Dialogue
+It feels like I'm... forgetting something important...
 
+But... I'm so happy now...#Ron
 > END STRING
 
 > BEGIN STRING
 ……とっても…………しあわせ……
-> CONTEXT: Troops/397/pages/0/188/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/397/pages/0/188/Dialogue
+So very... happy...#Ron
 > END STRING
 
 > BEGIN STRING
