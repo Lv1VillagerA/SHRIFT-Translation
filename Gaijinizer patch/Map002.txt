@@ -2717,8 +2717,8 @@ Do you want to view this scene?#Ron
 
 > BEGIN STRING
 ハイラミア if(s[761])
-> CONTEXT: Map002/events/1/pages/0/3095/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3095/Choice/0
+High Lamia if(s[761])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2741,12 +2741,12 @@ Do you want to view this scene?#Ron
 
 > BEGIN STRING
 "ヒント：追いかけっこで捕まる"
-> CONTEXT: Map002/events/1/pages/0/3101/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/3164/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/3196/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/3229/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/3264/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3101/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/3164/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/3196/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/3229/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/3264/InlineScript/2:1
+"Hint: Be caught when chased."#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2757,8 +2757,8 @@ Do you want to view this scene?#Ron
 
 > BEGIN STRING
 子供あやし en(s[762])
-> CONTEXT: Map002/events/1/pages/0/3115/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3115/Choice/0
+Child's Play en(s[762])#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -2771,8 +2771,10 @@ Do you want to view this scene?#Ron
 【ハイラミア】：子供あやし
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3119/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3119/Dialogue
+[High Lamia]: Child's Play
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
