@@ -684,7 +684,7 @@ for that!#Ron
 > CONTEXT: Map452/events/1/pages/0/538/Dialogue/sirousagi_fc1
 Hellhounds are known as the so-called hunting
 dogs of the Demon Realm. Some famous ones are
-Cerberus, Orthros, and Hairy Jack.#Ron
+Cerberus, Orthrus, and Hairy Jack.#Ron
 > END STRING
 
 > BEGIN STRING
