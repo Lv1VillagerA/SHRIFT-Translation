@@ -24,7 +24,7 @@ earlier.#Ron
 > CONTEXT: Map466/events/4/pages/0/83/Dialogue/enemy15
 The cats in there were so cute!
 
-I would've liked to pat them if we'd had more
+I would've liked to pet them if we'd had more
 time to spare.#Ron
 > END STRING
 
@@ -37,7 +37,7 @@ time to spare.#Ron
 Those were monsters, Yami-chan...
 
 We were able to slip past because they were
-sleeping but they might've been vicious.#Ron
+sleeping, but they might've been vicious.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -76,7 +76,7 @@ there's still plenty of them roaming around.#Ron
 Even though there aren't any of Abaddon's
 assassins around, it still feels like we could be
 attacked by the monsters here. Let's stay on our
-guard as we move through here.#Ron
+guard as we move through the area.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -129,8 +129,8 @@ I'll show you just how terrifying I can be!!#Ron
 > CONTEXT: Map466/events/4/pages/0/137/Dialogue/sirousagi_fc1
 It doesn't look like she brought Black Dog with
 her this time. With their keen understanding of
-territory, it's only natural they wouldn't enter
-a place full of other monster turfs like this.#RonIffyWording
+territory, it's makes sense they wouldn't want to
+intrude on all the other monsters here.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -239,10 +239,10 @@ ruins of this world!#Ron
 
 果たして、アンタたちに対処できるかしらねぇ？
 > CONTEXT: Map466/events/4/pages/0/197/Dialogue/enemy38
-Her magic power even normally would be threat
-enough, but with the \\C[10]World Fusion \\C[0]powering it
-up even further, I wonder whether you'll be able
-to deal with her.#RonIffyWording
+On her own she'd be powerful enough, but with
+the \\C[10]World Fusion \\C[0]enhancing her magic
+even further... I wonder if you'll be able to
+deal with her?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -549,9 +549,8 @@ catch you all in one fell swoop!#Ron
 
 魔法が解けるまで、果たして逃げ切れるかしらねぇ…？
 > CONTEXT: Map466/events/4/pages/0/385/Dialogue/enemy37
-High Lamia's magic won't simply wear off on its
-own. I wonder if you'll be able to hold on until
-you can find a way to dispel it?#RonLocalization
+High Lamia's isn't so easy to dispel. I wonder if
+you'll be able to hold on until it wears off?#RonLocalization
 > END STRING
 
 > BEGIN STRING
