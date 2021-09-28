@@ -523,7 +523,8 @@
 
 > BEGIN STRING
 レバー：\\C[10]方向キー押しっぱなしでも回せるよ
-> CONTEXT: Map468/events/60/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/60/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/60/pages/0/0/Dialogue
+> CONTEXT: Map541/events/60/pages/0/0/Dialogue
+Hint: \\C[10]You can turn the cranks just by holding down
+the movement key when facing them.#RonLocalization
 > END STRING
