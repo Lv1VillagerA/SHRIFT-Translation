@@ -211,9 +211,9 @@ dignified bearing.#Ron
 蛇の下をチロチロさせながら
 こちらを吟味するように、じっと凝視している…
 > CONTEXT: Map466/events/4/pages/0/186/Dialogue
-She's staring fixedly at us while her lower half twitches,
-seemingly sizing us up. Her bewitching snake body writhing
-as if to flaunt its allure.#RonIffyWording
+She's staring fixedly at us while her lower half undulates
+excitedly, seemingly sizing us up. Her bewitching snake body
+writhing as if to flaunt its allure.#RonIffyWording
 > END STRING
 
 > BEGIN STRING

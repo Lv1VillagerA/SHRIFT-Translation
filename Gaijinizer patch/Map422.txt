@@ -26,7 +26,7 @@
 > CONTEXT: Map466/events/4/pages/0/274/Dialogue/kazuya-c
 N-No way...!
 
-I'm... back in this form again...!#Ron
+I'm... back in this form again...?!?#Ron
 > END STRING
 
 > BEGIN STRING
