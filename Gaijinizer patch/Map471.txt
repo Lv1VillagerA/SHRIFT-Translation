@@ -238,7 +238,7 @@ goings on of other worlds.#Ron
 > CONTEXT: Map471/events/1/pages/0/108/Dialogue/sirousagi_fc1
 \\C[10]Fundamentally, one cannot change their own fate.\\C[0]
 
-So using \\C[10]Intervention \\C[0], you can make adjustments
+So using \\C[10]Intervention\\C[0], you can make adjustments
 to events and crush trivial singularities.#RonIffy
 > END STRING
 
@@ -281,7 +281,7 @@ occasions?#Ron
 > CONTEXT: Map471/events/1/pages/0/126/Dialogue/enemy27
 No \\N[1]-kun...
 
-In your case \\C[2]you had to know\\C[0] so that you could
+In your case \\C[2]you had to know \\C[0]so that you could
 reach \\C[0]that conclusion\\C[0].
 > END STRING
 
@@ -421,7 +421,7 @@ all that.#Ron
 
 \\C[0]ボクも、マッドハッターから聞いたときは驚いたけどね。
 > CONTEXT: Map471/events/1/pages/0/191/Dialogue/sirousagi_fc1
-That oni came to learn about \\C[10]Intervention\\C[0] through
+That oni came to learn about \\C[10]Intervention \\C[0]through
 various circumstances. \\C[0]Even I was surprised when
 Mad Hatter told me about them.#Ron
 > END STRING
@@ -433,7 +433,7 @@ Mad Hatter told me about them.#Ron
 \\C[2]『本来起こりえない事象』を意図的に起こさせたんだ
 > CONTEXT: Map471/events/1/pages/0/196/Dialogue/sirousagi_fc1
 And so she ended up spilling the beans to
-\\N[1]-kun about \\C[10]Intervention.\\C[0].
+\\N[1]-kun about \\C[10]Intervention\\C[0].
 \\C[2]She intentionally caused something that
 originally could never have occurred.#Ron
 > END STRING
@@ -520,7 +520,7 @@ wrong with it.#Ron
 僕がこれ以上、\\C[10]介入\\C[0]をする理由はない。
 > CONTEXT: Map471/events/1/pages/0/237/Dialogue/enemy27
 Either way, this is where my role ended. With the
-\\C[4]True Mercy\\C[0] timeline having been made the official
+\\C[4]True Mercy \\C[0]timeline having been made the official
 one, I have no further reason to \\C[10]intervene\\C[0].
 > END STRING
 
@@ -774,7 +774,7 @@ of materializing itself.#RonIffy
 > CONTEXT: Map471/events/1/pages/0/363/Dialogue/enemy27
 In order for it to truly materialize, it must
 be feared and have \\C[10]religious faith \\C[0]to make
-sense of it. It also needs a \\C[10]vessel\\C[0] in which it
+sense of it. It also needs a \\C[10]vessel \\C[0]in which it
 can insert itself.#CheckLater
 > END STRING
 
@@ -915,7 +915,7 @@ a world line where the ceremony conducted when
 殺してもおかしくない\\C[2]『きっかけ』\\C[0]を作ったんだ。
 > CONTEXT: Map471/events/1/pages/0/433/Dialogue/enemy27
 It created an "impetus" to readily kill others
-within is self.#Ron
+within his normally kind self.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -983,8 +983,8 @@ to do it. \\C[0]That was a promise she kept.#Ron
 > CONTEXT: Map471/events/1/pages/0/467/Dialogue/sirousagi_fc1
 Though she did wait until the last minute to do
 it. I'm sure that was because she knew how kind
-you were, so she waited until the last possible
-moment, believing that you stop before then.#Ron
+you were, she waited until the last possible
+moment, believing that you would stop before then.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1150,8 +1150,8 @@ You, \\N[1]-kun.
 オールドワンは、そこに目を付けた……
 > CONTEXT: Map471/events/1/pages/0/555/Dialogue/enemy27
 Though it was always in an incomplete manner,
-the Old One had used your body to successfully
-manifest a number times in that world line.
+the Old One \\C[2]had used your body to successfully
+manifest a number times in that world line\\C[0].
 That's what it was focused on.#Ron
 > END STRING
 
@@ -1183,9 +1183,9 @@ timeline didn't amount to much.#RonIffy
 どれも、大して影響の出るような事象ではなかったよ。
 > CONTEXT: Map471/events/1/pages/0/568/Dialogue/enemy27
 Its power was restricted to \\C[2]whispering to your
-spirit, trying to shake you from your beliefs
-and induce you to go down a path different from
-that of the official timeline\\C[0].
+spirit, trying to shake your your beliefs and
+induce you to go down a path different from that
+of the official timeline\\C[0].
 But that didn't have much of an effect in
 reality.#Ron
 > END STRING
@@ -1196,7 +1196,7 @@ reality.#Ron
 囁かれる程度じゃ、実際に揺らぐことはなかったんだろう
 当然の結果さ。
 > CONTEXT: Map471/events/1/pages/0/573/Dialogue/sirousagi_fc1
-\\N[1]-kun's gotta pretty strong
+\\N[1]-kun's got a pretty strong
 personality, so it's no wonder that sort of thing
 wasn't enough to shake him.#Ron
 > END STRING
@@ -1249,7 +1249,7 @@ it wished to bring about\\C[0].#Ron
 > CONTEXT: Map471/events/1/pages/0/598/Dialogue/enemy27
 Curiosity...
 Sadistic desires...
-Disgust of demonkind...
+Disgust at demonkind...
 
 It used these and countless other tools to incite
 the \\C[10]Intervener\\C[0].#Ron
@@ -1310,7 +1310,7 @@ as its pawns, it was too late...#RonIffy
 Because they're so easily tempted into believing
 that their actions are righteous, relying on the
 good nature of humanity is dooming yourself to
-failure.#Ron
+failure.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1750,10 +1750,9 @@ and accumulating!#Ron
 
 アバドーンのお腹の中はどうなるでしょうか！？
 > CONTEXT: Map471/events/1/pages/0/841/Dialogue/sirousagi_fc1
-\\C[2]Now should should a crazy number of worlds get
-all mixed and fused together to a senseless
-degree, what do you think would happen inside
-Abaddon's stomach?!#Ron
+\\C[2]Now should a crazy number of worlds get all mixed
+and fused together to a senseless degree, what do
+you think would happen inside Abaddon's stomach?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1845,7 +1844,7 @@ its plans.#Ron
 The same goes for the "Kazuya-kun" who came to
 our world. It apparently planned on using a
 version of \\N[1]-kun lost in another world to
-steadily devour our world.#Ron
+steadily devour our world.#RonIffy
 > END STRING
 
 > BEGIN STRING

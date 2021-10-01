@@ -1,8 +1,8 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 も、元に戻った…！？
-> CONTEXT: Map474/events/1/pages/0/9/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map474/events/1/pages/0/9/Dialogue/ruka_fc1
+I-It's back to normal?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10,8 +10,11 @@
 
 ビックリさせないでよ、もぉ～
 本気で焦ったじゃないか。
-> CONTEXT: Map474/events/1/pages/0/12/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/12/Dialogue/sirousagi_fc1
+Oh, so you'd already woken up.
 
+Jeez, don't scare me like that.
+You got me so flustered.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -19,54 +22,65 @@
 サッパリ意味が分からないんだけど…！！
 
 僕、なんかしたの！？！
-> CONTEXT: Map474/events/1/pages/0/17/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/17/Dialogue/kazuya
+Huh?! N-No, I...!
+I have no idea what you're talking about!!
 
+Did I do something?!#Ron
 > END STRING
 
 > BEGIN STRING
 キミじゃないよ。
 
 うしろ、うしろ。
-> CONTEXT: Map474/events/1/pages/0/23/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map474/events/1/pages/0/23/Dialogue/sirousagi_fc1
+Not you, I'm talking to the one behind you.#Ron
 > END STRING
 
 > BEGIN STRING
 あーびっくりした！
 
 まさかこんなに早く気付かれるなんて…
-> CONTEXT: Map474/events/1/pages/0/76/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/76/Dialogue/other8
+Aah, that really gave me a fright!
 
+I didn't think we'd be noticed that soon.#Ron
 > END STRING
 
 > BEGIN STRING
 えっ、何その声、キモッ…！！
 
 っていうか、首だけで動いとる…！？キモッ！！
-> CONTEXT: Map474/events/1/pages/0/83/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/83/Dialogue/alice_fc5
+Eh?! What's with that gross voice?!!
 
+And you can move with just your head?! Gross!!#Ron
 > END STRING
 
 > BEGIN STRING
 わぁ、かわいい！！
 
 無事だったんだね！！マッドハッターさん！
-> CONTEXT: Map474/events/1/pages/0/87/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/87/Dialogue/enemy15
+Waah, so cute!!
 
+Looks like you're okay, Mad Hatter-san!!#Ron
 > END STRING
 
 > BEGIN STRING
 か、かわいい……？？？？？？
-> CONTEXT: Map474/events/1/pages/0/91/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map474/events/1/pages/0/91/Dialogue/enemy35
+C-Cute?!#Ron
 > END STRING
 
 > BEGIN STRING
 無事……ではないかなぁ…
 
 ご覧の通り、\\C[2]身体をアバドーンに喰われちゃったよ……
-> CONTEXT: Map474/events/1/pages/0/96/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/96/Dialogue/other8
+I... might not be okay.
 
+As you can see, \\C[2]my body was chomped by Abaddon\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -74,38 +88,51 @@
 ヤツに\\C[10]『介入』\\C[0]の力は奪われなかったけど……
 
 代わりに、大部分の機能を失ってしまった……
-> CONTEXT: Map474/events/1/pages/0/102/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/102/Dialogue/other8
+\\C[2]Luckily, I managed to move all the important bits
+to my head in the nick of time, so he didn't
+actually get any of my \\C[10]Intervention \\C[0]powers.
 
+\\C[0]But since that's all I could move, I've lost
+most of my abilities.#Ron
 > END STRING
 
 > BEGIN STRING
 さ、さっきまでのシリアスな雰囲気が………
-> CONTEXT: Map474/events/1/pages/0/108/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map474/events/1/pages/0/108/Dialogue/enemy38
+T-That serious atmosphere we had until now has
+gone...#Ron
 > END STRING
 
 > BEGIN STRING
 ええい！！その気色悪い声を止めろ！！！
 
 なんなのだ貴様は、急にふざけ出しおって！！
-> CONTEXT: Map474/events/1/pages/0/110/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/110/Dialogue/alice_fc5
+Yaaah!! Stop doing that weird voice!!!
 
+Why're you messing around all of a sudden?!!#Ron
 > END STRING
 
 > BEGIN STRING
 失礼な！僕はいつだって大真面目だぞ！！
 
 どこの態度がふざけてるっていうのさ！
-> CONTEXT: Map474/events/1/pages/0/116/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/116/Dialogue/other8
+How rude! I'm always deadly serious!!
 
+Just how am I messing around?!#Ron
 > END STRING
 
 > BEGIN STRING
 あ、でも姿がチェシャになってる……。
 
 マッドハッターの実体は、向こうに取られちゃったのか……
-> CONTEXT: Map474/events/1/pages/0/122/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/122/Dialogue/other8
+Oh, but I've turned into Cheshire...
 
+Did my Mad Hatter manifestation get taken back
+there?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -113,8 +140,11 @@
 
 とりあえずその声やめない…？
 聞いてて脱力するんだよ、それ………
-> CONTEXT: Map474/events/1/pages/0/128/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/128/Dialogue/kazuya
+M-Mad... I mean, Cheshire...
 
+Can you give that voice a rest for now? It's
+tiring just listening to it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -122,22 +152,26 @@
 
 \\C[10]実はこんなこともあろうかと、この声に関するライセンスを
 ７０００円くらいで買っちゃってるんだ。
-> CONTEXT: Map474/events/1/pages/0/135/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/135/Dialogue/other8
+The thing is...
 
+\\C[10]I actually paid 7000 yen for the license to use
+this voice for an occasion just like this one\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 だから、もうちょっとだけ喋らせてくれても、
 
 バチは当たらないんじゃないかなって…
-> CONTEXT: Map474/events/1/pages/0/145/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map474/events/1/pages/0/145/Dialogue/other8
+So even if you let me use it a little more, I
+won't be penalized.#RonIffy
 > END STRING
 
 > BEGIN STRING
 ダメです♪
-> CONTEXT: Map474/events/1/pages/0/150/Dialogue/kazuya-3 < UNTRANSLATED
-
+> CONTEXT: Map474/events/1/pages/0/150/Dialogue/kazuya-3
+I said stop. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -145,8 +179,10 @@
 
 とりあえずその場しのぎの修復は出来たけど
 \\C[2]ここがまた崩壊を起こすのは時間の問題だ……
-> CONTEXT: Map474/events/1/pages/0/158/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map474/events/1/pages/0/158/Dialogue/sirousagi_fc1
+So what're we going to do now? This place is
+fixed but it's only a stopgap. \\C[2]It's only a matter
+of time before it collapses again\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -154,8 +190,10 @@
 今のうちに、次の隠れ場所を探した方がいいと思うよ
 
 どこかアテはある？
-> CONTEXT: Map474/events/1/pages/0/163/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map474/events/1/pages/0/163/Dialogue/sirousagi_fc1
+It doesn't look like that helper of yours is
+here, so I think we should look for the next safe
+place to hide. Got any ideas?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -163,8 +201,10 @@
 
 安直だけど\\C[4]『正史』\\C[0]の世界が妥当かなぁ……
 一応まだ、ボクの介入能力は奪われていないわけだし……
-> CONTEXT: Map474/events/1/pages/0/169/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map474/events/1/pages/0/169/Dialogue/other8
+Let's see.... It's cheap but the \\C[4]official
+timeline \\C[0]might be appropriate. At least while
+I still have my Intervention powers, anyway.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -172,8 +212,11 @@
 
 \\C[2]奴らの刺客は来る可能性があるから
 あんまり長居は出来ないけどね………
-> CONTEXT: Map474/events/1/pages/0/174/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map474/events/1/pages/0/174/Dialogue/other8
+However, though Abaddon and the Old One can't
+meddle in there, \\C[2]they might still send their
+assassins, so we won't be able to linger for
+too long\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -181,30 +224,38 @@
 
 それじゃあみんな、移動しようか。
 あんまりモタモタもしてられない。
-> CONTEXT: Map474/events/1/pages/0/181/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/181/Dialogue/other8
+Upsy daisy...
 
+Now then everyone, let's move out. We can't
+afford to dawdle here.#Ron
 > END STRING
 
 > BEGIN STRING
 えっ…！？蜘蛛みたいな動きでキモっ……！！
 
 その三つ編みはそのためにあったのか…！？
-> CONTEXT: Map474/events/1/pages/0/187/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/187/Dialogue/alice_fc5
+Huh?! It's moving like a spider!! Gross!!
 
+Is that what those braids are for?!#Ron
 > END STRING
 
 > BEGIN STRING
 しょうがないじゃないか。
 
 だって、跳ねて移動したら肩が痛くなるんだもん……
-> CONTEXT: Map474/events/1/pages/0/191/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/191/Dialogue/other8
+I don't have much of an option, do I?
 
+If I tried leaping around everywhere it'd really
+hurt my shoulders.#Ron
 > END STRING
 
 > BEGIN STRING
 （肩……？）
-> CONTEXT: Map474/events/1/pages/0/195/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map474/events/1/pages/0/195/Dialogue/enemy15
+(What shoulders?)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -212,14 +263,19 @@
 まさか、既にやられたなんてこと……
 
 いやいや、彼に限ってそんな………
-> CONTEXT: Map474/events/1/pages/0/203/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/203/Dialogue/other8
+But still, he's running pretty late...
+Don't tell me they've already got to him...
 
+No, no... that can't be true knowing him...#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]なんだろう……この言いようのない不安……
 
 何もトラブルが起きなければいいけど………
-> CONTEXT: Map474/events/1/pages/0/208/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map474/events/1/pages/0/208/Dialogue/other8
+\\C[2]What's with this indescribable anxiety?
 
+I hope he hasn't run into any trouble...#Ron
 > END STRING

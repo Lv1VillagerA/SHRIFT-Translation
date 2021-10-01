@@ -3,44 +3,54 @@
 は、はは……
 
 二人とも、ただいま……
-> CONTEXT: Map475/events/5/pages/0/13/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map475/events/5/pages/0/13/Dialogue/kazuya
+H-Haha...
 
+Hey you two, I'm home...#Ron
 > END STRING
 
 > BEGIN STRING
 あ、あれ？\\N[1]！？
 
 いつの間に外にいたの…？
-> CONTEXT: Map475/events/5/pages/0/17/Dialogue/enemy19 < UNTRANSLATED
+> CONTEXT: Map475/events/5/pages/0/17/Dialogue/enemy19
+H-Huh? \\N[1]?!
 
+When did you go outside?#Ron
 > END STRING
 
 > BEGIN STRING
 どこかにお出かけでしたか？
 
 私も気付きませんで、申し訳ありません……
-> CONTEXT: Map475/events/5/pages/0/21/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map475/events/5/pages/0/21/Dialogue/yuuma
+Were you out somewhere?
 
+My apologies for not realizing you'd left.#Ron
 > END STRING
 
 > BEGIN STRING
 いや、お出かけとはちょっと違うんだけど……
 
 まぁ……色々ありまして………
-> CONTEXT: Map475/events/5/pages/0/26/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map475/events/5/pages/0/26/Dialogue/kazuya
+No, not exactly...
 
+A lot's happened...#Ron
 > END STRING
 
 > BEGIN STRING
 あ……お客さんいるんだけど、大丈夫かな…？
 
 全然予定にない人たちだけど……
-> CONTEXT: Map475/events/5/pages/0/30/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map475/events/5/pages/0/30/Dialogue/kazuya
+Oh yeah, we've got some visitors, is that okay?
 
+They aren't ones we had scheduled in...#Ron
 > END STRING
 
 > BEGIN STRING
 人『たち』……？
-> CONTEXT: Map475/events/5/pages/0/34/Dialogue/yuuma < UNTRANSLATED
-
+> CONTEXT: Map475/events/5/pages/0/34/Dialogue/yuuma
+There are more than one?#Ron
 > END STRING

@@ -1,8 +1,8 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 こ、ここは……！？
-> CONTEXT: Map472/events/1/pages/0/31/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/31/Dialogue/enemy38
+W-Where are we?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10,8 +10,11 @@
 
 とある場所じゃ\\C[10]『Ｇルート』\\C[0]と呼ばれている世界線……
 \\C[2]街の脱出劇より、数日後の世界さ
-> CONTEXT: Map472/events/1/pages/0/33/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/33/Dialogue/enemy27
+\\C[10]The Genocide timeline\\C[0]...
+A world line called the \\C[10]"G-Route"\\C[0] in certain
+places. We're now \\C[2]a few days after the events of
+\\N[1]-kun's escape from the city\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -19,8 +22,15 @@
 列車で脱出する途中で百鬼と戦い、倒された……
 
 \\C[0]『アバドーンの介入』を分離するという方法で……
-> CONTEXT: Map472/events/1/pages/0/38/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/38/Dialogue/enemy27
+\\C[2]He was making his escape by train with the \\C[10]Old
+One \\C[2]possessing his body.
 
+
+\\C[0]However, he ended up encountering and being
+defeated by Hyakki on the way. She then used an
+ability that cut him off from from Abaddon's
+Interventions.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -28,8 +38,11 @@
 
 \\C[2]その後、事前にユウマの送っていた救難信号により
 数時間後に、救出部隊によって保護されたんだ……
-> CONTEXT: Map472/events/1/pages/0/43/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/43/Dialogue/enemy27
+But \\N[1]-kun himself didn't die...
+\\C[2]Thanks to a distress signal Yuuma had sent, he
+was discovered and taken into custody by a
+rescue team a few hours later.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -37,32 +50,38 @@
 \\N[1]くんの命に別状はなかった。
 
 ひどく衰弱してはいたけどね………
-> CONTEXT: Map472/events/1/pages/0/48/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/48/Dialogue/enemy27
+Hyakki had held herself back and so he wasn't in
+critical condition, though he was in an
+incredibly weakened state.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]でも……生き延びた彼に用意されていたのは
 
 死よりもつらい、厳しい現実だった……
-> CONTEXT: Map472/events/1/pages/0/53/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/53/Dialogue/enemy27
+\\C[2]However, what had been prepared for him was a
+reality much more horrible than death.#Ron
 > END STRING
 
 > BEGIN STRING
 …！！
 
 ぼ、僕だ…！
-> CONTEXT: Map472/events/1/pages/0/62/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/62/Dialogue/kazuya
+...!!
 
+I-It's me...!#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？「………………ねぇ聞いた？
 
 　　　　ここの部屋の患者さん……」
-> CONTEXT: Map472/events/1/pages/0/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/80/Dialogue
+??? 「Hey, did you hear about the patient in this
+      room?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -70,8 +89,10 @@
 
 　　　　身体の傷も、恐ろしい速度で治ってるし……
 　　　　気味が悪いわ……」
-> CONTEXT: Map472/events/1/pages/0/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/85/Dialogue
+Nurse 「They're going to move him to the psyche ward aren't
+        they? His injuries healed scary-quick. And he's so
+        freaky.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -79,8 +100,11 @@
 　　　　警察の人だったらしいじゃない？
 
 　　　　なんでも、\\C[10]人間を殺した\\C[0]容疑があるって…」
-> CONTEXT: Map472/events/1/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/91/Dialogue
+Nurse 「Speaking of freaky, those people who came to visit
+        his room were like police officers, weren't they?
+        I heard something about him being a suspect in some
+        \\C[10]killings\\C[0].」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -88,8 +112,11 @@
 　　　　おぞましいものだったって話よ……
 
 　　　　\\C[10]殺した人間も、自分の親友と恋人だったとか……」
-> CONTEXT: Map472/events/1/pages/0/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/96/Dialogue
+Nurse 「It's a really disgusting story about him using
+        demon body parts as a weapon during his escape.
+        \\C[10]He even killed both his girlfriend and his best
+        friend\\C[0]...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -97,38 +124,45 @@
 
 　　　　正式な軍からの引き渡し要請が出る前に、
 　　　　隔離しちゃおうって事なんでしょうね……」
-> CONTEXT: Map472/events/1/pages/0/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/101/Dialogue
+Nurse 「The hospital director's probably trying to preempt
+        a formal request by the military to hand him over
+        by isolating him away in another ward.」#Ron
 > END STRING
 
 > BEGIN STRING
 看護師「可哀想に……
 
 　　　　せっかくあの街から生きて脱出できたのにねぇ……」
-> CONTEXT: Map472/events/1/pages/0/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/107/Dialogue
+Nurse 「The poor guy, he went through all that trying to
+        escape and now this...」#Ron
 > END STRING
 
 > BEGIN STRING
 看護師「\\C[2]毎晩毎晩、ずっと誰かに謝って……
 
 　　　　錯乱して、落ち着いての繰り返し………」
-> CONTEXT: Map472/events/1/pages/0/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/111/Dialogue
+Nurse 「\\C[2]Every single night you can hear him apologizing to
+        someone, getting more and more deranged until he
+        finally calms down...\\C[0]」#Ron
 > END STRING
 
 > BEGIN STRING
 看護師「私まで手違いで殺されたりはゴメンだわ……
 
 　　　　あまり近付かないようにしましょう………」
-> CONTEXT: Map472/events/1/pages/0/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/115/Dialogue
+Nurse 「I don't want to get myself killed by mistake...
 
+        Better to avoid getting too close to him.」#Ron
 > END STRING
 
 > BEGIN STRING
 ころ……す……？
-> CONTEXT: Map472/events/1/pages/0/172/Dialogue/kazuya-d < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/172/Dialogue/kazuya-d
+K... Kill...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -136,24 +170,31 @@
 でもしたかったなんでしたかった？ぼくはだれだ？
 あんなひどいことしなくてもよかったはずだ、いきのこれた
 ぼくがわるいぼくがわるいごめんなさいごめんなさいごめんなさい
-> CONTEXT: Map472/events/1/pages/0/180/Dialogue/kazuya-3 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/180/Dialogue/kazuya-3
+I didn't want to do it... shouldn't have done it.
+But I did, why did I do it? Who am I?
+I didn't need to do such awful things, I survived.
+It's my fault, all my fault, I'm sorry, I'm sorry.#Ron
 > END STRING
 
 > BEGIN STRING
 目の前のベッドで寝ている\\N[1]は
 
 急に狂ったように呟きだした………
-> CONTEXT: Map472/events/1/pages/0/187/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/187/Dialogue
+The \\N[1] lying in bed in front of me began
+muttering as if he'd suddenly snapped.#Ron
 > END STRING
 
 > BEGIN STRING
 これは……完全に壊れてしまっているな……
 
 罪悪感に耐えきれず、理性を自ら捨てたか……
-> CONTEXT: Map472/events/1/pages/0/192/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/192/Dialogue/alice_fc5
+He's completely broken.
 
+Has he thrown away all reason in the face of an
+unbearable sense of guilt?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -161,8 +202,11 @@
 ひとつボタンを押せば、この絶望の世界から離脱できる。
 
 だけど……彼の人生はその後もずっと続くんだ……
-> CONTEXT: Map472/events/1/pages/0/201/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/201/Dialogue/enemy27
+At the push of a button, the Interveners who've
+lost themselves to the \\C[10]Old One's \\C[0]temptations
+can walk away from this world of despair. But his
+life will continue on for a long time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -170,8 +214,11 @@
 独立した世界線に存在している……
 
 僕の『介入』の権限では……救ってあげることができない…
-> CONTEXT: Map472/events/1/pages/0/206/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/206/Dialogue/enemy27
+His life, now tainted with Abaddon's
+Interventions, continues in this isolated
+timeline. I can't save him with my own
+Intervention authority.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -179,8 +226,11 @@
 ベッドにいるカズヤくんは、どういう表情をしているの？
 
 ここからだとよく見えなくて…
-> CONTEXT: Map472/events/1/pages/0/217/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/217/Dialogue/enemy15
+Mizuki-chan, what kind of expression does that
+Kazuya-kun lying in bed have?
 
+I can't really see from back here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -188,16 +238,22 @@
 
 きっと、彼が大好きな夜深ちゃんには
 見るに堪えない姿よ……
-> CONTEXT: Map472/events/1/pages/0/222/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/222/Dialogue/enemy38
+You're better off not being able to see.
 
+It'd be too much for you to handle considering
+how much you love the guy.#Ron
 > END STRING
 
 > BEGIN STRING
 私も正直、後ろで良かったわ……
 
 実はあんまり、話しについていけてなかったの……
-> CONTEXT: Map472/events/1/pages/0/227/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/227/Dialogue/enemy38
+I'm honestly glad that I'm in the back here.
 
+I haven't been able to keep up with what they're
+talking about.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -205,8 +261,10 @@
 
 こうなると分かっているなら、
 いっそのこと、楽にしてくれれば……
-> CONTEXT: Map472/events/1/pages/0/234/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/234/Dialogue/kazuya
+Why did Hyakki let me live? If she knew it would
+end up like this, I'd have rather she put me out
+of my misery.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -214,8 +272,11 @@
 
 彼女には、君の後ろにいる\\C[10]『介入者』\\C[0]の存在を分かっていた。
 自分に立ち向かうのが、\\C[10]『介入者』\\C[0]の意思であることも……
-> CONTEXT: Map472/events/1/pages/0/239/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/239/Dialogue/enemy27
+Because she couldn't not.
+She understood both the existence of the
+\\C[10]Intervener \\C[0]behind you, as well as the will of
+theirs that she was opposing.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -223,24 +284,30 @@
 
 \\C[10]決着がつくような戦いをしてしまえば
 そのルートを辿った『介入者』の思う壺だったからね
-> CONTEXT: Map472/events/1/pages/0/244/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/244/Dialogue/enemy27
+She apparently lost any desire to kill once she
+comprehended those things. \\C[10]That's because having
+a decisive final battle would just be playing
+into the hands of the Intervener\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 でも彼女が、君を殺さなかった理由はもう一つある……
 
 それは、\\C[2]僕自身のためさ。
-> CONTEXT: Map472/events/1/pages/0/249/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/249/Dialogue/enemy27
+But there was another reason she didn't kill you.
 
+\\C[2]A reason for my benefit.#Ron
 > END STRING
 
 > BEGIN STRING
 マッドハッターは、その大きな帽子をクイッと上にあげ
 
 その顔をハッキリと見せた……
-> CONTEXT: Map472/events/1/pages/0/255/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/255/Dialogue
+Mad Hatter raised his large hat slightly, clearly showing
+me his face...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -248,8 +315,11 @@
 
 この世界線を望んで生み出しているのは、
 他の誰でもない、\\C[10]僕の『介入者』たちだから……
-> CONTEXT: Map472/events/1/pages/0/260/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/260/Dialogue/enemy39
+I... was almost taken as well...
+Because the ones who wished for the creation of
+this timeline were none other than \\C[10]my own
+Interveners\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -257,8 +327,11 @@
 
 だって、\\C[10]介入者を信じてギリギリまで待ったのは
 この僕も一緒だったからだ……
-> CONTEXT: Map472/events/1/pages/0/265/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/265/Dialogue/enemy39
+I would've been in trouble if Hyakki hadn't
+separated me from them. Just like her, I believed
+in the Intervener and waited until the last minute
+for them to have a change of heart.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -266,32 +339,41 @@
 アバドーンが去ったその後の彼の孤独のつらさも……
 
 僕はずっと見てなくちゃいけない……
-> CONTEXT: Map472/events/1/pages/0/270/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/270/Dialogue/enemy39
+So he suffers in here, he endures the pain of
+isolation after Abaddon's departure...
 
+And I must watch it forever more...#RonLocalization
 > END STRING
 
 > BEGIN STRING
 それが、この先の人生に地獄が待っている彼に対しての……
 
 僕が出来る、唯一の罪償いだよ……
-> CONTEXT: Map472/events/1/pages/0/275/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/275/Dialogue/enemy39
+That's the only way I can atone for my sins of
+the hell that is the rest of his life awaiting
+him.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 オールドワンや、手下になった介入者たちには
 
 そんなこと、知ったことじゃないんだろうけどね……
-> CONTEXT: Map472/events/1/pages/0/279/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/279/Dialogue/enemy39
+He probably has no idea about the Old One or the
+bungling Interveners...#RonIffy
 > END STRING
 
 > BEGIN STRING
 ……………同じ空間に、同じ顔で同じ声のヤツが３人……
 
 ちょっと混乱するな………
-> CONTEXT: Map472/events/1/pages/0/284/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/284/Dialogue/alice_fc5
+Now there's three of you with the same bearing,
+the same face, and the same voice...
 
+This is getting a little confusing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -299,8 +381,11 @@
 僕の姿も、\\N[1]くんになるんだ………
 
 合わせ鏡みたいなものだよ。
-> CONTEXT: Map472/events/1/pages/0/288/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/288/Dialogue/enemy39
+As I am a projection of the Intervention target
+that is \\N[1]-kun, I also have his form.
 
+I'm like a mirror image.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -308,16 +393,20 @@
 
 きっとこれが、僕の\\C[10]『介入媒体』\\C[0]としての
 最後の仕事になるんだろうな……
-> CONTEXT: Map472/events/1/pages/0/293/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/293/Dialogue/enemy39
+But when my body starts falling apart, that's
+almost certainly a sign that my job as an
+\\C[10]Intervention medium \\C[0]is coming to an end.#RonLocalization
 > END STRING
 
 > BEGIN STRING
 さ、『最期』って……！！
 
 百鬼はともかく、なんでキミまで…！！
-> CONTEXT: Map472/events/1/pages/0/299/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/299/Dialogue/kazuya
+A-An end?!!
 
+First Hyakki, and now you too?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -325,8 +414,10 @@
 ………分からないよ。
 
 僕は少し、\\C[10]『介入媒体』\\C[0]として働き過ぎたのかもね…
-> CONTEXT: Map472/events/1/pages/0/303/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/303/Dialogue/enemy39
+I don't know, maybe it's because I've been so
+attached to you, but I might have worked a little
+too much as an \\C[10]Intervention medium\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -334,22 +425,27 @@
 今なら分かる………
 
 『愛着』っていうのは恐ろしいものだね……
-> CONTEXT: Map472/events/1/pages/0/308/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/308/Dialogue/enemy39
+In the past I used to only think in the most
+rational terms, but now...
 
+It's probably because I've grown fond of you.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん………\\|
 
 僕はキミに\\^
-> CONTEXT: Map472/events/1/pages/0/313/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/313/Dialogue/enemy39
+\\N[1]-kun...\\|
 
+I...\\^#Ron
 > END STRING
 
 > BEGIN STRING
 なっ……！！！？
-> CONTEXT: Map472/events/1/pages/0/356/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/356/Dialogue/kazuya
+What?!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -357,24 +453,30 @@
 
 \\C[2]マッドハッターの身体が空間の切れ目に挟まれて
 瞬く間に消えてしまったのだ……！
-> CONTEXT: Map472/events/1/pages/0/358/Dialogue < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/358/Dialogue
+In happened in an instant...
 
+\\C[2]In the blink of an eye Mad Hatter's body was caught in a
+rift in spacetime and disappeared\\C[0]!#Ron
 > END STRING
 
 > BEGIN STRING
 今の今までマッドハッターの居た場所には
 
 \\C[10]マッドハッターの首が転がっている……
-> CONTEXT: Map472/events/1/pages/0/363/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map472/events/1/pages/0/363/Dialogue
+\\C[10]His head is rolling around \\C[0]in the spot where his body
+once stood.#Ron
 > END STRING
 
 > BEGIN STRING
 お、おい、これは…！！
 
 まさか…！！？
-> CONTEXT: Map472/events/1/pages/0/367/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/367/Dialogue/alice_fc5
+O-Oi, what's happening?!
 
+Don't tell me...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -382,8 +484,11 @@
 
 あーもう！１度にこんな大勢なんて……！！
 弱ってるボクにこんなコトさせないでよぉ…！！
-> CONTEXT: Map472/events/1/pages/0/372/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/372/Dialogue/sirousagi_fc1
+Let's see, transfer, transfer...
 
+Aaah jeez! Don't make me move this many people at
+once in my weakened state!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -391,6 +496,9 @@
 
 \\C[2]この世界が完全に捕捉される前に、
 さっきのお茶会の空間に……！！
-> CONTEXT: Map472/events/1/pages/0/377/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map472/events/1/pages/0/377/Dialogue/sirousagi_fc1
+Right, I've managed it for now!!
 
+\\C[2]I'll move us back to the Tea Party area before
+this world is completely entrapped.#Ron
 > END STRING
