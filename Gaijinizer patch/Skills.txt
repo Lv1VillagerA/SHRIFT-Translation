@@ -8412,34 +8412,37 @@ Fear Curse Symbol#afrg
 > BEGIN STRING
 \\\>\\C[0]特性：１ターンの間、全員のダメージを半減する。
 \\\>\\C[24]『兎リンゴ』を装備時に使用可能
-> CONTEXT: Skills/722/description < UNTRANSLATED
-
+> CONTEXT: Skills/722/description
+\\\>\\C[0]Characteristics: Reduces damage received for one turn.
+\\\>\\C[24]Can only use when "Rabbit Apple" is equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 は兎リンゴを使った！
-> CONTEXT: Skills/722/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/722/message1
+used Rabbit Apple!#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\C[0]特性：ルカのＳＰを全回復する。
 \\\>\\C[24]『緑リンゴ』を装備時に使用可能
-> CONTEXT: Skills/724/description < UNTRANSLATED
-
+> CONTEXT: Skills/724/description
+\\\>\\C[0]Characteristics: Fully recovers Luka's SP.
+\\\>\\C[24]Can only use when "Green Apple" is equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 は緑リンゴを使った！
-> CONTEXT: Skills/724/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/724/message1
+used Green Apple!#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\C[0]特性：味方全員のＨＰを回復する。
 \\\>\\C[24]『赤リンゴ』を装備時に使用可能
-> CONTEXT: Skills/728/description < UNTRANSLATED
-
+> CONTEXT: Skills/728/description
+\\\>\\C[0]Characteristics: Fully recovers HP of all allies.
+\\\>\\C[24]Can only use when "Red Apple" is equipped.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8452,7 +8455,7 @@ Fear Curse Symbol#afrg
 
 > BEGIN STRING
 \\N[1]の精気が快楽と引き換えにみるみる吸い取られていく…！
-> CONTEXT: Skills/729/message2 < UNTRANSLATED
+> CONTEXT: Skills/729/message2
 \\N[1]'s being quickly drained in exchange for pleasure!#RonIffyWording
 > END STRING
 
