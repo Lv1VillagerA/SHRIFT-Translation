@@ -29,10 +29,10 @@ That's... \\C[2]Mad Hatter\\C[2]...?#Ron
 本当は、もっと豪華なものを用意したかったんだけど
 隠密性を重視した結果、無駄な装飾を省いたんだ。
 > CONTEXT: Map470/events/1/pages/0/23/Dialogue/enemy27
-Most apologies for providing such a modest
-welcome, I did plan on preparing something more
-lavish but with the need to remain hidden, I had
-to cut back on pointless decorations.#Ron
+My apologies for providing such a modest
+welcome... I did plan on preparing something
+more lavish, but I had to cut back on pointless
+decorations to be a bit more discrete.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -99,10 +99,10 @@ want to know.#Ron
 座ってお茶でも飲みながら
 順を追って説明していこうじゃないか………
 > CONTEXT: Map470/events/1/pages/0/55/Dialogue/enemy27
-You've all gone to the trouble of gathering here
-from each of your worlds. Why don't you all sit,
-have some tea or something, and I'll explain
-everything step-by-step.#RonIffyWording
+You've all gone through the effort of coming here
+from each of your worlds. Take a seat,
+enjoy a fresh cup of tea, and I'll explain it
+all, piece by piece...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -172,8 +172,8 @@ In fact, she actually seems quite nice.#Ron
 ヤツはどういう魔物なのだ…？
 > CONTEXT: Map470/events/1/pages/0/106/Dialogue/enemy35
 In fact, it seems both \\N[1] and her have
-rather similar voices. Just what kind of monster
-is she exactly?#Ron
+rather similar voices.... Just what kind of
+monster is she exactly?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -182,10 +182,10 @@ is she exactly?#Ron
 
 そもそも、アイツって生命体なの……？
 > CONTEXT: Map470/events/1/pages/0/111/Dialogue/enemy38
-No, my summoning device is giving some really
-buggy responses, so it's hard to tell whether
-she's a monster or a demon. In fact, is she
-even a living organism?#RonIffy
+No... my summoner is throwing a bunch of errors.
+It's hard to tell whether she's even a monster
+or a demon... Is... Is she even a living being in
+the first place...?#RonIffy
 > END STRING
 
 > BEGIN STRING

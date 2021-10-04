@@ -8420,7 +8420,7 @@ Fear Curse Symbol#afrg
 > BEGIN STRING
 は兎リンゴを使った！
 > CONTEXT: Skills/722/message1
-used Rabbit Apple!#Triketos
+　used Rabbit Apple!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -8434,7 +8434,7 @@ used Rabbit Apple!#Triketos
 > BEGIN STRING
 は緑リンゴを使った！
 > CONTEXT: Skills/724/message1
-used Green Apple!#Triketos
+　used Green Apple!#Triketos
 > END STRING
 
 > BEGIN STRING

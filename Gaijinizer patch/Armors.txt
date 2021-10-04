@@ -1001,8 +1001,9 @@ Cloth Clothes#StrateUnsure
 > BEGIN STRING
 マリオンの世界に自生している赤リンゴ
 \\C[5]マリオンの回復スキルの対象が味方全体になる。
-> CONTEXT: Armors/101/description < UNTRANSLATED
-ADD STUFF HERE
+> CONTEXT: Armors/101/description
+A red apple native to Marion's world.
+\\C[5]Enables Marion to use his heal skill on the entire party.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1015,8 +1016,9 @@ Red Apple#Triketos
 > BEGIN STRING
 マリオンの世界に自生している緑リンゴ
 \\C[5]マリオンの武器の攻撃力が３０％増加する。
-> CONTEXT: Armors/102/description < UNTRANSLATED
-ADD STUFF HERE
+> CONTEXT: Armors/102/description
+A green apple native to Marion's world.
+\\C[5]Increases Marion's Attack by 30%.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1068,8 +1070,9 @@ Green Apple#Triketos
 > BEGIN STRING
 マリオンの世界に自生している兎リンゴ
 毎ターン\\C[5]ルカのＳＰを＋１、\\N[1]の気力を１００回復する。
-> CONTEXT: Armors/106/description < UNTRANSLATED
-ADD STUFF HERE
+> CONTEXT: Armors/106/description
+A rabbit apple native to Marion's world. \\C[5]Every turn
+restores 1 SP to Luka, and 100 Vit to \\N[1].#RonIffyWording
 > END STRING
 
 > BEGIN STRING

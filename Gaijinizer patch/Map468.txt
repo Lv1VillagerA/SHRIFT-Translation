@@ -322,10 +322,10 @@ our brethren, the house of Baron Otaku.#Ron
 その仕打ちがこれか……
 > CONTEXT: Map468/events/46/pages/1/11/Dialogue
 > CONTEXT: Map541/events/46/pages/1/11/Dialogue
-Though our previous generation, with the blessings of the
+Our previous generations, with the blessings of the
 angels, fervently carried on their duty of continuing to
-seal away the vicious "vampires"... they suffered such
-appalling mistreatment...#Ron
+seal away the vicious "vampires"...
+And *this* is what they repay us with.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -335,10 +335,10 @@ appalling mistreatment...#Ron
 この洋館が、なんのために建てられたのかも知らずに……
 > CONTEXT: Map468/events/46/pages/1/17/Dialogue
 > CONTEXT: Map541/events/46/pages/1/17/Dialogue
-The angels declared that my family was to be sent into
-exile from this place as punishment. This decree was made
-without even knowing the purpose of this estate built as a
-foothold during the monster subjugation.#RonIffy
+They sentenced my family into exile from this place as
+a punishment. They forgot that the estate was supposed
+to be a foothold for holding back the threat of
+monsters...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -389,7 +389,7 @@ angels and demons.#Ron
 > CONTEXT: Map541/events/46/pages/1/41/Dialogue
 Though they took everything from me, this piece of armor
 is the one thing I will not let them have, so I've hidden
-it here. This armor of my predecessors is the only thing
+it here. This armor of my forefathers is the only thing
 I must never lose.#Ron
 > END STRING
 

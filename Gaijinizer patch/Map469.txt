@@ -60,9 +60,9 @@ cute I can't help but want to watch. ♡#Ron
 この姿では、いくら子供に戻った相手といえど
 人一人抱えて走り回るのは、ちょっとな………
 > CONTEXT: Map469/events/3/pages/0/115/Dialogue/alice_fc5
-If he were in his adult form we'd at least have
-our powers back, but carrying him around even
-in this child form would be a little too much...#Ron
+If he were an adult we'd have our powers back.
+But right now even carrying him around while
+he's a child would be a bit too much...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -82,7 +82,7 @@ pretty worn out carrying him around.#Ron
 
 これ、私が言うべきだったのかしら……？
 > CONTEXT: Map469/events/3/pages/0/130/Dialogue/enemy38
-...Huh?
+......Huh?
 
 Am I supposed to chime in on this?#Ron
 > END STRING
@@ -220,10 +220,10 @@ The man before you is our final guest.#Ron
 魔物の大群に立ち向かう、人間代表の朴念仁！
 \\C[2]その名も『マリオン』！！！
 > CONTEXT: Map469/events/3/pages/0/267/Dialogue/sirousagi_fc1
-Making full use of his predecessor Saito's angelic
-magic to violently hurl weapons and face down
-hordes of monsters, it's the obstinate
-representative of humanity, Marion!!!#RonIffyWording
+He uses his ancestor Saitou's angelic magic
+to violently hurl weapons and face down hordes
+of monsters... it's the obstinate representative
+of humanity, Marion!!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -347,7 +347,7 @@ There we go...#Ron
 Marion-kun doesn't talk.
 
 It's not that he can't talk, but he's what you'd
-call, you know, the "silent type".#Ron
+call... you know... the "silent type".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -380,7 +380,7 @@ So he's the silent type...#Ron
 それじゃあ、彼がこの世界で見つける予定だった子？
 随分と年齢は若いように見えるけど……
 > CONTEXT: Map469/events/3/pages/0/402/Dialogue/enemy38
-You said just before that he's the last guest...
+You said before that he's the last guest...
 
 Does that mean he's the one we were planning on
 finding in this world? He looks quite young.#Ron
@@ -419,10 +419,10 @@ monsters that arose over the Angel Orb.#RonLocalization
 \\C[2]『射撃武器を投擲すること』『投擲物を殴打に使うこと』\\C[0]
 で、相手を攻撃すると発動する。
 > CONTEXT: Map469/events/3/pages/0/417/Dialogue/sirousagi_fc1
-His angelic power has a unique manifestation.
+His angelic powers manifest in a unique way.
 
 He attacks by \\C[2]throwing ranged weapons, and
-bludgeoning with throwing weapons.\\C[0]#RonIffyWording
+bludgeoning with throwing weapons\\C[0].#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -570,7 +570,7 @@ Friend?#Ron
 
 \\N[1]くんもよく知る、彼女だよ。
 > CONTEXT: Map469/events/3/pages/0/494/Dialogue/sirousagi_fc1
-That's right, I was introduced to this world's
+That's right. I was introduced to this world's
 "guest" thanks to the inter-angel connections of
 a certain angel in particular. I think you know
 who I'm talking about, \\N[1]-kun.#RonLocalization
@@ -597,7 +597,7 @@ to look after a different world.#Ron
 
 私も、また顔を合わせることになるとは思わなかったわ……
 > CONTEXT: Map469/events/3/pages/0/511/Dialogue/other5
-Yes Nakamura, I also didn't expect us to ever
+Yes, Nakamura... I also didn't expect us to ever
 meet again.#Ron
 > END STRING
 
@@ -640,7 +640,7 @@ Remiel, I mean Reina's angelic power should...#Ron
 
 まさしくその通りだよ。
 > CONTEXT: Map469/events/3/pages/0/528/Dialogue/sirousagi_fc1
-\\C[2]When you used the linear cannon on Samael after
+\\C[2]When you used the Linear Cannon on Samael after
 her magic went out of control and he manifested,
 you blew her power into smithereens.\\C[0]
 And that's how it remains.#RonIffy
@@ -678,7 +678,7 @@ for help with this.#Ron
 She's lost the power necessary to manifest, this
 ghost-like body is the best she can do. But she
 was able to arrange things ahead of time for us
-in this world.#Ron
+in this world...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -803,7 +803,7 @@ these new things.#RonIffyWording
 \\C[2]『マッドハッター』\\C[0]に任せるよ。
 > CONTEXT: Map469/events/3/pages/0/600/Dialogue/sirousagi_fc1
 This as far as I go being your guide, now it's up
-to the organizer of the Tea Party, the \\C[2]Mad Hatter\\C[0].
+to the organizer of the Tea Party, the \\C[2]Mad Hatter\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
