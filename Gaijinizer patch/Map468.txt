@@ -349,9 +349,9 @@ monsters...#RonIffy
 > CONTEXT: Map468/events/46/pages/1/23/Dialogue
 > CONTEXT: Map541/events/46/pages/1/23/Dialogue
 It would seem that as the ages passed, the foolish angels
-themselves had forgotten about the being they had once
-ordered us to seal away. The duty thus not being passed on
-is a result befitting their dimwittedness.#RonIffyWording
+themselves had forgotten about the beings they had once
+ordered us to seal away. That they've forgotten about this
+duty is proof of their stupidity.#RonIffyWording
 > END STRING
 
 > BEGIN STRING

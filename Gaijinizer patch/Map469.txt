@@ -222,7 +222,7 @@ The man before you is our final guest.#Ron
 > CONTEXT: Map469/events/3/pages/0/267/Dialogue/sirousagi_fc1
 He uses his ancestor Saitou's angelic magic
 to violently hurl weapons and face down hordes
-of monsters... it's the obstinate representative
+of monsters... it's the aloof representative
 of humanity, Marion!!!#RonIffyWording
 > END STRING
 
@@ -441,9 +441,10 @@ before...#Ron
 
 翻訳できるヒロインというか…付き添いが欲しいところだな
 > CONTEXT: Map469/events/3/pages/0/429/Dialogue/alice_fc5
-But if he's the "silent type", then I'd like to
-have someone here who can translate things to
-him for us...#RonIffy
+But if we're going to have one of those
+"silent types" here with us... 
+Couldn't he bring his sidekick here to come
+translate what he's thinking...?#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -703,7 +704,7 @@ But then I also heard that though she had fallen
 from the heavens, she still lived side-by-side
 with the humans, keeping them under her protection
 while atoning for her sins.
-Hearing that made me feel, in a good way, like my
+Hearing that made me feel good, knowing that my
 old friend hasn't changed a bit.#RonIffyWording 
 > END STRING
 
@@ -714,7 +715,7 @@ old friend hasn't changed a bit.#RonIffyWording
 > CONTEXT: Map469/events/3/pages/0/561/Dialogue/kazuya
 T-They really do know each other.
 
-This is like... really impactful.#RonIffy
+I... really didn't expect that...#RonIffy
 > END STRING
 
 > BEGIN STRING
