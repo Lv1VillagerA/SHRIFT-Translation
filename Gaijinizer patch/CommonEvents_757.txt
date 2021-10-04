@@ -1,6 +1,6 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 いくわよ…！！
-> CONTEXT: CommonEvents_757/5/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_757/5/Dialogue/enemy38
+Here I go!!#Ron
 > END STRING

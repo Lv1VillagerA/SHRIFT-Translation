@@ -1,55 +1,57 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 マリオンはダウンしている……
-> CONTEXT: CommonEvents_760/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_760/10/Dialogue
+Marion is down...#Ron
 > END STRING
 
 > BEGIN STRING
 マリオンは体勢を立て直した！
-> CONTEXT: CommonEvents_760/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_760/24/Dialogue
+Marion has recomposed himself!#Ron
 > END STRING
 
 > BEGIN STRING
 【攻撃】
-> CONTEXT: CommonEvents_760/102/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_760/102/Choice/1
+Attack#Ron
 > END STRING
 
 > BEGIN STRING
 武器切り替えen(s[717])
-> CONTEXT: CommonEvents_760/102/Choice/2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_760/102/Choice/2
+Swap Weaponen(s[717])#Ron
 > END STRING
 
 > BEGIN STRING
 リンゴ
-> CONTEXT: CommonEvents_760/102/Choice/3 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_760/102/Choice/3
+Apples#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>現在装備している武器で攻撃します。
 \\\>現在の武器:【\\V[240]】
-> CONTEXT: CommonEvents_760/106/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_760/106/ChoiceHelp
+\\\>Attack with currently equipped weapon.
+\\\>Current weapon: [\\V[240]]#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>【攻撃】で使用する武器を切り替えます
 \\\>\\C[2]1ターン1回のみ、ターン消費なし。
-> CONTEXT: CommonEvents_760/167/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_760/167/ChoiceHelp
+\\\>Change the weapon used with the "Attack" command.
+\\\>\\C[2]Won't end your turn, but can only be done once every turn.#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>リンゴを使用して、自身や味方の支援をします。
-> CONTEXT: CommonEvents_760/173/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_760/173/ChoiceHelp
+\\\>Use an apple to support you or an ally.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -62,13 +64,14 @@ Evasive Posture#Dargoth
 > BEGIN STRING
 選択肢ヘルプ
 \\\>マリオンが受ける物理・魔法ダメージが50％に軽減されます
-> CONTEXT: CommonEvents_760/180/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_760/180/ChoiceHelp
+\\\>Reduces all damage Marion receives by half.#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>マリオンが受ける必中以外の攻撃を回避します。
-> CONTEXT: CommonEvents_760/187/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_760/187/ChoiceHelp
+\\\>Marion will evade all attacks that are not guaranteed
+hits.#Ron
 > END STRING

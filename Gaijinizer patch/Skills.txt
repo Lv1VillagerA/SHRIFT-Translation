@@ -8412,47 +8412,50 @@ Fear Curse Symbol#afrg
 > BEGIN STRING
 \\\>\\C[0]特性：１ターンの間、全員のダメージを半減する。
 \\\>\\C[24]『兎リンゴ』を装備時に使用可能
-> CONTEXT: Skills/722/description < UNTRANSLATED
-
+> CONTEXT: Skills/722/description
+\\\>\\C[0]Characteristics: Reduces damage received for one turn.
+\\\>\\C[24]Can only use when "Rabbit Apple" is equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 は兎リンゴを使った！
-> CONTEXT: Skills/722/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/722/message1
+　used Rabbit Apple!#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\C[0]特性：ルカのＳＰを全回復する。
 \\\>\\C[24]『緑リンゴ』を装備時に使用可能
-> CONTEXT: Skills/724/description < UNTRANSLATED
-
+> CONTEXT: Skills/724/description
+\\\>\\C[0]Characteristics: Fully recovers Luka's SP.
+\\\>\\C[24]Can only use when "Green Apple" is equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 は緑リンゴを使った！
-> CONTEXT: Skills/724/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/724/message1
+　used Green Apple!#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\C[0]特性：味方全員のＨＰを回復する。
 \\\>\\C[24]『赤リンゴ』を装備時に使用可能
-> CONTEXT: Skills/728/description < UNTRANSLATED
-
+> CONTEXT: Skills/728/description
+\\\>\\C[0]Characteristics: Fully recovers HP of all allies.
+\\\>\\C[24]Can only use when "Red Apple" is equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 は回復リンゴを使った！
-> CONTEXT: Skills/728/message1 < UNTRANSLATED
-> CONTEXT: Skills/894/message1 < UNTRANSLATED
-> CONTEXT: Skills/951/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/728/message1
+> CONTEXT: Skills/894/message1
+> CONTEXT: Skills/951/message1
+ uses a Recovery Apple!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]の精気が快楽と引き換えにみるみる吸い取られていく…！
-> CONTEXT: Skills/729/message2 < UNTRANSLATED
+> CONTEXT: Skills/729/message2
 \\N[1]'s being quickly drained in exchange for pleasure!#RonIffyWording
 > END STRING
 
@@ -8736,12 +8739,13 @@ It's over.#Triketos
 > BEGIN STRING
 ミズキのサポートスキル。
 相手に物理属性超特大ダメージを与える。
-> CONTEXT: Skills/755/description < UNTRANSLATED
-> CONTEXT: Skills/766/description < UNTRANSLATED
-> CONTEXT: Skills/788/description < UNTRANSLATED
-> CONTEXT: Skills/790/description < UNTRANSLATED
-> CONTEXT: Skills/930/description < UNTRANSLATED
-
+> CONTEXT: Skills/755/description
+> CONTEXT: Skills/766/description
+> CONTEXT: Skills/788/description
+> CONTEXT: Skills/790/description
+> CONTEXT: Skills/930/description
+One of Mizuki's support skills.
+Deals high physical damage to an opponent.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9178,9 +9182,9 @@ Great physical damage to a single enemy.#MTLed
 
 > BEGIN STRING
 の傍らで、ミズキはケルベロスを叩きつけた！
-> CONTEXT: Skills/790/message1 < UNTRANSLATED
-> CONTEXT: Skills/930/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/790/message1
+> CONTEXT: Skills/930/message1
+ looks on as Mizuki slams Cerberus into the ground!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -10153,8 +10157,8 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 武器切り替え
-> CONTEXT: Skills/890/name < UNTRANSLATED
-
+> CONTEXT: Skills/890/name
+Weapon Swap#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10166,9 +10170,9 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 マスケット
-> CONTEXT: Skills/891/name < UNTRANSLATED
-> CONTEXT: Skills/945/name < UNTRANSLATED
-
+> CONTEXT: Skills/891/name
+> CONTEXT: Skills/945/name
+Musket#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10181,9 +10185,9 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 てつはう
-> CONTEXT: Skills/892/name < UNTRANSLATED
-> CONTEXT: Skills/947/name < UNTRANSLATED
-
+> CONTEXT: Skills/892/name
+> CONTEXT: Skills/947/name
+Tetsuhau#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10207,9 +10211,9 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 回復リンゴ
-> CONTEXT: Skills/894/name < UNTRANSLATED
-> CONTEXT: Skills/951/name < UNTRANSLATED
-
+> CONTEXT: Skills/894/name
+> CONTEXT: Skills/951/name
+Recovery Apple#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10221,14 +10225,14 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 減欲リンゴ
-> CONTEXT: Skills/895/name < UNTRANSLATED
-
+> CONTEXT: Skills/895/name
+Lust-Inhibiting Apple#Ron
 > END STRING
 
 > BEGIN STRING
 は減欲リンゴを使った！
-> CONTEXT: Skills/895/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/895/message1
+ uses Lust-Inhibiting Apple!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10240,14 +10244,14 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 猛攻リンゴ
-> CONTEXT: Skills/896/name < UNTRANSLATED
-
+> CONTEXT: Skills/896/name
+Vicious Attack Apple#Ron
 > END STRING
 
 > BEGIN STRING
 は猛攻リンゴを使った！
-> CONTEXT: Skills/896/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/896/message1
+ uses Vicious Attack Apple!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10264,8 +10268,8 @@ Flying Feline Slash#Ron
 
 > BEGIN STRING
 のサポートスキルが発動！
-> CONTEXT: Skills/897/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/897/message1
+ activates a support skill!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10922,33 +10926,34 @@ Focus#Ron
 
 > BEGIN STRING
 地面を伝い、衝撃波は迷いなく相手へ直撃する！
-> CONTEXT: Skills/930/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/930/message2
+A shockwave moves unerring through the ground to the enemy!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ヘルインパクト
-> CONTEXT: Skills/930/name < UNTRANSLATED
-
+> CONTEXT: Skills/930/name
+Hell Impact#Ron
 > END STRING
 
 > BEGIN STRING
 ミズキは剛撃の号令を放った！！
-> CONTEXT: Skills/931/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/931/message2
+Mizuki unleashes Staunch Attack Decree!!#Ron
 > END STRING
 
 > BEGIN STRING
 ミズキのサポートスキル。
 このターンの間、\\N[1]の物理攻撃力を大幅に上昇させる。
-> CONTEXT: Skills/931/description < UNTRANSLATED
-
+> CONTEXT: Skills/931/description
+One of Mizuki's support skills.
+Significantly raises \\N[1]'s physical ATK this turn.#Ron
 > END STRING
 
 > BEGIN STRING
 剛撃の号令
-> CONTEXT: Skills/931/name < UNTRANSLATED
-
+> CONTEXT: Skills/931/name
+Staunch Attack Decree#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -11145,8 +11150,8 @@ Focus#Ron
 
 > BEGIN STRING
 はマスケットを放った！
-> CONTEXT: Skills/945/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/945/message1
+ hurls muskets!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -11158,20 +11163,20 @@ Focus#Ron
 
 > BEGIN STRING
 フリントロック
-> CONTEXT: Skills/946/name < UNTRANSLATED
-
+> CONTEXT: Skills/946/name
+Flintlock#Ron
 > END STRING
 
 > BEGIN STRING
 はフリントロックを放った！
-> CONTEXT: Skills/946/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/946/message1
+ hurls flintlock rifles!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 はてつはうを放った！
-> CONTEXT: Skills/947/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/947/message1
+ hurls a tetsuhau bomb!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11183,14 +11188,14 @@ Focus#Ron
 
 > BEGIN STRING
 カノン砲
-> CONTEXT: Skills/948/name < UNTRANSLATED
-
+> CONTEXT: Skills/948/name
+Cannon#Ron
 > END STRING
 
 > BEGIN STRING
 はカノン砲を放った！
-> CONTEXT: Skills/948/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/948/message1
+ hurls a cannon!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -11202,14 +11207,14 @@ Focus#Ron
 
 > BEGIN STRING
 手りゅう弾
-> CONTEXT: Skills/949/name < UNTRANSLATED
-
+> CONTEXT: Skills/949/name
+Hand Grenade#Ron
 > END STRING
 
 > BEGIN STRING
 は手りゅう弾を放った！
-> CONTEXT: Skills/949/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/949/message1
+ hurls two hand grenades!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -11221,14 +11226,14 @@ Focus#Ron
 
 > BEGIN STRING
 ジャッジメント・デイ
-> CONTEXT: Skills/950/name < UNTRANSLATED
-
+> CONTEXT: Skills/950/name
+Judgment Day#Ron
 > END STRING
 
 > BEGIN STRING
 はジャッジメント・デイを放った！
-> CONTEXT: Skills/950/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/950/message1
+ unleashes Judgement Day!#Ron
 > END STRING
 
 > BEGIN STRING
