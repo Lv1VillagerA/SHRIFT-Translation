@@ -1,126 +1,133 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 \\C[6]■　武器一覧en(s[999999999])
-> CONTEXT: CommonEvents_761/1/Choice/0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/1/Choice/0
+\\C[6]■　Weapon Listen(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]■マスケット\\C[27]\\V[252]en(v[239] != 1) 
-> CONTEXT: CommonEvents_761/1/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/1/Choice/1
+\\I[131]■Musket\\C[27]\\V[252]en(v[239] != 1) #Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]■フリントロック\\C[27]\\V[253]en(v[239] != 2) 
-> CONTEXT: CommonEvents_761/1/Choice/2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/1/Choice/2
+\\I[131]■Flintlock\\C[27]\\V[253]en(v[239] != 2) #Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]■てつはう\\C[27]\\V[254]en(v[239] != 3) 
-> CONTEXT: CommonEvents_761/1/Choice/3 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/1/Choice/3
+\\I[131]■Tetsuhau\\C[27]\\V[254]en(v[239] != 3) #Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>\\C[13]【属性】物理　\\C[14]【威力】中×２
 \\\>\\C[0]特性：\\C[24]必中攻撃
-> CONTEXT: CommonEvents_761/5/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/5/ChoiceHelp
+\\\>\\C[13]Type: Physical　\\C[14]Power: Medium x2
+\\\>\\C[0]Characteristic: \\C[24]Guaranteed to hit.#Ron
 > END STRING
 
 > BEGIN STRING
 マリオンは\\C[2]マスケット\\C[0]に装備を切り替えた！
-> CONTEXT: CommonEvents_761/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/13/Dialogue
+Marion has switched out his weapon for the \\C[2]Musket\\C[0]!#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>\\C[13]【属性】物理　\\C[14]【威力】小×5
 \\\>\\C[0]特性：\\C[24]次ターン、ルカより先に行動できる
-> CONTEXT: CommonEvents_761/18/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/18/ChoiceHelp
+\\\>\\C[13]Type: Physical　\\C[14]Power: Low x5
+\\\>\\C[0]Characteristic: \\C[24]Will act before Luka next turn.#Ron
 > END STRING
 
 > BEGIN STRING
 マリオンは\\C[2]フリントロック\\C[0]に装備を切り替えた！
-> CONTEXT: CommonEvents_761/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/26/Dialogue
+Marion has switched out his weapon for the \\C[2]Flintlock\\C[0]!#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>\\C[13]【属性】火　\\C[14]【威力】大×１
 \\\>\\C[0]特性：\\C[24]次ターン開始時、自身のＨＰ２０％回復
-> CONTEXT: CommonEvents_761/31/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/31/ChoiceHelp
+\\\>\\C[13]Type: Fire　\\C[14]Power: High x1
+\\\>\\C[0]Characteristic: \\C[24]Marion will recover 20% HP next turn.#Ron
 > END STRING
 
 > BEGIN STRING
 マリオンは\\C[2]てつはう\\C[0]に装備を切り替えた！
-> CONTEXT: CommonEvents_761/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/39/Dialogue
+Marion has switched out his weapon for the \\C[2]Tetsuhau\\C[0]!#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]■カノン砲\\C[27]\\V[255]en(v[239] != 4) 
-> CONTEXT: CommonEvents_761/44/Choice/0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/44/Choice/0
+\\I[131]■Cannon\\C[27]\\V[255]en(v[239] != 4) #Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]■手りゅう弾\\C[27]\\V[256]en(v[239] != 5) 
-> CONTEXT: CommonEvents_761/44/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/44/Choice/1
+\\I[131]■Hand Grenade\\C[27]\\V[256]en(v[239] != 5) #Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]■一子相伝之槍\\C[27]\\V[257]en(v[258] \>= 3) 
-> CONTEXT: CommonEvents_761/44/Choice/2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/44/Choice/2
+\\I[131]■Heirloom Spear\\C[27]\\V[257]en(v[258] \>= 3) #RonIffy
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>\\C[13]【属性】物理　\\C[14]【威力】大×１
 \\\>\\C[0]特性：\\C[24]装備中、被ダメージが半減。
-> CONTEXT: CommonEvents_761/46/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/46/ChoiceHelp
+\\\>\\C[13]Type: Physical　\\C[14]Power: High x1
+\\\>\\C[0]Characteristic: \\C[24]Halves damage taken while equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 マリオンは\\C[2]カノン砲\\C[0]に装備を切り替えた！
-> CONTEXT: CommonEvents_761/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/54/Dialogue
+Marion has switched out his weapon for the \\C[2]Cannon\\C[0]!#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>\\C[13]【属性】無　\\C[14]【威力】大×２
 \\\>\\C[0]特性：\\C[24]装備中、被ダメージ増加
-> CONTEXT: CommonEvents_761/59/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/59/ChoiceHelp
+\\\>\\C[13]Type: Null　\\C[14]Power: High x2
+\\\>\\C[0]Characteristic: \\C[24]Increases damage taken while equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 マリオンは\\C[2]手りゅう弾\\C[0]に装備を切り替えた！
-> CONTEXT: CommonEvents_761/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/67/Dialogue
+Marion has switched out his weapon for the \\C[2]Hand Grenade\\C[0]!#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>\\C[13]【属性】無　\\C[14]【威力】特大×３
 \\\>\\C[2]武器切り替えを一定回数行う事で使用可能になる。
-> CONTEXT: CommonEvents_761/72/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/72/ChoiceHelp
+\\\>\\C[13]Type: Null　\\C[14]Power: Very High x3
+\\\>\\C[2]Can only equip after weapon-swapping a fixed number of times.
+\\\>\\C[24]Will unequip itself after use.#RonLocalization
 > END STRING
 
 > BEGIN STRING
 マリオンは\\C[2]一子相伝之槍\\C[0]に装備を切り替えた！
-> CONTEXT: CommonEvents_761/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_761/79/Dialogue
+Marion has switched out his weapon for the \\C[2]Heirloom Spear\\C[0]!#Ron
 > END STRING
