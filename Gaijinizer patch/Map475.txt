@@ -52,5 +52,5 @@ They aren't ones we had scheduled in...#Ron
 > BEGIN STRING
 人『たち』……？
 > CONTEXT: Map475/events/5/pages/0/34/Dialogue/yuuma
-There are more than one?#Ron
+There's more than one...?#Ron
 > END STRING

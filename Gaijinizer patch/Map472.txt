@@ -172,9 +172,13 @@ K... Kill...?#Ron
 ぼくがわるいぼくがわるいごめんなさいごめんなさいごめんなさい
 > CONTEXT: Map472/events/1/pages/0/180/Dialogue/kazuya-3
 I didn't want to do it... shouldn't have done it.
-But I did, why did I do it? Who am I?
-I didn't need to do such awful things, I survived.
-It's my fault, all my fault, I'm sorry, I'm sorry.#Ron
+But I did, why did I do it? W-Who am I?
+I-I didn't need to do such awful things,
+to survive... I-It's a-all m-my fault...
+\\X[10]ImsorryImsorryImsorryImsorryImsorryImsorryIm
+sorryImsorryImsorryImsorryImsorryImsorryImso
+rryImsorryImsorryImsorryImsorryImsorryImsorr
+yImsorryImsorryImsorryImsorryImsorry...........\\X[0]#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -191,10 +195,10 @@ muttering as if he'd suddenly snapped.#Ron
 
 罪悪感に耐えきれず、理性を自ら捨てたか……
 > CONTEXT: Map472/events/1/pages/0/192/Dialogue/alice_fc5
-He's completely broken.
+He's... completely broken.
 
-Has he thrown away all reason in the face of an
-unbearable sense of guilt?#Ron
+Has he abandoned reason so that he wouldn't
+have to face the unbearable guilt?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -273,9 +277,9 @@ of my misery.#Ron
 彼女には、君の後ろにいる\\C[10]『介入者』\\C[0]の存在を分かっていた。
 自分に立ち向かうのが、\\C[10]『介入者』\\C[0]の意思であることも……
 > CONTEXT: Map472/events/1/pages/0/239/Dialogue/enemy27
-Because she couldn't not.
-She understood both the existence of the
-\\C[10]Intervener \\C[0]behind you, as well as the will of
+Because...... she couldn't do it.
+She knew that behind you was an \\C[10]Intervener\\C[0],
+and that whole reason this happened was the will of
 theirs that she was opposing.#RonIffyWording
 > END STRING
 
@@ -286,9 +290,9 @@ theirs that she was opposing.#RonIffyWording
 そのルートを辿った『介入者』の思う壺だったからね
 > CONTEXT: Map472/events/1/pages/0/244/Dialogue/enemy27
 She apparently lost any desire to kill once she
-comprehended those things. \\C[10]That's because having
-a decisive final battle would just be playing
-into the hands of the Intervener\\C[0].#Ron
+comprehended those things. \\C[10]That's because
+having a final battle would only just be for
+the amusement of the Intervener\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -396,7 +400,7 @@ I'm like a mirror image.#Ron
 > CONTEXT: Map472/events/1/pages/0/293/Dialogue/enemy39
 But when my body starts falling apart, that's
 almost certainly a sign that my job as an
-\\C[10]Intervention medium \\C[0]is coming to an end.#RonLocalization
+\\C[10]Intervention Medium \\C[0]is coming to an end.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -417,7 +421,7 @@ First Hyakki, and now you too?!!#Ron
 > CONTEXT: Map472/events/1/pages/0/303/Dialogue/enemy39
 I don't know, maybe it's because I've been so
 attached to you, but I might have worked a little
-too much as an \\C[10]Intervention medium\\C[0].#Ron
+too much as an \\C[10]Medium\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING

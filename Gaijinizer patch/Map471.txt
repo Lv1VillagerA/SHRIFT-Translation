@@ -199,10 +199,10 @@ them.#Ron
 けど結局、Ｍ.Ｏ.Ｗがアバドーンを従えることが出来ずに
 この\\C[2]『ロストナンバー』\\C[0]の計画は失敗に終わった……
 > CONTEXT: Map471/events/1/pages/0/90/Dialogue/enemy27
-And after a long time passed, they found the
-answer they were looking for. But without being
-able to subjugate Abaddon, the plans of this
-\\C[2]Lost Number\\C[0] would end in failure.#RonIffy
+After many years of research, they found the
+answer they were looking for. But the \\C[2]Lost
+Number\\C[0] project ended in failure because they
+were unable to control Abaddon.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -236,10 +236,10 @@ goings on of other worlds.#Ron
 だから\\C[10]『介入』\\C[0]を使って、事象の軌道修正や
 些細な特異点なんかを潰していく。
 > CONTEXT: Map471/events/1/pages/0/108/Dialogue/sirousagi_fc1
-\\C[10]Fundamentally, one cannot change their own fate.\\C[0]
-
-So using \\C[10]Intervention\\C[0], you can make adjustments
-to events and crush trivial singularities.#RonIffy
+\\C[10]One cannot change their own fate.\\C[0]
+Using \\C[10]Intervention\\C[0], however, someone
+change the course of events, and crush small
+singularities that arise.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -248,10 +248,10 @@ to events and crush trivial singularities.#RonIffy
 だから、本来はキミたちも、そういうモノとは無縁の状態で
 各々の世界に付従して、何も知らず生きていける。
 > CONTEXT: Map471/events/1/pages/0/113/Dialogue/sirousagi_fc1
-This is done clandestinely, without exception, in
-all worlds. So normally you would all live in your
-own worlds without the knowledge that any of this
-is going on.#RonIffy
+In all affected worlds, this is done secretly,
+without exception. Any effected individuals would
+live normally without the knowledge that any
+changes had been made.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -260,10 +260,10 @@ is going on.#RonIffy
 でも希に、例外になってしまう事例がある……
 \\C[10]『介入』\\C[0]が対象者に知られてしまう事象だ……
 > CONTEXT: Map471/events/1/pages/0/119/Dialogue/enemy27
-Yes, normally...
-But exceptions do occur on rare occasions, and
-the targets of \\C[10]Intervention \\C[0]learn of what's
-happening.#RonIffy
+At least, that's what's supposed to happen...
+
+But there are rare exceptions where the targets
+of \\C[10]Intervention \\C[0]learn what's happening.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -279,10 +279,10 @@ occasions?#Ron
 君の場合は、\\C[2]『知らなければいけなかった』\\C[0]んだ
 \\C[2]あの結末\\C[0]に至るために……
 > CONTEXT: Map471/events/1/pages/0/126/Dialogue/enemy27
-No \\N[1]-kun...
+No, \\N[1]-kun...
 
 In your case \\C[2]you had to know \\C[0]so that you could
-reach \\C[0]that conclusion\\C[0].
+reach \\C[0]that conclusion\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -521,7 +521,7 @@ wrong with it.#Ron
 > CONTEXT: Map471/events/1/pages/0/237/Dialogue/enemy27
 Either way, this is where my role ended. With the
 \\C[4]True Mercy \\C[0]timeline having been made the official
-one, I have no further reason to \\C[10]intervene\\C[0].
+one, I have no further reason to \\C[10]intervene\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -664,9 +664,10 @@ for a very long time was already a step ahead.#RonIffyWording
 \\C[10]『その可能性』\\C[0]に目を付けたのが
 アバドーンと、\\C[10]それを従える者……
 > CONTEXT: Map471/events/1/pages/0/313/Dialogue/enemy27
-In contrast to Hyakki was Abaddon and \\C[10]those who
-obey "that" \\C[0]who had a keen interest in \\C[10]that
-possibility\\C[0]...
+In contrast to Hyakki...
+
+Abaddon and \\C[10]those who obey "that" \\C[0]had a keen
+interest in \\C[10]a certain possibility\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -675,8 +676,8 @@ possibility\\C[0]...
 だから、僕も\\C[10]『その可能性』\\C[0]を潰すことが出来なかった…
 > CONTEXT: Map471/events/1/pages/0/318/Dialogue/enemy27
 They had already started moving before I could
-act. Which is why even I wasn't able to suppress
-\\C[10]that\\C[0].#Ron
+act... Which is why even I wasn't able to suppress
+\\C[10]them\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -744,8 +745,8 @@ was both it, and yet not it.#Ron
 > CONTEXT: Map471/events/1/pages/0/351/Dialogue/enemy27
 \\C[10]It's an evil deity that has no name.\\C[0]
 
-An entity that has styled itself as \\C[10]"Old One"\\C[0] in
-reference to the Cthulhu mythos.#Ron
+It's an entity that calls itself \\C[10]"Old One"\\C[0]
+as a reference to myths and legends of Cthulhu.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -817,9 +818,9 @@ take advantage of.#Ron
 
 キミの『器』に入るタイミングを、虎視眈々とね。
 > CONTEXT: Map471/events/1/pages/0/387/Dialogue/sirousagi_fc1
-That Old One has had you in its sights for a
-very long time and it's been vigilantly waiting
-for just the right time to enter your body.#Ron
+The \\C[10]Old One \\C[0]has had you in its sights for a
+very long time. It's been vigilantly waiting for
+just the right time to enter your body.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -870,12 +871,12 @@ path that would "awaken" \\N[1]-kun.#Ron
 
 \\C[0]常識で考えたら、そんな道筋選ばないって思うでしょ？
 > CONTEXT: Map471/events/1/pages/0/413/Dialogue/sirousagi_fc1
-Specifically, that path was to unnecessarily kill
-the demons he met out of spite so that he would
-swell with magic power.
+Specifically, \\C[10]that path was to slaughter
+the demons he met out of malice so that he would
+swell with magic power.\\C[0]
 
-\\C[0]You may be thinking that's not a path someone
-would rationally choose...
+Normally, you would think that's a path someone
+wouldn't choose...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -884,8 +885,10 @@ would rationally choose...
 マッドハッターが思った以上に、その『常識で考える』事を
 無視した『介入者』も多かったんだ……
 > CONTEXT: Map471/events/1/pages/0/418/Dialogue/sirousagi_fc1
-But Mad Hatter underestimated how many
-Interveners exist that disregard common sense.#Ron
+But...
+
+Mad Hatter underestimated how many Interveners
+exists who would follow a path like that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -981,10 +984,10 @@ to do it. \\C[0]That was a promise she kept.#Ron
 きっと、心優しいキミを知っているからこそ
 最後の最後まで、踏みとどまるのを信じたかったんだね。
 > CONTEXT: Map471/events/1/pages/0/467/Dialogue/sirousagi_fc1
-Though she did wait until the last minute to do
-it. I'm sure that was because she knew how kind
-you were, she waited until the last possible
-moment, believing that you would stop before then.#Ron
+I'm sure she waited until the last possible
+moment to do it. She knew how kind you were.
+She waited till there was no going back,
+believing that you'd stop your rampage.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1100,10 +1103,10 @@ everything.#RonIffy
 ここからが、キミたちの世界が危機に陥る
 \\C[2]『アバドーンの目的』\\C[0]の話に繋がってくる……
 > CONTEXT: Map471/events/1/pages/0/528/Dialogue/enemy27
-I'll go back a bit. What I'm about to tell you
-is connected to the \\C[2]Old One's objectives\\C[0], which
-is what is plunging your own worlds in such
-danger.#RonIffyWording
+Let's go back a bit.
+
+Let's tell the reason of why Abaddon is here,
+which is plunging all of your worlds in danger...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1122,15 +1125,16 @@ the world was stable for the time being.#Ron
 独立したはずの\\C[10]虐殺の世界線\\C[0]と\\C[4]正史\\C[0]は
 どうしても切れない\\C[2]『つながり』\\C[0]があった
 > CONTEXT: Map471/events/1/pages/0/541/Dialogue/enemy27
-But annoyingly, the isolated \\C[10]Genocide \\C[0]timeline
-and the \\C[4]official \\C[0]timeline had a \\C[2]connection \\C[0]that
-I was utterly unable to sever.#Ron
+But unfortunately...
+The isolated \\C[10]"Genocide" \\C[0]timeline and the
+\\C[4]official \\C[0]one had a \\C[2]connection \\C[0]I was
+utterly unable to sever.#Ron
 > END STRING
 
 > BEGIN STRING
 どうしても切れない\\C[2]『つながり』\\C[0]……？
 > CONTEXT: Map471/events/1/pages/0/546/Dialogue/kazuya
-A \\C[2]connection \\C[0]you couldn't sever?#Ron
+A \\C[2]connection \\C[0]you couldn't sever...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1170,9 +1174,9 @@ that same process to connect to you.#Ron
 
 独立した世界線からのアプローチなんて、たかが知れてる。
 > CONTEXT: Map471/events/1/pages/0/564/Dialogue/enemy27
-But the access rights to Intervention are
-different, and it didn't have that much
-influence. Trying to act from its isolated
+But it didn't really have rights to access
+Intervention, and it didn't have enough influence
+on you. Trying to meddle from it's isolated
 timeline didn't amount to much.#RonIffy
 > END STRING
 
@@ -1247,12 +1251,14 @@ it wished to bring about\\C[0].#Ron
 
 奴が\\C[10]『介入者』\\C[0]を煽るための道具は、いくらでもある
 > CONTEXT: Map471/events/1/pages/0/598/Dialogue/enemy27
-Curiosity...
-Sadistic desires...
-Disgust at demonkind...
+Curiosity at what might happen...
+The urge to inflict pain on others...
+Hatred of demons, and demonkind...
 
-It used these and countless other tools to incite
-the \\C[10]Intervener\\C[0].#Ron
+It used these thoughts and countless others...
+To instigate...
+To tempt...
+To incite the \\C[10]Interveners\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1262,7 +1268,8 @@ the \\C[10]Intervener\\C[0].#Ron
 > CONTEXT: Map471/events/1/pages/0/603/Dialogue/enemy27
 And then the thing I feared most happened...
 
-One by one, the \\C[10]Interveners \\C[0]became its pawns.#Ron
+One by one, the \\C[10]Interveners \\C[0]became its
+minions.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1402,7 +1409,7 @@ cause a \\C[10]degeneration \\C[0]of her nature.#Ron
 that point forward, all possibility of her and
 \\N[1]-kun understanding one another would be
 lost forever.
-This change meaning that the conditions for
+This change meant that the conditions for
 achieving \\C[4]True Mercy \\C[0]were ruined at their very
 foundations.#Ron
 > END STRING
@@ -1538,9 +1545,9 @@ No one expects to have the Intervention target
 they're in charge of reach this kind of
 singularity.
 
-It's like just when you think you've finished
-filling a bunch of holes, a bunch more just open
-up on their own.#RonIffy
+It's like plugging a few small holes in a
+leaking dam, just to have many more burst
+open on their own.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1585,9 +1592,9 @@ even worse.#Ron
 
 そう……\\C[2]僕にだ。
 > CONTEXT: Map471/events/1/pages/0/762/Dialogue/enemy27
-Abaddon had detected the manifestation of my
-\\C[10]Intervention medium\\C[0], and decided to change
-targets... \\C[2]to me.#Ron
+Abaddon had detected me manifesting
+as the \\C[10]Intervention Medium\\C[0], and decided to
+change targets... \\C[2]to me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1599,7 +1606,7 @@ targets... \\C[2]to me.#Ron
 The plan was \\C[2]to consume me and fuse with my
 Intervention abilities\\C[0]. Doing so would provide
 Abaddon with the authority to intervene in the
-True Mercy of the official timeline.
+official timeline, True Mercy.
 From there, \\C[10]he could make wholesale changes as
 he pleased.#Ron
 > END STRING
@@ -1613,7 +1620,7 @@ he pleased.#Ron
 Hold on, hold on! Don't just breeze over that!
 
 \\C[10]Make wholesale changes\\C[10]?! The stakes suddenly
-got a whole lot higher!!#Ron
+got a whole lot bigger!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1622,9 +1629,10 @@ got a whole lot higher!!#Ron
 しかも、マッドハッターの\\C[10]『介入媒体』\\C[0]は
 アバドーンが持ってる半端なものとはワケが違う。
 > CONTEXT: Map471/events/1/pages/0/777/Dialogue/sirousagi_fc1
-That's what we've been saying. Even worse, the
-\\C[10]Intervention medium \\C[0]Mad Hatter has is different
-to the half-baked one Abaddon has.#Ron
+That's what we've been saying...  Even worse
+is that Mad Hatter, the \\C[10]Intervention
+Medium,\\C[0] is different then the half-baked
+one Abaddon has.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1681,7 +1689,7 @@ W-What do you mean?!#Ron
 
 \\C[2]実体を持たないが故に、アバドーンを介さないと力を出せない
 > CONTEXT: Map471/events/1/pages/0/808/Dialogue/enemy27
-As I said before, the One One doesn't truly have
+As I said before, the Old One doesn't truly have
 a true name or form, \\C[2]it's a being that's closer
 to a liquid\\C[0]. Because of that, it relies on using
 Abaddon as an intermediary to exercise its power.#Ron
@@ -1921,7 +1929,7 @@ devours worlds.#Ron
 その場しのぎではない、根本的な解決だ。
 > CONTEXT: Map471/events/1/pages/0/924/Dialogue/alice_fc5
 So if we have some kind of countermeasure against
-that phenomenon, can we stop the world from
+that phenomenon, can we stop worlds from
 collapsing? Not as a stopgap measure, but as a
 full and proper resolution.#Ron
 > END STRING
@@ -1990,7 +1998,7 @@ Luka-kun has witnessed that himself once before.#RonLocalization
 \\C[10]『カオス崩壊』\\C[0]って、まさか……！！！
 > CONTEXT: Map471/events/1/pages/0/956/Dialogue/ruka_fc1
 S-So that really was one of those \\C[10]"Chaos
-Collapse"\\C[0] events...?!!
+Collapse"\\C[0] events...?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2111,9 +2119,10 @@ not them, but you.#Ron
 みんな出された紅茶は飲み干しちゃったみたいだし
 少し場所を変えて、話を続けよう。
 > CONTEXT: Map471/events/1/pages/0/1012/Dialogue/enemy27
-I see, it appears everyone has finished the tea
-I put out. Why don't we change locations and
-continue our conversation there.#Ron
+I see......
+It appears everyone finished the tea I put out. 
+Why don't we change locations and continue our
+conversation there.#Ron
 > END STRING
 
 > BEGIN STRING

@@ -64,9 +64,10 @@ upstairs just a moment ago.#Ron
 \\C[2]それに加えて、この魔力の量……
 どう考えても、まだ天使の魔力が残っています……
 > CONTEXT: Map476/events/5/pages/0/29/Dialogue/yuuma
-Yes, very weird. \\C[2]And the level of magic power
-is also unusual. No matter how you look at it,
-some of the angelic magic is still there.#RonIffyWording
+Yes, it's very weird.
+On top of that, just look at his level of magical
+power... No matter how you look at it, some of
+the angelic magic is still there...#RonIffyWording
 > END STRING
 
 > BEGIN STRING

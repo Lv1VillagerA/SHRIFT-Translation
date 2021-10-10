@@ -14,7 +14,7 @@ A-Are these holes... made by Abaddon?!#Ron
 > CONTEXT: Map473/events/1/pages/0/14/Dialogue/sirousagi_fc1
 No way...
 
-This is our only safe area...#Ron
+This was our only safe area...#Ron
 > END STRING
 
 > BEGIN STRING
