@@ -3,8 +3,10 @@
 な、なによ……この結界……
 
 全然ビクともしないじゃない……
-> CONTEXT: Map479/events/1/pages/0/7/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/7/Dialogue/enemy39
+W-What's with this barrier?
 
+It hasn't even moved an inch...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,14 +14,17 @@
 この魔力量をぶつけてヒビ一つ入らないって………
 
 これ展開したヤツ、頭おかしいんじゃないの…！？
-> CONTEXT: Map479/events/1/pages/0/11/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/11/Dialogue/enemy39
+I know attack magic isn't normally my specialty,
+but I should've at least been able to put a crack
+in with how much magic I threw at it. Whoever set
+this barrier up must have a screw loose...!#Ron
 > END STRING
 
 > BEGIN STRING
 "EX4　ハイラミア"
-> CONTEXT: Map479/events/1/pages/0/17/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/17/InlineScript/2:1
+"EX4　High Lamia"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -27,16 +32,21 @@
 
 まさかあなたの方から来てくれるなんてね♪
 そんなにママが恋しかったかしら？♡
-> CONTEXT: Map479/events/1/pages/0/161/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/161/Dialogue/enemy39
+Oh my, \\N[1]-chan. ♡
 
+I didn't expect you to come out to meet me. ♪
+Did you miss your mommy that much? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ストップ！夜深ちゃん。
 
 変な対抗心燃やさないで…！
-> CONTEXT: Map479/events/1/pages/0/168/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/168/Dialogue/enemy38
+Stop, Yami-chan.
 
+Don't get into any weird contests with her!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -44,8 +54,11 @@
 
 \\C[2]あれから練習して、この力も制御できるようになったの
 普段は使わない攻撃魔法もね…
-> CONTEXT: Map479/events/1/pages/0/172/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/172/Dialogue/enemy39
+I was taken by surprise last time and had to
+retreat, \\C[2]but I've been practicing since then, and
+now I have much more control over my powers. So
+much so I can now do things I couldn't before\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -53,8 +66,11 @@
 
 \\C[2]今度は絶対メロメロになるようにしてあげたから
 逃げようなんて考える暇も無いわよ♡
-> CONTEXT: Map479/events/1/pages/0/177/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/177/Dialogue/enemy39
+Naturally, that means I've perfected "that" magic
+as well. \\C[2]This time I'll definitely make you fall
+so head-over-heels for me you won't even entertain
+the idea of running away\\C[0]. ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -62,16 +78,20 @@
 
 様子から見るに、貴様の攻撃魔法では
 この結界に傷一つ付けられぬようではないか。
-> CONTEXT: Map479/events/1/pages/0/183/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/183/Dialogue/alice_fc5
+Hmph, you're bluffing. It's obvious just by
+looking that your magic wasn't able to make even
+a scratch on this barrier.#Ron
 > END STRING
 
 > BEGIN STRING
 一方で、我らは結界の中に守られておる……
 
 貴様が圧倒的不利であるのは、明らかであろう？
-> CONTEXT: Map479/events/1/pages/0/188/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/188/Dialogue/alice_fc5
+Meanwhile, we're protected on the other side.
 
+It's obvious you're at a huge disadvantage here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -79,16 +99,20 @@
 
 私がこうやって爆音を立てたのは
 『あなたたちを外に出すため』だって考えなかったの？
-> CONTEXT: Map479/events/1/pages/0/193/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/193/Dialogue/enemy39
+Ufufu... is that what you think?
 
+Did you not think that the large noise I made was
+actually to draw you out?#Ron
 > END STRING
 
 > BEGIN STRING
 確かに結界の頑丈さには驚いたけど………
 
 こうしてしまえば、関係ないのよ……♡
-> CONTEXT: Map479/events/1/pages/0/198/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/198/Dialogue/enemy39
+Though it's true this barrier is surprisingly
+sturdy, that doesn't matter if this happens... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -96,8 +120,11 @@
 
 アバドーンは
 \\C[4]『正史』\\C[0]に手を出せないはずなのに…！
-> CONTEXT: Map479/events/1/pages/0/260/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/260/Dialogue/other8
+H-How...?!!
 
+Abaddon shouldn't be able to meddle with the
+\\C[4]official timeline\\C[0]!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -105,8 +132,11 @@
 
 \\C[2]本当にあなたの\\C[10]『介入』\\C[2]の力が
 まったく喰われずに済んだと思っているの？
-> CONTEXT: Map479/events/1/pages/0/280/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/280/Dialogue/enemy39
+Ufufu... you foolish disembodied cat head. ♡
+\\C[2]Did you really think that everything would be
+fine as long as not all of your \\C[10]Intervention\\C[0]
+power was consumed?\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -114,14 +144,17 @@
 判断力と知性が中途半端になったんじゃないかしら？
 
 \\C[0]人格がチェシャに戻ってるのが良い証拠よ♡
-> CONTEXT: Map479/events/1/pages/0/285/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/285/Dialogue/enemy39
+\\C[2]Your judgment and intellect have both been
+reduced since losing your body and the majority
+of yourself, have they not? \\C[0]The fact you've
+reverted to being Cheshire is proof of that. ♡
 > END STRING
 
 > BEGIN STRING
 そ、そんな……
-> CONTEXT: Map479/events/1/pages/0/290/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/290/Dialogue/other8
+N-No way...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -129,32 +162,42 @@
 
 空間が消えたせいで、結界の術式が無くなって
 \\C[2]どうやら結界が消えちゃったみたいねぇ？
-> CONTEXT: Map479/events/1/pages/0/293/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/293/Dialogue/enemy39
+Ahah, oh dear... ♡
 
+With that part of spacetime gone, \\C[2]the barrier
+protecting you has also disappeared\\C[0].
 > END STRING
 
 > BEGIN STRING
 目の前にかわいい男の子が３人も…♡
 
 ああ……誰のママになろうかしら…♡
-> CONTEXT: Map479/events/1/pages/0/298/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/298/Dialogue/enemy39
+And now I have three cute little boys right in
+front of me. ♡
 
+Aaah, I wonder whose mommy I should be...? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 誰のママにもならせんわ！！ショタ喰い蛇め！
 
 貴様はこのまま元の世界に強制送還だ！！
-> CONTEXT: Map479/events/1/pages/0/302/Dialogue/alice_fc6 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/302/Dialogue/alice_fc6
+You won't be anyone's mommy, you stupid
+shota-eating snake!! We're gonna kick you
+straight back to your own world!!#Ron
 > END STRING
 
 > BEGIN STRING
 だが、ヤツの魔法が強力なのは確かだ……
 
 \\C[2]特に例の幼児退行魔法は注意しろ…！！
-> CONTEXT: Map479/events/1/pages/0/306/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/306/Dialogue/enemy35
+However, it is true that her magic has grown in
+strength. \\C[2]You need to be especially careful of
+her age regression magic!!#Ron
 > END STRING
 
 > BEGIN STRING

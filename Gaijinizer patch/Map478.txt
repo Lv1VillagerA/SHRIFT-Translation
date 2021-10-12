@@ -3,8 +3,10 @@
 なるほど……
 
 アバドーンが動き出したのには、そういう理由が……
-> CONTEXT: Map478/events/5/pages/0/8/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/8/Dialogue/yuuma
+I see...
 
+So that's what's made Abaddon start moving.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,8 +14,11 @@
 特に人間界に興味も無く、聞き流していましたが
 
 奇しくもこのように話が繋がるとは……
-> CONTEXT: Map478/events/5/pages/0/12/Dialogue/yuuma < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/12/Dialogue/yuuma
+Back in the Demon Realm when I heard about
+Abaddon, I didn't have much interest in the human
+realm so it went in one ear and out the other. But
+I didn't expect it would all connect like this.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -21,8 +26,10 @@
 随分と規模がデカい、ぶっ飛んだ話を持ってきたね。
 
 それを私たちに信じろっていうのかい？
-> CONTEXT: Map478/events/5/pages/0/18/Dialogue/enemy20 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/18/Dialogue/enemy20
+Hmph, \\C[10]Intervention\\C[0]? Parallel worlds?
+It's a pretty huge, insane story you've brought
+with you. Do you expect us to believe all that?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,22 +37,28 @@
 
 ……はぁ、まさか『ゲスト』の皆だけでなく
 悪魔の彼女たちにも、この説明をしなきゃいけないなんて…
-> CONTEXT: Map478/events/5/pages/0/24/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/24/Dialogue/other8
+Whether you believe it or not, it's all true.
 
+Haah, to think I'd have to explain this to not
+just the guests, but to you demon girls as well.#Ron
 > END STRING
 
 > BEGIN STRING
 でもこれで、一通りの説明は終えたはず……
 
 ここに来た経緯、納得してもらえた…？
-> CONTEXT: Map478/events/5/pages/0/29/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/29/Dialogue/other8
+But that should about do it for the explanation.
 
+Has that convinced you about the events leading
+to us coming here?#RonIffy
 > END STRING
 
 > BEGIN STRING
 ﾋｴｯ…
-> CONTEXT: Map478/events/5/pages/0/35/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/35/Dialogue/other8
+Hii...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -53,24 +66,32 @@
 
 \\C[2]なんで\\N[1]は、天使の魔力を持ってるの？
 \\C[0]確か脱出直後に、レイナさんに返したはずじゃ…
-> CONTEXT: Map478/events/5/pages/0/38/Dialogue/enemy19 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/38/Dialogue/enemy19
+You didn't even mention the most important thing.
+\\C[2]Why does \\N[1] have angel magic in him?
+\\C[0]Didn't he give it back to Reina directly after
+he escaped?
 > END STRING
 
 > BEGIN STRING
 っていうか、もっと言うなら
 
 \\C[2]サマエルになって、木っ端微塵になったんじゃ…
-> CONTEXT: Map478/events/5/pages/0/43/Dialogue/enemy19 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/43/Dialogue/enemy19
+And more to the point...
 
+\\C[2]Wasn't it smashed to smithereens when she turned
+into Samael?#Ron
 > END STRING
 
 > BEGIN STRING
 あ！それ、僕も気になってたんだ……
 
 そういえば、まだ聞いてなかったな……
-> CONTEXT: Map478/events/5/pages/0/47/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/47/Dialogue/kazuya
+Ah! I've been wondering about that, too...
 
+I don't think I asked you about that...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -78,8 +99,10 @@
 \\C[4]『正史』\\C[0]以外の並行世界に手を出して
 
 改変を始めた…って話はさっきしたよね？
-> CONTEXT: Map478/events/5/pages/0/52/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/52/Dialogue/other8
+I'd told you before about how the Old One and
+Abaddon had started interfering with the other
+parallel worlds, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -87,8 +110,13 @@
 妖精の女王やら、魔王クラスの凶鳥やら、強敵ばかり……
 
 『魔力を失った\\N[1]くん』には手に余る……
-> CONTEXT: Map478/events/5/pages/0/57/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/57/Dialogue/other8
+But as a result of that interference, \\C[2]one powerful
+enemy after another appeared, such as the Fairy
+Queen and that vicious, Demon King-class bird...
 
+These enemies would be too much for
+\\N[1]-kun to handle without magic...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -96,16 +124,21 @@
 データを使って、\\C[2]『脱出直前のカズヤくん』\\C[0]を生成した
 
 いわゆる\\C[10]『アバター』\\C[0]ってやつ？
-> CONTEXT: Map478/events/5/pages/0/62/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/62/Dialogue/other8
+So I took what data I had left on the \\C[10]Intervener
+through my Medium\\C[0], and used it to create
+\\C[2]Kazuya-kun just before his escape from the city\\C[0].
+One of those so-called \\C[10]Avatars\\C[0] things.#Ron
 > END STRING
 
 > BEGIN STRING
 僕は当初、このデータを\\C[10]『介入者』\\C[0]に操ってもらい
 
 ＥＸステージという形で、問題を処理しよう思ったんだ…
-> CONTEXT: Map478/events/5/pages/0/67/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/67/Dialogue/other8
+Originally, I had thought to deal with the problem
+by having the \\C[10]Intervener \\C[0]handle the data for me
+in the form of "EX Stages"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -113,8 +146,10 @@
 
 ただのデータでは、\\C[2]悪魔たちと心を通わせられない…
 『キズナ』で問題を乗り越えられなかった\\C[0]んだ……
-> CONTEXT: Map478/events/5/pages/0/71/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/71/Dialogue/other8
+But that didn't work... \\C[2]data alone wasn't enough
+to establish a bond with the demons, the problem
+couldn't be overcome with "bonds"\\C[0]...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -122,8 +157,11 @@
 
 \\C[2]真慈悲後の\\N[1]くんに、意識を肩代わりしてもらって
 マイルームを介入者と共有できるようにしたんだ。
-> CONTEXT: Map478/events/5/pages/0/80/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/80/Dialogue/other8
+And so, this is a little complicated, but I had
+\\C[2]the True Mercy \\N[1]-kun take over the
+avatar's consciousness and made it so he would
+share My Room with the Intervener\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -131,8 +169,11 @@
 各悪魔とのキズナ自体は存在しているからね……
 
 リンクさせるのは、そう難しいことじゃなかったよ。
-> CONTEXT: Map478/events/5/pages/0/85/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/85/Dialogue/other8
+Though he had lost the means to go to My Room,
+the connections to each demon were still there...
 
+So establishing a link wasn't all that difficult.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -140,8 +181,11 @@
 \\N[1]くん本人には、夢の出来事として処理する…
 
 そのはずだったんだけど………
-> CONTEXT: Map478/events/5/pages/0/90/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/90/Dialogue/other8
+And to avoid throwing his consciousness into
+turmoil, I had the real \\N[1]-kun handle
+all this in a dream. Or at least, that's what was
+supposed to happen...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -149,16 +193,21 @@
 
 寝ていたはずの\\N[1]が
 急に玄関から現れるワケだわ……
-> CONTEXT: Map478/events/5/pages/0/95/Dialogue/enemy19 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/95/Dialogue/enemy19
+Now I get it... So that's why suddenly he turned
+up on the doorstep when we thought he was sound
+asleep in his room.#Ron
 > END STRING
 
 > BEGIN STRING
 じゃあ、もしかして……
 
 \\C[2]二階には、本来の\\N[1]の身体が寝たきりなの…？
-> CONTEXT: Map478/events/5/pages/0/100/Dialogue/enemy19 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/100/Dialogue/enemy19
+So, does that mean...
 
+The real \\N[1] is upstairs in some kind of
+comatose state?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -166,8 +215,11 @@
 僕が一時的に別次元に隔離してある。
 
 \\C[0]僕の『シュレティンガー能力』の応用さ
-> CONTEXT: Map478/events/5/pages/0/104/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/104/Dialogue/other8
+No, \\C[2]a duplicate of an individual can't exist in
+the same space as the original. Which is why I
+temporarily sequestered him in another dimension
+\\C[0]using my Schrödinger ability.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -175,8 +227,11 @@
 寝ている本人の身に何かあったら、それでアウトだからね。
 
 ぬかりはないよ。
-> CONTEXT: Map478/events/5/pages/0/109/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/109/Dialogue/other8
+That's because if something happens to the one
+sleeping then we're in real trouble, even if the
+\\N[1]-kun here is safe. Don't worry, I'll
+make sure nothing happens to him.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -184,16 +239,20 @@
 \\C[2]『天使の魔力』ってのは、確か厄介なモノなんだろう？
 
 \\C[0]それがあの女に返した理由でもあるんだし……
-> CONTEXT: Map478/events/5/pages/0/118/Dialogue/enemy20 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/118/Dialogue/enemy20
+But is this really okay? \\C[2]Wasn't that angel magic
+more trouble than it was worth\\C[0]? There was a
+reason he handed it back to that woman.#Ron
 > END STRING
 
 > BEGIN STRING
 もし何か間違いがあって、
 
 \\N[1]の魔力が暴走するようなことがあれば…
-> CONTEXT: Map478/events/5/pages/0/123/Dialogue/enemy20 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/123/Dialogue/enemy20
+If there's some miscalculation on your part and
+the magic inside him ends up going out of
+control...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -201,30 +260,38 @@
 
 今回はヤツの\\C[10]『可能性の選択肢』\\C[0]は全て潰してある
 \\C[4]正史\\C[0]であるこの世界の意識を選んだのも、そこが理由さ。
-> CONTEXT: Map478/events/5/pages/0/127/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/127/Dialogue/other8
+That also won't be a problem. I've eliminated all
+\\C[10]decision possibilities \\C[0]this time. That's why I
+choose to use the consciousness from the \\C[4]official
+timeline\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 少なくとも、\\C[10]介入者の選択肢\\C[0]によって
 
 アイツらの思い通りになる…って事は無いはずだよ。
-> CONTEXT: Map478/events/5/pages/0/132/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/132/Dialogue/other8
+At the very least, that means it shouldn't be
+possible for the \\C[10]Intervener's decisions \\C[0]to lead
+him down the path of doing the bidding of those
+two.#Ron
 > END STRING
 
 > BEGIN STRING
 『精神』は僕だけど、『身体』はアバター体……
 
 なるほど、だから\\C[2]カプセルがエラーを起こしたのか…
-> CONTEXT: Map478/events/5/pages/0/137/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/137/Dialogue/kazuya
+So this mind is my own, but this body is an
+avatar's... \\C[2]So that's why there was an error
+when I first tried to use the capsule\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 ………来た。
-> CONTEXT: Map478/events/5/pages/0/145/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/145/Dialogue/sirousagi_fc1
+...They're here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -232,56 +299,74 @@
 
 どうやら、またお客様のようですね。
 \\C[2]今度は、招かれざる意味の方で……
-> CONTEXT: Map478/events/5/pages/0/147/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/147/Dialogue/yuuma
+......
 
+It would seem we have another visitor.
+\\C[2]Though not a welcome one this time...#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんだ！？今の爆発音は……
 
 敵襲か！！
-> CONTEXT: Map478/events/5/pages/0/183/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/183/Dialogue/alice_fc5
+W-What was that exploding noise?!
 
+Are we under attack?!!#Ron
 > END STRING
 
 > BEGIN STRING
 どうやら私の結界に、誰かが攻撃を仕掛けたようですね。
 
 ご安心を、まだ破られていませんよ。
-> CONTEXT: Map478/events/5/pages/0/187/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/187/Dialogue/yuuma
+It seems we have someone attacking my barrier.
 
+Please do not worry, they have yet to break
+through.#Ron
 > END STRING
 
 > BEGIN STRING
 ですが……この調子では、破られるのは時間の問題ですね。
 
 今のうちに、私が対応致しましょう。
-> CONTEXT: Map478/events/5/pages/0/191/Dialogue/yuuma < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/191/Dialogue/yuuma
+However, at this rate it will only be a matter
+of time. Allow me to deal with it before that
+happens.#Ron
 > END STRING
 
 > BEGIN STRING
 や、破られるって……
 
 一体どれくらい保ちそうなの…！？
-> CONTEXT: Map478/events/5/pages/0/195/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/195/Dialogue/ruka_fc1
+B-Break through...
 
+Just how much more can it take?!#Ron
 > END STRING
 
 > BEGIN STRING
 そうですね……
 
 この調子なら、せいぜい丸三日といったところでしょうか
-> CONTEXT: Map478/events/5/pages/0/199/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/199/Dialogue/yuuma
+Let's see...
 
+It should last maybe another three whole days at
+the current rate.#Ron
 > END STRING
 
 > BEGIN STRING
 でも、ヤツの目的はボクたちだ。
 
 打って出るなら、ボクたちが行くべきだろう。
-> CONTEXT: Map478/events/5/pages/0/206/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/206/Dialogue/sirousagi_fc1
+But it's us they want.
 
+So if anyone should be going out there to deal
+with them, it should be us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -289,8 +374,10 @@
 \\C[2]ボクたちが相手をしているのが、次元を越える相手だって事\\C[0]
 
 ゲストでない彼女たちを巻き込むのは、得策ではないよ。
-> CONTEXT: Map478/events/5/pages/0/210/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map478/events/5/pages/0/210/Dialogue/sirousagi_fc1
+We shouldn't forget that \\C[2]our opponents can
+cross dimensions\\C[0]. It's a bad idea to get
+non-guests involved in all this.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -298,30 +385,41 @@
 お茶会の『ゲスト』を選んだわけじゃない。
 
 ちゃんとした理由があるんだ。
-> CONTEXT: Map478/events/5/pages/0/215/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/215/Dialogue/other8
+That's right... I didn't choose who would be a
+guest of the Tea Party based on their power.
 
+There were other, more important reasons.#Ron
 > END STRING
 
 > BEGIN STRING
 だから、アバドーンの刺客はボクたちで片付ける……
 
 それでいいね？\\N[1]くん。
-> CONTEXT: Map478/events/5/pages/0/220/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/220/Dialogue/other8
+That's why we should be the ones to deal with
+Abaddon's assassins.
 
+That's fine with you, isn't it \\N[1]-kun?#Ron
 > END STRING
 
 > BEGIN STRING
 ああ…もちろんだ！
 
 アバドーンの刺客を撃退するぞ……！
-> CONTEXT: Map478/events/5/pages/0/224/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/224/Dialogue/kazuya
+Yeah, of course!
 
+Let's drive off Abaddon's assassin!#Ron
 > END STRING
 
 > BEGIN STRING
 もとより、これ以上厄介になるつもりは無いわ
 
 行きましょう！
-> CONTEXT: Map478/events/5/pages/0/228/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map478/events/5/pages/0/228/Dialogue/enemy38
+Of course, we have no intention of causing any
+more hassle than we already have.
 
+Let's go!#Ron
 > END STRING

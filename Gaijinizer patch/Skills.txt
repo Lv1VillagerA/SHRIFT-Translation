@@ -10164,8 +10164,9 @@ Weapon Swap#Ron
 > BEGIN STRING
 \\C[13]【属性】物理　\\C[14]【威力】中×２
 \\C[0]特性：\\C[24]必中攻撃
-> CONTEXT: Skills/891/description < UNTRANSLATED
-
+> CONTEXT: Skills/891/description
+\\\>\\C[13]Type: Physical　\\C[14]Power: Medium x2
+\\\>\\C[0]Characteristic: \\C[24]Guaranteed to hit.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10178,9 +10179,10 @@ Musket#Ron
 > BEGIN STRING
 \\C[13]【属性】火　\\C[14]【威力】大×１
 \\C[0]特性：\\C[24]次ターン開始時、自身のＨＰ２０％回復
-> CONTEXT: Skills/892/description < UNTRANSLATED
-> CONTEXT: Skills/947/description < UNTRANSLATED
-
+> CONTEXT: Skills/892/description
+> CONTEXT: Skills/947/description
+\\C[13]Type: Fire　\\C[14]Power: High x1
+\\C[0]Characteristic: \\C[24]Marion will recover 20% HP next turn.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10764,7 +10766,8 @@ Luka's SP recovery each turn has increased!#Ron
 ３ターンの間、ＳＰ回復量が＋１
 \\C[2]ターンを消費しない。\\C[30]【裏練気】とは効果が重複しない。
 > CONTEXT: Skills/922/description < UNTRANSLATED
-
+Recovers one SP each turn for three turns.
+\\C[2]Doesn't use a turn. \\C[30]Doesn't stack with Shadow-Honed Energy.
 > END STRING
 
 > BEGIN STRING
@@ -11016,14 +11019,15 @@ Staunch Attack Decree#RonIffyWording
 > BEGIN STRING
 戦闘時に気力１００ptを、ＳＰ＋１として変換し
 勇者技や特技、スキルを使用できる。
-> CONTEXT: Skills/935/description < UNTRANSLATED
-
+> CONTEXT: Skills/935/description
+Converts 100 Vitality to 1 SP during battle to use for
+his hero skills and other abilities.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 技巧変換
-> CONTEXT: Skills/935/name < UNTRANSLATED
-
+> CONTEXT: Skills/935/name
+Technique Conversion#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11144,8 +11148,9 @@ Staunch Attack Decree#RonIffyWording
 > BEGIN STRING
 \\C[13]【属性】物理　\\C[14]【威力】中×３
 \\C[0]特性：\\C[24]必中攻撃
-> CONTEXT: Skills/945/description < UNTRANSLATED
-
+> CONTEXT: Skills/945/description
+\\C[13]Type: Physical　\\C[14]Power: Medium x3
+\\C[0]Characteristic: \\C[24]Guaranteed to hit.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11157,8 +11162,9 @@ Staunch Attack Decree#RonIffyWording
 > BEGIN STRING
 \\\>\\C[13]【属性】物理　\\C[14]【威力】小×5
 \\\>\\C[0]特性：\\C[24]次ターン、ルカより先に行動できる
-> CONTEXT: Skills/946/description < UNTRANSLATED
-
+> CONTEXT: Skills/946/description
+\\C[13]Type: Physical　\\C[14]Power: Low x5
+\\C[0]Characteristic: \\C[24]Will act before Luka next turn.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11182,8 +11188,9 @@ Flintlock#Ron
 > BEGIN STRING
 \\\>\\C[13]【属性】物理　\\C[14]【威力】大×１
 \\\>\\C[0]特性：\\C[24]装備中、被ダメージが半減。
-> CONTEXT: Skills/948/description < UNTRANSLATED
-
+> CONTEXT: Skills/948/description
+\\C[13]Type: Physical　\\C[14]Power: High x1
+\\C[0]Characteristic: \\C[24]Halves damage taken while equipped.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11201,8 +11208,9 @@ Cannon#Ron
 > BEGIN STRING
 \\\>\\C[13]【属性】無　\\C[14]【威力】大×２
 \\\>\\C[0]特性：\\C[24]装備中、被ダメージ増加
-> CONTEXT: Skills/949/description < UNTRANSLATED
-
+> CONTEXT: Skills/949/description
+\\C[13]Type: Null　\\C[14]Power: High x2
+\\C[0]Characteristic: \\C[24]Increases damage taken while equipped.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11220,8 +11228,9 @@ Hand Grenade#Ron
 > BEGIN STRING
 \\\>\\C[13]【属性】無　\\C[14]【威力】特大×３
 \\\>\\C[2]武器切り替えを一定回数行う事で使用可能になる。
-> CONTEXT: Skills/950/description < UNTRANSLATED
-
+> CONTEXT: Skills/950/description
+\\C[13]Type: Null　\\C[14]Power: Very High x3
+\\C[2]Can only equip after swapping a fixed number of times.#Ron
 > END STRING
 
 > BEGIN STRING
