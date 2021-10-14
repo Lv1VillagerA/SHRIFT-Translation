@@ -775,8 +775,8 @@ of materializing itself.#RonIffy
 > CONTEXT: Map471/events/1/pages/0/363/Dialogue/enemy27
 In order for it to truly materialize, it must
 be feared and have \\C[10]religious faith \\C[0]to make
-sense of it. It also needs a \\C[10]vessel \\C[0]in which it
-can insert itself.#CheckLater
+sense of it. It also needs a \\C[10]vessel \\C[0] that
+it can take control of.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1093,8 +1093,8 @@ to quietly give up.#Ron
 
 全てを丸く収めるには……何もかも……
 > CONTEXT: Map471/events/1/pages/0/518/Dialogue/enemy27
-But... it was too late to completely resolve
-everything.#RonIffy
+But... it was too late to bring everything to
+such a neat conclusion.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1187,7 +1187,7 @@ timeline didn't amount to much.#RonIffy
 どれも、大して影響の出るような事象ではなかったよ。
 > CONTEXT: Map471/events/1/pages/0/568/Dialogue/enemy27
 Its power was restricted to \\C[2]whispering to your
-spirit, trying to shake your your beliefs and
+spirit, trying to shake your beliefs and
 induce you to go down a path different from that
 of the official timeline\\C[0].
 But that didn't have much of an effect in
@@ -1229,9 +1229,11 @@ What?!#Ron
 \\N[1]くんの精神の一部であることは確かだ。
 > CONTEXT: Map471/events/1/pages/0/588/Dialogue/enemy27
 If you step back and look at the bigger picture,
-no matter how tiny the possibility of using his
-body to manifest, it's true that the Old One is
-in a part of \\N[1]-kun's mind.#RonIffy
+there's a minuscule but present threat of
+it using \\N[1]-kun's body to manifest. But
+that's never been the real problem.
+The problem is that it remains latent in his
+mind, able to call out to anyone listening...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1278,7 +1280,7 @@ minions.#Ron
 \\C[0]だけど……実際はなんてことはない。
 \\C[10]『オールドワンの操り人形になっている』だけなのさ
 > CONTEXT: Map471/events/1/pages/0/607/Dialogue/enemy27
-\\C[2]The individuals were under the misapprehension
+\\C[2]The individuals were under the illusion
 that they were acting of their own will, \\C[0]but in
 reality they were merely \\C[10]the Old One's puppets\\C[0].#Ron
 > END STRING
@@ -1304,9 +1306,10 @@ deeds.#Ron
 
 なにもかも、遅すぎたというわけだな……
 > CONTEXT: Map471/events/1/pages/0/618/Dialogue/alice_fc5
-So the moment you were first unable to thwart the
-\\C[10]possibility of divergence \\C[0]as Abaddon took them
-as its pawns, it was too late...#RonIffy
+So the moment Abaddon seized the initiative and we
+couldn't crush the \\C[10]possibility of divergence\\C[0]...
+
+...It was far too late.#RonIffy
 > END STRING
 
 > BEGIN STRING

@@ -164,8 +164,8 @@ this voice for an occasion just like this one\\C[0].#Ron
 
 バチは当たらないんじゃないかなって…
 > CONTEXT: Map474/events/1/pages/0/145/Dialogue/other8
-So even if you let me use it a little more, I
-won't be penalized.#RonIffy
+So come on, it wouldn't kill you to let me use it
+just a little bit longer...#Ron
 > END STRING
 
 > BEGIN STRING

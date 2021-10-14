@@ -365,8 +365,9 @@ him.#RonIffyWording
 
 そんなこと、知ったことじゃないんだろうけどね……
 > CONTEXT: Map472/events/1/pages/0/279/Dialogue/enemy39
-He probably has no idea about the Old One or the
-bungling Interveners...#RonIffy
+The Old One and the compromised Interveners who
+messed up his life probably have no idea what's
+happened to him...#Ron/Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -386,8 +387,8 @@ This is getting a little confusing.#Ron
 
 合わせ鏡みたいなものだよ。
 > CONTEXT: Map472/events/1/pages/0/288/Dialogue/enemy39
-As I am a projection of the Intervention target
-that is \\N[1]-kun, I also have his form.
+I am a projection of my target, \\N[1]-kun,
+so I also have his form.
 
 I'm like a mirror image.#Ron
 > END STRING
