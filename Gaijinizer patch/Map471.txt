@@ -550,8 +550,9 @@ trouble keeping up?#RonLocalization
 というより、今絶賛それで頭を抱えてるっていうか……
 > CONTEXT: Map471/events/1/pages/0/254/Dialogue/ruka_fc1
 To be honest, this isn't the first time we've
-dealt with things like parallel worlds. It's more
-like I'm just trying to wrap my head around this.#CheckLater
+dealt with things like parallel worlds. I'm amazed
+he was able to explain it so well... it's
+certainly hard to wrap your head around.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1855,7 +1856,7 @@ its plans.#Ron
 The same goes for the "Kazuya-kun" who came to
 our world. It apparently planned on using a
 version of \\N[1]-kun lost in another world to
-steadily devour our world.#RonIffy
+steadily devour our own world.#RonIffy
 > END STRING
 
 > BEGIN STRING
