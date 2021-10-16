@@ -1,24 +1,28 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 こ、ここは……
-> CONTEXT: Map482/events/11/pages/0/10/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map482/events/11/pages/0/10/Dialogue/kazuya
+W-Where are we?#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]多元宇宙を可視化した空間\\C[0]……
 
 とでも言えばいいんだっけ？これ。
-> CONTEXT: Map482/events/11/pages/0/13/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/13/Dialogue/sirousagi_fc1
+We're in a \\C[2]visualized multiverse space\\C[0]...#Ron
 
+That's what this is called, isn't it?#Ron
 > END STRING
 
 > BEGIN STRING
 う、うん………
 
 アバドーンと『戦う』ための唯一の手段だよ……
-> CONTEXT: Map482/events/11/pages/0/17/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/17/Dialogue/other8
+Y-Yeah...
 
+The only method we have of "fighting" Abaddon...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -26,8 +30,12 @@
 悪魔ですらその認識は直感的で曖昧なものなんだ。
 
 だけど、それじゃあアバドーンを捕捉することは出来ない。
-> CONTEXT: Map482/events/11/pages/0/21/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map482/events/11/pages/0/21/Dialogue/other8
+If I said it's a parallel world of a parallel
+world, even demons would have a hard time
+envisioning it in their heads on an intuitive
+level...
+But that means Abaddon won't be able to seize it.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -35,8 +43,10 @@
 
 \\C[2]人間でもその世界が並んでる空間を可視化できるように
 一時的に道筋を固着化してもらったんだ……
-> CONTEXT: Map482/events/11/pages/0/26/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map482/events/11/pages/0/26/Dialogue/other8
+I had Lucifer use his powers to \\C[2]temporarily
+solidify a pathway so that even a human could
+visualize the space where those worlds line up.#TheFuck
 > END STRING
 
 > BEGIN STRING
@@ -44,8 +54,10 @@
 
 よくこういう空間は\\C[2]『宇宙』\\C[0]に例えられるように
 道筋といっても一筋縄ではいかないからね。
-> CONTEXT: Map482/events/11/pages/0/32/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map482/events/11/pages/0/32/Dialogue/enemy35
+Oh dear. Though you're right in likening it to a
+pathway in \\C[2]outer space\\C[0], this wasn't
+straightforward to set up at all.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -53,24 +65,33 @@
 
 アバドーンに人間たちが生身で挑むなんて興味深いイベント
 見逃すのも勿体ないと思ってね。
-> CONTEXT: Map482/events/11/pages/0/37/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map482/events/11/pages/0/37/Dialogue/enemy34
+I normally wouldn't accept this kind of bothersome
+request, but hearing that some humans would be
+putting their bodies on the line to challenge
+Abaddon got me very interested.
+So I thought it would be an absolute waste to
+pass up this opportunity..#Ron
 > END STRING
 
 > BEGIN STRING
 ……？
 
 は、はぁ……
-> CONTEXT: Map482/events/11/pages/0/50/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/50/Dialogue/ruka_fc1
+...?
 
+H-Huh?#Ron
 > END STRING
 
 > BEGIN STRING
 …………どうしたの、チェシャ？
 
 さっきからみるみる元気がなくなってるけど
-> CONTEXT: Map482/events/11/pages/0/59/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/59/Dialogue/sirousagi_fc1
+What's wrong, Cheshire?
 
+You don't have the same spunk you had before.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -78,16 +99,22 @@
 あの世界は無くなってしまった……
 
 \\C[10]介入\\C[0]の力も……
-> CONTEXT: Map482/events/11/pages/0/64/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/64/Dialogue/other8
+The... The \\C[4]official timeline \\C[0]world has been lost
+because I jumped us to it...
 
+Along with my \\C[10]Intervention \\C[0]power...#Ron
 > END STRING
 
 > BEGIN STRING
 そういえば、先ほど\\C[10]介入の力を奪われていた\\C[0]と……
 
 具体的には、どれほど奪われていたのだ…？
-> CONTEXT: Map482/events/11/pages/0/69/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/69/Dialogue/enemy35
+Speaking of which, you mentioned before that
+you'd had your \\C[10]Intervention power stolen\\C[0]...
 
+Just how much was taken, exactly?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -95,8 +122,11 @@
 
 \\C[2]基本的な機能は問題ないけど
 巧みに『権限』部分を抜き取られていた……
-> CONTEXT: Map482/events/11/pages/0/73/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/73/Dialogue/other8
+I tried doing a full check earlier...
 
+My main functions are still working fine, but my
+"authority" was skillfully extracted out of me...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -104,16 +134,21 @@
 わざと\\C[10]介入媒体の機能\\C[0]は残してたんだと思う……
 
 刺客の件といい、アイツ、かなりの切れ者だ……
-> CONTEXT: Map482/events/11/pages/0/78/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map482/events/11/pages/0/78/Dialogue/other8
+I think my \\C[10]Intervention Medium functions \\C[0]were
+intentionally left to try to lull me into a false
+sense of security. Just like with his assassins,
+he's pretty clever.#RonIffy
 > END STRING
 
 > BEGIN STRING
 ごめん、\\N[1]くん
 
 ボク……ボク……
-> CONTEXT: Map482/events/11/pages/0/83/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/83/Dialogue/other8
+I'm sorry, \\N[1]-kun...
 
+I... I...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -121,24 +156,30 @@
 君が弱気になってどうするんだよ！？
 
 僕は何があってもアバドーンを倒さなくちゃダメなんだ！
-> CONTEXT: Map482/events/11/pages/0/90/Dialogue/kazuya-b < UNTRANSLATED
-
+> CONTEXT: Map482/events/11/pages/0/90/Dialogue/kazuya-b
+Keep it together! What're we gonna do if you start
+going all timid?! I have to defeat Abaddon no
+matter what!#Ron
 > END STRING
 
 > BEGIN STRING
 こういうときこそ、僕たちをしっかり導いてくれ！
 
 僕も彼女たちも、\\C[2]まだ諦めてないんだ！！
-> CONTEXT: Map482/events/11/pages/0/95/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/95/Dialogue/kazuya-b
+We need you to lead us now more than ever!
 
+\\C[2]Neither me nor the others have given up!!#Ron
 > END STRING
 
 > BEGIN STRING
 ……………そうだよね、ゴメン。
 
 こういうときだからこそ、ボクがしっかりしなくちゃ……
-> CONTEXT: Map482/events/11/pages/0/101/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/101/Dialogue/other8
+......You're right, I'm sorry.
 
+I can't lose my nerve, especially now...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -146,8 +187,11 @@
 アバドーンの元まで辿り着こう\\C[0]
 
 作戦は、その時に伝えるよ……
-> CONTEXT: Map482/events/11/pages/0/105/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/105/Dialogue/other8
+\\C[2]For now, if we follow the path Lucifer's created,
+we should end up reaching Abaddon.\\C[0]
 
+I'll go over the strategy for that battle...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -155,14 +199,20 @@
 そして、横にいるのがマリオンくん、か……
 
 聞いていたとおり、３人とも強い意志の持ち主のようだ。
-> CONTEXT: Map482/events/11/pages/0/113/Dialogue/enemy34 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/113/Dialogue/enemy34
+Fufu, so that's \\N[1]-kun...
+And that's Marion-kun beside him...
 
+Their wills are just as strong as I had heard.#Ron
 > END STRING
 
 > BEGIN STRING
 予想通り、これは面白いことになりそうだね……
 
 アバドーンと人間……どちらが勝つかな…？
-> CONTEXT: Map482/events/11/pages/0/118/Dialogue/enemy34 < UNTRANSLATED
+> CONTEXT: Map482/events/11/pages/0/118/Dialogue/enemy34
+This looks like it will be just as interesting as
+I expected.
 
+Humanity versus Abaddon, I wonder who will win?#Ron
 > END STRING

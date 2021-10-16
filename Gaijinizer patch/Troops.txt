@@ -18219,57 +18219,72 @@ Would you like to read it again?#Ron
 
 > BEGIN STRING
 ハイラミアは姿勢を元に戻した…
-> CONTEXT: Troops/382/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/382/pages/0/20/Dialogue
+High Lamia has returned to her usual posture...#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ……行くわよ♡
 
 私のボウヤになって、頭の中を真っ白にしちゃいなさい♡
-> CONTEXT: Troops/382/pages/3/4/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Troops/382/pages/3/4/Dialogue/enemy39
+Okay, here I go. ♡
 
+Let your mind go blank as you become mommy's
+little boy. ♡#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ハイラミアは、魔力を杖に集中させた……
 
 \\C[2]\\N[1]を狙っているようだ……！
-> CONTEXT: Troops/382/pages/3/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/382/pages/4/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/382/pages/3/8/Dialogue
+> CONTEXT: Troops/382/pages/4/8/Dialogue
+High Lamia has concentrated her magic into her staff.
 
+\\C[2]It looks like she's gunning for \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
 来るぞ……！！
 
 この魔法だけは絶対に避けるんだ、\\N[1]
-> CONTEXT: Troops/382/pages/3/12/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Troops/382/pages/3/12/Dialogue/enemy35
+Here it comes!!
 
+You must absolutely not let that magic hit you,
+\\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
 よ、避けるったって……
 
 この前のヤツだと、\\C[2]この魔法は追尾してきたような…！
-> CONTEXT: Troops/382/pages/3/16/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Troops/382/pages/3/16/Dialogue/kazuya
+H-How am I supposed to avoid it? She's right in
+front of us \\C[2]and that magic has some kind of
+homing ability!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん、\\C[2]私をサポートに呼んで！！！
 
 もしかしたら猫眼刀で、アイツの魔法を吸収できるかも！
-> CONTEXT: Troops/382/pages/3/20/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/382/pages/3/20/Dialogue/enemy30
+\\C[2]Use me as support, \\N[1]-kun!!!
 
+I might be able to use my Cat's Eye Katana to
+absorb it!!#Ron
 > END STRING
 
 > BEGIN STRING
 な、なに…！？
 
 そんなことが出来るのか、その刀は…！
-> CONTEXT: Troops/382/pages/3/24/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Troops/382/pages/3/24/Dialogue/alice_fc5
+W-What?!
 
+Your sword can do that?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18277,8 +18292,11 @@ Would you like to read it again?#Ron
 見た限り、あの魔法は攻撃型じゃなくて、波長干渉型……
 
 猫眼刀なら、その魔力を波長を合わせられると思うの！
-> CONTEXT: Troops/382/pages/3/28/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Troops/382/pages/3/28/Dialogue/enemy30
+I'm not 100%, but that magic doesn't look like
+attack magic, but the type that interferes with
+wavelengths. Using my sword I might be able to
+align with that magic's wavelengths!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18286,8 +18304,11 @@ Would you like to read it again?#Ron
 
 なんだかよく分からないけど……
 君にかけるよ、夜深ちゃん…！
-> CONTEXT: Troops/382/pages/3/33/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/382/pages/3/33/Dialogue/kazuya
+R-Right!!
 
+I don't really get it, but I'll trust you,
+Yami-chan!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18295,32 +18316,41 @@ Would you like to read it again?#Ron
 ハイラミアのあの攻撃を無効化できるらしい………
 
 \\C[0]イチかバチか、試してみる価値はありそうだ…！
-> CONTEXT: Troops/382/pages/3/38/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/382/pages/3/38/Dialogue
+\\C[2]I can apparently nullify High Lamia's attack by using
+Yami's \\C[10]Sovereign's Insight \\C[2]ability...
 
+\\C[0]I've got no better options, this'll be make or break!#Ron
 > END STRING
 
 > BEGIN STRING
 くっ……
 
 もう一度……！！
-> CONTEXT: Troops/382/pages/4/4/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Troops/382/pages/4/4/Dialogue/enemy39
+Kgh...
 
+One more time...!!#Ron
 > END STRING
 
 > BEGIN STRING
 そ、そんな………
 
 私の力が……消える……
-> CONTEXT: Troops/382/pages/5/1/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Troops/382/pages/5/1/Dialogue/enemy39
+N-No way...
 
+My power's... disappearing...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]ちゃん……お願い……
 
 もう1度だけ……ママって………呼…………
-> CONTEXT: Troops/382/pages/5/5/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Troops/382/pages/5/5/Dialogue/enemy39
+Please... \\N[1]-chan...
 
+Call me mommy... just one more time...#Ron
 > END STRING
 
 > BEGIN STRING

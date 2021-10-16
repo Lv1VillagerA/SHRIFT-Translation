@@ -202,8 +202,8 @@ her age regression magic!!#Ron
 
 > BEGIN STRING
 き、消えた……
-> CONTEXT: Map479/events/1/pages/0/333/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/333/Dialogue/ruka_fc1
+S-She vanished...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -211,28 +211,36 @@ her age regression magic!!#Ron
 実体が崩壊し、アバドーンと『つながり』が絶たれたようだ
 
 今頃、元の世界に帰っているだろう。
-> CONTEXT: Map479/events/1/pages/0/335/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/335/Dialogue/enemy35
+It would seem her materialized form collapsed and
+her connection to Abaddon severed in accordance
+with this world's natural laws. I suspect she has
+now returned to her own world.#Ron
 > END STRING
 
 > BEGIN STRING
 前もやってたけど……それ、何…？
-> CONTEXT: Map479/events/1/pages/0/368/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/368/Dialogue/ruka_fc1
+I remember him doing that before...
 
+What's that about?#Ron
 > END STRING
 
 > BEGIN STRING
 彼なりの勝ち鬨のようなものだ。
 
 気にしないでいい。
-> CONTEXT: Map479/events/1/pages/0/370/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/370/Dialogue/enemy35
+Don't worry about it, that's just his way of
+doing a victory shout.#Ron
 > END STRING
 
 > BEGIN STRING
 そんな……\\C[4]『正史』\\C[0]の世界が……
-> CONTEXT: Map479/events/1/pages/0/393/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/393/Dialogue/other8
+No...
 
+The world of the \\C[4]official timeline \\C[0]has...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -240,22 +248,27 @@ her age regression magic!!#Ron
 
 多分、ボクたちに見せつけるためだ……
 \\C[10]『いつでも手を出せる』\\C[0]って……
-> CONTEXT: Map479/events/1/pages/0/395/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/395/Dialogue/sirousagi_fc1
+I can't sense Abaddon's presence anymore...
 
+This was probably him trying to show us that \\C[10]he
+can get to us anytime, anywhere\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
 でも……\\C[10]この世界はもう……
-> CONTEXT: Map479/events/1/pages/0/400/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/400/Dialogue/sirousagi_fc1
+But... \\C[10]this world is already\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんだこやつらは！？
 
 アバドーンの新たな刺客か！！？
-> CONTEXT: Map479/events/1/pages/0/461/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/461/Dialogue/alice_fc5
+W-What're all these things?!
 
+New assassins from Abaddon?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -263,28 +276,32 @@ her age regression magic!!#Ron
 \\C[2]終末の匂いをかぎつけてやってくるハイエナ……
 
 別称『獣』と言われる下級悪魔………。
-> CONTEXT: Map479/events/1/pages/0/465/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/465/Dialogue/sirousagi_fc1
+No, \\C[2]they're hyenas drawn to the smell of the end
+times... low-grade demons also known as
+"beasts"...#Ron
 > END STRING
 
 > BEGIN STRING
 そ、それって…！！
-> CONTEXT: Map479/events/1/pages/0/470/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/470/Dialogue/kazuya
+T-That's...!!#Ron
 > END STRING
 
 > BEGIN STRING
 この世界の……\\C[10]崩壊が始まる……
 
 もう止めることは出来ん……
-> CONTEXT: Map479/events/1/pages/0/478/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/478/Dialogue/enemy35
+\\C[10]This world's collapse has begun...
 
+It can no longer be stopped.#Ron
 > END STRING
 
 > BEGIN STRING
 そ、そんな…！！
-> CONTEXT: Map479/events/1/pages/0/482/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/482/Dialogue/ruka_fc1
+N-No...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -292,8 +309,10 @@ her age regression magic!!#Ron
 ここは私たちに任せて、お逃げください。
 
 そして……必ずやアバドーンを討ってください。
-> CONTEXT: Map479/events/1/pages/0/498/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/498/Dialogue/yuuma
+\\N[1], please leave this to us and escape.
 
+Also, please make sure you defeat Abaddon.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -301,62 +320,80 @@ her age regression magic!!#Ron
 この世界を救うためには、それしかありません。
 
 \\C[0]私たちのことは気にせず……
-> CONTEXT: Map479/events/1/pages/0/503/Dialogue/yuuma < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/503/Dialogue/yuuma
+\\C[2]Everything will be restored if Abaddon is
+defeated, right? There's no other way to save
+this world. \\C[0]So don't worry about us...#Ron
 > END STRING
 
 > BEGIN STRING
 で、でも………
 
 逃げるったって、何処に…！？
-> CONTEXT: Map479/events/1/pages/0/508/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/508/Dialogue/enemy38
+B-But...
 
+We don't have anywhere to run to...#Ron
 > END STRING
 
 > BEGIN STRING
 大丈夫………
 
 \\C[2]そこの男が、貴方たちの道筋を示してくれるようですよ
-> CONTEXT: Map479/events/1/pages/0/516/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/516/Dialogue/yuuma
+Don't worry...
 
+\\C[2]It would appear that gentleman will show you the
+way.#Ron
 > END STRING
 
 > BEGIN STRING
 えっ……誰！？
-> CONTEXT: Map479/events/1/pages/0/562/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/562/Dialogue/kazuya
+Huh?
 
+Who are you?!#Ron
 > END STRING
 
 > BEGIN STRING
 やぁ、ルシィくん。久しぶりだね。
 
 今宵も変わらず、見目麗しゅう……
-> CONTEXT: Map479/events/1/pages/0/571/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/571/Dialogue/enemy35
+Hey Lucy-kun, long time no see.
 
+You're as beautiful as ever tonight.#Ron
 > END STRING
 
 > BEGIN STRING
 …………
 
 貴方も相変わらずのようですね、\\C[2]ルシフェル\\C[0]。
-> CONTEXT: Map479/events/1/pages/0/575/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/575/Dialogue/yuuma
+......
 
+I see you haven't changed either, \\C[2]Lucifer\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 ルシフェル！！！！！遅かったじゃないか！！！
 
 今まで何してたんだよ！！！！！！！！！
-> CONTEXT: Map479/events/1/pages/0/579/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/579/Dialogue/other8
+Lucifer!!! Where the hell've you been?!!
 
+What've you been doing all this time?!!!#Ron
 > END STRING
 
 > BEGIN STRING
 君を待つ過程で、世界が一つ消えそうになってるんだぞ！！
 
 何悠長に身構えてるのさ！！！
-> CONTEXT: Map479/events/1/pages/0/583/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/583/Dialogue/other8
+The world's about to disappear while we've been
+waiting for you!!
 
+What took you so long to get ready?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -364,8 +401,11 @@ her age regression magic!!#Ron
 
 少し遅れただけで、お茶会の会場が跡形も無くなってた
 私の身にもなってくれたまえ
-> CONTEXT: Map479/events/1/pages/0/591/Dialogue/enemy36 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/591/Dialogue/enemy36
+Hey don't talk like that. Put yourself in my
+shoes for a moment, I was just a little late and
+found the venue for the Tea Party had vanished
+without a trace.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -373,32 +413,40 @@ her age regression magic!!#Ron
 
 ここに来たのは、キミたちがここで力尽きて
 私の苦労を無駄にしないためだよ。
-> CONTEXT: Map479/events/1/pages/0/596/Dialogue/enemy36 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/596/Dialogue/enemy36
+Also, I've already done my job. I've only come
+here to make sure you all don't waste my hard
+work.#Ron
 > END STRING
 
 > BEGIN STRING
 お茶会に……ということは
 
 この者が、例の『協力者』……！？
-> CONTEXT: Map479/events/1/pages/0/602/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/602/Dialogue/enemy35
+The Tea Party...
 
+Is this the "helper" mentioned earlier?!#Ron
 > END STRING
 
 > BEGIN STRING
 まぁ、込み入った話は移動してからにしようか。
 
 この世界も、そこまで安全とは言えないからね。
-> CONTEXT: Map479/events/1/pages/0/632/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/632/Dialogue/enemy34
+Well, let's get into all that after we've moved
+location. This world isn't what you'd call safe
+anymore.#Ron
 > END STRING
 
 > BEGIN STRING
 ……………貴方に任せざるを得ないのは、不本意ですが……
 
 彼らを頼みましたよ、ルシフェル。
-> CONTEXT: Map479/events/1/pages/0/636/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/636/Dialogue/yuuma
+I'm reluctant to have to rely on you, Lucifier...
 
+But I'll leave them all to you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -406,16 +454,21 @@ her age regression magic!!#Ron
 
 君のナイト様は、無事に送り届けてあげるよ。
 私の出来る範囲でね。
-> CONTEXT: Map479/events/1/pages/0/643/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/643/Dialogue/enemy35
+Don't worry, Lucy-kun.
 
+I'll safely escort your knight.
+As far as I'm able, anyway.#Ron
 > END STRING
 
 > BEGIN STRING
 ルシィ……
 
 ニーナ……ティタノボア…！
-> CONTEXT: Map479/events/1/pages/0/651/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/651/Dialogue/kazuya
+Lucy...
+Nina...
+Titanoboa...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -423,16 +476,19 @@ her age regression magic!!#Ron
 後生の別れじゃあるまいし！
 
 アンタがアバドーンをぶっ倒せば、万事解決なんだよ！
-> CONTEXT: Map479/events/1/pages/0/659/Dialogue/enemy14 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/659/Dialogue/enemy14
+What's with that look?! This isn't some final
+parting! Everything will be resolved if you go
+beat up Abaddon!#Ron
 > END STRING
 
 > BEGIN STRING
 こういうときはビシッとした顔して
 
 私らを安心させてみたらどうだい！？
-> CONTEXT: Map479/events/1/pages/0/664/Dialogue/enemy14 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/664/Dialogue/enemy14
+In times like this, you should be seeing us off
+with a confident look to reassure us!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -440,8 +496,11 @@ her age regression magic!!#Ron
 
 チャチャッと済ませて、帰ってきてね！
 約束だよ！！
-> CONTEXT: Map479/events/1/pages/0/669/Dialogue/enemy23 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/669/Dialogue/enemy23
+Don't worry about us, \\N[1]!
 
+Just promise you'll deal with all this and come
+back to us lickety-split!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -449,8 +508,11 @@ her age regression magic!!#Ron
 で？どうするんだい？
 
 まさかこのまま、世界滅亡まで待つのかい？
-> CONTEXT: Map479/events/1/pages/0/755/Dialogue/enemy14 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/755/Dialogue/enemy14
+Hmph.
 
+So what now? We're not actually going to just sit
+here and wait for the world to end, are we?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -458,16 +520,20 @@ her age regression magic!!#Ron
 
 普通の悪魔なら、そうするかもしれませんが
 あいにく、私たちは彼の『具現種』ですから……
-> CONTEXT: Map479/events/1/pages/0/773/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/773/Dialogue/yuuma
+Perish the thought.
 
+A normal demon might do that, but I'm afraid
+we're his "Spirits"...#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]彼が、私たちに示してくれたこと……
 
 私たちは、彼から何を学びましたか……？
-> CONTEXT: Map479/events/1/pages/0/778/Dialogue/yuuma < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/778/Dialogue/yuuma
+\\C[2]And we've learned a thing or two from all the
+things he's shown us.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -475,8 +541,10 @@ her age regression magic!!#Ron
 
 私も、もとより諦める気はないよ！
 思いっきり暴れてやろうじゃないか！！
-> CONTEXT: Map479/events/1/pages/0/783/Dialogue/enemy14 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/783/Dialogue/enemy14
+That's the spirit! I never planned on giving up!
 
+Let's give 'em hell!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -484,6 +552,9 @@ her age regression magic!!#Ron
 
 全力で最期まで抗わなくっちゃね！！
 いくよ！！二人とも！！
-> CONTEXT: Map479/events/1/pages/0/788/Dialogue/enemy23 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/788/Dialogue/enemy23
+We can't let \\N[1] have all the fun!!
 
+We'll fight with everything we have until the
+bitter end!! Let's go, you two!!#Ron
 > END STRING

@@ -7931,14 +7931,14 @@ Specialty: Ruinous Breast Squeezing#afrg
 
 > BEGIN STRING
 スゥイート・タイム
-> CONTEXT: Skills/662/name < UNTRANSLATED
-
+> CONTEXT: Skills/662/name
+Sweet Boy#Ron
 > END STRING
 
 > BEGIN STRING
 は子供化の魔法を唱えた！！
-> CONTEXT: Skills/662/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/662/message1
+ casts her shotification spell!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10962,58 +10962,61 @@ Staunch Attack Decree#RonIffyWording
 > BEGIN STRING
 大天使中村のサポートスキル
 味方全員の能力を３ターン上昇させる。
-> CONTEXT: Skills/932/description < UNTRANSLATED
-
+> CONTEXT: Skills/932/description
+One of Archangel Nakamura's support skills.
+Buffs the entire party for three turns.#Ron
 > END STRING
 
 > BEGIN STRING
 大天使の目利き
-> CONTEXT: Skills/932/name < UNTRANSLATED
-
+> CONTEXT: Skills/932/name
+Archangel's Judgment#Ron
 > END STRING
 
 > BEGIN STRING
 達に向けて、中村は激励の言葉を放った！
-> CONTEXT: Skills/932/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/932/message1
+'s party receives Nakamura's encouragement!#Ron
 > END STRING
 
 > BEGIN STRING
 大天使中村のサポートスキル
 味方全員を全回復し、ルカのＳＰを１回復させる。
-> CONTEXT: Skills/933/description < UNTRANSLATED
-
+> CONTEXT: Skills/933/description
+One of Archangel Nakamura's support skills.
+Heals entire party, and restores 1 SP to Luka.#Ron
 > END STRING
 
 > BEGIN STRING
 大天使の祝福
-> CONTEXT: Skills/933/name < UNTRANSLATED
-
+> CONTEXT: Skills/933/name
+Archangel's Blessing#Ron
 > END STRING
 
 > BEGIN STRING
 達に向けて、中村は祝福の言葉を放った！
-> CONTEXT: Skills/933/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/933/message1
+'s party receives Nakamura's blessing!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 大天使中村のサポートスキル
 ３ターンの間、敵の全能力を下げる
-> CONTEXT: Skills/934/description < UNTRANSLATED
-
+> CONTEXT: Skills/934/description
+One of Archangel Nakamura's support skills.
+Debuffs an enemy for three turns.#Ron
 > END STRING
 
 > BEGIN STRING
 大天使の一喝
-> CONTEXT: Skills/934/name < UNTRANSLATED
-
+> CONTEXT: Skills/934/name
+Archangel's Rebuke#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、中村は敵に向かって一喝した！
-> CONTEXT: Skills/934/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/934/message1
+ hears Nakamura give a powerful rebuke to the enemy!#RonIffyWording
 > END STRING
 
 > BEGIN STRING

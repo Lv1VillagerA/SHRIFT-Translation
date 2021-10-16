@@ -225,9 +225,9 @@
 > END STRING
 
 > BEGIN STRING
-"%sは攻撃を打ち消した！" < UNTRANSLATED
+"%sは攻撃を打ち消した！"
 > CONTEXT: Scripts/Vocab/71:21
-
+"%s nullifies the attack!"#Ron
 > END STRING
 
 > BEGIN STRING

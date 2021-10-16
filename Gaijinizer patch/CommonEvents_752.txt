@@ -7,8 +7,8 @@
 
 > BEGIN STRING
 マリオンは膝をついた！
-> CONTEXT: CommonEvents_752/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_752/54/Dialogue
+Marion has fallen to his knees!#Ron
 > END STRING
 
 > BEGIN STRING
