@@ -3,8 +3,11 @@
 あれあれ……おかしいな？
 
 お兄ちゃんたちの気配が消えちゃったね……
-> CONTEXT: Map471/events/1/pages/0/4/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/4/Dialogue/enemy7
+Oh my, oh my... how strange.
 
+The presence of onii-chan and his friends has
+disappeared.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,16 +15,21 @@
 
 きっとマッドハッターのところだね
 さすがに、すぐには見つけられないか
-> CONTEXT: Map471/events/1/pages/0/8/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/8/Dialogue/enemy7
+Oh my, oh my... you're right.
 
+They're surely with the Mad Hatter.
+We won't be able to find them so quickly.#Ron
 > END STRING
 
 > BEGIN STRING
 クスクス……バカだね。
 
 こんな時間稼ぎをしても、もう無駄なのに……
-> CONTEXT: Map471/events/1/pages/0/13/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/13/Dialogue/enemy7
+Kusukusu... How foolish.
 
+Trying to buy time like this is pointless.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,16 +37,21 @@
 
 \\C[10]\\N[1]お兄ちゃんが生きている限り
 我は止められないよ……
-> CONTEXT: Map471/events/1/pages/0/17/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/17/Dialogue/enemy7
+Kusukusu... It sure is.
 
+\\C[10]They can't stop us as long as onii-chan is
+still alive.#Ron
 > END STRING
 
 > BEGIN STRING
 …………なにやら1つ、空席があるが
 
 本当にこれで全員なのか…？
-> CONTEXT: Map471/events/1/pages/0/26/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/26/Dialogue/alice_fc5
+Looks like one of the seats is empty.
 
+Do we really have everyone here?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -46,8 +59,11 @@
 
 まぁ、もともと時間にルーズな男だからね。
 気にせず話を進めよう。
-> CONTEXT: Map471/events/1/pages/0/30/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/30/Dialogue/enemy27
+Is "he" late?
+Well, he's normally quite loose with time, so
+let's continue our conversation without worrying
+about him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -55,8 +71,10 @@
 
 なんか以前聞いたときは、『ゲスト』は全員揃うのが
 アバドーンに立ち向かう最低条件だとかなんとか……
-> CONTEXT: Map471/events/1/pages/0/35/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/35/Dialogue/enemy15
+Really? Is that okay? I thought I heard something
+about needing to assemble all of the guests
+as a minimum requirement for defeating Abaddon.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -64,8 +82,11 @@
 そうだね……『協力者』とでも言っておこうか。
 
 僕が説明するまでもなく、彼はこの状況を知っているよ。
-> CONTEXT: Map471/events/1/pages/0/40/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/40/Dialogue/enemy27
+He's not exactly a guest. Let's call him...
+a collaborator. He already knows what's going on
+so there's no need for me to explain anything
+to him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -73,16 +94,21 @@
 
 まずは『双子』……\\C[2]『アバドーン』の素性と目的を
 ハッキリさせておこう……
-> CONTEXT: Map471/events/1/pages/0/46/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/46/Dialogue/enemy27
+Now let's see, where shall I begin?
 
+First of all, let me explain the nature and
+objectives of the Twins, of \\C[2]Abaddon\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 キミたちは、アバドーンをどういう存在だと認識している？
 
 今までで聞き知ったことで推測するだけでいい。
-> CONTEXT: Map471/events/1/pages/0/51/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/51/Dialogue/enemy27
+Tell me, what's your awareness of the entity
+called Abaddon? Even the speculation you've heard
+up until now will do.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,16 +116,21 @@
 
 『世界』そのものを食べる悪魔で
 本来はブラックホール的なものだって事ぐらい……？
-> CONTEXT: Map471/events/1/pages/0/56/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/56/Dialogue/ruka_fc1
+Let's see...
 
+He's a demon that eats worlds, and whose natural
+form is similar to that of a black hole...?#Ron
 > END STRING
 
 > BEGIN STRING
 だが、\\C[2]本来は廃れた世界や滅んだ世界を『処理する』役割で
 
 無差別に世界を喰らうような存在ではない\\C[0]ということか。
-> CONTEXT: Map471/events/1/pages/0/61/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/61/Dialogue/enemy35
+But he was \\C[2]originally a being whose duty was to
+"tidy up" dead and dying worlds, not to
+indiscriminately devour any and all worlds.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -107,36 +138,45 @@
 
 今のアバドーンは正常ではない……
 いうなれば\\C[2]『暴走』\\C[0]してしまっている状態だ。
-> CONTEXT: Map471/events/1/pages/0/65/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/65/Dialogue/enemy27
+Yes, those are both right.
 
+Abaddon is not in his right mind any more. You
+could say he's \\C[2]completely out of control\\C[0] now.#Ron
 > END STRING
 
 > BEGIN STRING
 『暴走』…？
-> CONTEXT: Map471/events/1/pages/0/70/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/70/Dialogue/kazuya
+Out of control?#Ron
 > END STRING
 
 > BEGIN STRING
 暴走が始まったきっかけは……そう
 
 \\C[2]あの『双子』の人形の身体を手に入れてからだ…\\C[0]
-> CONTEXT: Map471/events/1/pages/0/75/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/75/Dialogue/enemy27
+As for the cause of his rampage...
 
+\\C[2]It began after he acquired the doll bodies of
+those Twins.#Ron
 > END STRING
 
 > BEGIN STRING
 あれは、遙か未来のＭ.Ｏ.Ｗの生物兵器……
 
 \\C[10]『介入』\\C[2]の研究を進める過程の事故で生まれた個体……\\C[0]
-> CONTEXT: Map471/events/1/pages/0/79/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/79/Dialogue/enemy27
+They're a biological weapon created by M.O.W. in
+the distant future. \\C[2]They were born as a result of
+an accident in the process of \\C[10]Intervention
+\\C[0]research.#Ron
 > END STRING
 
 > BEGIN STRING
 か…\\C[10]『介入』\\C[0]の……！？
-> CONTEXT: Map471/events/1/pages/0/83/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/83/Dialogue/kazuya
+I-\\C[10]Intervention\\C[0]?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -144,8 +184,13 @@
 あの組織は、『別次元からの干渉』に興味を持っていた。
 
 悪魔がそれを感覚的に知覚しているのを含めてね……
-> CONTEXT: Map471/events/1/pages/0/85/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/85/Dialogue/enemy27
+Before the events surrounding you happened,
+\\N[1]-kun, that organization had a keen
+interest in meddling with other dimensions.
 
+That included the ability of demons to perceive
+them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -153,16 +198,22 @@
 
 けど結局、Ｍ.Ｏ.Ｗがアバドーンを従えることが出来ずに
 この\\C[2]『ロストナンバー』\\C[0]の計画は失敗に終わった……
-> CONTEXT: Map471/events/1/pages/0/90/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/90/Dialogue/enemy27
+After many years of research, they found the
+answer they were looking for. But the \\C[2]Lost
+Number\\C[0] project ended in failure because they
+were unable to control Abaddon.#RonIffy
 > END STRING
 
 > BEGIN STRING
 『カイニュウ』…とはなんだ？
 
 割り込むという意味の、あの介入か？
-> CONTEXT: Map471/events/1/pages/0/99/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/99/Dialogue/alice_fc5
+What's this "intervention"?
 
+You mean intervene like to get involved in
+someone's business?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -170,8 +221,13 @@
 特定の人物の行動を決める権限を委ねる機能さ。
 
 \\C[0]世界の物事に割り込まれるから『介入』ってこと。
-> CONTEXT: Map471/events/1/pages/0/103/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/103/Dialogue/sirousagi_fc1
+\\C[10]It's an ability that gives the authority to
+decide the actions of certain individuals in
+other worlds.\\C[0]
 
+In other words, it allows one to meddle in the
+goings on of other worlds.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -179,8 +235,11 @@
 
 だから\\C[10]『介入』\\C[0]を使って、事象の軌道修正や
 些細な特異点なんかを潰していく。
-> CONTEXT: Map471/events/1/pages/0/108/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/108/Dialogue/sirousagi_fc1
+\\C[10]One cannot change their own fate.\\C[0]
+Using \\C[10]Intervention\\C[0], however, someone
+change the course of events, and crush small
+singularities that arise.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -188,8 +247,11 @@
 
 だから、本来はキミたちも、そういうモノとは無縁の状態で
 各々の世界に付従して、何も知らず生きていける。
-> CONTEXT: Map471/events/1/pages/0/113/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/113/Dialogue/sirousagi_fc1
+In all affected worlds, this is done secretly,
+without exception. Any effected individuals would
+live normally without the knowledge that any
+changes had been made.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -197,14 +259,18 @@
 
 でも希に、例外になってしまう事例がある……
 \\C[10]『介入』\\C[0]が対象者に知られてしまう事象だ……
-> CONTEXT: Map471/events/1/pages/0/119/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/119/Dialogue/enemy27
+At least, that's what's supposed to happen...
 
+But there are rare exceptions where the targets
+of \\C[10]Intervention \\C[0]learn what's happening.#RonIffy
 > END STRING
 
 > BEGIN STRING
 その希な事例が、僕ってわけか……？
-> CONTEXT: Map471/events/1/pages/0/124/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/124/Dialogue/kazuya
+Are you saying that I was one of those rare
+occasions?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -212,8 +278,11 @@
 
 君の場合は、\\C[2]『知らなければいけなかった』\\C[0]んだ
 \\C[2]あの結末\\C[0]に至るために……
-> CONTEXT: Map471/events/1/pages/0/126/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/126/Dialogue/enemy27
+No, \\N[1]-kun...
 
+In your case \\C[2]you had to know \\C[0]so that you could
+reach \\C[0]that conclusion\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -221,22 +290,27 @@
 『ゲスト』のみんなは、キミのあらましを知らない
 
 この『介入』の時系列部分から話していこうか…
-> CONTEXT: Map471/events/1/pages/0/131/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/131/Dialogue/enemy27
+But of course, the guests here aren't aware of
+what happened with you. So let's talk about the
+chronological order of this Intervention.#Ron
 > END STRING
 
 > BEGIN STRING
 介入の……\\C[2]『時系列』？
-> CONTEXT: Map471/events/1/pages/0/136/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/136/Dialogue/kazuya
+The Intervention's... \\C[2]chronological order\\C[0]?#Ron
 > END STRING
 
 > BEGIN STRING
 まず最初……\\C[10]本来の世界線\\C[0]があった。
 
 \\C[2]君がアイアンメイデンに負け、取り込まれる世界だ。
-> CONTEXT: Map471/events/1/pages/0/142/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/142/Dialogue/enemy27
+First, there was the \\C[10]original world line\\C[0].
 
+\\C[2]The world in which you lost to Iron Maiden
+and ended up captured by her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -244,8 +318,10 @@
 シェルターすらも出られずに生涯を閉じる……
 
 それが運命だったんだ。
-> CONTEXT: Map471/events/1/pages/0/146/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/146/Dialogue/enemy27
+In that world, you never escaped from the city,
+let alone the shelter, and spent the rest of your
+life trapped in there. That was your fate.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -253,16 +329,22 @@
 世界の運命が大きく動いた……
 
 \\C[0]そして僕たちが、この世界に\\C[10]『介入』\\C[0]を始めた……
-> CONTEXT: Map471/events/1/pages/0/151/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/151/Dialogue/enemy27
+That is where someone's powerful "will" was
+applied, and the fate of the world changed
+greatly. \\C[0]And that is also when our Intervention
+in this world began.#Ron
 > END STRING
 
 > BEGIN STRING
 その『意志』とやらは……上位の者によるものか？
 
 例えば、その世界の神や創造主のような権限を持つ…
-> CONTEXT: Map471/events/1/pages/0/156/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/156/Dialogue/enemy35
+Was this "will" from some kind of higher being?
 
+Like someone with the authority of that world's
+god or creator?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -270,8 +352,11 @@
 
 だからこそ、僕も最初は軽く見ていた。
 どうせ些細な変化に終わるだろうって……
-> CONTEXT: Map471/events/1/pages/0/160/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/160/Dialogue/enemy27
+No, it was \\C[2]just a single human\\C[0].
 
+That's why I didn't take it seriously at first.
+I thought it was just a trivial change.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -279,8 +364,11 @@
 
 \\C[2]\\N[1]くんは場合によってはあの街を脱出し、
 その後もずっと生き延びる世界線まで出てきた。
-> CONTEXT: Map471/events/1/pages/0/166/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/166/Dialogue/enemy27
+But the truth was different. \\C[2]Depending on the
+situation, it even created world lines where
+\\N[1]-kun escaped the city and survived for
+a long time afterwards.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -288,8 +376,11 @@
 それ以上に\\C[2]『洞察力』\\C[0]に優れていた
 
 それが\\C[10]介入\\C[0]の対象に選ばれた所以なんだろう。
-> CONTEXT: Map471/events/1/pages/0/171/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/171/Dialogue/enemy27
+\\N[1]-kun himself is kind and possesses a
+strong will of his own, but he also has superior
+\\C[2]perception and insight\\C[0]. I think that
+is why he was chosen to be an \\C[10]Intervention\\C[0] target.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -297,8 +388,11 @@
 \\C[2]あの『ハッピーエンド』は存在しなかったんだ。
 
 誰かしらが欠け、生き残った者も何かを失っていた。
-> CONTEXT: Map471/events/1/pages/0/176/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/176/Dialogue/enemy27
+But there was \\C[2]no "good ending" at this stage.
 
+Someone was missing... the survivors were missing
+something as well.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -306,14 +400,19 @@
 救えない悪魔もいたし、分かり合えない悪魔もいた
 
 \\C[0]だけど、\\C[2]ある悪魔がそれを変えた……
-> CONTEXT: Map471/events/1/pages/0/181/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/181/Dialogue/enemy27
+\\C[2]At that point, because you weren't yet aware of
+the existence of Intervention, there were demons
+you couldn't save, and demons you couldn't get
+through to.
+\\C[0]But, \\C[2]there would be one demon who would change
+all that.#Ron
 > END STRING
 
 > BEGIN STRING
 ………\\C[2]百鬼\\C[0]さ
-> CONTEXT: Map471/events/1/pages/0/186/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/186/Dialogue/enemy27
+\\C[2]Hyakki\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -321,8 +420,10 @@
 \\C[10]『介入』\\C[2]の存在を知っているんだ。
 
 \\C[0]ボクも、マッドハッターから聞いたときは驚いたけどね。
-> CONTEXT: Map471/events/1/pages/0/191/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/191/Dialogue/sirousagi_fc1
+That oni came to learn about \\C[10]Intervention \\C[0]through
+various circumstances. \\C[0]Even I was surprised when
+Mad Hatter told me about them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -330,8 +431,11 @@
 \\C[10]『介入』\\C[0]に関してのネタばらしをした……
 
 \\C[2]『本来起こりえない事象』を意図的に起こさせたんだ
-> CONTEXT: Map471/events/1/pages/0/196/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/196/Dialogue/sirousagi_fc1
+And so she ended up spilling the beans to
+\\N[1]-kun about \\C[10]Intervention\\C[0].
+\\C[2]She intentionally caused something that
+originally could never have occurred.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -339,16 +443,20 @@
 ティタノボアと自身の命すら救われることになった。
 
 そして、\\C[2]レイナを救える世界が生まれた……
-> CONTEXT: Map471/events/1/pages/0/201/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/201/Dialogue/sirousagi_fc1
+As a result, a world was born where Mukuro was
+saved from Abaddon, Titanoboa saved her own life,
+and Reina was rescued.#Ron
 > END STRING
 
 > BEGIN STRING
 それが、\\N[1]くんのいる世界線……
 
 とある場所では\\C[4]『真慈悲』\\C[0]と呼ばれる世界線さ。
-> CONTEXT: Map471/events/1/pages/0/211/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/211/Dialogue/enemy27
+That is the world line that \\N[1]-kun is
+in. A world line that a certain place calls "True
+Mercy".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -356,16 +464,21 @@
 
 あまりに本来の世界線とかけ離れたルート……
 パラドクス事象で混乱が起きても不思議じゃない。
-> CONTEXT: Map471/events/1/pages/0/215/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/215/Dialogue/enemy27
+To be honest, that scared me. It was a route that
+diverged significantly from the original line, and
+it wouldn't have been unusual to have paradox
+phenomena occurring causing chaos and turmoil.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]でも、世界と、僕の上位にある存在はそれを正史にした
 
 \\C[4]『真慈悲』\\C[0]の世界こそ、正しい世界と認識した。
-> CONTEXT: Map471/events/1/pages/0/220/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/220/Dialogue/enemy27
+\\C[2]But the world and the being that resides above
+me made it the official timeline. \\C[0]The \\C[4]True Mercy\\C[0]
+world itself was recognized as the correct one.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -373,24 +486,31 @@
 本来の正史からは、かけ離れているのであろう？
 
 それを正すのが、貴様らの仕事ではなかったのか？
-> CONTEXT: Map471/events/1/pages/0/224/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/224/Dialogue/alice_fc5
+But why? It had greatly diverged from the
+original correct timeline hadn't it? Isn't it
+the job of people like you to fix that?#Ron
 > END STRING
 
 > BEGIN STRING
 僕はただの\\C[10]『介入媒体』\\C[0]……
 
 そこにどういう理由があったかなんて、僕には分からない。
-> CONTEXT: Map471/events/1/pages/0/229/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/229/Dialogue/enemy27
+I'm just an \\C[10]Intervention Medium\\C[0]...
 
+I don't know the reasons why they did it.#Ron
 > END STRING
 
 > BEGIN STRING
 その先の未来の事象に何か重要な機転があるのか……
 
 あるいは元の世界線自体がそもそも間違いだったのか……
-> CONTEXT: Map471/events/1/pages/0/233/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/233/Dialogue/enemy27
+Perhaps this new world line is the starting
+point for something important in the future. Or
+perhaps the original world itself had something
+wrong with it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -398,14 +518,17 @@
 
 『\\C[4]真慈悲\\C[0]』の世界線が正史となった以上
 僕がこれ以上、\\C[10]介入\\C[0]をする理由はない。
-> CONTEXT: Map471/events/1/pages/0/237/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/237/Dialogue/enemy27
+Either way, this is where my role ended. With the
+\\C[4]True Mercy \\C[0]timeline having been made the official
+one, I have no further reason to \\C[10]intervene\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 …………そのはずだったんだ。
-> CONTEXT: Map471/events/1/pages/0/242/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/242/Dialogue/enemy27
+Or at least... that's what was supposed to
+happen.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -413,8 +536,11 @@
 『世界線』とか『正史』とか、早くも理解が危ういわ……
 
 他のみんなはよく頭が混乱しないわね…？
-> CONTEXT: Map471/events/1/pages/0/248/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/248/Dialogue/enemy38
+Uh... sorry to interrupt you, but all this talk
+of "world lines" and "official timelines" is
+making my head spin. Am I the only one having
+trouble keeping up?#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -422,40 +548,50 @@
 並行世界とかそういうのって、初めてじゃないんだ。
 
 というより、今絶賛それで頭を抱えてるっていうか……
-> CONTEXT: Map471/events/1/pages/0/254/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/254/Dialogue/ruka_fc1
+To be honest, this isn't the first time we've
+dealt with things like parallel worlds. I'm amazed
+he was able to explain it so well... it's
+certainly hard to wrap your head around.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 オイ、コイツ、分カッテルカ？？？？
 
 ボーットシテナイカ？？？
-> CONTEXT: Map471/events/1/pages/0/261/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/261/Dialogue/enemy37
+Oi, you understand this?!!
 
+Your face blank!!#Ron
 > END STRING
 
 > BEGIN STRING
 失礼だぞ、オルトロス
 
 無言系とは、そういうものだ。
-> CONTEXT: Map471/events/1/pages/0/265/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/265/Dialogue/enemy37
+That's rude, Orthrus.
 
+That's just how those silent types are.#Ron
 > END STRING
 
 > BEGIN STRING
 アニジャ、博識
 
 オレ、ナットク
-> CONTEXT: Map471/events/1/pages/0/269/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/269/Dialogue/enemy37
+You wise, big brother.
 
+I understand.#Ron
 > END STRING
 
 > BEGIN STRING
 では………こうやって引き続きお前が居るということは
 
 \\C[2]何かトラブルが起きた\\C[0]ということなのか？
-> CONTEXT: Map471/events/1/pages/0/274/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/274/Dialogue/enemy35
+So, can we take the fact that you remained here
+like this to mean \\C[2]something happened\\C[0]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -463,16 +599,20 @@
 \\N[1]にこれ以上\\C[10]介入\\C[0]する必要もないはず…
 
 そしてそれが、どう『アバドーン』の暴走と関係があるのだ？
-> CONTEXT: Map471/events/1/pages/0/278/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/278/Dialogue/enemy35
+Your duty was over, and you were not supposed to
+have any further need to \\C[10]intervene\\C[0].
+And what connection does this all have to
+Abaddon's rampage?#Ron
 > END STRING
 
 > BEGIN STRING
 ………………もう少し、順を追って説明しよう。
 
 この話は、そう簡単なことじゃないんだ。
-> CONTEXT: Map471/events/1/pages/0/284/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/284/Dialogue/enemy27
+This isn't a simple story, so I'll continue to
+explain a little more of the events in order.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -480,8 +620,10 @@
 \\C[2]\\N[1]くんが生き残る世界線が生まれた…
 
 でもそれは、必ずしも良い方向に向かうとは限らない。
-> CONTEXT: Map471/events/1/pages/0/292/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/292/Dialogue/enemy27
+The power of Intervention birthed a world line in
+which \\C[2]\\N[1]-kun survived. However that in
+itself wasn't necessarily a good thing to happen.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -489,24 +631,32 @@
 \\C[2]『第三者に選択権を委ねる』機能……
 
 その選択は、必ずしも良い行いばかりじゃなかった。
-> CONTEXT: Map471/events/1/pages/0/297/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/297/Dialogue/enemy27
+As I said before, \\C[10]Intervention \\C[2]is a function that
+gives decision-making authority to a third party.
+And the decisions that get made with that
+authority aren't necessarily always the best.#Ron
 > END STRING
 
 > BEGIN STRING
 本来だったら、『介入媒体』である僕が
 
 \\C[10]その可能性の選択肢\\C[0]を消して、ストッパーをかければいい。
-> CONTEXT: Map471/events/1/pages/0/302/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/302/Dialogue/enemy27
+Normally, that's where an intervention medium
+like me would remove the option of \\C[10]that
+possibility \\C[0]and put a stop to the whole thing.#Ron
 > END STRING
 
 > BEGIN STRING
 でも今回は無理だったんだ……
 
 前々から目を付けられてた存在に、先回りされてしまった。
-> CONTEXT: Map471/events/1/pages/0/306/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/306/Dialogue/enemy27
+But that wasn't possible this time...
 
+An entity that had had its eye on this situation
+for a very long time was already a step ahead.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -514,24 +664,32 @@
 
 \\C[10]『その可能性』\\C[0]に目を付けたのが
 アバドーンと、\\C[10]それを従える者……
-> CONTEXT: Map471/events/1/pages/0/313/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/313/Dialogue/enemy27
+In contrast to Hyakki...
 
+Abaddon and \\C[10]those who obey "that" \\C[0]had a keen
+interest in \\C[10]a certain possibility\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
 奴らは、僕が手を打つより早く行動を始めていた……
 
 だから、僕も\\C[10]『その可能性』\\C[0]を潰すことが出来なかった…
-> CONTEXT: Map471/events/1/pages/0/318/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/318/Dialogue/enemy27
+They had already started moving before I could
+act... Which is why even I wasn't able to suppress
+\\C[10]them\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 『アバドーンを従える者』、だと…！？
 
 アバドーンが首謀者ではないのか！？
-> CONTEXT: Map471/events/1/pages/0/322/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/322/Dialogue/alice_fc5
+Obey "that"?!
 
+You mean Abaddon's not the ringleader behind all
+this?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -539,8 +697,11 @@
 \\C[2]『アバドーンは暴走してるだけ』。
 
 \\C[0]その暴走を裏で操ってるヤツが、今回の首謀者。
-> CONTEXT: Map471/events/1/pages/0/326/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/326/Dialogue/sirousagi_fc1
+I told you before, didn't I? \\C[2]Abaddon's just out
+of control right now. \\C[0]The one who manipulated
+Abaddon from the shadows to rampage is the
+culprit this time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -548,8 +709,10 @@
 \\C[10]『あれ』\\C[0]って呼んでるんだっけ？
 
 黒くてドロドロした、あの変なヤツさ
-> CONTEXT: Map471/events/1/pages/0/335/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/335/Dialogue/sirousagi_fc1
+If I remember correctly... \\N[1]-kun
+calls it \\C[10]"that"\\C[0]. It's that black,
+muddy thing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -557,16 +720,22 @@
 
 \\N[1]くんは、
 ヘカーテの一件で遭遇済みだったっけ………
-> CONTEXT: Map471/events/1/pages/0/342/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/342/Dialogue/enemy27
+I see.
 
+You already had a run-in with it during the
+Hecate incident, didn't you?#Ron
 > END STRING
 
 > BEGIN STRING
 それなら、感覚では感じているはずだね。
 
 \\C[10]『あれが、自分自身であって、そうではない』と
-> CONTEXT: Map471/events/1/pages/0/347/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/347/Dialogue/enemy27
+Then you should be able to sense it.
 
+\\C[10]You could say that what you saw back then
+was both it, and yet not it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -574,14 +743,17 @@
 
 クトゥルフ神話になぞらえ、
 自らを\\C[10]『オールドワン』と名乗っている存在\\C[0]さ。
-> CONTEXT: Map471/events/1/pages/0/351/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/351/Dialogue/enemy27
+\\C[10]It's an evil deity that has no name.\\C[0]
 
+It's an entity that calls itself \\C[10]"Old One"\\C[0]
+as a reference to myths and legends of Cthulhu.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]『オールドワン』\\C[0]……！？
-> CONTEXT: Map471/events/1/pages/0/356/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/356/Dialogue/kazuya
+\\C[10]Old One\\C[0]?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -589,8 +761,11 @@
 
 例えるなら、\\C[2]実体化するための手段が全くない
 無駄に図体がデカい液体\\C[0]みたいなヤツなんだ。
-> CONTEXT: Map471/events/1/pages/0/358/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/358/Dialogue/enemy27
+As I said, it has no proper name of its own. If
+I had to compare it to something, \\C[2]it's like a
+impossibly huge body of liquid that has no means
+of materializing itself.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -598,8 +773,11 @@
 
 畏怖され、意味を成すための\\C[10]『信仰』\\C[0]
 そして、自身を入れる\\C[10]『入れ物』\\C[0]が必要だった。
-> CONTEXT: Map471/events/1/pages/0/363/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/363/Dialogue/enemy27
+In order for it to truly materialize, it must
+be feared and have \\C[10]religious faith \\C[0]to make
+sense of it. It also needs a \\C[10]vessel \\C[0] that
+it can take control of.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -607,8 +785,9 @@
 
 \\C[10]ヤツは『入れ物』として、キミに目を付けたんだよ……
 \\N[1]くん……
-> CONTEXT: Map471/events/1/pages/0/368/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/368/Dialogue/enemy27
+\\C[10]And it had its eye on you as its vessel,
+\\N[1]-kun...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -616,8 +795,11 @@
 \\C[2]小さい頃に両親に『器』として育てられたよね。
 
 邪神を降臨させるための媒体として…
-> CONTEXT: Map471/events/1/pages/0/377/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/377/Dialogue/sirousagi_fc1
+\\C[2]Your parents had raised you to be its vessel
+ever since you were a young child. It was going
+to be their way of welcoming the arrival of
+their deity.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -625,16 +807,21 @@
 \\C[2]\\N[1]くんの『器』としての素質はそのままだった……\\C[0]
 
 まぁそれが、メシアプロジェクトにも利用されるんだけど…
-> CONTEXT: Map471/events/1/pages/0/382/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/382/Dialogue/sirousagi_fc1
+And though the ceremony itself failed, \\C[2]your
+inherent quality as its vessel was unchanged.
+That's what the Messiah Project was trying to
+take advantage of.#Ron
 > END STRING
 
 > BEGIN STRING
 その\\C[10]『オールドワン』\\C[0]も、昔から狙ってたんだよ。
 
 キミの『器』に入るタイミングを、虎視眈々とね。
-> CONTEXT: Map471/events/1/pages/0/387/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/387/Dialogue/sirousagi_fc1
+The \\C[10]Old One \\C[0]has had you in its sights for a
+very long time. It's been vigilantly waiting for
+just the right time to enter your body.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -642,14 +829,17 @@
 
 \\C[10]キミは本来、死ぬ運命にあった。
 \\C[0]どの世界線でも、そのチャンスは訪れなかったんだよ。
-> CONTEXT: Map471/events/1/pages/0/394/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/394/Dialogue/sirousagi_fc1
+But ultimately, \\C[10]your fate was to die.
 
+\\C[0]And no matter which world line it turned to,
+it would never have its chance.#Ron
 > END STRING
 
 > BEGIN STRING
 ……\\C[10]『介入』が起きる前まではね
-> CONTEXT: Map471/events/1/pages/0/400/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/400/Dialogue/sirousagi_fc1
+That is, \\C[10]until Intervention happened.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -657,8 +847,11 @@
 
 \\C[10]『介入』\\C[2]を逆手に取り、
 \\N[1]を器として覚醒させようと…！？
-> CONTEXT: Map471/events/1/pages/0/402/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/402/Dialogue/enemy35
+Don't tell me...
 
+\\C[2]It used \\C[10]Intervention \\C[2]for its own benefit to
+revive \\N[1] as its vessel?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -666,8 +859,11 @@
 
 \\C[2]オールドワンは、介入の選択肢に\\N[1]くんが
 覚醒するに至るための道筋を用意した。
-> CONTEXT: Map471/events/1/pages/0/408/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/408/Dialogue/sirousagi_fc1
+That's exactly right!
 
+\\C[2]The Old One made available a certain option, a
+path that would "awaken" \\N[1]-kun.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -675,8 +871,13 @@
 　悪意をもって魔力を膨れ上がらせる』道筋……
 
 \\C[0]常識で考えたら、そんな道筋選ばないって思うでしょ？
-> CONTEXT: Map471/events/1/pages/0/413/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/413/Dialogue/sirousagi_fc1
+Specifically, \\C[10]that path was to slaughter
+the demons he met out of malice so that he would
+swell with magic power.\\C[0]
 
+Normally, you would think that's a path someone
+wouldn't choose...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -684,16 +885,21 @@
 
 マッドハッターが思った以上に、その『常識で考える』事を
 無視した『介入者』も多かったんだ……
-> CONTEXT: Map471/events/1/pages/0/418/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/418/Dialogue/sirousagi_fc1
+But...
 
+Mad Hatter underestimated how many Interveners
+exists who would follow a path like that.#Ron
 > END STRING
 
 > BEGIN STRING
 アバドーンが、『双子』の体を介して使える\\C[10]『介入』\\C[0]を利用し
 
 マッドハッターの介入とは独立した世界線が生まれた……
-> CONTEXT: Map471/events/1/pages/0/424/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/424/Dialogue/sirousagi_fc1
+Abaddon, using the Twins as an intermediary, used
+Intervention to create a timeline separate from
+the one Mad Hatter had created.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -701,16 +907,19 @@
 
 \\C[10]『\\N[1]くんの子供時代の儀式が実は成功していた』\\C[0]
 という世界線を作り出してしまう。
-> CONTEXT: Map471/events/1/pages/0/428/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/428/Dialogue/enemy27
+Abaddon went even further back in time to create
+a world line where the ceremony conducted when
+\\N[1]-kun was a child was successful.#Ron
 > END STRING
 
 > BEGIN STRING
 本来は心優しい\\N[1]くんの自我に、
 
 殺してもおかしくない\\C[2]『きっかけ』\\C[0]を作ったんだ。
-> CONTEXT: Map471/events/1/pages/0/433/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/433/Dialogue/enemy27
+It created an "impetus" to readily kill others
+within his normally kind self.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -718,8 +927,11 @@
 イレギュラーな世界線だった。
 
 放っておけば、パラドクス事象での崩壊は必至だ。
-> CONTEXT: Map471/events/1/pages/0/438/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/438/Dialogue/enemy27
+That path was an irregular world line that
+neither I nor the being above me intended at all.
+Left alone, it would inevitably cause destructive
+paradoxes to occur.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -727,24 +939,32 @@
 アバドーンを利用して、さらなる世界を壊しかねない……。
 
 でも独立してしまったから、僕の手ではどうしようもない……
-> CONTEXT: Map471/events/1/pages/0/443/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/443/Dialogue/enemy27
+That would allow that deity to manifest, and
+using Abaddon, it could cause even more
+destruction of the world. But there is little I
+can do about that on my own.#Ron
 > END STRING
 
 > BEGIN STRING
 でも……最終的には、そうはならなかった。
 
 \\C[2]百鬼のおかげでね。
-> CONTEXT: Map471/events/1/pages/0/448/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/448/Dialogue/enemy27
+But that ultimately didn't happen.
 
+\\C[2]All thanks to Hyakki.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん、覚えてる？
 
 君がマイルームで、百鬼に約束させたこと……
-> CONTEXT: Map471/events/1/pages/0/456/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/456/Dialogue/enemy27
+\\N[1]-kun...
 
+Do you remember what you made Hyakki promise in
+My Room?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -752,8 +972,11 @@
 　殺してでも、それを止めて欲しい』
 
 \\C[0]彼女は、それを実行に移したんだ。
-> CONTEXT: Map471/events/1/pages/0/460/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/460/Dialogue/enemy27
+\\C[2]You made her promise that should you ever be in
+a timeline where you're killing everyone, that
+she would stop you, even if she had to kill you
+to do it. \\C[0]That was a promise she kept.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -761,8 +984,11 @@
 
 きっと、心優しいキミを知っているからこそ
 最後の最後まで、踏みとどまるのを信じたかったんだね。
-> CONTEXT: Map471/events/1/pages/0/467/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/467/Dialogue/sirousagi_fc1
+I'm sure she waited until the last possible
+moment to do it. She knew how kind you were.
+She waited till there was no going back,
+believing that you'd stop your rampage.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -770,8 +996,11 @@
 パラドクス事象を起こさないように、キミを生かした
 
 介入者からの\\C[10]介入\\C[0]を、キミから分離する形でね。
-> CONTEXT: Map471/events/1/pages/0/472/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/472/Dialogue/sirousagi_fc1
+She then brought you back to life to try to avoid
+a paradox event occurring in that standalone
+timeline, in a way that would separate you from
+the Intervener's \\C[10]Interventions\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -779,8 +1008,10 @@
 
 独立した世界線は残ってしまったけど
 『オールドワン』がそこに介入することはできなくなった。
-> CONTEXT: Map471/events/1/pages/0/477/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/477/Dialogue/sirousagi_fc1
+That effectively put a stop to the Old One's
+plans. Though that separate timeline remained,
+the Old One was stopped from intervening in it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -788,36 +1019,44 @@
 他の世界線も、正史の並行世界として安定して処理された。
 
 一件落着、ちゃんちゃん♪
-> CONTEXT: Map471/events/1/pages/0/482/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/482/Dialogue/sirousagi_fc1
+Thus, it was mission accomplished as far as using
+Intervention to course-correct the timeline. The
+other world lines were stabilized as official
+parallel worlds, and the issue was resolved.#Ron
 > END STRING
 
 > BEGIN STRING
 とまぁ、ここまでがアバドーンの話の前置きなんだけど……
 
 どう？ちゃんと理解できてる？
-> CONTEXT: Map471/events/1/pages/0/491/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/491/Dialogue/sirousagi_fc1
+At least that's the preface to Abaddon's story.
 
+Is it all making sense so far?#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんとか……
-> CONTEXT: Map471/events/1/pages/0/496/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/496/Dialogue/enemy38
+S-Sort of...#Ron
 > END STRING
 
 > BEGIN STRING
 そんなに苦い顔しなくても大丈夫だよ、ミズキちゃん。
 
 私、ほとんど分かってないから！
-> CONTEXT: Map471/events/1/pages/0/498/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/498/Dialogue/enemy15
+You don't have to look so hung up about it,
+Mizuki-chan.
 
+I barely understood a word!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 夜深ちゃん、そうじゃないんだわ……
-> CONTEXT: Map471/events/1/pages/0/502/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/502/Dialogue/enemy38
+It's not that, Yami-chan...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -825,31 +1064,38 @@
 
 だが聞く限り、オールドワンとやらの計画を阻止して
 それで万事解決だったのではないか？
-> CONTEXT: Map471/events/1/pages/0/505/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/505/Dialogue/alice_fc5
+I understand the situation around \\N[1]'s
+\\C[10]Intervention\\C[0], but from what I'm hearing it
+sounds like this Old One's plans were stopped,
+and the whole thing was neatly resolved.#Ron
 > END STRING
 
 > BEGIN STRING
 我々が呼ばれる理由、そして我々の世界が危険な理由……
 
 そこがいまいち見えてこないが…
-> CONTEXT: Map471/events/1/pages/0/510/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/510/Dialogue/alice_fc5
+I'm not really seeing the reason why we were
+called here, and what could be putting our own
+world in jeopardy.#Ron
 > END STRING
 
 > BEGIN STRING
 …………そこで大人しく
 『オールドワン』が諦めてくれてれば、ね。
-> CONTEXT: Map471/events/1/pages/0/515/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/515/Dialogue/enemy27
+That would be true if the Old One had decided
+to quietly give up.#Ron
 > END STRING
 
 > BEGIN STRING
 でも………遅すぎたんだ。
 
 全てを丸く収めるには……何もかも……
-> CONTEXT: Map471/events/1/pages/0/518/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/518/Dialogue/enemy27
+But... it was too late to bring everything to
+such a neat conclusion.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -857,16 +1103,21 @@
 
 ここからが、キミたちの世界が危機に陥る
 \\C[2]『アバドーンの目的』\\C[0]の話に繋がってくる……
-> CONTEXT: Map471/events/1/pages/0/528/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/528/Dialogue/enemy27
+Let's go back a bit.
 
+Let's tell the reason of why Abaddon is here,
+which is plunging all of your worlds in danger...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 僕が\\C[10]介入\\C[0]した\\C[4]『真慈悲』\\C[0]の世界線が正史となり
 
 世界は一旦、安定したように思えた。
-> CONTEXT: Map471/events/1/pages/0/537/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/537/Dialogue/enemy27
+The \\C[4]True Mercy \\C[0]timeline I \\C[10]Intervened \\C[0]in became
+the official timeline, and I believed that the
+the world was stable for the time being.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -874,22 +1125,27 @@
 
 独立したはずの\\C[10]虐殺の世界線\\C[0]と\\C[4]正史\\C[0]は
 どうしても切れない\\C[2]『つながり』\\C[0]があった
-> CONTEXT: Map471/events/1/pages/0/541/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/541/Dialogue/enemy27
+But unfortunately...
+The isolated \\C[10]"Genocide" \\C[0]timeline and the
+\\C[4]official \\C[0]one had a \\C[2]connection \\C[0]I was
+utterly unable to sever.#Ron
 > END STRING
 
 > BEGIN STRING
 どうしても切れない\\C[2]『つながり』\\C[0]……？
-> CONTEXT: Map471/events/1/pages/0/546/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/546/Dialogue/kazuya
+A \\C[2]connection \\C[0]you couldn't sever...?#Ron
 > END STRING
 
 > BEGIN STRING
 ………キミ自身だよ、\\N[1]くん。
 
 \\C[10]『オールドワンに身体を乗っ取られたキミ』\\C[0]自身さ
-> CONTEXT: Map471/events/1/pages/0/548/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/548/Dialogue/enemy27
+You, \\N[1]-kun.
 
+\\C[10]You, who had been possessed by the Old One\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -897,24 +1153,32 @@
 \\N[1]くんの身体を使って、\\C[2]何度か実体化に成功している\\C[0]
 
 オールドワンは、そこに目を付けた……
-> CONTEXT: Map471/events/1/pages/0/555/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/555/Dialogue/enemy27
+Though it was always in an incomplete manner,
+the Old One \\C[2]had used your body to successfully
+manifest a number times in that world line\\C[0].
+That's what it was focused on.#Ron
 > END STRING
 
 > BEGIN STRING
 キミと、マイルームの悪魔が精神で繋がっているように……
 
 \\C[2]同化したオールドワンも、キミに繋がってしまった……
-> CONTEXT: Map471/events/1/pages/0/560/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/560/Dialogue/enemy27
+Just as you used your spirit to link with the
+demons of My Room, the assimilated Old One used
+that same process to connect to you.#Ron
 > END STRING
 
 > BEGIN STRING
 でも、介入のアクセス権限も違えば、その影響力も少ない。
 
 独立した世界線からのアプローチなんて、たかが知れてる。
-> CONTEXT: Map471/events/1/pages/0/564/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/564/Dialogue/enemy27
+But it didn't really have rights to access
+Intervention, and it didn't have enough influence
+on you. Trying to meddle from it's isolated
+timeline didn't amount to much.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -922,8 +1186,13 @@
 正史から外れるように仕向ける程度のものだった。\\C[0]
 
 どれも、大して影響の出るような事象ではなかったよ。
-> CONTEXT: Map471/events/1/pages/0/568/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/568/Dialogue/enemy27
+Its power was restricted to \\C[2]whispering to your
+spirit, trying to shake your beliefs and
+induce you to go down a path different from that
+of the official timeline\\C[0].
+But that didn't have much of an effect in
+reality.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -931,22 +1200,27 @@
 
 囁かれる程度じゃ、実際に揺らぐことはなかったんだろう
 当然の結果さ。
-> CONTEXT: Map471/events/1/pages/0/573/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/573/Dialogue/sirousagi_fc1
+\\N[1]-kun's got a pretty strong
+personality, so it's no wonder that sort of thing
+wasn't enough to shake him.#Ron
 > END STRING
 
 > BEGIN STRING
 しばらくして、オールドワンは狙いを変えた。
 
 ………\\C[10]『介入者』\\C[0]へと。
-> CONTEXT: Map471/events/1/pages/0/578/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/578/Dialogue/enemy27
+After a while of trying this, the Old One changed
+its target.
 
+It went after the \\C[10]Intervener\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 なんだと…！？
-> CONTEXT: Map471/events/1/pages/0/582/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/582/Dialogue/enemy35
+What?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -954,8 +1228,13 @@
 
 \\N[1]くんの身体を使って実体化している以上
 \\N[1]くんの精神の一部であることは確かだ。
-> CONTEXT: Map471/events/1/pages/0/588/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/588/Dialogue/enemy27
+If you step back and look at the bigger picture,
+there's a minuscule but present threat of
+it using \\N[1]-kun's body to manifest. But
+that's never been the real problem.
+The problem is that it remains latent in his
+mind, able to call out to anyone listening...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -963,24 +1242,37 @@
 
 \\C[10]『介入者』\\C[0]へと呼びかけを始めた……
 \\C[10]『虐殺に手を染めろ』\\C[0]と
-> CONTEXT: Map471/events/1/pages/0/593/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/593/Dialogue/enemy27
+Knowing that it could not take control of
+\\N[1]-kun's body, it started calling out
+to the \\C[10]Intervener \\C[0]to play a part in the \\C[10]Genocide
+it wished to bring about\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 『好奇心』『加虐欲求』『悪魔に対する不快感』……
 
 奴が\\C[10]『介入者』\\C[0]を煽るための道具は、いくらでもある
-> CONTEXT: Map471/events/1/pages/0/598/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/598/Dialogue/enemy27
+Curiosity at what might happen...
+The urge to inflict pain on others...
+Hatred of demons, and demonkind...
 
+It used these thoughts and countless others...
+To instigate...
+To tempt...
+To incite the \\C[10]Interveners\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 そして、僕が恐れていたことが起こった……
 
 \\C[10]『介入者』が、次々とオールドワンの手先になったんだ。
-> CONTEXT: Map471/events/1/pages/0/603/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/603/Dialogue/enemy27
+And then the thing I feared most happened...
 
+One by one, the \\C[10]Interveners \\C[0]became its
+minions.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -988,8 +1280,10 @@
 
 \\C[0]だけど……実際はなんてことはない。
 \\C[10]『オールドワンの操り人形になっている』だけなのさ
-> CONTEXT: Map471/events/1/pages/0/607/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/607/Dialogue/enemy27
+\\C[2]The individuals were under the illusion
+that they were acting of their own will, \\C[0]but in
+reality they were merely \\C[10]the Old One's puppets\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -997,8 +1291,14 @@
 
 だが、\\C[10]『介入者』\\C[0]は、必ずしも善人とは限らん。
 悪行に手を染めない強い意思を持っているかどうかすらも……
-> CONTEXT: Map471/events/1/pages/0/613/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/613/Dialogue/enemy35
+The human called \\N[1] is one person...
+But the Interveners aren't necessarily all good
+people...
 
+We don't even know if they possess strong enough
+wills to resist the temptation to perform evil
+deeds.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1006,16 +1306,22 @@
 \\C[10]『分岐の可能性』\\C[0]を潰せなかった時点で
 
 なにもかも、遅すぎたというわけだな……
-> CONTEXT: Map471/events/1/pages/0/618/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/618/Dialogue/alice_fc5
+So the moment Abaddon seized the initiative and we
+couldn't crush the \\C[10]possibility of divergence\\C[0]...
 
+...It was far too late.#RonIffy
 > END STRING
 
 > BEGIN STRING
 人間の善性に頼るのは、無理というものだ……
 
 自身に正義があると思わせる誘惑にこそ、人は弱いのだから…
-> CONTEXT: Map471/events/1/pages/0/623/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/623/Dialogue/alice_fc5
+Because they're so easily tempted into believing
+that their actions are righteous, relying on the
+good nature of humanity is dooming yourself to
+failure.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1023,8 +1329,10 @@
 
 間接的に、\\C[2]僕の管轄である正史の世界線に
 ちょっかいを出し始めた……
-> CONTEXT: Map471/events/1/pages/0/630/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/630/Dialogue/enemy27
+Once the old one had accumulated enough \\C[10]lackeys\\C[0],
+it then began to indirectly meddle in the
+\\C[2]official timeline that I had jurisdiction over\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1032,24 +1340,31 @@
 独立した場所からのアプローチは、たかが知れてる。
 
 \\C[2]ヤツも、直接正史の世界に介入する気はなかったようだ。
-> CONTEXT: Map471/events/1/pages/0/635/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/635/Dialogue/enemy27
+But like I said before, this kind of approach
+from an isolated timeline doesn't amount to much.
+\\C[2]It didn't even seem that interested in directly
+interfering with the official timeline\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 ヤツは最初から……
 
 \\C[2]『安定化した並行世界』に目を向けてたんだよ。
-> CONTEXT: Map471/events/1/pages/0/640/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/640/Dialogue/enemy27
+From the outset, it \\C[2]shifted its attention to
+the stabilization of that parallel world.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]『安定化した並行世界』って……
 
 百鬼が介入する前の、最初に枝分かれした世界線…？
-> CONTEXT: Map471/events/1/pages/0/649/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/649/Dialogue/kazuya
+\\C[2]Stabilization of that parallel world...
 
+You mean the world that originally branched off
+before Hyakki's intervention?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1057,8 +1372,11 @@
 オールドワンはまず、そこからパラドクスを起こそうとした。
 
 城の周りの城壁を、下から順に崩していくように……
-> CONTEXT: Map471/events/1/pages/0/653/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/653/Dialogue/enemy27
+Correct. The Old One first attempted to cause
+a paradox from that point. Much in the same way
+you'd collapse castle walls by undermining them
+from below, one by one.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1066,8 +1384,11 @@
 マザーラビットの存在を知らせ、襲わせた……
 
 \\C[0]マザーラビットは、そのせいで心に深い傷を負う……
-> CONTEXT: Map471/events/1/pages/0/661/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/661/Dialogue/enemy27
+In one particular world, \\C[2]it alerted the Harpy
+Spawn in the middle of their breeding season to
+the presence of Mother Rabbit, inducing them to
+attack her, causing severe injury as a result.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1075,8 +1396,11 @@
 
 モドキクイーンに無情に打ちのめされた彼女は
 苦悩の末、本質が\\C[10]変質\\C[0]してしまう……
-> CONTEXT: Map471/events/1/pages/0/666/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/666/Dialogue/enemy27
+She had the idea that love alone is not enough to
+save others ruthlessly beaten into her by the
+Harpy Spawn Queen. Eventually the anguish would
+cause a \\C[10]degeneration \\C[0]of her nature.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1084,8 +1408,14 @@
 \\N[1]くんとは永久に分かり合えなくなる……
 
 \\C[4]『真慈悲』\\C[0]の条件を、根底から覆そうとしたんだ。
-> CONTEXT: Map471/events/1/pages/0/674/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/674/Dialogue/enemy27
+\\C[2]She would then became "Black Rabbit", and from
+that point forward, all possibility of her and
+\\N[1]-kun understanding one another would be
+lost forever.
+This change meant that the conditions for
+achieving \\C[4]True Mercy \\C[0]were ruined at their very
+foundations.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1093,8 +1423,11 @@
 
 キミはモドキクイーンを打ち倒し、彼女を救った。
 彼女が守っていた人間の少女と一緒にね……
-> CONTEXT: Map471/events/1/pages/0/679/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/679/Dialogue/enemy27
+But that didn't come to pass in the end. You
+defeated the Harpy Spawn Queen and saved Mother
+Rabbit together with the human girl she had been
+protecting.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1102,8 +1435,14 @@
 \\C[10]『介入』\\C[0]の力をチラつかせ、利用した。
 
 \\C[2]キミと同調して、直接取り込むために。
-> CONTEXT: Map471/events/1/pages/0/687/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/687/Dialogue/enemy27
+In yet another world, it contacted a Demon King
+harboring a grudge against you, infusing her
+with a small amount of \\C[10]Intervention \\C[0]power.
 
+It used her in the hopes that \\C[2]you would go along
+with what was happening so it could win you over
+directly\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1111,8 +1450,11 @@
 この計画は、最終的には失敗に終わってたけど……
 
 本当に\\N[1]くんの洞察力が高くて助かったよ……
-> CONTEXT: Map471/events/1/pages/0/692/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/692/Dialogue/enemy27
+Fortunately, I had already put a stopper in the
+whole thing, and its plan ultimately ended in
+failure. The fact that you're so perceptive
+really helped.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1120,8 +1462,11 @@
 
 キミが感情に流されて間違った行動を取ってしまったら
 そこでヤツの思うつぼだったんだからね…
-> CONTEXT: Map471/events/1/pages/0/697/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/697/Dialogue/enemy27
+Regardless of whether or not I gave you any
+choice, if you'd let yourself get carried away by
+emotion and misunderstood the situation, you
+would've played right into its hands.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1129,8 +1474,11 @@
 意図的にあの公園へと繋げた……
 
 妖精が人間の生き残りを攫うように仕向けるために……
-> CONTEXT: Map471/events/1/pages/0/705/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/705/Dialogue/enemy27
+And in yet another world, it deliberately
+connected a portal to the Fairy Realm to one in
+that park, hoping it would induce the fairies to
+come out and abduct the surviving humans.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1138,8 +1486,11 @@
 徐々に、\\N[1]くんが関係する世界にまで及んだ……
 
 スフィンクスも道連れにして……
-> CONTEXT: Map471/events/1/pages/0/710/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/710/Dialogue/enemy27
+At first this was done in minor, unrelated world
+lines, but eventually it extended to worlds that
+had a connection to \\N[1]-kun. And even
+Sphinx was strong-armed into getting involved.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1147,8 +1498,13 @@
 
 今は小規模で、なんとか大事には至っていないけど
 このまま続けば、本当に正史が改変されてしまうかもしれない
-> CONTEXT: Map471/events/1/pages/0/715/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/715/Dialogue/enemy27
+I was getting increasingly worried at this stage.
+It was small-scale and hadn't reached the point
+where it was a major concern...
 
+But if it continued like this, it might actually
+start causing changes in the official timeline.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1156,8 +1512,11 @@
 \\N[1]くん自身にある。
 
 だから、\\N[1]くんの魂を僕が奪ってしまえば…
-> CONTEXT: Map471/events/1/pages/0/720/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/720/Dialogue/enemy27
+\\C[2]The source of the Old One's threat to the
+official timeline lies within you.
 
+That's why I thought to take your soul for myself.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1165,16 +1524,19 @@
 
 僕は『チェシャ』という悪魔として実体化し
 キミの前に現れたんだ……
-> CONTEXT: Map471/events/1/pages/0/728/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/728/Dialogue/enemy27
+And the rest is history. I materialized in the
+form of the demon, "Cheshire", and appeared
+before you.#Ron
 > END STRING
 
 > BEGIN STRING
 キミを、一人の悪魔として……
 
 魂を奪って、永遠に自分の中に囚えてしまえるように
-> CONTEXT: Map471/events/1/pages/0/733/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/733/Dialogue/enemy27
+I tried to take your soul as a solitary demon,
+and keep it trapped within me forever.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1182,8 +1544,14 @@
 ここまでの\\C[10]『特異点』\\C[0]になるとは思わないよねー
 
 仕事が終わったと思ったら、どんどん穴が広がってく感じ。
-> CONTEXT: Map471/events/1/pages/0/739/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/739/Dialogue/sirousagi_fc1
+No one expects to have the Intervention target
+they're in charge of reach this kind of
+singularity.
 
+It's like plugging a few small holes in a
+leaking dam, just to have many more burst
+open on their own.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1191,8 +1559,11 @@
 
 例えるなら、バグに対処するのが怖くなって
 強制的にパソコン切っちゃうような行為に近いし……
-> CONTEXT: Map471/events/1/pages/0/744/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/744/Dialogue/sirousagi_fc1
+But I think doing that to you was short-sighted.
+It's like getting scared of a bug in a computer
+program so you forcibly cut the power to the
+whole PC.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1200,8 +1571,11 @@
 情が湧いちゃってる可能性を考えずに接触しちゃうなんてさ
 
 \\C[0]そりゃ、アバドーンにも目を付けられちゃうよ
-> CONTEXT: Map471/events/1/pages/0/749/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/749/Dialogue/sirousagi_fc1
+On top of that, \\C[2]going for that kind of approach
+ran the risk of causing certain emotions to well
+up within \\N[1]-kun, \\C[0]and also attracted
+the attention of Abaddon.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1209,8 +1583,11 @@
 『手先』に寝返る介入者が、あんなに多いとは思わなくて…
 
 実際、状況はそれで更に悪化してしまったからね……
-> CONTEXT: Map471/events/1/pages/0/754/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/754/Dialogue/enemy27
+You're completely right. I didn't think so many
+of the Interveners had double-crossed us to be
+its pawns, and it actually made the situation
+even worse.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1218,8 +1595,10 @@
 実体化しているのを発見したアバドーンは、標的を変更した。
 
 そう……\\C[2]僕にだ。
-> CONTEXT: Map471/events/1/pages/0/762/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/762/Dialogue/enemy27
+Abaddon had detected me manifesting
+as the \\C[10]Intervention Medium\\C[0], and decided to
+change targets... \\C[2]to me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1227,8 +1606,13 @@
 
 \\C[0]そして……\\C[4]真慈悲\\C[0]の『正史』の介入権限を奪い
 直接、\\C[10]正史全体を改変してしまう。
-> CONTEXT: Map471/events/1/pages/0/767/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/767/Dialogue/enemy27
+The plan was \\C[2]to consume me and fuse with my
+Intervention abilities\\C[0]. Doing so would provide
+Abaddon with the authority to intervene in the
+official timeline, True Mercy.
+From there, \\C[10]he could make wholesale changes as
+he pleased.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1236,8 +1620,11 @@
 
 \\C[10]正史を改変\\C[0]だと！？
 いきなりヤバさの規模がでかくなったぞ！？
-> CONTEXT: Map471/events/1/pages/0/772/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/772/Dialogue/alice_fc5
+Hold on, hold on! Don't just breeze over that!
 
+\\C[10]Make wholesale changes\\C[10]?! The stakes suddenly
+got a whole lot bigger!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1245,8 +1632,11 @@
 
 しかも、マッドハッターの\\C[10]『介入媒体』\\C[0]は
 アバドーンが持ってる半端なものとはワケが違う。
-> CONTEXT: Map471/events/1/pages/0/777/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/777/Dialogue/sirousagi_fc1
+That's what we've been saying...  Even worse
+is that Mad Hatter, the \\C[10]Intervention
+Medium,\\C[0] is different then the half-baked
+one Abaddon has.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1254,8 +1644,11 @@
 なんの制限もなく、\\C[10]全ての世界がアイツの介入対象\\C[0]になる…
 
 そこに、アバドーン本来の特性が加わるんだよ……
-> CONTEXT: Map471/events/1/pages/0/782/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/782/Dialogue/sirousagi_fc1
+Both our worlds, and all the worlds our guests
+are from would \\C[10]all become intervention targets \\C[0]for
+him without any kind of limitation. That's on top
+of Abaddon's original characteristics.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1263,8 +1656,11 @@
 
 なるほど、確かに際限なく世界を渡り、食い散らかされては
 我々も他人事ではないな……
-> CONTEXT: Map471/events/1/pages/0/790/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/790/Dialogue/enemy35
+\\C[2]The ability to devour worlds\\C[0]...
+I see. None of us can ignore the existence of a
+being that can cross to any world and tear it
+into pieces.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1272,20 +1668,23 @@
 
 アバドーンが際限なく世界を喰らうことが出来てしまうと
 \\C[2]『別の問題』も発生する……
-> CONTEXT: Map471/events/1/pages/0/795/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/795/Dialogue/enemy27
+It gets worse...
 
+Abaddon gaining the power to eat any world of his
+choosing would \\C[2]cause yet another problem.#Ron
 > END STRING
 
 > BEGIN STRING
 それは、\\C[10]『オールドワン』の顕現化\\C[0]さ
-> CONTEXT: Map471/events/1/pages/0/800/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/800/Dialogue/enemy27
+The manifestation of the \\C[10]Old One\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 ど、どういうことだ…！？
-> CONTEXT: Map471/events/1/pages/0/802/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/802/Dialogue/kazuya
+W-What do you mean?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1293,8 +1692,11 @@
 本当の名前も実体もない、\\C[2]『液体のような存在』\\C[0]……
 
 \\C[2]実体を持たないが故に、アバドーンを介さないと力を出せない
-> CONTEXT: Map471/events/1/pages/0/808/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/808/Dialogue/enemy27
+As I said before, the Old One doesn't truly have
+a true name or form, \\C[2]it's a being that's closer
+to a liquid\\C[0]. Because of that, it relies on using
+Abaddon as an intermediary to exercise its power.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1302,8 +1704,11 @@
 \\C[4]正史\\C[0]の世界で実体化し、自身の存在を確立するのが目的……
 
 そこまでは分かるね？
-> CONTEXT: Map471/events/1/pages/0/813/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/813/Dialogue/enemy27
+That's why it wants to use your body to
+materialize in the \\C[4]official timeline \\C[0]and establish
+its own existence. That much you already know,
+yes?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1311,8 +1716,10 @@
 
 \\C[10]オールドワン\\C[0]の最終的な目的は
 \\C[2]現実世界への実体化ではないんだよ。
-> CONTEXT: Map471/events/1/pages/0/818/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/818/Dialogue/enemy27
+But that's just a preliminary step. \\C[2]Materializing
+itself in the real world is not the \\C[10]Old One's
+\\C[2]final objective\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1320,16 +1727,21 @@
 
 例えるなら、\\C[2]世界征服のようなものを目的としたヤツが
 そもそも世界を喰らう悪魔と手を組むか\\C[0]、という話だからな。
-> CONTEXT: Map471/events/1/pages/0/823/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/823/Dialogue/alice_fc5
+Well, that much I could guess. \\C[2]If your plan were
+to conquer the world, why would you enlist the
+services of a demon that devours them\\C[0]?#Ron
 > END STRING
 
 > BEGIN STRING
 ということは……
 
 『自分の存在を確立させる』こと自体が目的か…？
-> CONTEXT: Map471/events/1/pages/0/828/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/828/Dialogue/alice_fc5
+So...
 
+Does that mean its objective is to establish
+its own existence?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1337,8 +1749,11 @@
 
 アバドーンが世界を喰らうと、その腹の中には
 どんどん壊れた世界が融合し、溜まっていきます！
-> CONTEXT: Map471/events/1/pages/0/836/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/836/Dialogue/sirousagi_fc1
+And here is where we get to the problem for you
+all. The broken pieces of the worlds Abaddon
+devours end up in his stomach, fusing together
+and accumulating!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1346,14 +1761,16 @@
 お互いの世界が意味を成さないほど融合したとしたら……
 
 アバドーンのお腹の中はどうなるでしょうか！？
-> CONTEXT: Map471/events/1/pages/0/841/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/841/Dialogue/sirousagi_fc1
+\\C[2]Now should a crazy number of worlds get all mixed
+and fused together to a senseless degree, what do
+you think would happen inside Abaddon's stomach?!#Ron
 > END STRING
 
 > BEGIN STRING
 腹痛になる！！！！
-> CONTEXT: Map471/events/1/pages/0/846/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/846/Dialogue/enemy15
+He'll get a stomach ache!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1361,14 +1778,17 @@
 
 それが本当だったら、アバドーンはかなりマヌケだね！！
 不正解！！
-> CONTEXT: Map471/events/1/pages/0/848/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/848/Dialogue/sirousagi_fc1
+Oh Yami-chan!! Abaddon would be a real idiot if
+that were the case.
 
+Wrong answer!!#Ron
 > END STRING
 
 > BEGIN STRING
 （チガウノカ…）
-> CONTEXT: Map471/events/1/pages/0/853/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/853/Dialogue/enemy37
+(Wrong answer, huh...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1376,24 +1796,32 @@
 
 『無限の有』は『無限の無』に等しい
 『有』と『無』は、反対の言葉に見えて、実は同一なんだ。
-> CONTEXT: Map471/events/1/pages/0/856/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/856/Dialogue/enemy27
+The answer is, \\C[10]become nothing\\C[0].
+"Infinite matter" is equivalent to "infinite
+nothingness". Though "matter" and "nothingness"
+seem to be opposites, they are in fact the same.#Ron
 > END STRING
 
 > BEGIN STRING
 『混沌』とは『無秩序』であり『無法則』…
 
 つまり何も意味を成していない世界………
-> CONTEXT: Map471/events/1/pages/0/861/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/861/Dialogue/enemy27
+A lawlessness of chaos and disorder.
 
+In other worlds, a world in which there is no
+meaning.#Ron
 > END STRING
 
 > BEGIN STRING
 そう、\\C[10]『名前』も、『実体』も等しく意味を持たない
 
 \\C[2]その『無』の世界こそが、オールドワンの最終目的だ。
-> CONTEXT: Map471/events/1/pages/0/866/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/866/Dialogue/enemy27
+A world in which \\C[10]names and forms equally mean
+nothing\\C[0]. \\C[2]That world of "nothingness" is precisely
+what the Old One is trying to achieve.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1401,8 +1829,11 @@
 それらを持たなくてもいい世界を作る\\C[0]と言うことか……！？
 
 ムチャクチャすぎるだろう！！
-> CONTEXT: Map471/events/1/pages/0/876/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/876/Dialogue/alice_fc5
+Are you saying that \\C[2]it wants to create a world
+where those things aren't needed because it's
+lacking them itself\\C[2]?! What kind of insane logic
+is that?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1410,8 +1841,10 @@
 
 だから、ヤツも最初は\\N[1]くんを使って
 ゆっくりと計画を進行させるつもりだった……
-> CONTEXT: Map471/events/1/pages/0/881/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/881/Dialogue/sirousagi_fc1
+Yes, it is insane. That's why it first planned
+on using \\N[1]-kun to leisurely advance
+its plans.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1419,8 +1852,11 @@
 
 ああやって他世界に迷い込んだ\\N[1]くんを使って
 徐々に食い散らかしていくつもりだったらしいんだ。
-> CONTEXT: Map471/events/1/pages/0/886/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/886/Dialogue/sirousagi_fc1
+The same goes for the "Kazuya-kun" who came to
+our world. It apparently planned on using a
+version of \\N[1]-kun lost in another world to
+steadily devour our own world.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1428,8 +1864,11 @@
 
 \\C[2]マッドハッターの介入能力さえあれば、
 \\N[1]くんを媒体にする必要がなくなるからさ。
-> CONTEXT: Map471/events/1/pages/0/891/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/891/Dialogue/sirousagi_fc1
+But it hugely accelerated its plans. If we'd
+only had Mad Hatter's Intervention powers,
+we wouldn't have had to turn \\N[1]-kun into
+a medium.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -1437,8 +1876,10 @@
 
 我々を呼び、アバドーンに対処するために
 こうやってお茶会を開いたということか……
-> CONTEXT: Map471/events/1/pages/0/896/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/896/Dialogue/enemy35
+And so the Mad Hatter concealed himself in this
+place, and called us all here to this Tea Party
+in order to help deal with Abaddon...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1446,16 +1887,21 @@
 対抗する手段なんて、微塵も浮かばないんだけど……
 
 何か策はあるの…？
-> CONTEXT: Map471/events/1/pages/0/902/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/902/Dialogue/ruka_fc1
+To be honest, I don't have the faintest idea of
+how to fight against someone who can open up holes
+in spacetime like that. Is there some kind of
+countermeasure?#Ron
 > END STRING
 
 > BEGIN STRING
 ああ、もちろんあるよ。
 
 だからこそ、キミやマリオンくんを呼んだんだ。
-> CONTEXT: Map471/events/1/pages/0/907/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/907/Dialogue/enemy27
+Yes, of course.
 
+That's exactly why I called you and Marion here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1463,8 +1909,10 @@
 用意してくれる手はずなんだが……
 
 詳細は、来たときにでも話そうか……
-> CONTEXT: Map471/events/1/pages/0/911/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/911/Dialogue/enemy27
+The preparations were supposed to be made by a
+late-arriving "helper". I was going to give you
+the details when they arrived.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1472,8 +1920,10 @@
 
 あの『虫食い』現象が、アバドーンの仕業で
 食い散らかした結果起きる現象だというのは理解できた。
-> CONTEXT: Map471/events/1/pages/0/919/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/919/Dialogue/alice_fc5
+I have a question. I understand those holes in
+reality we saw are the work of Abaddon as he
+devours worlds.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1481,8 +1931,11 @@
 何を対策すれば、世界の崩壊を止められる？
 
 その場しのぎではない、根本的な解決だ。
-> CONTEXT: Map471/events/1/pages/0/924/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/924/Dialogue/alice_fc5
+So if we have some kind of countermeasure against
+that phenomenon, can we stop worlds from
+collapsing? Not as a stopgap measure, but as a
+full and proper resolution.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1490,8 +1943,10 @@
 
 \\C[2]自分の世界で起こっている『問題』と
 何か共通点がないか探っているんだね。
-> CONTEXT: Map471/events/1/pages/0/931/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/931/Dialogue/enemy27
+I know what you want to hear. \\C[2]You're looking for
+commonalities between this and what's happening
+in your own world.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1499,16 +1954,21 @@
 キミの世界で起こっているそれとは性質が違うんだ。
 
 \\C[0]対処法も、それが起こる原理も……
-> CONTEXT: Map471/events/1/pages/0/936/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/936/Dialogue/enemy27
+But unfortunately, \\C[2]the nature of the collapse
+caused by Abaddon and what's happening in your
+world is different\\C[0]. Both in terms of the root
+causes, and how to deal with them.#Ron
 > END STRING
 
 > BEGIN STRING
 でも、共通項も多いのは確かだね。
 
 その中の一つが、\\C[10]『カオス崩壊』\\C[0]だ
-> CONTEXT: Map471/events/1/pages/0/941/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/941/Dialogue/enemy27
+But it's true there is a lot of overlap.
 
+Among which is one thing, \\C[10]Chaos Collapse\\C[0].#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -1516,8 +1976,13 @@
 やがて世界の自己崩壊が始まり、全てが消える……
 
 在るべきだった世界が、消えてしまうんだ。
-> CONTEXT: Map471/events/1/pages/0/945/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/945/Dialogue/enemy27
+The \\C[10]Chaos Collapse\\C[0] he causes in the worlds he
+devours sets in motion the collapse of the world
+in on itself.
 
+From there the world disappears. What once should
+exist, does no longer.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1525,16 +1990,19 @@
 どういった最期を迎えるのか………
 
 ルカくんは、１度見たことがあるはずだ……
-> CONTEXT: Map471/events/1/pages/0/950/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/950/Dialogue/enemy27
+As for what that collapse looks like first-hand...
 
+Luka-kun has witnessed that himself once before.#RonLocalization
 > END STRING
 
 > BEGIN STRING
 や、やっぱり…！
 
 \\C[10]『カオス崩壊』\\C[0]って、まさか……！！！
-> CONTEXT: Map471/events/1/pages/0/956/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/956/Dialogue/ruka_fc1
+S-So that really was one of those \\C[10]"Chaos
+Collapse"\\C[0] events...?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1542,8 +2010,10 @@
 
 さっきも言ったとおり、最終的に起こることは同じでも
 パラドクスで起こるそれとはまったく性質が異なる。
-> CONTEXT: Map471/events/1/pages/0/960/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/960/Dialogue/enemy27
+Calm yourself. As I said, though the end result
+is the same, the nature of one caused by a
+paradox is completely different.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1551,8 +2021,11 @@
 僕は、完全に元に戻す方法なんて知らないんだ。
 
 お役に立てなくて、すまないね……
-> CONTEXT: Map471/events/1/pages/0/965/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/965/Dialogue/enemy27
+And I don't even know a way to completely restore
+a world back to normal after a Chaos Collapse
+caused by Abaddon, let alone a paradox.
+I'm sorry I can't be of more help.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1560,8 +2033,11 @@
 \\C[2]ミズキの世界を元に戻す\\C[0]、と言っていたが…
 
 その力で、我らの世界も修復はできぬのか？
-> CONTEXT: Map471/events/1/pages/0/970/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/970/Dialogue/alice_fc5
+But Mizuki was told \\C[2]that her world could be
+restored to normal if this situation were to be
+completely resolved\\C[0]. And now you're saying
+you can't even fix our world?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1569,16 +2045,21 @@
 \\C[2]『アバドーンが被害を及ぼした範囲』に限定されている。
 
 残念ながら………キミの世界は『対象外』なんだよ。
-> CONTEXT: Map471/events/1/pages/0/975/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/975/Dialogue/enemy27
+My authority to return worlds to normal only
+extends to undoing the damage Abaddon has caused.
 
+I'm afraid your world is "out of scope".#Ron
 > END STRING
 
 > BEGIN STRING
 ……………やはり、か。
 
 そうそう美味い話はないな……
-> CONTEXT: Map471/events/1/pages/0/981/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/981/Dialogue/alice_fc5
+So that's how it is huh...
 
+This hasn't turned out to be a very good story.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1586,8 +2067,9 @@
 
 \\C[2]その権限で、\\C[10]『虐殺をした世界線』\\C[2]を
 無かったことにはできないのか…？
-> CONTEXT: Map471/events/1/pages/0/987/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/987/Dialogue/kazuya
+\\C[2]Does that authority of yours to undo Abaddon's
+damage extend to undoing those \\C[10]Genocide \\C[2]timelines?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1595,16 +2077,21 @@
 百鬼が僕のことについて苦しまずに済む……
 
 可能性を潰すことだって出来るはずだ…
-> CONTEXT: Map471/events/1/pages/0/992/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/992/Dialogue/kazuya
+That would let the girls in My Room as well as
+Hyakki painlessly resolve things with me. You
+should at the very least be able to quash the
+possibility of it happening.#Ron
 > END STRING
 
 > BEGIN STRING
 優しいね、\\N[1]くんは……
 
 ………そうできれば、良かったんだけどね……
-> CONTEXT: Map471/events/1/pages/0/998/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/998/Dialogue/enemy27
+You're a kind one, \\N[1]-kun.
 
+I wish I could do that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1612,16 +2099,22 @@
 
 でも、\\C[10]あれは紛れもなく
 『手先となった介入者』の選択した道筋\\C[0]なんだよ…
-> CONTEXT: Map471/events/1/pages/0/1002/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/1002/Dialogue/enemy27
+If it were something caused by Abaddon then I
+might have been able to help. But \\C[10]those were paths
+chosen by none other than the Interveners who
+became pawns\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 それに……キミはある勘違いをしてる。
 
 \\C[2]あの世界で一番苦しんでいるのは、キミ自身だ。
-> CONTEXT: Map471/events/1/pages/0/1007/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/1007/Dialogue/enemy27
+Also, you seem to be misunderstanding something.
 
+\\C[2]The one who suffered the most in those worlds was
+not them, but you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1629,22 +2122,28 @@
 
 みんな出された紅茶は飲み干しちゃったみたいだし
 少し場所を変えて、話を続けよう。
-> CONTEXT: Map471/events/1/pages/0/1012/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/1012/Dialogue/enemy27
+I see......
+It appears everyone finished the tea I put out. 
+Why don't we change locations and continue our
+conversation there.#Ron
 > END STRING
 
 > BEGIN STRING
 今更そんな事か。
 
 あんな量、着席と同時に飲み干したわ。
-> CONTEXT: Map471/events/1/pages/0/1017/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map471/events/1/pages/0/1017/Dialogue/alice_fc5
+A little late for that.
 
+There was so little it was practically gone the
+moment we took our seats.#Ron
 > END STRING
 
 > BEGIN STRING
 （お皿喰ってる……）
-> CONTEXT: Map471/events/1/pages/0/1021/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/1021/Dialogue/ruka_fc1
+(You're eating the plate...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1652,14 +2151,18 @@
 いったいどんな世界を創り出してしまったのか……
 
 それを実際に見せながら、説明しよう。
-> CONTEXT: Map471/events/1/pages/0/1023/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/1023/Dialogue/enemy27
+I'll continue my explanation as I show you what
+kind of world the Old One has started building
+through its Interveners.#Ron
 > END STRING
 
 > BEGIN STRING
 それじゃあみんな、少しの間、目を閉じて……
 
 『全員が目を閉じれば』僕の能力が発現する……
-> CONTEXT: Map471/events/1/pages/0/1028/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map471/events/1/pages/0/1028/Dialogue/enemy27
+Now everyone, please close your eyes for a short
+moment. My power can only activate if everyone's
+eyes are closed.#Ron
 > END STRING

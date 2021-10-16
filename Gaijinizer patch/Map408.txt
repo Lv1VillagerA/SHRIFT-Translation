@@ -505,7 +505,7 @@ does oversimplify things a little...#Ron
 \\C[10]『介入』のロジックを担う生命体だよ。
 > CONTEXT: Map408/events/1/pages/0/356/Dialogue/enemy29
 \\C[2]I am the \\C[10]device \\C[2]that's connected to both
-you and the intervener...
+you and the Intervener...
 \\C[10]A living being that's responsible for the logic
 behind "interventions".#RonIffyWording
 > END STRING
@@ -537,7 +537,7 @@ me, is as an "Intervention Device".#RonIffyWording
 でも実際は、ボクは『種族』も『性別』も決まってない。
 > CONTEXT: Map408/events/1/pages/0/367/Dialogue/enemy29
 That other form you saw was the original form I
-have when connected to you and the intervener.
+have when connected to you and the Intervener.
 So whatever form I have is a projection of my
 connection to you.
 In truth however, I have no "species" or "gender"
@@ -616,7 +616,7 @@ for you.#Ron
 > CONTEXT: Map408/events/1/pages/0/412/Dialogue/enemy29
 You should know, \\N[1]-kun, that I've been
 keeping an eye on you for a long time. Both you
-and the intervener's whole story...#RonIffyWording
+and the Intervener's whole story...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
