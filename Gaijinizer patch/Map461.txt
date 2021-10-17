@@ -17,10 +17,10 @@ They managed to endure all of our attacks...#Ron
 コイツラ、オレサマ、怖ガラナイ……
 モット蹴リタイ……
 > CONTEXT: Map461/events/4/pages/0/35/Dialogue/enemy37
-Grrr...
+GRRR...
 
-I'm not scared...
-I want to give them more of a kicking...#Ron
+I'M NOT SCARED...
+I WANT TO GIVE THEM MORE OF A KICKING...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -254,10 +254,10 @@ chance!#Ron
 脚、上ガッテナイ
 オレ、蹴レナイ
 > CONTEXT: Map461/events/4/pages/0/184/Dialogue/enemy37
-You're tired, Mizuki.
+YOU'RE TIRED, MIZUKI.
 
-You can't lift legs.
-I can't kick.#Ron
+YOU CAN'T LIFT LEGS.
+I CAN'T KICK.#Ron
 > END STRING
 
 > BEGIN STRING

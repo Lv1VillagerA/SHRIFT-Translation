@@ -184,9 +184,9 @@ have recognized as strong.#RonIffyWording
 
 ソレ、シゼンノ、掟
 > CONTEXT: Map477/events/8/pages/0/15/Dialogue/enemy37
-Obey the strong.
+OBEY THE STRONG.
 
-That is nature's law.#Ron
+THAT IS NATURE'S LAW.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -246,9 +246,9 @@ But I'm not ashamed to admit it...#RonLocalization
 
 ミズキ！！　頼ンデコイ！！
 > CONTEXT: Map477/events/8/pages/1/0/Dialogue/enemy37
-I want to eat omelet rice!!
+I WANT TO EAT OMELET RICE!!
 
-Go ask them, Mizuki!!#Ron
+GO ASK THEM, MIZUKI!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -267,9 +267,9 @@ while you're in equipment form?#Ron
 
 アニジャ、博識！
 > CONTEXT: Map477/events/8/pages/1/8/Dialogue/enemy37
-Good point!!!
+GOOD POINT!!!
 
-You very wise, big brother!#Ron
+YOU VERY WISE, BIG BROTHER!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -277,9 +277,9 @@ You very wise, big brother!#Ron
 
 甘イパン！タベタイ！
 > CONTEXT: Map477/events/8/pages/1/12/Dialogue/enemy37
-But I want something sweet!!
+BUT I WANT SOMETHING SWEET!!
 
-I want sweet bread!#Ron
+I WANT SWEET BREAD!#Ron
 > END STRING
 
 > BEGIN STRING

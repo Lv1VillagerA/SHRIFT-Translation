@@ -468,7 +468,7 @@ A-Aaau... ♡#Ron
 > BEGIN STRING
 ………いくわよ！オルトロス！！
 > CONTEXT: Map466/events/4/pages/0/325/Dialogue/enemy38
-Let's go, Ortolos!!#Ron
+Let's go, Orthrus!!#Ron
 > END STRING
 
 > BEGIN STRING

@@ -302,7 +302,7 @@ Try moving it?#Ron
 > CONTEXT: Map468/events/46/pages/1/2/Dialogue
 > CONTEXT: Map541/events/46/pages/1/2/Dialogue
 
-          Baron Nard's Notes#Ron
+          Baron Nerd's Notes#Ron
 > END STRING
 
 > BEGIN STRING
@@ -427,7 +427,7 @@ protection.#Ron
 To the reader of this letter, may the fortunes of war be
 in your favor...
 
-                Raywa Nard Archimedes#Ron
+                Raywa Nerd Archimedes#Ron
 > END STRING
 
 > BEGIN STRING

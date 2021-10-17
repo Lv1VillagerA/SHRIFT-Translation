@@ -242,9 +242,9 @@ manifesting now?#Ron
 
 食ベルダケ。悪巧ミ、シナイ
 > CONTEXT: Map465/events/3/pages/0/131/Dialogue/enemy37
-He's just demonic "black hole"...
+HE'S JUST DEMONIC "BLACK HOLE"...
 
-Only consumes, no thought.#RonIffy
+ONLY CONSUMES, NO THOUGHT.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -615,9 +615,9 @@ her owner.#RonLocalization
 
 弱イケモノガ、ヤルコト！
 > CONTEXT: Map465/events/29/pages/1/33/Dialogue/enemy37
-I hate getting along... forming packs...!!
+I HATE GETTING ALONG... FORMING PACKS!!
 
-Only weak beasts do that!#Ron
+ONLY WEAK BEASTS DO THAT!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -625,9 +625,9 @@ Only weak beasts do that!#Ron
 
 ヘルハウンドハ、強ク生キル！
 > CONTEXT: Map465/events/29/pages/1/37/Dialogue/enemy37
-Is disgrace to hellhounds!
+IS DISGRACE TO HELLHOUNDS!
 
-Hellhounds live strong!#CheckLater
+HELLHOUNDS LIVE STRONG!#CheckLater
 > END STRING
 
 > BEGIN STRING

@@ -757,9 +757,9 @@ schooler.#Ron
 
 スグ老ケルゾ！気ヲツケルンダナ！！
 > CONTEXT: Map469/events/3/pages/0/578/Dialogue/enemy37
-Mizuki, you're outdated!!
+MIZUKI, YOU'RE BEHIND THE TIMES!!
 
-You'll grow old quickly! So be careful!!#RonIffyWording
+YOU'LL BE OLD SOON! BE CAREFUL!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -899,7 +899,7 @@ This group's full of oddballs.#Ron
 > BEGIN STRING
 オマエガ、言ウカ、ミズキ
 > CONTEXT: Map469/events/3/pages/0/655/Dialogue/enemy37
-Rich coming from you, Mizuki.#Ron
+RICH COMING FROM YOU, MIZUKI.#Ron
 > END STRING
 
 > BEGIN STRING
