@@ -4,24 +4,30 @@
     縺九▲縺溘ｓ縺ｧ縺励ｇ縺?°
 　　遘√?鬲皮黄縺溘■縺梧?縺
 　　縺ｪ縺懈?縺??縺九☆繧芽ｦ壹∴縺ｦ縺?∪縺帙ｓ縺代←」
-> CONTEXT: Map484/events/23/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map484/events/23/pages/0/0/Dialogue
+*　「Why did the village lights ■ ■ ■ have to be ■ ■ ■
+    I ■ ■ ■ monsters ■ ■ ■ why is ■ ■ ■ all I can
+    remember?」#Ron
 > END STRING
 
 > BEGIN STRING
 な、何言ってるのこの人……
 
 全然分からないんだけど……
-> CONTEXT: Map484/events/23/pages/0/5/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map484/events/23/pages/0/5/Dialogue/enemy38
+W-What is this guy saying?
 
+I don't understand at all...#Ron
 > END STRING
 
 > BEGIN STRING
 滅ぼされた世界の人間の意識の『なれの果て』……
 
 あらゆるカオス事象の副産物といったところかな……
-> CONTEXT: Map484/events/23/pages/0/9/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map484/events/23/pages/0/9/Dialogue/enemy34
+These are the shadows of human consciousness from
+ruined worlds. You could say they're the
+byproduct of so-called Chaos Phenomena.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,30 +35,37 @@
 
 様々な理由で、『世界の理から外れた魂』というものが
 輪廻から外され、こういう形で残ってしまう……
-> CONTEXT: Map484/events/23/pages/0/13/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map484/events/23/pages/0/13/Dialogue/enemy34
+Paradox Events, Chaos Collapses... There are
+various ways that souls can be separated from
+their world's natural laws, cutting them off
+from the cycle of reincarnation.#Ron 
 > END STRING
 
 > BEGIN STRING
 その形はなにも、人の魂に限ったものではない。
 
 \\C[2]『想い』という形で、空間を形成していることだってある。
-> CONTEXT: Map484/events/23/pages/0/18/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map484/events/23/pages/0/18/Dialogue/enemy34
+This form is not something that's limited to the
+souls of humans, either. \\C[2]There have been instances
+of "thoughts" forming a space as well.#RonIffy
 > END STRING
 
 > BEGIN STRING
 この辺にも、いろいろあるんじゃないかな。
 
 もし気になるようなら、触れてみるといい。
-> CONTEXT: Map484/events/23/pages/0/22/Dialogue/enemy34 < UNTRANSLATED
+> CONTEXT: Map484/events/23/pages/0/22/Dialogue/enemy34
+There may be a wide variety of them even here.
 
+Feel free to touch them if you're curious.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 "EX4　ブラックドッグ集団"
-> CONTEXT: Map484/events/27/pages/0/5/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map484/events/27/pages/0/5/InlineScript/2:1
+"EX4　Black Dog Group"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -749,6 +762,6 @@
 
 > BEGIN STRING
 多元宇宙～第２層～
-> CONTEXT: Map484/display_name < UNTRANSLATED
-
+> CONTEXT: Map484/display_name
+Multiverse - Second Layer#Ron
 > END STRING

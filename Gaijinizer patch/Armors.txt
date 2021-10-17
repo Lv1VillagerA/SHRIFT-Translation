@@ -988,14 +988,15 @@ Cloth Clothes#StrateUnsure
 > BEGIN STRING
 \\C[11][マリオン専用]\\C[0]先代の愛用していた全身を覆う銀の鎧。
 抵：＋８０％　ダウンしても３０％の確率で即復活できる
-> CONTEXT: Armors/100/description < UNTRANSLATED
-
+> CONTEXT: Armors/100/description
+[Marion Only] Silver full-body armor cherished by Marion's
+forefathers. Damage resist: 80% 30% chance of instantly reviving when downed.#CheckLater
 > END STRING
 
 > BEGIN STRING
 聖騎士の銀胸甲
-> CONTEXT: Armors/100/name < UNTRANSLATED
-
+> CONTEXT: Armors/100/name
+Silver Knightly Breastplate#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1086,14 +1087,15 @@ Rabbit Apple#Triketos
 > BEGIN STRING
 \\C[2]【共闘者用】\\C[0]魔素を含んだ魔法の鎧。
 抵：＋５０％
-> CONTEXT: Armors/107/description < UNTRANSLATED
-
+> CONTEXT: Armors/107/description
+Magically infused armor.
+Damage Resist: 50%#CheckLater
 > END STRING
 
 > BEGIN STRING
 グランドメイル
-> CONTEXT: Armors/107/name < UNTRANSLATED
-
+> CONTEXT: Armors/107/name
+Grand Mail#Ron
 > END STRING
 
 > BEGIN STRING

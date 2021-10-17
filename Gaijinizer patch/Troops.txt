@@ -18339,30 +18339,30 @@ Would you like to read it again?#Ron
 ブラックドッグは姿を消した……
 
 元の世界に戻ったようだ……
-> CONTEXT: Troops/383/pages/3/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/383/pages/3/32/Dialogue
+Black Dog vanished, seemingly returning to her own world...#Ron
 > END STRING
 
 > BEGIN STRING
 キャン！キャン！
-> CONTEXT: Troops/384/pages/3/8/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/4/8/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/5/8/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/6/8/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/7/8/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/8/8/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Troops/384/pages/3/8/Dialogue/enemy37
+> CONTEXT: Troops/384/pages/4/8/Dialogue/enemy37
+> CONTEXT: Troops/384/pages/5/8/Dialogue/enemy37
+> CONTEXT: Troops/384/pages/6/8/Dialogue/enemy37
+> CONTEXT: Troops/384/pages/7/8/Dialogue/enemy37
+> CONTEXT: Troops/384/pages/8/8/Dialogue/enemy37
+*yelp yelp*#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ブラックドッグたちは散り散りに退いていった……
-> CONTEXT: Troops/384/pages/3/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/4/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/5/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/6/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/7/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/8/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/384/pages/3/18/Dialogue
+> CONTEXT: Troops/384/pages/4/18/Dialogue
+> CONTEXT: Troops/384/pages/5/18/Dialogue
+> CONTEXT: Troops/384/pages/6/18/Dialogue
+> CONTEXT: Troops/384/pages/7/18/Dialogue
+> CONTEXT: Troops/384/pages/8/18/Dialogue
+The pack of Black Dogs dispersed and retreated...#Ron
 > END STRING
 
 > BEGIN STRING

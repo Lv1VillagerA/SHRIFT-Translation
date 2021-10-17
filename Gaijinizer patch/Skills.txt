@@ -5317,14 +5317,14 @@ has trapped Kazuya's body inside her clothes!#DL
 
 > BEGIN STRING
 蹂躙撃
-> CONTEXT: Skills/406/name < UNTRANSLATED
-
+> CONTEXT: Skills/406/name
+Overrun#Ron
 > END STRING
 
 > BEGIN STRING
 は周囲を飛び回り、相手を蹂躙した！
-> CONTEXT: Skills/406/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/406/message1
+ leaps around and tramples her opponents!#Ron
 > END STRING
 
 > BEGIN STRING
