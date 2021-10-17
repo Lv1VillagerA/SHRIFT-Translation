@@ -396,9 +396,9 @@ Is the shrine okay!?#Amaboye
 悪魔を倒しながら動き回るってすごいね！
 > CONTEXT: Map459/events/5/pages/0/346/Dialogue/enemy15
 Ehehe, well, a lot happened so I'm out for the
-moment♪
-How about you, are you "studying"? It's amazing
-how you can go around beating demons like that!#Amaboye/iffy
+moment♪ How about you, are you doing that
+"studying"? It's amazing how you go around
+beating demons up like that!#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
@@ -416,24 +416,30 @@ running around in!#Amaboye
 確かに『中を普段走り回ってる』って言いはしたけど……
 
 今のこれはそういうことじゃなくて…
-> CONTEXT: Map459/events/5/pages/0/356/Dialogue/enemy38 < UNTRANSLATED
-I mean... I did talk about running around 
+> CONTEXT: Map459/events/5/pages/0/356/Dialogue/enemy38
+I mean... I did talk about running around in here,
+but that's a bit different from what I'm doing
+here...#Amaboye
 > END STRING
 
 > BEGIN STRING
 なんだ、お前たち知り合いなのか…？
 
 また随分と派手な登場をしたが……
-> CONTEXT: Map459/events/5/pages/0/362/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/362/Dialogue/alice_fc5
+Oh, you two know eachother?
+That was a rather flashy entrance too...#Amaboye
 > END STRING
 
 > BEGIN STRING
 （\\C[2]ホントはお互い違う世界の間柄だけど……\\C[0]
 
 　関係に矛盾はないし。そういうことにしておこうかな……）
-> CONTEXT: Map459/events/5/pages/0/366/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/366/Dialogue/sirousagi_fc1
+(\\C[2]In reality, they're actually from different
+worlds.\\C[0]
+That shouldn't affect their relationship, though,
+so we'll put that aside.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -441,8 +447,11 @@ I mean... I did talk about running around
 
 コイツラ、ニンゲンジャナイ、マギレテル
 タオシテイイカ？？？
-> CONTEXT: Map459/events/5/pages/0/370/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map459/events/5/pages/0/370/Dialogue/enemy37
+MIZUKI!!!
 
+THESE GUYS HAVE NONHUMANS MIXED IN
+CAN I FIGHT THEM?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -450,22 +459,25 @@ I mean... I did talk about running around
 
 オレサマモ、ヤレバデキル！！
 ハヤク、オレサマモ使エ！ミズキ！！
-> CONTEXT: Map459/events/5/pages/0/375/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/375/Dialogue/enemy37
+ONLY BRO ATTACKING, UNFAIR!
+I CAN ATTACK TOO!!
+MIZUKI! USE ME! QUICKLY!#Amaboye
 > END STRING
 
 > BEGIN STRING
 オルトロス！
-> CONTEXT: Map459/events/5/pages/0/380/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/380/Dialogue/enemy37
+Orthrus!#Amaboye
 > END STRING
 
 > BEGIN STRING
 ……！！！
 
 防具が喋った……！！？
-> CONTEXT: Map459/events/5/pages/0/384/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/384/Dialogue/ruka_fc1
+...!
+Her leg guard just talked...!?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -473,16 +485,20 @@ I mean... I did talk about running around
 
 こいつらはずっとこんな感じだから……
 私はもう慣れたけど……
-> CONTEXT: Map459/events/5/pages/0/388/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/388/Dialogue/enemy38
+Yeah... don't pay him any mind.
+He always acts like this after all...
+You get used to it.#Amaboye
 > END STRING
 
 > BEGIN STRING
 我らは瑞紀と契約を交わした悪魔……
 
 自らの意志で、彼女の魔具となり守護の命を全うしている
-> CONTEXT: Map459/events/5/pages/0/393/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/393/Dialogue/enemy37
+We are demons who forged a contract with Mizuki.
+We became her tools of our own will, to protect
+others with our life.#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
@@ -490,22 +506,26 @@ I mean... I did talk about running around
 
 脚にいる方が、我が弟の\\C[2]『オルトロス』\\C[0]だ
 コイツは気性が荒い故、許してやって欲しい
-> CONTEXT: Map459/events/5/pages/0/397/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/397/Dialogue/enemy37
+I am called \\C[2]Cerberus\\C[0].
+The one on her legs is my younger brother,
+\\C[2]Orthrus\\C[0]. I ask that you forgive his rough
+temperament.#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
 ｸﾞﾙﾙ……………
-> CONTEXT: Map459/events/5/pages/0/402/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/402/Dialogue/enemy37
+gururu......#Amaboye
 > END STRING
 
 > BEGIN STRING
 は、はぁ……
 
 ご丁寧にどうも……
-> CONTEXT: Map459/events/5/pages/0/404/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/404/Dialogue/ruka_fc1
+A...Ah...
+Thank you for the polite words...#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
@@ -513,38 +533,44 @@ I mean... I did talk about running around
 近くにとんでもない邪気を感じる……
 
 おそらく今回の騒動の首謀者だ…
-> CONTEXT: Map459/events/5/pages/0/408/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/408/Dialogue/enemy37
+On another note, keep an eye out, Mizuki.
+I feel an incredible evil presence nearby...
+They're likely the cause of this disturbance.#Amaboye
 > END STRING
 
 > BEGIN STRING
 …………分かってるわ。
 
 さっきから、『召喚器』のアラートが鳴りっぱなしよ……
-> CONTEXT: Map459/events/5/pages/0/414/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/414/Dialogue/enemy38
+...I noticed that, too.
+My "summon vessel" has been blaring a warning
+for a while, too.#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
 待ちなさい！！！
 
 ……逃がすもんですか！！
-> CONTEXT: Map459/events/5/pages/0/430/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/430/Dialogue/enemy38
+Hold it right there!
+I won't let you get away!#Amaboye
 > END STRING
 
 > BEGIN STRING
 あっ、待て貴様！
 
 まだ話は終わって……
-> CONTEXT: Map459/events/5/pages/0/454/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/454/Dialogue/alice_fc5
+Hey, wait!
+We haven't finished...#Amaboye
 > END STRING
 
 > BEGIN STRING
 行っちゃった………
-> CONTEXT: Map459/events/5/pages/0/458/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/458/Dialogue/ruka_fc1
+She left...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -552,16 +578,19 @@ I mean... I did talk about running around
 
 なんてったって、１度生身で魔界にも行ったことあるし
 魔王をぶっ飛ばして、世界を救ったこともあるんだから！
-> CONTEXT: Map459/events/5/pages/0/460/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/460/Dialogue/enemy15
+This is Mizuki-chan, she'll be fine!
+She even went into the demon world once, and
+beat up a demon lord there to save the world!#Amaboye
 > END STRING
 
 > BEGIN STRING
 いや、キメラビーストをまとめて一瞬で氷粒にした時点で
 
 もとよりそっちの心配はしておらんわ……
-> CONTEXT: Map459/events/5/pages/0/465/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/465/Dialogue/alice_fc5
+We all saw her pulverize those Chimera Beasts
+earlier, it's not about whether she'll be safe.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -569,14 +598,17 @@ I mean... I did talk about running around
 \\C[2]スマホ型召喚器を持つ、スゴ腕のデビルサマナー……
 
 あんな背格好だけど、この当時は中学３年生だよ。
-> CONTEXT: Map459/events/5/pages/0/469/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/469/Dialogue/sirousagi_fc1
+From what I heard, she, "Takaoka Mizuki", is the
+\\C[2]smartphone summon vessel-wielding, superpowered
+Devil Summoner...
+And at the same time, a 3rd year in junior high.#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
 チュウガク…？
-> CONTEXT: Map459/events/5/pages/0/474/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/474/Dialogue/ruka_fc1
+Junior... high...?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -584,8 +616,10 @@ I mean... I did talk about running around
 
 言い換えれば、１５歳…かな？
 とにかくすごい若いってこと。
-> CONTEXT: Map459/events/5/pages/0/476/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/476/Dialogue/sirousagi_fc1
+Ah, um...
+Put another way, she's... 15 or so?
+Anyways, she's really young.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -593,8 +627,10 @@ I mean... I did talk about running around
 まぁさっきの実力と、夜深ちゃんが言ったとおりだね
 
 神話級の悪魔たちを、わらわらと従えてる。
-> CONTEXT: Map459/events/5/pages/0/481/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/481/Dialogue/sirousagi_fc1
+As for how "superpowered" she is, well, you got 
+to see that earlier, and like Yami-chan said, 
+she's even subjugating myth-tier demons.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -602,8 +638,11 @@ I mean... I did talk about running around
 今はあの２体が、彼女のメイン従者みたいだ。
 
 意思を持つ魔具とは、なかなかレアなモノ見たなぁ
-> CONTEXT: Map459/events/5/pages/0/486/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/486/Dialogue/sirousagi_fc1
+\\C[2]"Frozen Hail Cerberus" and "Crimson Lotus
+Orthrus".\\C[0] These 2 are her current primary
+attendants. It's not every day you get to see
+sentient magical tools like this...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -611,30 +650,35 @@ I mean... I did talk about running around
 
 彼女が『ゲスト』だからね。
 急いで後を追った方が良いんじゃない？
-> CONTEXT: Map459/events/5/pages/0/496/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/496/Dialogue/sirousagi_fc1
+Oh, and I forgot to mention this, but she's our
+Guest here.
+Maybe we should hurry up and follow her?#Amaboye
 > END STRING
 
 > BEGIN STRING
 やっぱりか！！
-> CONTEXT: Map459/events/5/pages/0/502/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/502/Dialogue/ruka_fc1
+Oh, now you tell us!#Amaboye
 > END STRING
 
 > BEGIN STRING
 言うのが遅いわ！阿呆！
 
 刺客とやらの分断の罠だった可能性もあるではないか！
-> CONTEXT: Map459/events/5/pages/0/504/Dialogue/alice_fc6 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/504/Dialogue/alice_fc6
+You should have spoken up sooner, you idiot!
+That earlier presence might have been a ploy
+by those assassins to separate her from us!#Amaboye
 > END STRING
 
 > BEGIN STRING
 急いで追いかけよう！
 
 まだそんなに遠くには行ってないはずだ！
-> CONTEXT: Map459/events/5/pages/0/508/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/508/Dialogue/ruka_fc1
+Let's hurry and chase after her! She shouldn't
+have gotten too far!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -642,8 +686,10 @@ I mean... I did talk about running around
 
 私は、この子を教室に運んでから追いかけるから！
 くれぐれも気をつけてね！
-> CONTEXT: Map459/events/5/pages/0/528/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/528/Dialogue/enemy30
+\\N[1]-kun, go on ahead!
+I'll follow along after carrying this kid into
+the classroom! Make sure to stay safe!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -651,8 +697,10 @@ I mean... I did talk about running around
 
 夜深ちゃんを待っているにしては、神妙な面持ちだね。
 心ここに在らずって感じだ。
-> CONTEXT: Map459/events/5/pages/0/542/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/542/Dialogue/sirousagi_fc1
+...What's wrong? That's an unusual face to make
+if you're just waiting for Yami-chan to come back.
+As if your thoughts are somewhere else.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -660,8 +708,10 @@ I mean... I did talk about running around
 
 \\C[2]『容姿や年齢は全く違うけど
 自分は彼女に会ったことがある』\\C[0]って
-> CONTEXT: Map459/events/5/pages/0/551/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/551/Dialogue/sirousagi_fc1
+You noticed, didn't you?
+Something like \\C[2]"Her appearance and age are totally
+different, but I've definitely met her before."\\C[0]#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -669,8 +719,10 @@ I mean... I did talk about running around
 あのＭ.Ｏ.Ｗの女性…
 
 \\C[2]予想通り、まさしく彼女本人だよ。
-> CONTEXT: Map459/events/5/pages/0/556/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/556/Dialogue/sirousagi_fc1
+That M.O.W. woman who threw your and Reina's
+lives into disarray...
+\\C[2]As you guessed, they're the same person.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -678,16 +730,20 @@ I mean... I did talk about running around
 『ゲスト』は少なからずキミと関わりのある人物だ。
 
 あの『高岡瑞紀』も例外じゃない。
-> CONTEXT: Map459/events/5/pages/0/562/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/562/Dialogue/sirousagi_fc1
+I mentioned this with Yami-chan as well, but
+every "Guest" has some degree of connection with
+you. Takaoka Mizuki is no exception.#Amaboye
 > END STRING
 
 > BEGIN STRING
 \\C[2]でも、この世界の瑞紀はキミの味方……
 
 むしろキミと同じで、Ｍ.Ｏ.Ｗを壊滅するために動いている
-> CONTEXT: Map459/events/5/pages/0/567/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/567/Dialogue/sirousagi_fc1
+\\C[2]But the Mizuki of this world is your ally...
+She's even working against M.O.W., fighting to
+destroy it like you are.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -695,8 +751,10 @@ I mean... I did talk about running around
 長けていたのは共通してるけど………
 
 こっちと向こうじゃ、かなり境遇が違うみたいだ。
-> CONTEXT: Map459/events/5/pages/0/571/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/571/Dialogue/sirousagi_fc1
+It seems she has \\C[2]the ability to subjugate demons\\C[0]
+in any world, but her upbringing here was very
+different.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -704,30 +762,36 @@ I mean... I did talk about running around
 アバドーンを倒すまで、彼女とは仲良くやってほしいな……
 
 むしろそうしないと、足元をすくわれるよ。
-> CONTEXT: Map459/events/5/pages/0/576/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/576/Dialogue/sirousagi_fc1
+I'd like you to set aside your discomfort and
+work with her until we defeat Abaddon...
+Or rather, if you don't, we don't stand a chance.#Amaboye
 > END STRING
 
 > BEGIN STRING
 …………
 
 言われなくても、分かってるさ……
-> CONTEXT: Map459/events/5/pages/0/581/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/581/Dialogue/kazuya
+...
+I understand that without you telling me.#Amaboye
 > END STRING
 
 > BEGIN STRING
 僕の世界のアイツは、倒すべき相手……
 
 そしてあの瑞紀は、共に戦うべき相手だ……
-> CONTEXT: Map459/events/5/pages/0/585/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/585/Dialogue/kazuya
+The bastard from my world is someone to defeat,
+while the Mizuki here is someone to fight
+side-by-side with.#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
 ……………
 
 分かってるなら、いいんだけどね…。
-> CONTEXT: Map459/events/5/pages/0/589/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map459/events/5/pages/0/589/Dialogue/sirousagi_fc1
+...
+Well, as long as you understand...#Amaboye
 > END STRING
