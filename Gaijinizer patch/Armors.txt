@@ -1047,7 +1047,7 @@ Green Apple#Triketos
 抵：＋３０％　ターン終了時、味方全体の体力を８００回復する。
 > CONTEXT: Armors/104/description < UNTRANSLATED
 Armor belonging to the former owners of the Western mansion.
-Restores 800 stamina for the entire party after every turn.#CheckLater
+Will: +30%, Restores party's stamina by 800 each turn.#Ron
 > END STRING
 
 > BEGIN STRING
