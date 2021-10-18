@@ -5365,14 +5365,14 @@ Magic Fly Attack#Ron
 
 > BEGIN STRING
 アンスタン
-> CONTEXT: Skills/409/name < UNTRANSLATED
-
+> CONTEXT: Skills/409/name
+Anstan#RonIffy
 > END STRING
 
 > BEGIN STRING
 はアンスタンを放った！
-> CONTEXT: Skills/409/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/409/message1
+ unleashes Anstan#Ron
 > END STRING
 
 > BEGIN STRING
@@ -5531,26 +5531,26 @@ Submissive Masturbation#afrgPR
 
 > BEGIN STRING
 ケラヴトゥリア
-> CONTEXT: Skills/421/name < UNTRANSLATED
-
+> CONTEXT: Skills/421/name
+Kelavturia#RonIffy
 > END STRING
 
 > BEGIN STRING
 はケラヴトゥリアを放った！
-> CONTEXT: Skills/421/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/421/message1
+ unleashes Kelavturia!#Ron
 > END STRING
 
 > BEGIN STRING
 スプラッシュフルーレ
-> CONTEXT: Skills/422/name < UNTRANSLATED
-
+> CONTEXT: Skills/422/name
+Splash Flourish#RonIffy
 > END STRING
 
 > BEGIN STRING
 はスプラッシュフルーレを放った！
-> CONTEXT: Skills/422/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/422/message1
+ unleashes Splash Flourish!#Ron
 > END STRING
 
 > BEGIN STRING

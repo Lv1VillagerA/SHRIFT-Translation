@@ -3,30 +3,37 @@
 はぁ～……
 
 なんか私、最近ツタに過労働させすぎじゃない…？？？
-> CONTEXT: Map490/events/1/pages/0/3/Dialogue/enemy < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/3/Dialogue/enemy
+Haah...
 
+It really feels like I've been working my ivy
+way too hard lately.#Ron
 > END STRING
 
 > BEGIN STRING
 ランパス…！エンプーサ！
 
 それにバーゲスト！
-> CONTEXT: Map490/events/1/pages/0/8/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/8/Dialogue/kazuya
+Lampas! Empuse!
 
+Even Barghest's here!#Ron
 > END STRING
 
 > BEGIN STRING
 …………
 
 ……わうっ？？
-> CONTEXT: Map490/events/1/pages/0/19/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/19/Dialogue/c_beast_fc1
+......
 
+...Waugh??#Ron
 > END STRING
 
 > BEGIN STRING
 いやだからキミは違うでしょ……
-> CONTEXT: Map490/events/1/pages/0/23/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/23/Dialogue/ruka_fc1
+I'm telling you, you aren't a dog...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -34,16 +41,20 @@
 何故私を助けたの！？
 
 あんな無様な負け方…！消えてしまった方がマシよ！
-> CONTEXT: Map490/events/1/pages/0/26/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/26/Dialogue/highslag_fc1
+Why? Why did you save me?!
 
+I was being so stubborn in defeat, it would've
+been better to let me disappear!!#Ron
 > END STRING
 
 > BEGIN STRING
 この私に、生き恥を晒せというの！？
 
 敵対していた貴方たちに助けられてまで……！！
-> CONTEXT: Map490/events/1/pages/0/31/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/31/Dialogue/highslag_fc1
+Did you want me to live on with the disgrace
+of being rescued by an enemy?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -51,16 +62,19 @@
 もう僕たちは、争う必要はない……
 
 君はそもそも、アバドーンの計画には反対なんだろう？
-> CONTEXT: Map490/events/1/pages/0/36/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/36/Dialogue/kazuya
+It's like I said, there's no need for us to
+fight anymore. I mean, you've never supported
+Abaddon's plans anyway, right?#Ron
 > END STRING
 
 > BEGIN STRING
 それに……敵だからって
 
 あの状況で、むざむざ見殺しにはできないよ……
-> CONTEXT: Map490/events/1/pages/0/41/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/41/Dialogue/kazuya
+Also, it's because we're enemies that I can't
+just stand by and watch you die.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -68,8 +82,11 @@
 
 そりゃあ敵対はしてたけど
 『自分の世界が無くなって欲しくない』のは一緒のはずだよ
-> CONTEXT: Map490/events/1/pages/0/45/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/45/Dialogue/ruka_fc1
+Our goal is ultimately to subdue Abaddon. And
+though that makes us enemies, we should still
+both be on the same page about not wanting our
+world to be destroyed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -77,8 +94,11 @@
 
 マリオンもきっと、そう思って助けたんだと思う
 全然喋らないけど……
-> CONTEXT: Map490/events/1/pages/0/50/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/50/Dialogue/ruka_fc1
+If so, then we should be able to understand one
+another. And though he never says a word, I'm
+sure Marion was also thinking the same thing
+when he helped.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -86,32 +106,39 @@
 
 なんの合図もなしに、３人とも手を伸ばしにいったのが
 良い証拠だ……
-> CONTEXT: Map490/events/1/pages/0/57/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/57/Dialogue/enemy35
+I'm afraid these three aren't interested in ideas
+of "living in disgrace." The fact that they jumped
+to help without any prompting is proof of that.#RonIffy
 > END STRING
 
 > BEGIN STRING
 お前との戦いは終わった……
 
 少なくとも、彼らにとってはな……
-> CONTEXT: Map490/events/1/pages/0/62/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/62/Dialogue/enemy35
+Your battle with them was over.
 
+At least, that's how they saw it.#Ron
 > END STRING
 
 > BEGIN STRING
 まったく、こんな時に知らない子と抜け駆け？
 
 モテる男はつらいねぇ、\\N[1]♡
-> CONTEXT: Map490/events/1/pages/0/69/Dialogue/enemy < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/69/Dialogue/enemy
+Jeez, making the moves on some new girl at a time
+like this? It must be hard being so popular, huh
+\\N[1]. ♡
 > END STRING
 
 > BEGIN STRING
 わたし　ランパス　バーゲスト
 
 ３人、いやな予感して　来た。
-> CONTEXT: Map490/events/1/pages/0/74/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/74/Dialogue/enemy2
+We three... came here because... we had a bad
+feeling...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -119,52 +146,62 @@
 
 ルシィや　ニーナの　部屋ない
 なにがあった？
-> CONTEXT: Map490/events/1/pages/0/78/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/78/Dialogue/enemy2
+And My Room... has gotten weird...
 
+Lucy and Nina don't... have rooms anymore...
+Did something happen?#Ron
 > END STRING
 
 > BEGIN STRING
 そ、それは………
-> CONTEXT: Map490/events/1/pages/0/84/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/84/Dialogue/kazuya
+T-That's...#Ron
 > END STRING
 
 > BEGIN STRING
 ………？
 
 どうしたの？みんな…
-> CONTEXT: Map490/events/1/pages/0/110/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/110/Dialogue/kazuya
+......?
 
+What's wrong, you guys?#Ron
 > END STRING
 
 > BEGIN STRING
 ｳｳｩｩ……！
-> CONTEXT: Map490/events/1/pages/0/116/Dialogue/バーゲスト < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/116/Dialogue/バーゲスト
+Uuugh!#Ron
 > END STRING
 
 > BEGIN STRING
 なにか………来る……！
 
 とてつもないヤツが……！！
-> CONTEXT: Map490/events/1/pages/0/118/Dialogue/enemy < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/118/Dialogue/enemy
+Something crazy... is coming!#Ron
 > END STRING
 
 > BEGIN STRING
 ！！！！！！
 
 ルシィ……さん……！？
-> CONTEXT: Map490/events/1/pages/0/140/Dialogue/enemy < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/140/Dialogue/enemy
+!!!!!!
 
+Lucy... san?!#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]虐殺の世界線のアイアンメイデン\\C[0]………
 
 \\C[2]百鬼が葬ったはずの、あり得てはいけない世界……
-> CONTEXT: Map490/events/1/pages/0/144/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/144/Dialogue/other8
+\\C[10]It's Iron Maiden from the Genocide timeline\\C[0]...
 
+\\C[2]The world that Hyakki was supposed to have
+buried\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -172,16 +209,21 @@
 
 \\C[0]今や、介入権限は向こうの方が強い……
 \\C[10]ヤツは、虐殺の世界線を『正史』にする気なんだ！！
-> CONTEXT: Map490/events/1/pages/0/148/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/148/Dialogue/other8
+The \\C[4]Official Timeline \\C[0]is gradually losing its
+status as \\C[4]Official\\C[0]. Its Intervention authority has
+grown... \\C[10]It's planning on turning the Genocide
+timeline into the Official Timeline!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 くっ……！
 
 戦うしかないのか…！？
-> CONTEXT: Map490/events/1/pages/0/154/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/154/Dialogue/kazuya
+Kgh!
 
+Do we have no choice but to fight her?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -189,8 +231,11 @@
 彼女はあの状態でも強さは変わらないはず……
 
 万が一勝てたとしても、こっちも無事では済まない……
-> CONTEXT: Map490/events/1/pages/0/158/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/158/Dialogue/other8
+We can't!! Her immense power will be unchanged
+even in that state. Even if we somehow managed
+to win, we wouldn't come out of the fight in
+one piece.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -198,38 +243,47 @@
 \\C[2]ヘカーテの時と同じリスクが無いとも限らないし……
 
 不用意に彼女と戦うべきじゃないよ……！！
-> CONTEXT: Map490/events/1/pages/0/163/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/163/Dialogue/other8
+And even if you don't feel any hostility toward
+her, that doesn't mean you should take the same
+risk as when Hecate was trying to bait you. We
+shouldn't carelessly jump into a battle!!#Ron
 > END STRING
 
 > BEGIN STRING
 じ、じゃあどうすれば…！！
-> CONTEXT: Map490/events/1/pages/0/168/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/168/Dialogue/ruka_fc1
+T-Then what are we supposed to do?!!#Ron
 > END STRING
 
 > BEGIN STRING
 …………\\N[1]、先に行って。
 
 彼女の相手は、私たちに任せて。
-> CONTEXT: Map490/events/1/pages/0/174/Dialogue/enemy < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/174/Dialogue/enemy
+Go on ahead, \\N[1].
 
+Leave her to us.#Ron
 > END STRING
 
 > BEGIN STRING
 私たち　できるだけ時間　稼ぐ
 
 だから　\\N[1]　アバドーン　たおす
-> CONTEXT: Map490/events/1/pages/0/178/Dialogue/enemy3 < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/178/Dialogue/enemy3
+We'll buy you... as much time... as we can...
 
+So go, \\N[1]... defeat Abaddon...#Ron
 > END STRING
 
 > BEGIN STRING
 な、何言ってるんだよ３人とも……！！
 
 そんなこと…！
-> CONTEXT: Map490/events/1/pages/0/185/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/185/Dialogue/kazuya
+What're you saying?!!
 
+You can't...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -237,8 +291,11 @@
 楽観的な考えは持ってないわよ。
 
 ただの時間稼ぎ。そもそも戦闘は得意じゃないし。
-> CONTEXT: Map490/events/1/pages/0/190/Dialogue/enemy < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/190/Dialogue/enemy
+We're not under any illusions that we can easily
+defeat Lucy-san. We're just buying you some time.
 
+It's not like there's any benefit to doing this.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -246,8 +303,11 @@
 ようはアバドーンってヤツを倒せば、全てが解決なんでしょ？
 
 じゃあ\\N[1]は、そいつを倒すのに集中して。
-> CONTEXT: Map490/events/1/pages/0/195/Dialogue/enemy < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/195/Dialogue/enemy
+I only get the gist of what's happening, but
+basically, everything goes back to normal if you
+beat Abaddon, right? So that's all you should be
+focusing on.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -255,8 +315,11 @@
 アルケニーの巣と　同じ
 
 危なくなったら　逃げる　無茶しない
-> CONTEXT: Map490/events/1/pages/0/200/Dialogue/enemy3 < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/200/Dialogue/enemy3
+We don't need... you to worry... about us...
+Just like in... Arachne's nest...
 
+We'll run away... if it gets... too dangerous...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -264,14 +327,16 @@
 ここはひとまず、彼女たちに任せた方が良さそうだ。
 
 私たちの本来の目的を見失ってはいかん！
-> CONTEXT: Map490/events/1/pages/0/205/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/205/Dialogue/enemy35
+\\N[1], I think you should leave this to
+them for now. We can't forget about our original
+objective!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん……！！
-> CONTEXT: Map490/events/1/pages/0/210/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/210/Dialogue/other8
+\\N[1]-kun!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -279,16 +344,21 @@
 
 ３人とも……気をつけて…！
 絶対に無茶はするなよ……！
-> CONTEXT: Map490/events/1/pages/0/213/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/213/Dialogue/kazuya
+I understand.
 
+Be careful, you three! Don't you do anything
+reckless!#Ron
 > END STRING
 
 > BEGIN STRING
 ………なによアンタ。逃げなくてもいいわけ？
 
 この戦いに、アンタは関係ないはずだけど？
-> CONTEXT: Map490/events/1/pages/0/236/Dialogue/enemy < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/236/Dialogue/enemy
+What's your deal? Aren't you going to run?
 
+It's not like you have a dog in this fight.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -296,28 +366,34 @@
 
 でも……どうやら私も貴方たち同様、彼によって
 少しおかしくなってしまったみたいね……
-> CONTEXT: Map490/events/1/pages/0/240/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/240/Dialogue/highslag_fc1
+That might've been true until just a little while
+ago. But it would appear that he's done something
+to turn me a little strange, just as he did to
+you all.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 \\C[10]世界融解\\C[0]の力が無くても、充分に私は強い……
 
 貴方たちにも、それを見せてあげるわ……
-> CONTEXT: Map490/events/1/pages/0/245/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/245/Dialogue/highslag_fc1
+I'll make it abundantly clear just how powerful I
+am even without the power of the \\C[10]World Fusion\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 ｳｳｳｳｳｩｩｩｩ……！
-> CONTEXT: Map490/events/1/pages/0/250/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map490/events/1/pages/0/250/Dialogue/enemy37
+Uuuurgh!#ron
 > END STRING
 
 > BEGIN STRING
 目標……認識……
 
 陽動攻撃、開始……
-> CONTEXT: Map490/events/1/pages/0/252/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Map490/events/1/pages/0/252/Dialogue/c_beast_fc1
+Objective... confirmed...
 
+Commencing diversionary attack...#Ron
 > END STRING

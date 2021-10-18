@@ -411,8 +411,10 @@ support.#Ron
 ハイスラッグ娘の繁殖相手になってしまったのね……
 
 今のあなたなら、それも幸せなのかもしれないけど……
-> CONTEXT: CommonEvents_770/307/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/307/Dialogue/other5
+So you became High Slug Girl's reproductive
+partner. The way you are now, that might actually
+be something you're happy about...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -420,16 +422,21 @@ support.#Ron
 貴族系の悪魔に態度を弱くする傾向があるわね……
 
 もしかして……高貴な雰囲気に弱いのかしら？
-> CONTEXT: CommonEvents_770/312/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/312/Dialogue/other5
+Just like with Iron Maiden, you seem to have a
+thing for high-class demons. Is it their
+aristocratic demeanor that really does it for
+you?#Ron
 > END STRING
 
 > BEGIN STRING
 う～ん……
 
 なにも言い返せない……
-> CONTEXT: CommonEvents_770/317/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_770/317/Dialogue/kazuya
+Hmmm...
 
+I don't have a comeback for that...Ron
 > END STRING
 
 > BEGIN STRING
@@ -437,8 +444,13 @@ support.#Ron
 回数や状態異常が怖いから、受けるより流す方が楽よ。
 
 『夜深のサポートスキル』を活用するといいわ。
-> CONTEXT: CommonEvents_770/322/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/322/Dialogue/other5
+High Slug Girl \\C[2]focuses heavily on physical
+attacks, but since she has multiple attacks and
+inflicts statuses on you, you're best to avoid
+getting hit rather than trading blows.
+\\C[2]Yami's support skill is very useful in that
+regard.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -446,8 +458,11 @@ support.#Ron
 \\C[2]ルカのノームを召喚しておくと良いわ。
 
 ただ、『ゲラヴトゥリア』だけは雷属性な事に注意してね。
-> CONTEXT: CommonEvents_770/327/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/327/Dialogue/other5
+Of course, her counterattacks will be aimed at
+you so \\C[2]having Luka summon Gnome is a good idea.
+But be especially careful of her lightning-based
+Kelavturia attack.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -455,8 +470,11 @@ support.#Ron
 
 \\C[2]夜深のサポートスキルが発動できるようであれば
 それだけで大ダメージを与えられるはず。
-> CONTEXT: CommonEvents_770/332/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/332/Dialogue/other5
+You should evade whenever it looks like she's
+about to use her special move, \\C[2]but if you can
+activate Yami's counter support skill, it's also
+a chance to deal a lot of damage to her\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -464,8 +482,11 @@ support.#Ron
 
 ルカの「壊斧・大山鳴動」が使えるようなチャンスがあれば
 一斉逆転のダメージを与えられるでしょうね……
-> CONTEXT: CommonEvents_770/337/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/337/Dialogue/other5
+\\C[2]Lightning damage is effective \\C[0]against High Slug
+Girl, so if you can use Luka's Earth Rumbling
+Decapitation, you'll do a whole lot of damage
+all at once.#Ron
 > END STRING
 
 > BEGIN STRING

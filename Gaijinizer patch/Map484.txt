@@ -72,30 +72,38 @@ Feel free to touch them if you're curious.#RonIffyWording
 ………やぁ、\\N[1]。
 
 ずいぶんと急いでるみたいだね。
-> CONTEXT: Map484/events/35/pages/0/2/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/2/Dialogue/hyakki
+Heya, \\N[1].
 
+Looks like you're in quite a hurry.#Ron
 > END STRING
 
 > BEGIN STRING
 百鬼……！！？
-> CONTEXT: Map484/events/35/pages/0/6/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/6/Dialogue/kazuya
+Hyakki?!!#Ron
 > END STRING
 
 > BEGIN STRING
 えええ……
 
 こんな時に、厄介な子に……
-> CONTEXT: Map484/events/35/pages/0/8/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/8/Dialogue/other8
+Haah...
 
+This isn't the time to be running into
+nuisances...#Ron
 > END STRING
 
 > BEGIN STRING
 ルシフェル、彼女には見つからないように準備してくれって
 
 最初に散々言ったじゃないか……！
-> CONTEXT: Map484/events/35/pages/0/12/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/12/Dialogue/other8
+Lucifer, I thought I asked you to make sure we
+wouldn't be found.
 
+Didn't I make that very clear?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -103,85 +111,97 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 彼女の気配には一段と入念に警戒していたよ。
 尾けられていたなんて事はありえない。
-> CONTEXT: Map484/events/35/pages/0/16/Dialogue/enemy36 < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/16/Dialogue/enemy36
+Are you implying a mistake on my part? How absurd.
+I was particularly on alert for her presence.
 
+There is no way that we could have been tailed.#Ron
 > END STRING
 
 > BEGIN STRING
 アンタや\\N[1]を見つけたのは、アタシじゃないよ。
 
 実は、\\C[2]情報を提供してくれた『協力者』がいるのさ
-> CONTEXT: Map484/events/35/pages/0/22/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/22/Dialogue/hyakki
+I wasn't the one who found you and \\N[1].
 
+To tell you the truth, \\C[2]I had a helper furnish
+me with the info.#Ron
 > END STRING
 
 > BEGIN STRING
 『協力者』……？
-> CONTEXT: Map484/events/35/pages/0/26/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/26/Dialogue/kazuya
+A helper?#Ron
 > END STRING
 
 > BEGIN STRING
 残念なラミアが現れた！\\|\\|\\|\\|\\|\\^
-> CONTEXT: Map484/events/35/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/38/Dialogue
+Unfortunate Lamia appears!\\|\\|\\|\\|\\|\\^#Ron
 > END STRING
 
 > BEGIN STRING
 あなたが\\N[1]ね……
 
 お目にかかれて嬉しいわ
-> CONTEXT: Map484/events/35/pages/0/41/Dialogue/コラボ^アミラ < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/41/Dialogue/コラボ^アミラ
+You're \\N[1], aren't you?
 
+I'm pleased to be able to make your acquaintance.#Ron
 > END STRING
 
 > BEGIN STRING
 撃つ
-> CONTEXT: Map484/events/35/pages/0/45/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/45/Choice/0
+Shoot it#Ron
 > END STRING
 
 > BEGIN STRING
 名を尋ねる
-> CONTEXT: Map484/events/35/pages/0/45/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/45/Choice/1
+Ask its name#Ron
 > END STRING
 
 > BEGIN STRING
 キャーーーーッ！！！
-> CONTEXT: Map484/events/35/pages/0/50/Dialogue/コラボ^アミラ < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/50/Dialogue/コラボ^アミラ
+Kyaaaah!!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]の放った弾丸は
 
 間一髪のところで地面に着弾した！！
-> CONTEXT: Map484/events/35/pages/0/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/52/Dialogue
+The bullet missed by a hair's breadth, hitting the ground!!#Ron
 > END STRING
 
 > BEGIN STRING
 フーッ…！！
 
 フーッ……！！！
-> CONTEXT: Map484/events/35/pages/0/56/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/56/Dialogue/kazuya-b
+Fuugh!!
 
+Fuugh!!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん落ち着いて！！
 
 よく見て！！かわいいラミアちゃんだよ！！
-> CONTEXT: Map484/events/35/pages/0/60/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/60/Dialogue/enemy30
+Calm down, \\N[1]-kun!!
 
+Look closely!! It's just a cute little lamia!!#Ron
 > END STRING
 
 > BEGIN STRING
 か、かわいい……？？？？
-> CONTEXT: Map484/events/35/pages/0/64/Dialogue/enemy35 < UNTRANSLATED
-> CONTEXT: Map484/events/35/pages/0/86/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/64/Dialogue/enemy35
+> CONTEXT: Map484/events/35/pages/0/86/Dialogue/enemy35
+C-Cute?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -189,8 +209,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 　ここまで拒否反応を示すなんて、よっぽどだなぁ
 　
 　人外度じゃ、そこまで大差ないのに）
-> CONTEXT: Map484/events/35/pages/0/66/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/66/Dialogue/sirousagi_fc1
+(I didn't think the \\C[4]True Mercy \\C[0]\\N[1]-kun
+ would have such instinctual revulsion toward
+ her... She doesn't look that much more non-human
+ than what he's used to.)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -198,8 +221,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 さらなる変な誤解を招く前に、
 自己紹介を済ませておこうか、アミラ……
-> CONTEXT: Map484/events/35/pages/0/71/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/71/Dialogue/hyakki
+Errr...
 
+Let's get the introductions out of the way before
+we invite any more weird misunderstandings.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -207,28 +233,34 @@ Feel free to touch them if you're curious.#RonIffyWording
 私の名前は\\C[2]アミラ\\C[0]……情報屋よ。
 
 ラミアだけど、ラミアじゃない、ちょっと特別なラミア……
-> CONTEXT: Map484/events/35/pages/0/77/Dialogue/コラボ^アミラ < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/77/Dialogue/コラボ^アミラ
+Allow me to officially introduce myself. My name
+is \\C[2]Amira \\C[0]the information broker. I'm a bit of
+a special case in that I'm both a lamia but also
+not.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 わぁ、かわいいラミアさんだ！
-> CONTEXT: Map484/events/35/pages/0/84/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/84/Dialogue/enemy15
+Waah, what a cute little lamia!#Ron
 > END STRING
 
 > BEGIN STRING
 き、君は……？
-> CONTEXT: Map484/events/35/pages/0/88/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/88/Dialogue/kazuya
+W-Who are you?#Ron
 > END STRING
 
 > BEGIN STRING
 私の名前は\\C[2]アミラ\\C[0]……情報屋よ。
 
 ラミアだけど、ラミアじゃない、ちょっと特別なラミア……
-> CONTEXT: Map484/events/35/pages/0/90/Dialogue/コラボ^アミラ < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/90/Dialogue/コラボ^アミラ
+Allow me to officially introduce myself. My name
+is \\C[2]Amira \\C[0]the information broker. I'm a bit of
+a special case in that I'm both a lamia but also
+not.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -236,8 +268,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 いくらお前が情報屋だからといって、限度があるだろう！
 なぜ我々がここに居ると分かったのだ！
-> CONTEXT: Map484/events/35/pages/0/96/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/96/Dialogue/alice_fc5
+Wait, hold up! No matter what kind of information
+broker you might be, there must be some limit on
+what you can find out! How did you know we were
+here?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -245,16 +280,21 @@ Feel free to touch them if you're curious.#RonIffyWording
 勇者様のいるところ、たとえ火の中水のｎ……
 
 って、何を言ってるのかしら、私。
-> CONTEXT: Map484/events/35/pages/0/101/Dialogue/コラボ^アミラ < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/101/Dialogue/コラボ^アミラ
+Don't you know? Love has no limits.
+No matter where Hero-sama might be, come hell and
+high water I'll... Wait, what am I saying?#Ron
 > END STRING
 
 > BEGIN STRING
 とにかく、私の情報網をなめてもらっちゃ困るわ。
 
 百鬼にこの空間の原理を少し教えてもらったら、あとは簡単よ
-> CONTEXT: Map484/events/35/pages/0/106/Dialogue/コラボ^アミラ < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/106/Dialogue/コラボ^アミラ
+Anyway, don't underestimate my information
+network. All I needed was Hyakki to explain a
+little of how this place ticks and the rest was
+simple.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -262,16 +302,24 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 あんな大金積まれちゃ、道案内として同行しなくちゃ
 情報屋としてのメンツが立たないというもの……
-> CONTEXT: Map484/events/35/pages/0/110/Dialogue/コラボ^アミラ < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/110/Dialogue/コラボ^アミラ
+I didn't actually want to come to a dangerous
+place like this...
 
+
+But after the stack of cash she put in front of
+me, I'd be a disgrace to information brokers
+everywhere if I didn't guide her here.#Ron
 > END STRING
 
 > BEGIN STRING
 そしてそのついでに、私たちの世界には
 
 私のようなかわいいモン娘が沢山いると知らしめなきゃ……
-> CONTEXT: Map484/events/35/pages/0/115/Dialogue/コラボ^アミラ < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/115/Dialogue/コラボ^アミラ
+And while I'm doing that I thought I'd could let
+the people here know that our world is full of
+cute monster girls just like me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -279,8 +327,10 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 余に『どうにかしろ』という目線を送るな…！
 こやつがどういう布教をしたいかなど関せぬ
-> CONTEXT: Map484/events/35/pages/0/123/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/123/Dialogue/alice_fc5
+Stop it! Don't give me that look like you're
+expecting me to do something about this! Whatever
+she's trying to preach has nothing to do with me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -288,44 +338,53 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 その中にはまぁ……その…
 個性的な者もいるのは、否定せぬが…
-> CONTEXT: Map484/events/35/pages/0/128/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/128/Dialogue/alice_fc5
+There's a great variety of monster girls that
+live in our world! And I can't deny that among
+them are... well... some unique ones.#Ron
 > END STRING
 
 > BEGIN STRING
 ………やけに歯切れが悪い言い方だな……？
 
 もしや、似たような種はまだ居るということか…？
-> CONTEXT: Map484/events/35/pages/0/133/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/133/Dialogue/enemy37
+That's an awfully vague way of phrasing it.
 
+Are we to believe that there are others like this
+one?#Ron
 > END STRING
 
 > BEGIN STRING
 あー……
 
 『残念系』って、そういう………
-> CONTEXT: Map484/events/35/pages/0/137/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/137/Dialogue/enemy38
+Aah
 
+"Unfortunate type", now I get it...#Ron
 > END STRING
 
 > BEGIN STRING
 ………っ！！
-> CONTEXT: Map484/events/35/pages/0/141/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/141/Dialogue/alice_fc5
+......!!#Ron
 > END STRING
 
 > BEGIN STRING
 （図星なんだな……）
-> CONTEXT: Map484/events/35/pages/0/143/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/143/Dialogue/kazuya
+(Bingo...)#Ron
 > END STRING
 
 > BEGIN STRING
 っていうか、ルカやアリスの世界の子なんだね……
 
 なんていうか……個性的だなぁとは思ったけど……
-> CONTEXT: Map484/events/35/pages/0/145/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/145/Dialogue/kazuya
+So that means she's from your world?
 
+She does have a pretty... distinctive look...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -333,8 +392,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 道案内もそうだけど、\\C[2]販売物資も一緒に持ってこれたしネ。
 
 \\C[0]そろそろ、消耗品が不安になってきた頃じゃないかい？
-> CONTEXT: Map484/events/35/pages/0/149/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/149/Dialogue/hyakki
+Amira really helped me out. Not only did she guide
+me here, \\C[2]but she also helped bring the
+merchandise\\C[0]. I'll bet you guys are starting
+to run low on items about now, huh?#
 > END STRING
 
 > BEGIN STRING
@@ -342,22 +404,29 @@ Feel free to touch them if you're curious.#RonIffyWording
 販売含めたその他諸々は、彼女に任せることにするよ。
 
 がんばりな、\\N[1]
-> CONTEXT: Map484/events/35/pages/0/154/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/154/Dialogue/hyakki
+I've brought the goods from the human realm but
+I'm leaving sales and anything else up to her.
 
+Hang in there, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
 あ、あれ………？
 
 ボクのことはいいの……？
-> CONTEXT: Map484/events/35/pages/0/161/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/161/Dialogue/other8
+H-Huh?
 
+Aren't you going to do anything about me being
+here?#Ron
 > END STRING
 
 > BEGIN STRING
 あんなに、『次に会ったときは…』的なこと言ってたのに…
-> CONTEXT: Map484/events/35/pages/0/165/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/165/Dialogue/other8
+You made some pretty bold statements about what
+you'd do next time we met...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -365,8 +434,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 でも今のアンタをぶちのめして潰れあんパンにしたところで
 アタシは満足しないよ…
-> CONTEXT: Map484/events/35/pages/0/171/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/171/Dialogue/hyakki
+It's true that I hate you so much I wish I could
+kill you. But the way you are now, beating you to
+a bloody pulp and smashing your head in wouldn't
+be satisfying at all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -374,8 +446,10 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 アンタが\\N[1]を道案内しないなら
 どうやってアバドーンを倒すつもりなんだい？
-> CONTEXT: Map484/events/35/pages/0/176/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/176/Dialogue/hyakki
+And I'm not so stupid as to do something that
+short-sighted. \\N[1] wouldn't be able to
+defeat Abaddon without you there to guide him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -383,8 +457,10 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 \\C[0]マイルームでアンタを待っているのを知ったからこそ
 あいつはアタシの後を尾けてきてたんだよ
-> CONTEXT: Map484/events/35/pages/0/181/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/181/Dialogue/hyakki
+\\C[2]There's a reason why the Twins have their eye on
+me. \\C[0]It's because they knew I was in My Room
+waiting for you that they started following me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -392,8 +468,10 @@ Feel free to touch them if you're curious.#RonIffyWording
 アンタとの諍いは、一時休戦だ。
 
 お互いのケジメのためにね。
-> CONTEXT: Map484/events/35/pages/0/186/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/186/Dialogue/hyakki
+I'm declaring a truce between us until this
+series of problems is resolved so we can both
+take responsibility for our mistakes.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -401,20 +479,23 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 気をつけて先に進むんだよ！
 アバドーンなんか、バーンとぶっ飛ばしちゃいな！
-> CONTEXT: Map484/events/35/pages/0/196/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/196/Dialogue/hyakki
+So there ya have it, \\N[1]!
 
+Be careful moving on ahead, and be sure to give
+Abaddon a smack right in his ugly face!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 …………負けるんじゃないよ。
-> CONTEXT: Map484/events/35/pages/0/201/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/201/Dialogue/hyakki
+Don't give in.#Ron
 > END STRING
 
 > BEGIN STRING
 百鬼は、空間の奥へと姿を消した……
-> CONTEXT: Map484/events/35/pages/0/214/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/214/Dialogue
+Hyakki disappeared somewhere deeper into this space...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -422,15 +503,18 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 \\C[2]チェシャが、百鬼に憎まれている理由って
 いったい何なんだ……？
-> CONTEXT: Map484/events/35/pages/0/218/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/218/Dialogue/kazuya
+Oh yeah, I didn't ask about something really
+important. \\C[2]Cheshire, just what did you do to
+make Hyakki hate you so much?#Ron
 > END STRING
 
 > BEGIN STRING
 そして、何故チェシャと同じように
 \\C[10]『介入』\\C[0]を理解しているんだ…？
-> CONTEXT: Map484/events/35/pages/0/223/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/223/Dialogue/kazuya
+And why does she have the same understanding
+of \\C[10]Interventions \\C[0]that you do?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -438,8 +522,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 百鬼の一族は、オニっていう種族にしては珍しく
 \\C[2]商業や、科学の研究に関心の高かった一族なんだ。
-> CONTEXT: Map484/events/35/pages/0/227/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/227/Dialogue/sirousagi_fc1
+Hmm, I guess you could say they're natural
+enemies. Hyakki's tribe has unusually strong
+connections to business and scientific research
+for oni.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -447,8 +534,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 遠い未来で、とんでもないものを造ってしまうんだよ……
 
 \\C[10]Ｍ.Ｏ.Ｗの『双子』の身体さ
-> CONTEXT: Map484/events/35/pages/0/232/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/232/Dialogue/sirousagi_fc1
+But those amazing abilities are also a curse.
+They created something heinous in a distant
+future. \\C[10]The bodies of the Twins that M.O.W.
+used\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -456,8 +546,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 ただ、彼女の一族が関わることで
 『双子』の身体は、より正確な\\C[10]『介入』\\C[0]が出来てしまった…
-> CONTEXT: Map484/events/35/pages/0/240/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/240/Dialogue/sirousagi_fc1
+Of course, not everyone on the staff were members
+of her tribe. But through her tribe's involvement,
+the Twins' bodies could carry out more accurate
+\\C[10]Intervention\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -465,8 +558,14 @@ Feel free to touch them if you're curious.#RonIffyWording
 計画そのものを無かったことには出来ない。
 
 だけど、上位存在は\\C[10]『介入』を完全に模倣\\C[0]されても困る……
-> CONTEXT: Map484/events/35/pages/0/245/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/245/Dialogue/sirousagi_fc1
+Now not only did you have Abaddon's
+materialization to deal with, but on top of that
+there was no way to negate his plans.
 
+But having \\C[10]Intervention \\C[0]power perfectly copied
+like that was a real problem for the higher
+powers.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -474,8 +573,14 @@ Feel free to touch them if you're curious.#RonIffyWording
 \\C[2]彼女の一族が関わってはいけない…
 
 少なくとも、未来まで生きて、研究資料が残ってはいけない…
-> CONTEXT: Map484/events/35/pages/0/250/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/250/Dialogue/sirousagi_fc1
+\\C[2]Hyakki's tribe had to be prevented from getting
+involved in that research to make sure all that
+didn't come to pass.
 
+\\C[2]At the very least, they couldn't be allowed to
+live until that future and leave behind their
+research material.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -483,8 +588,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 \\C[0]上位存在に言われるがまま、躊躇いなく……
 
 \\C[10]世界線の修正が、ボクの使命だから……
-> CONTEXT: Map484/events/35/pages/0/256/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/256/Dialogue/other8
+That's why \\C[10]I destroyed her tribe.
+Because I was tasked with fixing the timeline\\C[0], I
+did was I was told by the higher powers without
+hesitation.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -492,8 +600,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 \\C[2]対象リストに載ってないという理由で、
 その村にいた百鬼だけを見逃したんだ
-> CONTEXT: Map484/events/35/pages/0/261/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/261/Dialogue/other8
+But at the time, she'd only just been born. \\C[2]And
+so because her name wasn't on the target list,
+she was the sole survivor I left behind in her
+village.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -501,8 +612,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 一人残された彼女が、ボクに対してどんな気持ちを抱くか…
 
 \\C[0]そんなことすら、当時のボクは想像できなかったんだ……
-> CONTEXT: Map484/events/35/pages/0/266/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/266/Dialogue/other8
+At the time, I couldn't even fathom what she must
+have thought of me, \\C[2]seeing me obliterate her
+entire tribe right in front of her, leaving her
+the only one of her kind left\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -510,8 +624,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 おそらく、彼女一人だけ残しても
 双子の開発に関わる可能性は皆無と判断されたのだろう。
-> CONTEXT: Map484/events/35/pages/0/271/Dialogue/enemy36 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/271/Dialogue/enemy36
+Just like now, she was also a peddler back then.
+So it was likely decided that chances of her
+becoming involved in the development of the Twins
+was practically non-existent.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -519,22 +636,28 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 あいにく、相手は\\C[10]『介入媒体』\\C[0]……
 一つの世界を探し歩くには、限界があった。
-> CONTEXT: Map484/events/35/pages/0/276/Dialogue/enemy36 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/276/Dialogue/enemy36
+As you'd expect, she followed Cheshire to get
+revenge, but unfortunately for her, she was
+chasing an \\C[10]Intervention Medium \\C[0]who was not limited
+to just a single world.#Ron
 > END STRING
 
 > BEGIN STRING
 それでも彼女は諦めず、並行して色んな世界を彷徨った……
 
 そして、『ある事』に気付いたんだ……
-> CONTEXT: Map484/events/35/pages/0/281/Dialogue/enemy36 < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/281/Dialogue/enemy36
+But she didn't give up, and wandered through all
+kinds of parallel worlds.
 
+And then, she became aware of it...#Ron
 > END STRING
 
 > BEGIN STRING
 ………\\C[10]介入\\C[0]の存在さ
-> CONTEXT: Map484/events/35/pages/0/285/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/285/Dialogue/sirousagi_fc1
+The existence of \\C[10]Interventions\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -542,8 +665,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 ボクが何者なのか……どういう法則で観測されるのか……
 
 さすがは、一族の血筋とでもいうんだろうか……
-> CONTEXT: Map484/events/35/pages/0/290/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/290/Dialogue/other8
+She was doing research while she was carrying out
+her peddler job. She found out what I am, about
+the natural laws used to observe. As expected
+from a member of her tribe.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -551,8 +677,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 \\C[10]『世界が、一つの期間で一人の人物を中心として
 　大幅な歴史の修正が行われていること』\\C[0]に……
-> CONTEXT: Map484/events/35/pages/0/295/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/295/Dialogue/other8
+And in finding all that out, she learned about
+\\C[10]the world's history being revised in a large
+way through a single individual in a single period
+of time\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -560,20 +689,23 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 宇宙を又にかけるＳＦな世界観の世界で銀河を救ったり
 荒廃した世界で希望を見いだす\\C[10]『介入対象』\\C[0]たちの姿を
-> CONTEXT: Map484/events/35/pages/0/300/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/300/Dialogue/other8
+She went to a number of worlds and saw it with
+her own eyes. \\C[10]Intervention targets \\C[0]who saved the
+galaxy in some universe-spanning sci-fi world,
+and ones who found hope in devastated worlds.#RonIffy
 > END STRING
 
 > BEGIN STRING
 そして……\\C[2]『ある事件』\\C[0]が起きた
-> CONTEXT: Map484/events/35/pages/0/305/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/305/Dialogue/other8
+And then... a \\C[2]certain incident \\C[0]happened.#Ron
 > END STRING
 
 > BEGIN STRING
 『ある事件』……？
-> CONTEXT: Map484/events/35/pages/0/307/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/307/Dialogue/kazuya
+A certain incident?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -581,16 +713,21 @@ Feel free to touch them if you're curious.#RonIffyWording
 \\C[2]とある\\C[10]『介入対象者』\\C[2]の魂と融合してしまったんだ。
 
 すると、彼女はその\\C[10]『介入』\\C[2]を常に感じれるようになった。
-> CONTEXT: Map484/events/35/pages/0/309/Dialogue/enemy36 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/309/Dialogue/enemy36
+The fusing of a \\C[2]certain \\C[10]Intervention target's \\C[0]soul
+in the form of a promise made as a demon. Having
+done that, \\C[2]she started constantly feeling the
+effects of that \\C[10]Intervention\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 しかも、更に具合の悪いことに……
 
 それは\\C[10]『チェシャくんの介入』\\C[0]だったんだよ
-> CONTEXT: Map484/events/35/pages/0/314/Dialogue/enemy36 < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/314/Dialogue/enemy36
+And to make things even worse...
 
+It was \\C[10]Cheshire's Intervention \\C[0]that she felt.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -598,22 +735,28 @@ Feel free to touch them if you're curious.#RonIffyWording
 いつまでたっても\\C[2]『百鬼を消去しろ』\\C[0]とは命令しなかった。
 
 ………ボクにはそれが何故か、最近まで分からなかった。
-> CONTEXT: Map484/events/35/pages/0/318/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/318/Dialogue/other8
+Even though individuals learning about
+Intervention is usually a problem, the higher
+powers never ordered me to eliminate her. I never
+understood why until recently.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]\\N[1]くんの、\\C[10]介入\\C[2]をするまでは……
-> CONTEXT: Map484/events/35/pages/0/325/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/325/Dialogue/other8
+\\C[2]Not until your \\C[10]Intervention\\C[2]...#Ron
 > END STRING
 
 > BEGIN STRING
 そうか……\\C[4]『正史』\\C[0]……！！
 
 \\C[2]僕の\\C[4]『正史』\\C[2]に必須な存在だから、消されなかったのか…！
-> CONTEXT: Map484/events/35/pages/0/327/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map484/events/35/pages/0/327/Dialogue/kazuya
+The \\C[4]official timeline\\C[0]...!!
 
+She was never eliminated because she was critical
+to creating the \\C[4]official timeline\\C[0]!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -621,8 +764,10 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 ボクは、彼女に恨まれても仕方ない。
 だから、ボクにはどのみち、彼女を止める権利はない。
-> CONTEXT: Map484/events/35/pages/0/336/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/336/Dialogue/other8
+I understand now. There's no helping the fact
+that she resents me, so I have no right to stop
+her anyway.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -630,8 +775,11 @@ Feel free to touch them if you're curious.#RonIffyWording
 ボクに出来るなら、喜んで罪を償うよ。
 
 でも、今はその時じゃない………
-> CONTEXT: Map484/events/35/pages/0/341/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/341/Dialogue/other8
+Though I don't know if you could say that I'm an
+entity with a "life" as such, but I'll gladly pay
+for my sins in any way I can. But now's not the
+time for that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -639,14 +787,16 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 アバドーンとヤツを倒すまで、ボクの役目は終わらない
 いや、終われないんだって…
-> CONTEXT: Map484/events/35/pages/0/346/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/346/Dialogue/other8
+Since seeing her in that forest, I've firmly
+believed that my duty will not end, cannot end,
+until Abaddon is defeated.#Ron
 > END STRING
 
 > BEGIN STRING
 チェシャ………………
-> CONTEXT: Map484/events/35/pages/0/352/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/352/Dialogue/kazuya
+Cheshire...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -654,87 +804,92 @@ Feel free to touch them if you're curious.#RonIffyWording
 
 手遅れになってからじゃ遅いんだ！
 チャチャっとアバドーンを倒しに行こう！
-> CONTEXT: Map484/events/35/pages/0/354/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map484/events/35/pages/0/354/Dialogue/other8
+Now then, let's hurry on ahead!! We can't afford
+to take our time! Let's get a move-on and take
+down Abaddon!#Ron
 > END STRING
 
 > BEGIN STRING
 冒険に便利な道具箱代わり、ゆかいなアミラよ。
 
 さぁ、私に何の用かしら？
-> CONTEXT: Map484/events/39/pages/0/5/Dialogue/コラボ^アミラ < UNTRANSLATED
-> CONTEXT: Map491/events/39/pages/0/5/Dialogue/コラボ^アミラ < UNTRANSLATED
-> CONTEXT: Map491/events/36/pages/0/5/Dialogue/コラボ^アミラ < UNTRANSLATED
-> CONTEXT: Map499/events/3/pages/0/5/Dialogue/コラボ^アミラ < UNTRANSLATED
-> CONTEXT: Map499/events/19/pages/0/5/Dialogue/コラボ^アミラ < UNTRANSLATED
-> CONTEXT: Map506/events/1/pages/0/5/Dialogue/コラボ^アミラ < UNTRANSLATED
+> CONTEXT: Map484/events/39/pages/0/5/Dialogue/コラボ^アミラ
+> CONTEXT: Map491/events/39/pages/0/5/Dialogue/コラボ^アミラ
+> CONTEXT: Map491/events/36/pages/0/5/Dialogue/コラボ^アミラ
+> CONTEXT: Map499/events/3/pages/0/5/Dialogue/コラボ^アミラ
+> CONTEXT: Map499/events/19/pages/0/5/Dialogue/コラボ^アミラ
+> CONTEXT: Map506/events/1/pages/0/5/Dialogue/コラボ^アミラ
+Instead of a convenient adventuring toolbox,
+you've got the delightful Amira.
 
+Now then, was there something you needed?#Ron
 > END STRING
 
 > BEGIN STRING
 売買したい
-> CONTEXT: Map484/events/39/pages/0/9/Choice/0 < UNTRANSLATED
-> CONTEXT: Map491/events/39/pages/0/9/Choice/0 < UNTRANSLATED
-> CONTEXT: Map491/events/36/pages/0/9/Choice/0 < UNTRANSLATED
-> CONTEXT: Map499/events/3/pages/0/9/Choice/0 < UNTRANSLATED
-> CONTEXT: Map499/events/19/pages/0/9/Choice/0 < UNTRANSLATED
-> CONTEXT: Map506/events/1/pages/0/9/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map484/events/39/pages/0/9/Choice/0
+> CONTEXT: Map491/events/39/pages/0/9/Choice/0
+> CONTEXT: Map491/events/36/pages/0/9/Choice/0
+> CONTEXT: Map499/events/3/pages/0/9/Choice/0
+> CONTEXT: Map499/events/19/pages/0/9/Choice/0
+> CONTEXT: Map506/events/1/pages/0/9/Choice/0
+Shop#Ron
 > END STRING
 
 > BEGIN STRING
 ハーブティーを飲みたい
-> CONTEXT: Map484/events/39/pages/0/9/Choice/1 < UNTRANSLATED
-> CONTEXT: Map491/events/39/pages/0/9/Choice/1 < UNTRANSLATED
-> CONTEXT: Map491/events/36/pages/0/9/Choice/1 < UNTRANSLATED
-> CONTEXT: Map499/events/3/pages/0/9/Choice/1 < UNTRANSLATED
-> CONTEXT: Map499/events/19/pages/0/9/Choice/1 < UNTRANSLATED
-> CONTEXT: Map506/events/1/pages/0/9/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map484/events/39/pages/0/9/Choice/1
+> CONTEXT: Map491/events/39/pages/0/9/Choice/1
+> CONTEXT: Map491/events/36/pages/0/9/Choice/1
+> CONTEXT: Map499/events/3/pages/0/9/Choice/1
+> CONTEXT: Map499/events/19/pages/0/9/Choice/1
+> CONTEXT: Map506/events/1/pages/0/9/Choice/1
+Herbal tea set#Ron
 > END STRING
 
 > BEGIN STRING
 アイテムを合成したい
-> CONTEXT: Map484/events/39/pages/0/9/Choice/2 < UNTRANSLATED
-> CONTEXT: Map491/events/39/pages/0/9/Choice/2 < UNTRANSLATED
-> CONTEXT: Map491/events/36/pages/0/9/Choice/2 < UNTRANSLATED
-> CONTEXT: Map499/events/3/pages/0/9/Choice/2 < UNTRANSLATED
-> CONTEXT: Map499/events/19/pages/0/9/Choice/2 < UNTRANSLATED
-> CONTEXT: Map506/events/1/pages/0/9/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map484/events/39/pages/0/9/Choice/2
+> CONTEXT: Map491/events/39/pages/0/9/Choice/2
+> CONTEXT: Map491/events/36/pages/0/9/Choice/2
+> CONTEXT: Map499/events/3/pages/0/9/Choice/2
+> CONTEXT: Map499/events/19/pages/0/9/Choice/2
+> CONTEXT: Map506/events/1/pages/0/9/Choice/2
+Synthesize items#Ron
 > END STRING
 
 > BEGIN STRING
 カプセルを利用したい
-> CONTEXT: Map484/events/39/pages/0/9/Choice/3 < UNTRANSLATED
-> CONTEXT: Map491/events/39/pages/0/9/Choice/3 < UNTRANSLATED
-> CONTEXT: Map491/events/36/pages/0/9/Choice/3 < UNTRANSLATED
-> CONTEXT: Map499/events/3/pages/0/9/Choice/3 < UNTRANSLATED
-> CONTEXT: Map499/events/19/pages/0/9/Choice/3 < UNTRANSLATED
-> CONTEXT: Map506/events/1/pages/0/9/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map484/events/39/pages/0/9/Choice/3
+> CONTEXT: Map491/events/39/pages/0/9/Choice/3
+> CONTEXT: Map491/events/36/pages/0/9/Choice/3
+> CONTEXT: Map499/events/3/pages/0/9/Choice/3
+> CONTEXT: Map499/events/19/pages/0/9/Choice/3
+> CONTEXT: Map506/events/1/pages/0/9/Choice/3
+Use capsule#Ron
 > END STRING
 
 > BEGIN STRING
 ＥＸ・共闘用
-> CONTEXT: Map484/events/39/pages/0/11/Choice/3 < UNTRANSLATED
-> CONTEXT: Map491/events/39/pages/0/11/Choice/3 < UNTRANSLATED
-> CONTEXT: Map491/events/36/pages/0/11/Choice/3 < UNTRANSLATED
-> CONTEXT: Map499/events/3/pages/0/11/Choice/3 < UNTRANSLATED
-> CONTEXT: Map499/events/19/pages/0/11/Choice/3 < UNTRANSLATED
-> CONTEXT: Map506/events/1/pages/0/11/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map484/events/39/pages/0/11/Choice/3
+> CONTEXT: Map491/events/39/pages/0/11/Choice/3
+> CONTEXT: Map491/events/36/pages/0/11/Choice/3
+> CONTEXT: Map499/events/3/pages/0/11/Choice/3
+> CONTEXT: Map499/events/19/pages/0/11/Choice/3
+> CONTEXT: Map506/events/1/pages/0/11/Choice/3
+Special EX items#Ron
 > END STRING
 
 > BEGIN STRING
 やっぱいい
-> CONTEXT: Map484/events/39/pages/0/99/Choice/1 < UNTRANSLATED
-> CONTEXT: Map491/events/39/pages/0/99/Choice/1 < UNTRANSLATED
-> CONTEXT: Map491/events/36/pages/0/99/Choice/1 < UNTRANSLATED
-> CONTEXT: Map499/events/3/pages/0/99/Choice/1 < UNTRANSLATED
-> CONTEXT: Map499/events/19/pages/0/99/Choice/1 < UNTRANSLATED
-> CONTEXT: Map506/events/1/pages/0/101/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map484/events/39/pages/0/99/Choice/1
+> CONTEXT: Map491/events/39/pages/0/99/Choice/1
+> CONTEXT: Map491/events/36/pages/0/99/Choice/1
+> CONTEXT: Map499/events/3/pages/0/99/Choice/1
+> CONTEXT: Map499/events/19/pages/0/99/Choice/1
+> CONTEXT: Map506/events/1/pages/0/101/Choice/1
+Never mind#Ron
 > END STRING
 
 > BEGIN STRING
@@ -742,22 +897,27 @@ Feel free to touch them if you're curious.#RonIffyWording
 とっても残念なお知らせになるんだけど
 
 これだけは、言っておかなくちゃいけないわね……
-> CONTEXT: Map484/events/39/pages/0/172/Dialogue/コラボ^アミラ < UNTRANSLATED
-
+> CONTEXT: Map484/events/39/pages/0/172/Dialogue/コラボ^アミラ
+I have something I need to say to those people
+who think they might have a shot at seeing this
+beauty before them in action if they come to my
+world...#RonLocalization
 > END STRING
 
 > BEGIN STRING
 \\C[10]私の搾精シーンは用意されていないわ……\\C[0]
 
 期待していた人、ごめんなさいね……
-> CONTEXT: Map484/events/39/pages/0/177/Dialogue/コラボ^アミラ < UNTRANSLATED
+> CONTEXT: Map484/events/39/pages/0/177/Dialogue/コラボ^アミラ
+\\C[10]I don't have a squeezing scene of my own.\\C[0]
 
+My apologies to those who had their hopes up...#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{\\{誰がするかっ！！！！！
-> CONTEXT: Map484/events/39/pages/0/181/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map484/events/39/pages/0/181/Dialogue/kazuya
+\\{\\{\\{No one's thinking that!!#Ron
 > END STRING
 
 > BEGIN STRING

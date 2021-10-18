@@ -3,16 +3,20 @@
 待っていたわよ……\\N[1]……♡
 
 私の運命の人…♡
-> CONTEXT: Map489/events/2/pages/0/11/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map489/events/2/pages/0/11/Dialogue/highslag_fc1
+I've been waiting for you, \\N[1]... ♡
 
+We're linked by fate, you and I... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 今度はちゃんと元の姿に戻っているようね……
 
 そうでなければ、私の交尾には耐えられないもの…
-> CONTEXT: Map489/events/2/pages/0/15/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/15/Dialogue/highslag_fc1
+It looks like you managed to return to your
+normal self. That's good, you wouldn't be able to
+endure mating with me otherwise.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,8 +24,11 @@
 
 世界の支配者とはまったく無縁のように思えるが……
 いったいアバドーンのどんな口車に乗せられたのだ？
-> CONTEXT: Map489/events/2/pages/0/19/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/19/Dialogue/alice_fc5
+Seems like your goal is simply to have
+\\N[1], like you've got nothing to do with
+the ones running the world. Just how did Abaddon
+get you on board?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -29,8 +36,11 @@
 
 この力を自由に使っていいという爽快感もあったけど
 久々に誰にも咎められず人間を捕食できるのが嬉しかったの。
-> CONTEXT: Map489/events/2/pages/0/26/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/26/Dialogue/highslag_fc1
+My objective was just to prey on someone. Though
+it feels refreshing to be able to freely use the
+power I was given, I'm just happy to be able to
+prey on humans without being told off by anyone.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,8 +48,11 @@
 
 その子には、なんだか惹かれるものがあるわ
 そう、例えるなら『トンカツ』ね……
-> CONTEXT: Map489/events/2/pages/0/31/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/31/Dialogue/highslag_fc1
+But I had a change of heart after meeting him.
+I ended up being quite taken with him to an
+extent. Yes, if I had to compare him to something,
+he'd be a "pork cutlet" perhaps.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -47,16 +60,20 @@
 会って、その匂いと味を知ったら病みつきになる……♡
 
 そんな不思議な魅力があるのよ。
-> CONTEXT: Map489/events/2/pages/0/36/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/36/Dialogue/highslag_fc1
+Just hearing his name didn't do much for me, but
+I was addicted after experiencing his scent and
+flavor. He has a rather mysterious appeal. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 とうとう何も知らないはずの相手からも
 
 \\C[2]『トンカツ』認定\\C[0]されちゃったかぁ……
-> CONTEXT: Map489/events/2/pages/0/41/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/41/Dialogue/other8
+He's finally being acknowledged as a \\C[2]pork
+cutlet \\C[0]by opponents who shouldn't know the first
+thing about him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -64,8 +81,10 @@
 
 \\C[2]アバドーンの目的が『世界を滅ぼす』と最初から知ってたら
 こんな計画には協力してなかった
-> CONTEXT: Map489/events/2/pages/0/46/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/46/Dialogue/highslag_fc1
+I'm just being honest. \\C[2]From the start, I didn't
+want to help Abaddon after finding out about his
+plans to destroy the world.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -73,22 +92,27 @@
 それと自分の住処が失われる問題は、話が別……
 
 \\C[2]だから、貴方たちを見逃してあげてもいいのよ。
-> CONTEXT: Map489/events/2/pages/0/51/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map489/events/2/pages/0/51/Dialogue/highslag_fc1
+I did want something exciting and stimulating,
+but not if I'm going lose my own home...
 
+\\C[2]That's why I'm letting you all go.#RonIffy
 > END STRING
 
 > BEGIN STRING
 ほ、本当か…！？
-> CONTEXT: Map489/events/2/pages/0/57/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/57/Dialogue/kazuya
+R-Really?!#Ron
 > END STRING
 
 > BEGIN STRING
 ええ……でも条件があるの。
 
 大丈夫、そんなに無茶な条件じゃないから……
-> CONTEXT: Map489/events/2/pages/0/59/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map489/events/2/pages/0/59/Dialogue/highslag_fc1
+Yes, but there is a condition.
 
+But don't worry, it's nothing that unreasonable.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -96,14 +120,17 @@
 \\C[2]私の伴侶としての、繁殖相手になりなさい。
 
 そうすれば、この場は見逃してあげる。
-> CONTEXT: Map489/events/2/pages/0/63/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/63/Dialogue/highslag_fc1
+Once everything to do with Abaddon is settled, I
+want you to live with my as my spouse and
+reproductive partner. Agree to that, and I'll let
+you all past.#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{はあっ！？
-> CONTEXT: Map489/events/2/pages/0/68/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/68/Dialogue/kazuya
+\\{\\{What?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -111,8 +138,11 @@
 貴方を知ってしまった以上、見逃すなんて出来ない…♡♡
 
 貴方とたくさん交尾しないと気が済まないのよ…♡♡
-> CONTEXT: Map489/events/2/pages/0/71/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/71/Dialogue/highslag_fc1
+I mean come on, I just can't otherwise. ♡
+Knowing what I know about you there's no way I
+could let you go. I won't be satisfied unless
+we're mating all the time. ♡♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -120,8 +150,11 @@
 
 貴方がオスとして衰えるまで、大事に飼ってあげる…
 貴方の世界基準なら、悪い条件じゃないでしょう？♡
-> CONTEXT: Map489/events/2/pages/0/76/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/76/Dialogue/highslag_fc1
+But don't worry, I won't eat you right away.
+I'll keep you as my beloved pet until you start
+declining as a male. That's a pretty good deal
+by your world's standards, isn't it? ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -129,8 +162,11 @@
 
 もう既にこっちの世界にはカズヤくんがいるし……
 同一人物が同一次元にいるのはちょっと……
-> CONTEXT: Map489/events/2/pages/0/82/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/82/Dialogue/sirousagi_fc1
+No, that'd be a problem. We already have a
+Kazuya-kun in our world, having a second
+identical one in the same dimension would cause
+all sorts of issues.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -138,96 +174,113 @@
 
 これ以上不安定な要素を足してしまったらどうなるか……！
 そんなリスクの高い提案は受け入れられないよ！！
-> CONTEXT: Map489/events/2/pages/0/87/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/87/Dialogue/other8
+Luka-kun's world is also unstable! Who knows what
+would happen if we added more destabilizing
+elements?! We can't accept that kind of risky
+proposition!!#Ron
 > END STRING
 
 > BEGIN STRING
 （こいつら……
 
 　僕の気持ちを完全に無視して話を進めてる……！！？）
-> CONTEXT: Map489/events/2/pages/0/92/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/92/Dialogue/kazuya
+(Aren't they even going to ask for my opinion?!!)#Ron
 > END STRING
 
 > BEGIN STRING
 "EX4　ハイスラッグ娘"
-> CONTEXT: Map489/events/2/pages/0/99/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/99/InlineScript/2:1
+"EX4　High Slug Girl"#Ron
 > END STRING
 
 > BEGIN STRING
 …………そう、残念だわ。
 
 それじゃあ、交渉は決裂ね……
-> CONTEXT: Map489/events/2/pages/0/103/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map489/events/2/pages/0/103/Dialogue/highslag_fc1
+I see, that's unfortunate.
 
+It seems we have a breakdown in negotiations,
+then.#Ron
 > END STRING
 
 > BEGIN STRING
 それじゃあ、実力行使といきましょう…！！
 
 私のものになりなさい！\\N[1]！！
-> CONTEXT: Map489/events/2/pages/0/107/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map489/events/2/pages/0/107/Dialogue/highslag_fc1
+In that case, I'll have to resort to force!!
 
+I'll make you mine, \\N[1]!!#Ron
 > END STRING
 
 > BEGIN STRING
 まだよ……！
 
 まだ私は……負けてない……！！
-> CONTEXT: Map489/events/2/pages/0/144/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map489/events/2/pages/0/144/Dialogue/highslag_fc1
+Not yet!
 
+I haven't... lost yet!!#Ron
 > END STRING
 
 > BEGIN STRING
 あっ！！！危ない！！
-> CONTEXT: Map489/events/2/pages/0/154/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/154/Dialogue/kazuya
+Ah!! Watch out!!#Ron
 > END STRING
 
 > BEGIN STRING
 きゃっ……！！
-> CONTEXT: Map489/events/2/pages/0/156/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/156/Dialogue/highslag_fc1
+Kyaah!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は走り出し、奈落に堕ちそうになる
 
 ハイスラッグ娘の腕をとっさに掴んだ！
-> CONTEXT: Map489/events/2/pages/0/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/170/Dialogue
+\\N[1] dashed forward and grabbed the arm of High Slug
+Girl who was about to plunge into Hades!#Ron
 > END STRING
 
 > BEGIN STRING
 なっ……！？
 
 何をしてるの！？\\N[1]くん！
-> CONTEXT: Map489/events/2/pages/0/174/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map489/events/2/pages/0/174/Dialogue/other8
+Wha-?!
 
+What're you doing, \\N[1]-kun?!!#Ron
 > END STRING
 
 > BEGIN STRING
 あ、ああ……！
-> CONTEXT: Map489/events/2/pages/0/200/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map489/events/2/pages/0/200/Dialogue/highslag_fc1
+A-Aaah!#Ron
 > END STRING
 
 > BEGIN STRING
 し、しっかり掴まってて……！！
 
 いま……引き上げるから……！！
-> CONTEXT: Map489/events/2/pages/0/202/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map489/events/2/pages/0/202/Dialogue/kazuya
+G-Grab her tight!!
 
+I'll pull her up!!#Ron
 > END STRING
 
 > BEGIN STRING
 粘液が……
 
 す、滑る……！！
-> CONTEXT: Map489/events/2/pages/0/210/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map489/events/2/pages/0/210/Dialogue/ruka_fc1
+Her mucus...
 
+S-She's slipping!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -235,20 +288,24 @@
 
 ……ええい、どうにでもなれ！
 しっかり掴んでいろ！すぐに引き上げてやる！！
-> CONTEXT: Map489/events/2/pages/0/214/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map489/events/2/pages/0/214/Dialogue/alice_fc5
+Come on, figure it out you two!!
 
+Keep a tight grip and pull her back up!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 よし、掴んだ！
 
 エンプーサ、引っ張って！！
-> CONTEXT: Map489/events/2/pages/0/222/Dialogue/enemy < UNTRANSLATED
+> CONTEXT: Map489/events/2/pages/0/222/Dialogue/enemy
+There we go, got her!
 
+You can pull now, Empuse!!#Ron
 > END STRING
 
 > BEGIN STRING
 多元宇宙～第３層～
-> CONTEXT: Map489/display_name < UNTRANSLATED
-
+> CONTEXT: Map489/display_name
+Multiverse - Third Layer#Ron
 > END STRING
