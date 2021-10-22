@@ -264,7 +264,7 @@ What is that...!!?#Triketos
 > CONTEXT: Map037/events/4/pages/1/197/Dialogue/enemy2
 > CONTEXT: Map037/events/4/pages/2/74/Dialogue/enemy2
 You heard about her from Lampas, right?
-It's Empuse-chan, the 'The Mantis Monster'♪#Triketos
+It's Empuse-chan, the 'Mantis Monster'♪#Triketos
 > END STRING
 
 > BEGIN STRING
