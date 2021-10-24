@@ -3,8 +3,10 @@
 \\N[1]よ……
 
 ヴァソパイアに負けてしまうとは、情けない…
-> CONTEXT: CommonEvents_770/9/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/9/Dialogue/enemy35
+\\N[1]...
 
+Losing to a vanpire is pathetic...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,8 +14,14 @@
 万能属性も物理攻撃もこなす、厄介な相手だ……
 
 \\C[2]まずはダメージを極力減らす対策をした方がいい
-> CONTEXT: CommonEvents_770/16/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/16/Dialogue/enemy35
+Though Vanpires tend to focus on magic for their
+attacks, they're also more than capable of using
+physical elemental attacks, making them quite a
+nuisance to fight.
+\\C[2]Therefore, your first course of action should
+be to try mitigating the damage you receive as
+much as possible.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -21,8 +29,11 @@
 \\C[2]相手の攻撃力を下げる事ができる。
 
 これで、全ての攻撃の軽減が出来るはずだ。
-> CONTEXT: CommonEvents_770/21/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/21/Dialogue/enemy35
+\\C[2]You can reduce your opponent's damage output \\C[0]by
+using my support skill, "Archangel's Rebuke". That
+should allow you to reduce all incoming damage to
+the party.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,8 +41,11 @@
 
 \\C[2]マリオン自身は「カノン砲」を装備すれば
 ダメージを半減できる。
-> CONTEXT: CommonEvents_770/26/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/26/Dialogue/enemy35
+If that's not enough...
 
+\\C[2]You can swap out Marion's weapon to the Cannon,
+to halve the damage he receives.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -39,8 +53,11 @@
 ガード時のダメージを10％に抑えるという特徴がある。
 
 普通にガードするよりも、更に効果的だろう。
-> CONTEXT: CommonEvents_770/31/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/31/Dialogue/enemy35
+In addition to that, \\C[2]if you get Luka to defend
+with the Bastard Sword equipped, you'll reduce
+his received damage to just 10%, which is much
+better than the standard defend action.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -48,24 +65,31 @@
 \\C[2]火には若干耐性が薄いようだ。
 
 魔法で攻めるのなら、火属性が良いであろう。
-> CONTEXT: CommonEvents_770/36/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/36/Dialogue/enemy35
+Vanpires are resistant to all types of damage, \\C[2]but
+they're the least resistant to fire. So if you're
+planning on using magic, fire-based spells are
+the way to go.#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ、行くがよい、勇者\\N[1]よ。
 
 ルカやマリオンと共に、世界を救え！
-> CONTEXT: CommonEvents_770/42/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/42/Dialogue/enemy35
+Now go, oh Hero \\N[1].
 
+Save the world with Luka and Marion!#Ron
 > END STRING
 
 > BEGIN STRING
 なんだろう……
 
 すごいしっくりきてる……
-> CONTEXT: CommonEvents_770/46/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_770/46/Dialogue/kazuya
+What the hell...?
 
+That was an amazing evaluation...#RonIffy
 > END STRING
 
 > BEGIN STRING

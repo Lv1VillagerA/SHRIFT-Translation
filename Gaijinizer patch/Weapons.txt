@@ -709,14 +709,15 @@ Mythril Sword#Ron
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]戦う料理人が用いたとされる包丁の稀少品
 \\C[6]会心率＋30％
-> CONTEXT: Weapons/127/description < UNTRANSLATED
-
+> CONTEXT: Weapons/127/description
+\\C[11][Luka Only] \\C[0]Rare kitchen knife wielded by chefs in battle.
+\\C[6]Crit Rate: +30%#Ron
 > END STRING
 
 > BEGIN STRING
 鬼神包丁
-> CONTEXT: Weapons/127/name < UNTRANSLATED
-
+> CONTEXT: Weapons/127/name
+Oni Spirit Knife#Ron
 > END STRING
 
 > BEGIN STRING
@@ -735,12 +736,13 @@ Mythril Sword#Ron
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]卓越した硬度を誇る竜の鱗で造られたレイピア
 \\C[6]通常攻撃が２回攻撃になる
-> CONTEXT: Weapons/129/description < UNTRANSLATED
-
+> CONTEXT: Weapons/129/description
+\\C[11][Luka Only] \\C[0]A rapier of unparalleled sturdiness made from
+dragon scale. \\C[6]Normal attacks hit twice.#Ron
 > END STRING
 
 > BEGIN STRING
 竜鱗のレイピア
-> CONTEXT: Weapons/129/name < UNTRANSLATED
-
+> CONTEXT: Weapons/129/name
+Dragon Scale Rapier#Ron
 > END STRING

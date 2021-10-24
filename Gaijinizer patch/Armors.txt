@@ -1099,14 +1099,15 @@ Rabbit Apple#Triketos
 > BEGIN STRING
 \\C[2]【共闘者用】\\C[0]グランドメイルの最高級品。
 抵：＋８０％
-> CONTEXT: Armors/108/description < UNTRANSLATED
-
+> CONTEXT: Armors/108/description
+A superior version of the Grand Mail.
+Will: +80%#Ron
 > END STRING
 
 > BEGIN STRING
 ワイズマン
-> CONTEXT: Armors/108/name < UNTRANSLATED
-
+> CONTEXT: Armors/108/name
+Wise Man#Ron
 > END STRING
 
 > BEGIN STRING

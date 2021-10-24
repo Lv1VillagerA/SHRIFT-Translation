@@ -17559,23 +17559,28 @@ Would you like to read it again?#Ron
 さぁ……いくわよ…！！
 
 アンタたちに耐えられるかしらね…！？
-> CONTEXT: Troops/364/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/3/4/Dialogue/enemy37
+> CONTEXT: Troops/388/pages/3/4/Dialogue/enemy37
+> CONTEXT: Troops/393/pages/3/4/Dialogue/enemy37
+Alright, here I go!!
 
+Let's see if you can withstand this!!#Ron
 > END STRING
 
 > BEGIN STRING
 ヴァシリカは禍々しい電撃を放ち始めた…… 
 
 \\C[2]とても回避できる雰囲気ではない……
-> CONTEXT: Troops/364/pages/3/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/364/pages/4/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/388/pages/3/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/388/pages/4/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/393/pages/3/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/393/pages/4/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/364/pages/3/8/Dialogue
+> CONTEXT: Troops/364/pages/4/8/Dialogue
+> CONTEXT: Troops/388/pages/3/8/Dialogue
+> CONTEXT: Troops/388/pages/4/8/Dialogue
+> CONTEXT: Troops/393/pages/3/8/Dialogue
+> CONTEXT: Troops/393/pages/4/8/Dialogue
+Vasilica has started emitting ominous-looking
+electricity...
 
+\\C[2]It doesn't look like it can be evaded...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18480,9 +18485,9 @@ Would you like to read it again?#Ron
 
 > BEGIN STRING
 ヴァシリカは姿勢を元に戻した…
-> CONTEXT: Troops/388/pages/0/33/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/393/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/388/pages/0/33/Dialogue
+> CONTEXT: Troops/393/pages/0/33/Dialogue
+Vasilica has returned to her normal stance...#Ron
 > END STRING
 
 > BEGIN STRING
