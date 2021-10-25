@@ -1,17 +1,18 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 ハイスラ【敗北】パイズリ
-> CONTEXT: Troops/365/name < UNTRANSLATED
-
+> CONTEXT: Troops/365/name
+High Slug Defeat [Paizuri]#Ron
 > END STRING
 
 > BEGIN STRING
 ハイスラッグ娘は、僕の身体に巻き付くように密着し
 
 その大きな胸の中に、僕の性器を沈み込ませた……
-> CONTEXT: CommonEvents_743/43/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_806/313/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_743/43/Dialogue
+> CONTEXT: CommonEvents_806/313/Dialogue
+High Slug Girl is clinging to my body as if wrapped around
+it. My sexual organ immersed in her huge chest.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -19,9 +20,12 @@
 
 挿れた瞬間、搾精膣と錯覚するような
 強烈な快感に襲われてしまった………
-> CONTEXT: CommonEvents_743/47/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_806/317/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_743/47/Dialogue
+> CONTEXT: CommonEvents_806/317/Dialogue
+The slime between her breasts and the view I have of them
+seems to have fooled my senses, and the moment I was
+inserted, I was hit with powerful pleasure as though I were
+being squeezed out by a vagina.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,8 +33,11 @@
 突くどころか、逆に挟み込まれてしまったわね♡
 
 さっきまでの凜々しい態度はどこへ行ったのかしら…？
-> CONTEXT: CommonEvents_743/52/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_743/52/Dialogue/highslag_fc1
+Oh my, how pathetic. ♡
+Rather than thrusting it in yourself, you've
+been sandwiched between them. ♡
+Where's that manly attitude from before gone?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -38,31 +45,39 @@
 最初にどこを見るかで、だいたい２種類に分類されるのよ。
 
 このナメクジの『下半身』を見るか、『胸』を見るかでね…
-> CONTEXT: CommonEvents_743/57/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_743/57/Dialogue/highslag_fc1
+When it comes to how they look at me, you can
+split humans into two groups. There are the ones
+who look at my lower half, and the ones who look
+at my breasts.#Ron
 > END STRING
 
 > BEGIN STRING
 あなたは、圧倒的に後者だったわねぇ？♡
 
 そんなにここに挟んで欲しかったのかしら…♡
-> CONTEXT: CommonEvents_743/62/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/62/Dialogue/highslag_fc1
+I'd say you overwhelmingly fall into the latter. ♡
 
+Did you really want to be sandwiched between them
+so badly? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あぅあ…ちが……♡
 
 そ、そんなこと……♡
-> CONTEXT: CommonEvents_743/66/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/66/Dialogue/kazuya-0
+A-Aaah... No... ♡
 
+T-That's not... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あああああああっ……！！！♡♡♡
-> CONTEXT: CommonEvents_743/102/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_806/354/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_743/102/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_806/354/Dialogue/kazuya-0
+Aaaaaaaah!!! ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -70,8 +85,11 @@
 私、自分の魅力を把握できないほど鈍くはないの。
 
 ヌルヌルのナメクジおっぱい、存分に堪能しなさい…♡
-> CONTEXT: CommonEvents_743/104/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_743/104/Dialogue/highslag_fc1
+There's no need to be embarrassed. ♡
+I'm not so dense that I don't understand my own
+charms. Enjoy my slimy slug breasts to your
+heart's content. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -79,41 +97,54 @@
 
 下半身を使った搾精は、今の強化された私のやり方だと
 たぶん、どれも瞬殺だったと思うわ……
-> CONTEXT: CommonEvents_743/109/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_743/109/Dialogue/highslag_fc1
+In fact, going with my breasts was the correct
+choice. With how I've been strengthened, I think
+using my lower half to squeeze you might just be
+an instant knockout.#Ron
 > END STRING
 
 > BEGIN STRING
 まずは、軽い慣らしから入りましょう…♡
 
 貴方の『剣』は、どこまで耐えられるかしらね…？♡
-> CONTEXT: CommonEvents_743/114/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/114/Dialogue/highslag_fc1
+Let's start by breaking you in lightly. ♡
 
+I wonder how much your "sword" can take? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あっ……うあっ…♡
 
 すっ……すごい…♡
-> CONTEXT: CommonEvents_743/119/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_806/357/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/119/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_806/357/Dialogue/kazuya-0
+Aah... Uugh... ♡
 
+A-... Amazing... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ふふっ……ずいぶんと可愛い顔をするのね、貴方…
 
 そんな顔されると、もっと虐めたくなっちゃうじゃないの♡
-> CONTEXT: CommonEvents_743/123/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/123/Dialogue/highslag_fc1
+Fufu... You're making quite the cute face.
 
+It's only making me want to toy with you more
+and more. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 身体もすっかり脱力しちゃって…♡
 
 剣で突いてくれるっていう話はどうなったのかしら？
-> CONTEXT: CommonEvents_743/127/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/127/Dialogue/highslag_fc1
+Your body's completely relaxed. ♡
 
+What happened to wanting to thrust your sword
+in my chest?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -121,16 +152,21 @@
 そのまま私に身を委ねていて……♡
 
 もっと激しくしてあげるから…♡
-> CONTEXT: CommonEvents_743/131/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/131/Dialogue/highslag_fc1
+Well, whatever.
 
+You just keep entrusting your body to me. ♡
+I'll take things up a notch. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 だっ……だめっ……♡♡これ以上は……っ……！♡
 
 で、でちゃううぅぅぅ……♡
-> CONTEXT: CommonEvents_743/169/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/169/Dialogue/kazuya-0
+N-... No... ♡♡ Any more and...! ♡
 
+C-Cummiiiiing... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -138,8 +174,11 @@
 
 そんなに私のおっぱいが良かったのかしら？
 それとも、もともとおっぱいが大好きなの？♡
-> CONTEXT: CommonEvents_743/206/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/206/Dialogue/highslag_fc1
+Fufu, that was some force you released with. ♡
 
+Did you like my boobs like that much? Or have
+you always been a huge boob fiend? ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -147,8 +186,11 @@
 
 このヌルヌルの攻めを知ってしまったが最後…
 もう普通の交尾じゃイけなくなるの…♡
-> CONTEXT: CommonEvents_743/211/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_743/211/Dialogue/highslag_fc1
+Well, I don't mind either way. ♡
+Now that you know the pleasure of this slimy
+sensation, you won't be able to cum with normal
+mating anymore. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -156,24 +198,30 @@
 
 ちゃんと私の胸の奥まで届くように
 ギンギンに勃たせて頂戴…
-> CONTEXT: CommonEvents_743/216/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/216/Dialogue/highslag_fc1
+Now then, time for the real deal.
 
+Make sure you're as erect as possible so you can
+reach my depths.#Ron
 > END STRING
 
 > BEGIN STRING
 あ……がっ……♡♡
 
 あっ……♡
-> CONTEXT: CommonEvents_743/375/Dialogue/kazuya-2 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/375/Dialogue/kazuya-2
+Aah... Gagh... ♡♡
 
+Aah... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ふふっ…貴方の情熱……確かに受け止めたわ♡
 
 この胸に、しっかりとね…♡
-> CONTEXT: CommonEvents_743/379/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_743/379/Dialogue/highslag_fc1
+Fufu... your passionate lust is now inside these
+breasts of mine. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -181,8 +229,11 @@
 どうやら当分は楽しめそうね…♡
 
 素晴らしいわ……\\N[1]♡
-> CONTEXT: CommonEvents_743/383/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/383/Dialogue/highslag_fc1
+It would seem the quality and quantity of your
+semen will keep me entertained for some time. ♡
 
+How wonderful, \\N[1]. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -190,8 +241,10 @@
 
 いいわ……ゆっくり休みなさい。
 私の腕の中で…
-> CONTEXT: CommonEvents_743/390/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/390/Dialogue/highslag_fc1
+Oh my, have I toyed with you a little too much?
 
+That's fine, you can rest inside my breasts.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -199,6 +252,9 @@
 
 交尾でも、また胸での搾精でも
 貴方の望むものをやってあげる…♡
-> CONTEXT: CommonEvents_743/395/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_743/395/Dialogue/highslag_fc1
+Let's love each other again once your energy is
+back. I'll go along with whatever you wish,
+whether that's mating or we do it again with my
+breasts. ♡♡#Ron
 > END STRING

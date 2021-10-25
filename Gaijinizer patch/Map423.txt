@@ -4,9 +4,12 @@
 ぼくがころした……ぼくはだれだ……？
 みんなをころした……かのじょたちを……
 ぼくはころした……ころした？ちがうちがうちがう……
-> CONTEXT: Map423/events/1/pages/0/16/Dialogue/kazuya-3 < UNTRANSLATED
-> CONTEXT: Map472/events/1/pages/0/175/Dialogue/kazuya-3 < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/16/Dialogue/kazuya-3
+> CONTEXT: Map472/events/1/pages/0/175/Dialogue/kazuya-3
+No, I didn't kill anyone..
+I killed... Who am I...?
+Killed everyone... the girls...
+I killed... killed? No, no, no, nonono.....#Ron
 > END STRING
 
 > BEGIN STRING
@@ -14,16 +17,22 @@
 ひとつボタンを押せば、この絶望の世界から離脱できる。
 
 だけど……彼の人生はその後もずっと続くんだ……
-> CONTEXT: Map423/events/1/pages/0/21/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/21/Dialogue/enemy27
+At the push of a button, the Interveners who've
+lost themselves to the temptations of \\C[10]that\\C[0]
+can walk away from this world of despair. But his
+life will continue on for a long time.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]『あれ』\\C[0]の介入に染まってしまった彼の人生は
 
 僕の『介入』の権限では……救ってあげることができない…
-> CONTEXT: Map423/events/1/pages/0/26/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/26/Dialogue/enemy27
+His life, now tainted with \\C[10]that's\\C[0]
+Interventions, continues in this isolated
+timeline. I can't save him with my own
+Intervention authority.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -31,9 +40,11 @@
 
 \\C[10]『自分の意思に関係なく行われた自身の殺戮』\\C[0]という事実だけ
 彼の感覚や、記憶として残るのだからな……
-> CONTEXT: Map423/events/1/pages/0/30/Dialogue/enemy35 < UNTRANSLATED
-> CONTEXT: Map472/events/1/pages/0/196/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/30/Dialogue/enemy35
+> CONTEXT: Map472/events/1/pages/0/196/Dialogue/enemy35
+It's not impossible considering \\C[10]the sensations
+and memories he's been left with after unwillingly
+being made to carry out such senseless slaughter\\C[0].#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -41,7 +52,9 @@
 別の世界に行き、責任逃れか……
 
 やりきれんな……
-> CONTEXT: Map423/events/1/pages/0/35/Dialogue/alice_fc5 < UNTRANSLATED
-> CONTEXT: Map472/events/1/pages/0/211/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map423/events/1/pages/0/35/Dialogue/alice_fc5
+> CONTEXT: Map472/events/1/pages/0/211/Dialogue/alice_fc5
+And the Intervener in question who made him do all
+that gets to go back to their own world and avoid
+all responsibility. That's just too much.#Ron
 > END STRING

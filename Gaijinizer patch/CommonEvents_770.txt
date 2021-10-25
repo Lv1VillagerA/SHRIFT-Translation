@@ -258,24 +258,30 @@ be the best way to attack.#Ron
 ベルゼバブたちに孕ませられてしまったのね……
 
 ボテ腹なあなたは、流石に見たくなかったけど……
-> CONTEXT: CommonEvents_770/218/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/218/Dialogue/other5
+You were impregnated by the Beelzebub's weren't
+you, \\N[1]. I didn't really want to see
+what you look like with a pregnant belly.#Ron
 > END STRING
 
 > BEGIN STRING
 あなたは、ああいうのでも感じて射精するのね…
 
 それならば、私もいっそのこと……
-> CONTEXT: CommonEvents_770/223/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/223/Dialogue/other5
+You can even ejaculate with that kind of thing
+happening to you. In which case I'd......#RonIffy
 > END STRING
 
 > BEGIN STRING
 無言やめてよ……
 
 なにか怖い事考えてるんじゃないかって思うから……
-> CONTEXT: CommonEvents_770/229/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_770/229/Dialogue/kazuya
+Stop with the long pause...
 
+It makes me think you're considering something
+terrifying.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -283,8 +289,13 @@ be the best way to attack.#Ron
 \\C[2]『魔蠅の一撃』のダメージの大きさね。
 
 ルカの『ノーム』で軽減しないとすぐにピンチになるわ。
-> CONTEXT: CommonEvents_770/233/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/233/Dialogue/other5
+The thing you need to watch out for most of all
+when fighting the Beelzebubs is \\C[2]the high damage
+output of their "Magic Fly Attack".
 
+\\C[2]You'll quickly be in trouble if you don't have
+Luka summon Gnome to mitigate the attack.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -292,8 +303,14 @@ be the best way to attack.#Ron
 \\C[2]雷と風が同時に対策できる『シルフ』がいいと思うわ。
 
 ウンディーネも召喚すると、ルカが攻撃できなくなるから……
-> CONTEXT: CommonEvents_770/238/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/238/Dialogue/other5
+You can defend against their "Triple Breath"
+attack by \\C[2]using Sylph who protects against both
+lightning and wind.
 
+You can summon Undine as well, but if you do
+you'll have trouble using Luka to attack while
+keeping their summons up during the fight.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -301,8 +318,11 @@ be the best way to attack.#Ron
 そうすると、ＳＰが足りなくなってしまうわ……
 
 \\C[2]消費ＳＰの少ない行動でルーチンするのが無難ね。
-> CONTEXT: CommonEvents_770/243/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/243/Dialogue/other5
+You might want to use Luka's Chaos Star attack
+to shave off their health in one hit, but that'll
+use up his SP. \\C[2]Sticking to a routine of
+conserving his SP is the safest way to go.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -310,8 +330,11 @@ be the best way to attack.#Ron
 
 弱点って程の倍率ではないけど
 アリスのサポートでも、十分ダメージを与えられるはずよ
-> CONTEXT: CommonEvents_770/248/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/248/Dialogue/other5
+\\C[2]Though it's not what you'd call a huge weakness,
+wind magic works well on them, so Alice should be
+able to do plenty of damage in her role as
+support.#Ron
 > END STRING
 
 > BEGIN STRING

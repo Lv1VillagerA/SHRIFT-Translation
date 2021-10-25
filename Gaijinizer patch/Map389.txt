@@ -603,7 +603,7 @@ Without a doubt, that demon...#Ron
 > CONTEXT: Map389/events/11/pages/0/333/Dialogue/kazuya
 Yeah, she obviously knows all about the
 interventions Hyakki's talked about as well as
-the existence of the "Intervenor"...#Ron
+the existence of the "Intervener"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -614,7 +614,7 @@ the existence of the "Intervenor"...#Ron
 > CONTEXT: Map389/events/11/pages/0/338/Dialogue/kazuya
 She didn't quite face me when talking, almost as
 if \\C[10]she were talking directly to the
-"Intervenor".#RonIffyWording
+"Intervener".#RonIffyWording
 > END STRING
 
 > BEGIN STRING

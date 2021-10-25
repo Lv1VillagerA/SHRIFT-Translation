@@ -8,19 +8,19 @@
 > BEGIN STRING
 \\I[131]【魔剣・首刈り】　　\\C[3]ＳＰ－１en(v[223] \>= 1) 
 > CONTEXT: CommonEvents_713/1/Choice/1
-\\I[131][Demon Decapitation] \\C[3]1 SPen(v[223] \>= 1)#Ron
+\\I[131][Demon Decapitation] \R[1]\\C[3]1 SPen(v[223] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]【血裂雷鳴突き】　　\\C[3]ＳＰ－２en(v[223] \>= 2) 
 > CONTEXT: CommonEvents_713/1/Choice/2
-\\I[131][Bloody Fissure Thunder Thrust] \\C[3]2 SPen(v[223] \>= 2)#Ron
+\\I[131][Bloody Fissure Thunder Thrust] \R[1]\\C[3]2 SPen(v[223] \>= 2)#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]【壊斧・大山鳴動】　\\C[3]ＳＰ－３en(v[223] \>= 3) 
 > CONTEXT: CommonEvents_713/1/Choice/3
-\\I[131][Earth Rumbling Decapitation] \\C[3]3 SPen(v[223] \>= 3)#Ron
+\\I[131][Earth Rumbling Decapitation] \R[1]\\C[3]3 SPen(v[223] \>= 3)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -31,7 +31,7 @@
 > CONTEXT: CommonEvents_713/5/ChoiceHelp
 \\\>\\C[13]Type:Physical \\C[14]Power: Medium
 \\\>\\C[0]Deals physical damage to an opponent.
-\\\>\\C[2]Guaranteed hit.#Ron
+\\\>\\C[2]Guaranteed to hit.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -87,7 +87,7 @@ Earth Rumbling Decapitation!!#RonIffyWording
 > BEGIN STRING
 \\I[131]【魔刀・明鏡止水】　\\C[3]ＳＰ－３en(v[223] \>= 3) 
 > CONTEXT: CommonEvents_713/88/Choice/0
-\\I[131][Serene Demon Sword] \\C[3]3 SPen(v[223] \>= 3)#Ron
+\\I[131][Serene Demon Sword] \R[1]\\C[3]3 SPen(v[223] \>= 3)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -116,25 +116,25 @@ Serene Demon Sword!!#Ron
 > BEGIN STRING
 \\I[131]【天魔頭蓋斬】　　　\\C[3]ＳＰ－３en(v[223] \>= 3) 
 > CONTEXT: CommonEvents_713/120/Choice/0
-\\I[131][Demon Skull Beheading] \\C[3]3 SPen(v[223] \>= 3)#Ron
+\\I[131][Demon Skull Beheading] \R[1]\\C[3]3 SPen(v[223] \>= 3)#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]【死剣・乱れ星】　　\\C[3]ＳＰ－５en(v[223] \>= 5) 
 > CONTEXT: CommonEvents_713/120/Choice/1
-\\I[131][Death Sword Chaos Star] \\C[3]5 SPen(v[223] \>= 5)#Ron
+\\I[131][Death Sword Chaos Star] \R[1]\\C[3]5 SPen(v[223] \>= 5)#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[9]【裏練気】　　　　　\\C[3]ＳＰ－３en(v[223] \>= 3) 
 > CONTEXT: CommonEvents_713/120/Choice/2
-\\I[131][Shadow-Honed Energy] \\C[3]5 SPen(v[223] \>= 3)#CheckLater
+\\I[131][Shadow-Honed Energy] \R[1]\\C[3]5 SPen(v[223] \>= 3)#CheckLater
 > END STRING
 
 > BEGIN STRING
 \\I[115]【初心】　　　　　　\\C[3]ＳＰ－２en(v[223] \>= 2) 
 > CONTEXT: CommonEvents_713/120/Choice/3
-\\I[115][Focus]　　　　　　\\C[3]2 SPen(v[223] \>= 2)#CheckLater 
+\\I[115][Focus]　　　　　　\R[1]\\C[3]2 SPen(v[223] \>= 2)#CheckLater 
 > END STRING
 
 > BEGIN STRING

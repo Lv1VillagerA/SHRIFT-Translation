@@ -4,8 +4,11 @@
 
 こいつら……只者ではないぞ！
 我らが兄弟の攻撃を全て耐えうるとは……
-> CONTEXT: Map461/events/4/pages/0/30/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/30/Dialogue/enemy37
+Don't push yourself, Mizuki!!
 
+These aren't your ordinary bad guys!
+They managed to endure all of our attacks...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13,8 +16,11 @@
 
 コイツラ、オレサマ、怖ガラナイ……
 モット蹴リタイ……
-> CONTEXT: Map461/events/4/pages/0/35/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/35/Dialogue/enemy37
+Grrr...
 
+I'm not scared...
+I want to give them more of a kicking...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -22,8 +28,11 @@
 
 この世界にも、
 私たちに刃向かおうなんていう人間が居るなんてね……
-> CONTEXT: Map461/events/4/pages/0/53/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/53/Dialogue/beelzebub_fc1
+We're just as surprised as you.
 
+To think there could be a human in this world
+capable of opposing us...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -31,22 +40,27 @@
 随分と戦い慣れしていますね……
 
 でも、いつまで耐えられるかしら？♡
-> CONTEXT: Map461/events/4/pages/0/59/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/59/Dialogue/beelzebub_fc2
+And to be able to handle attacks from all three
+of us all by yourself, you must be quite used to
+fighting. Though I do wonder just how much longer
+you can hold out...? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ……………時間の、問題……
-> CONTEXT: Map461/events/4/pages/0/65/Dialogue/beelzebub_fc3 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/65/Dialogue/beelzebub_fc3
+It's only... a matter of time...#Ron
 > END STRING
 
 > BEGIN STRING
 瑞紀の前に立ちはだかっていたのは…
 
 それぞれ似た姿をもつ、蠅の特徴を持った３体の異形…
-> CONTEXT: Map461/events/4/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/67/Dialogue
+Standing in Mizuki's way were three individuals
+with fly-like characteristics who all looked
+similar to one another.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -54,16 +68,19 @@
 邪悪なオーラが、身体全体から溢れ出ている……
 
 瑞紀が苦戦しているのは明らかだ…！
-> CONTEXT: Map461/events/4/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/71/Dialogue
+In addition to having an intimidating presence,
+they exuded an evil aura from every pore of their
+bodies. Mizuki's clearly having a hard time
+dealing with them!#Ron
 > END STRING
 
 > BEGIN STRING
 あれは………！！
 
 ベルゼバブの連中ではないか！！
-> CONTEXT: Map461/events/4/pages/0/76/Dialogue/alice_fc6 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/76/Dialogue/alice_fc6
+Aren't those... the Beelzebubs?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -71,38 +88,45 @@
 
 確か、私の世界では討伐したはずだよ…！
 それに、アイツは男だったはず！
-> CONTEXT: Map461/events/4/pages/0/80/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/80/Dialogue/enemy30
+Beelzebubs?!
 
+I'm pretty sure I already suppressed them in my
+world! Plus they were all males!#Ron
 > END STRING
 
 > BEGIN STRING
 それじゃあ、やっぱり
 
 あの三人は、ルカやアリスの世界からやってきた魔物…！？
-> CONTEXT: Map461/events/4/pages/0/85/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/85/Dialogue/kazuya
+So then those three are monsters from Luka and
+Alice's world?!#Ron
 > END STRING
 
 > BEGIN STRING
 やめるんだ！３人とも！
-> CONTEXT: Map461/events/4/pages/0/89/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/89/Dialogue/ruka_fc1
+Stop it, you three!!#Ron
 > END STRING
 
 > BEGIN STRING
 あら……ルカじゃないの。
 
 あなたもこの世界に来ていたのね？
-> CONTEXT: Map461/events/4/pages/0/113/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/113/Dialogue/beelzebub_fc1
+Oh my, if it isn't Luka.
 
+So you came to this world as well.#Ron
 > END STRING
 
 > BEGIN STRING
 あなたも、\\N[1]って人間を倒すために
 
 あの双子に、ここに送られた……ワケではなさそうね。
-> CONTEXT: Map461/events/4/pages/0/117/Dialogue/beelzebub_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/117/Dialogue/beelzebub_fc1
+But it doesn't seem like you were sent here by
+those twins to defeat that \\N[1] human.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -110,24 +134,29 @@
 人間を守る側としてここに来たのでしょう？
 
 そして、その傍らにいるのが\\N[1]……
-> CONTEXT: Map461/events/4/pages/0/121/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/121/Dialogue/beelzebub_fc2
+Knowing your personality, you probably came here
+to protect humans. And I suppose that person
+next to you is \\N[1]...#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ふふ……思ってたとおり…
 
 とっても美味しそう…♡
-> CONTEXT: Map461/events/4/pages/0/126/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/126/Dialogue/beelzebub_fc2
+Fufu... he looks just as delicious as I thought
+he'd be... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 『双子』と言ったか……！？
 
 では、やはり『アバドーン』とやらの口車に…！？
-> CONTEXT: Map461/events/4/pages/0/132/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/132/Dialogue/alice_fc6
+Did you say something about "twins"?!
 
+So that means "Abaddon" put you up to this?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -135,8 +164,11 @@
 
 得体の知れないヤツだったけど
 私たちに声をかけるなんて、とても見る目があるわね
-> CONTEXT: Map461/events/4/pages/0/136/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/136/Dialogue/beelzebub_fc1
+Correct...
 
+Quite a strange individual, but clearly a being
+with a discerning eye to have called out to us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -144,52 +176,64 @@
 これこそ、本来の私たちの立場なの……
 
 やっと見つけたわ……
-> CONTEXT: Map461/events/4/pages/0/141/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/141/Dialogue/beelzebub_fc1
+We've finally found a world that fears us...
+A world where humans cower and flee before us...
 
+A world where we can take our proper place...#Ron
 > END STRING
 
 > BEGIN STRING
 ……お団子、この世界にもあるかな…
-> CONTEXT: Map461/events/4/pages/0/146/Dialogue/beelzebub_fc3 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/146/Dialogue/beelzebub_fc3
+I wonder if they have dangos in this world, too.#Ron
 > END STRING
 
 > BEGIN STRING
 なるほどな……
 
 そういう条件で、加担しているというワケか……
-> CONTEXT: Map461/events/4/pages/0/150/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/150/Dialogue/alice_fc5
+I see...
 
+So that's what you were offered to conspire with
+them.#Ron
 > END STRING
 
 > BEGIN STRING
 ならば十中八九、口で説得しても無駄なようだな
 
 腕ずくでも連れて帰るぞ……！
-> CONTEXT: Map461/events/4/pages/0/154/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/154/Dialogue/alice_fc5
+In that case, there's probably no chance of us
+being able to convince you, so we'll drag you
+back home kicking and screaming if we have to!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 "EX4　ベルゼバブ３人"
-> CONTEXT: Map461/events/4/pages/0/159/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/159/InlineScript/2:1
+"EX4　Three Beelzebubs"#Ron
 > END STRING
 
 > BEGIN STRING
 瑞紀ちゃん！下がってて！
 
 ここは私たちが！
-> CONTEXT: Map461/events/4/pages/0/171/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/171/Dialogue/enemy30
+Fall back, Mizuki-chan!
 
+We'll handle this!#Ron
 > END STRING
 
 > BEGIN STRING
 や、夜深ちゃん…！
 
 ダメ！危険よ！
-> CONTEXT: Map461/events/4/pages/0/175/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/175/Dialogue/enemy38
+Y-Yami-chan!
 
+Don't! It's too dangerous!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -197,8 +241,11 @@
 
 お前は召喚器の機能で今のうちに回復するんだ！
 かなりひどいダメージを受けているぞ！
-> CONTEXT: Map461/events/4/pages/0/179/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/179/Dialogue/enemy37
+Leave this to them, Mizuki!
+You've taken quite a lot of damage! Use the
+summoning device to recover while you have the
+chance!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -206,8 +253,11 @@
 
 脚、上ガッテナイ
 オレ、蹴レナイ
-> CONTEXT: Map461/events/4/pages/0/184/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/184/Dialogue/enemy37
+You're tired, Mizuki.
 
+You can't lift legs.
+I can't kick.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -215,8 +265,11 @@
 
 ごめん、頼んだわよ夜深ちゃん……！
 すぐに持ち直すから……！
-> CONTEXT: Map461/events/4/pages/0/189/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/189/Dialogue/enemy38
+Kuh...
 
+Sorry to leave this to you, Yami-chan!
+I'll quickly get myself back into fighting shape!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -224,24 +277,32 @@
 
 \\C[10]世界融解\\C[0]の力とやらで、
 魔力も無尽蔵に湧いて出てくる……！！
-> CONTEXT: Map461/events/4/pages/0/195/Dialogue/beelzebub_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/195/Dialogue/beelzebub_fc1
+Fufufu... I'm in a really good mood. ♡
+Thanks to the power of that \\C[10]World Fusion\\C[0],
+I have an infinite supply of magic power welling
+up within me!!#Ron
 > END STRING
 
 > BEGIN STRING
 今なら、あなたに負けるはずもないわ、ルカ。
 
 リベンジマッチといきましょう…♡
-> CONTEXT: Map461/events/4/pages/0/200/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/200/Dialogue/beelzebub_fc1
+The way I am now, there's no chance of you
+defeating me, Luka.
 
+Let us begin our revenge match. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 くっ……
 
 強い……！！
-> CONTEXT: Map461/events/4/pages/0/219/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/219/Dialogue/kazuya
+Kgh...
 
+They're strong!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -249,8 +310,11 @@
 こやつら、こんなに強かったか……！？
 
 いくら余やルカの出力が弱まっているとはいえ、これは…
-> CONTEXT: Map461/events/4/pages/0/223/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/223/Dialogue/alice_fc5
+Hold on, were these guys always this strong?!
 
+Even if Luka and I have had our powers weakened,
+this is absurd...#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -258,8 +322,11 @@
 
 アバドーンに加担した際の特典のようなモノらしいけど
 これがある限り、あなたたちに負ける気がしないわ…♡
-> CONTEXT: Map461/events/4/pages/0/228/Dialogue/beelzebub_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/228/Dialogue/beelzebub_fc1
+Didn't I tell you? It's the \\C[10]World Fusion\\C[0]...
+It's like a special perk for those who choose to
+work with Abaddon. And as long as we have it, I
+don't think you have any chance of beating us.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -267,8 +334,11 @@
 思いのままに繁殖する……
 
 それがアバドーンが私たちに提示した提案……
-> CONTEXT: Map461/events/4/pages/0/233/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/233/Dialogue/beelzebub_fc2
+With free reign to use this power as we please,
+we'll plunge humanity into a state of terror and
+multiply as much as we desire. That is the future
+Abaddon offered to us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -276,14 +346,17 @@
 あなたを徹底的に搾って、無力化すること……♡♡
 
 うふふふふっ…♡
-> CONTEXT: Map461/events/4/pages/0/238/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/238/Dialogue/beelzebub_fc2
+And so our top priority is you, \\N[1]...
 
+We'll thoroughly squeeze you out and render you
+powerless. Ufufufu... ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 ………そろそろ、時間……
-> CONTEXT: Map461/events/4/pages/0/246/Dialogue/beelzebub_fc3 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/246/Dialogue/beelzebub_fc3
+We're out of time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -291,22 +364,27 @@
 
 ルカ、\\N[1]。
 あなたたちとの決着は、次の機会にお預けよ。
-> CONTEXT: Map461/events/4/pages/0/248/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/248/Dialogue/beelzebub_fc1
+...You're right.
 
+Luka, \\N[1]... we'll have to put this on
+hold and settle things next time we meet.#Ron
 > END STRING
 
 > BEGIN STRING
 本当はもう少し遊んでいたいけど……
 
 この世界はもう『時間切れ』みたい……
-> CONTEXT: Map461/events/4/pages/0/253/Dialogue/beelzebub_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/253/Dialogue/beelzebub_fc1
+I really would have liked to play with you a
+little longer, but it seems this world is already
+out of time...#Ron
 > END STRING
 
 > BEGIN STRING
 なに…！？
-> CONTEXT: Map461/events/4/pages/0/257/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/257/Dialogue/kazuya
+What?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -314,8 +392,10 @@
 
 そして『世界融解』の力は更に強まり
 私たちの力は、もっと強くなるのよ…
-> CONTEXT: Map461/events/4/pages/0/278/Dialogue/beelzebub_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/278/Dialogue/beelzebub_fc1
+This world's going to be consumed by Abaddon
+soon. It will further strengthen the World
+Fusion, making us even more powerful...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -323,8 +403,11 @@
 
 生きていたら、また会いましょう。
 ふふふ……
-> CONTEXT: Map461/events/4/pages/0/283/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/283/Dialogue/beelzebub_fc1
+Goodbye, Luka.
 
+Let's meet again if you survive.
+Fufufu...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -332,8 +415,11 @@
 
 アバドーンの『食事』が始まっちゃったよ！
 はやく次の世界に行かないと、巻き込まれちゃう！！
-> CONTEXT: Map461/events/4/pages/0/323/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/323/Dialogue/sirousagi_fc1
+Come on, hurry!!
+Abaddon's started eating, and if we don't quickly
+hightail it to the next world, we'll be caught up
+in it as well.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -341,16 +427,20 @@
 ちょっとここから遠い場所にあるんだ！
 
 早く行かないと間に合わなくなっちゃう！！
-> CONTEXT: Map461/events/4/pages/0/328/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/328/Dialogue/sirousagi_fc1
+\\C[2]The dimensional rift to the next world is a
+little ways away from here! We've gotta move fast
+or we won't make it in time!!#Ron
 > END STRING
 
 > BEGIN STRING
 『食事』…！？『次の世界』！？
 
 あ、あなたたちは一体…！
-> CONTEXT: Map461/events/4/pages/0/333/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/333/Dialogue/enemy38
+"Eating"?! "Next world"?!
 
+J-Just who the hell are you guys?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -358,8 +448,10 @@
 どうやら今は迷っている場合ではないようだ
 
 あの『空間の穴』は、明らかにマズい…！
-> CONTEXT: Map461/events/4/pages/0/346/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/346/Dialogue/enemy37
+This doesn't seem like a good time to hang around
+being confused, Mizuki. That hole in the fabric
+of spacetime is obviously bad news for us!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -367,20 +459,25 @@
 少なくとも、我らと敵対関係ではないらしい……
 
 とにかく、この場を離れるぞ！！
-> CONTEXT: Map461/events/4/pages/0/351/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/351/Dialogue/enemy37
+Though these people seem to have something to do
+with this phenomenon, at the very least, they
+don't appear to be hostile. So for now, let's
+just get away from here!!#Ron
 > END STRING
 
 > BEGIN STRING
 瑞紀ちゃん…！！
-> CONTEXT: Map461/events/4/pages/0/356/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map461/events/4/pages/0/356/Dialogue/enemy30
+Mizuki-chan!!#Ron
 > END STRING
 
 > BEGIN STRING
 くっ……！
 
 仕方がないわね…！！
-> CONTEXT: Map461/events/4/pages/0/358/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map461/events/4/pages/0/358/Dialogue/enemy38
+Kuh...!
 
+Guess I've got no other choice!!#Ron
 > END STRING
