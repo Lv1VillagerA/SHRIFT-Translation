@@ -15,10 +15,10 @@ So that's what's made Abaddon start moving.#Ron
 
 奇しくもこのように話が繋がるとは……
 > CONTEXT: Map478/events/5/pages/0/12/Dialogue/yuuma
-Back in the Demon Realm when I heard about
-Abaddon, I didn't have much interest in the human
-realm so it went in one ear and out the other. But
-I didn't expect it would all connect like this.#RonIffy
+As I had little interest in the human realm at
+the time, I didn't pay much attention to stories
+about Abaddon when I lived in the Demon Realm. To
+think they'd all connect like this.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -128,7 +128,7 @@ These enemies would be too much for
 So I took what data I had left on the \\C[10]Intervener
 through my Medium\\C[0], and used it to create
 \\C[2]Kazuya-kun just before his escape from the city\\C[0].
-One of those so-called \\C[10]Avatars\\C[0] things.#Ron
+One of those so-called \\C[10]Avatar \\C[0]things.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -147,9 +147,10 @@ in the form of "EX Stages"...#Ron
 ただのデータでは、\\C[2]悪魔たちと心を通わせられない…
 『キズナ』で問題を乗り越えられなかった\\C[0]んだ……
 > CONTEXT: Map478/events/5/pages/0/71/Dialogue/other8
-But that didn't work... \\C[2]data alone wasn't enough
-to establish a bond with the demons, the problem
-couldn't be overcome with "bonds"\\C[0]...#RonIffy
+But that didn't work... \\C[2]a hollow shell of
+\\N[1]-kun wouldn't be able to establish a proper
+bond with the demons, and without that, we
+wouldn't be able to solve the problem...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -158,10 +159,10 @@ couldn't be overcome with "bonds"\\C[0]...#RonIffy
 \\C[2]真慈悲後の\\N[1]くんに、意識を肩代わりしてもらって
 マイルームを介入者と共有できるようにしたんだ。
 > CONTEXT: Map478/events/5/pages/0/80/Dialogue/other8
-And so, this is a little complicated, but I had
-\\C[2]the True Mercy \\N[1]-kun take over the
-avatar's consciousness and made it so he would
-share My Room with the Intervener\\C[0].#RonIffy
+This is a bit complicated, but...
+\\C[2]I had the True Mercy \\N[1]-kun take over
+the avatar's conciousness, and made it so he
+would share My Room with the Intervener.#RonIffy
 > END STRING
 
 > BEGIN STRING

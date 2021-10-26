@@ -18293,10 +18293,10 @@ Your sword can do that?!#Ron
 
 猫眼刀なら、その魔力を波長を合わせられると思うの！
 > CONTEXT: Troops/382/pages/3/28/Dialogue/enemy30
-I'm not 100%, but that magic doesn't look like
-attack magic, but the type that interferes with
+I'm not 100% sure, but it doesn't look like attack
+magic... but a type that interferes along
 wavelengths. Using my sword I might be able to
-align with that magic's wavelengths!#Ron
+align to its frequency and absorb it!#Ron
 > END STRING
 
 > BEGIN STRING

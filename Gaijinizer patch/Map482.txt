@@ -31,11 +31,12 @@ The only method we have of "fighting" Abaddon...#Ron
 
 だけど、それじゃあアバドーンを捕捉することは出来ない。
 > CONTEXT: Map482/events/11/pages/0/21/Dialogue/other8
-If I said it's a parallel world of a parallel
-world, even demons would have a hard time
-envisioning it in their heads on an intuitive
-level...
-But that means Abaddon won't be able to seize it.#RonIffy
+This space is parallel world upon a parallel
+world... Even explaining it like that, a demon
+would only be able to vaguely understand on a
+instinctive level what that means.
+But the existence of this space alone wouldn't
+be enough to capture Abaddon.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -44,9 +45,10 @@ But that means Abaddon won't be able to seize it.#RonIffy
 \\C[2]人間でもその世界が並んでる空間を可視化できるように
 一時的に道筋を固着化してもらったんだ……
 > CONTEXT: Map482/events/11/pages/0/26/Dialogue/other8
-I had Lucifer use his powers to \\C[2]temporarily
-solidify a pathway so that even a human could
-visualize the space where those worlds line up.#TheFuck
+...Which is why I had Lucifer use his powers to
+\\C[2]temporarily solidify a pathway, so that even a
+human could visualize where the worlds line up
+and use this space to traverse to them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -55,9 +57,10 @@ visualize the space where those worlds line up.#TheFuck
 よくこういう空間は\\C[2]『宇宙』\\C[0]に例えられるように
 道筋といっても一筋縄ではいかないからね。
 > CONTEXT: Map482/events/11/pages/0/32/Dialogue/enemy35
-Oh dear. Though you're right in likening it to a
-pathway in \\C[2]outer space\\C[0], this wasn't
-straightforward to set up at all.#RonIffy
+This wasn't easy, you know...
+Getting everything set up for \\N[1] was
+not as straightforward or simple as a mere
+\\C[2]"pathway in outer space"\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -112,7 +115,7 @@ Along with my \\C[10]Intervention \\C[0]power...#Ron
 具体的には、どれほど奪われていたのだ…？
 > CONTEXT: Map482/events/11/pages/0/69/Dialogue/enemy35
 Speaking of which, you mentioned before that
-you'd had your \\C[10]Intervention power stolen\\C[0]...
+you'd had your \\C[10]Intervention powers stolen\\C[0]...
 
 Just how much was taken, exactly?#Ron
 > END STRING

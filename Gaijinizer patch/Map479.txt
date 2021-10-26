@@ -148,7 +148,7 @@ power was consumed?\\C[0]#Ron
 \\C[2]Your judgment and intellect have both been
 reduced since losing your body and the majority
 of yourself, have they not? \\C[0]The fact you've
-reverted to being Cheshire is proof of that. ♡
+reverted to being Cheshire is proof of that. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -166,7 +166,7 @@ N-No way...#Ron
 Ahah, oh dear... ♡
 
 With that part of spacetime gone, \\C[2]the barrier
-protecting you has also disappeared\\C[0].
+protecting you has also disappeared\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING

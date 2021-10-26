@@ -1045,8 +1045,8 @@ Green Apple#Triketos
 > BEGIN STRING
 \\C[2]【共闘者用】\\C[0]かつての洋館の主だったナード男爵の騎士鎧。
 抵：＋３０％　ターン終了時、味方全体の体力を８００回復する。
-> CONTEXT: Armors/104/description < UNTRANSLATED
-Armor belonging to the former owners of the Western mansion.
+> CONTEXT: Armors/104/description
+Armor belonging to the former owners of the mansion.
 Will: +30%, Restores party's stamina by 800 each turn.#Ron
 > END STRING
 

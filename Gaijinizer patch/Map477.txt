@@ -18,7 +18,7 @@ The girl's cheeks are so stretchy. ♪#Ron
 > CONTEXT: Map477/events/13/pages/0/6/Dialogue/other8
 Schtoooooooop!!!
 
-Are you trying to pull them oooooff!!!#CheckLater
+Are you trying to pull them oooooff!!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -325,7 +325,7 @@ yours.#Ron
 That's the \\C[2]Seraphim Pouch\\C[0].
 It's something I gave to Marion's forefather and
 which I endowed with a unique improvement to
-suit his characteristics.#RonIffy
+suit his abilities.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -334,10 +334,10 @@ suit his characteristics.#RonIffy
 なかなかどうして、彼の場合は
 この方法でしか、武器に天使の力が付与されなかったのだ。
 > CONTEXT: Map477/events/9/pages/0/19/Dialogue/enemy35
-He originally used to \\C[2]throw spears\\C[0]...
-
-But for some reason, this became his only method
-to endow weapons with angelic power.#RonIffy
+His ancestor originally used it to \\C[2]throw
+spears\\C[0]... But for some reason, this was
+the only way for me to endow Marion's weapons
+with angelic power.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -473,10 +473,10 @@ current situation anything close to normal.#Ron
 一刻も早く、悪魔を使役して暗躍している
 Ｍ.Ｏ.Ｗを壊滅させないと……
 > CONTEXT: Map477/events/11/pages/0/16/Dialogue/kazuya
-M.O.W., the organization that's using demons
-behind the scenes, has to be destroyed as soon as
-possible if we want to have any chance of
-settling the turmoil in this world.#RonIffyWording
+If we want to stop the turmoil in this world...
+We must stop M.O.W, the organization who's
+behind everything, who have secretly been
+using demons to fan the flames of war.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -719,7 +719,7 @@ care of things until that happens.#Ron
 
 変なことに巻き込まれてなきゃいいんだけど…
 > CONTEXT: Map477/events/14/pages/0/11/Dialogue/sirousagi_fc1
-But boy are they late...
+But boy, are they late...
 
 I hope they haven't gotten themselves caught up
 in something strange.#Ron
