@@ -18,7 +18,7 @@ The girl's cheeks are so stretchy. ♪#Ron
 > CONTEXT: Map477/events/13/pages/0/6/Dialogue/other8
 Schtoooooooop!!!
 
-Are you trying to pull them oooooff!!!#RonLocalization
+Why are you doing thishh?!!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -390,10 +390,10 @@ think they don't pose much threat to humanity...#Ron
 我が取り纏める部分以外では、未だに信仰を強いながら
 人間を庇護している天使も数多く居る……
 > CONTEXT: Map477/events/10/pages/0/15/Dialogue/enemy35
-Oh but they do... apart from the portion I
-collect, there are still many angels who force
-the humans under their protection to adopt their
-religious faith.#CheckLater
+Oh but they do... apart from the humans under my
+watch, there are still many angels keeping humans
+under their protection, forcing them to adopt
+their religious faith all the while.#RonLocalization
 > END STRING
 
 > BEGIN STRING

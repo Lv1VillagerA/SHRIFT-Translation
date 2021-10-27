@@ -57,10 +57,10 @@ and use this space to traverse to them.#Ron
 よくこういう空間は\\C[2]『宇宙』\\C[0]に例えられるように
 道筋といっても一筋縄ではいかないからね。
 > CONTEXT: Map482/events/11/pages/0/32/Dialogue/enemy35
-This wasn't easy, you know...
-Getting everything set up for \\N[1] was
-not as straightforward or simple as a mere
-\\C[2]"pathway in outer space"\\C[0]...#Ron
+This was no easy task, you know...
+
+But you're not wrong to liken it to outer space,
+and just like it, there's no one way forward.#Ron/Amaboye
 > END STRING
 
 > BEGIN STRING
