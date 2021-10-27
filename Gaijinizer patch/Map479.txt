@@ -3,8 +3,10 @@
 な、なによ……この結界……
 
 全然ビクともしないじゃない……
-> CONTEXT: Map479/events/1/pages/0/7/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/7/Dialogue/enemy39
+W-What's with this barrier?
 
+It hasn't even moved an inch...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,14 +14,17 @@
 この魔力量をぶつけてヒビ一つ入らないって………
 
 これ展開したヤツ、頭おかしいんじゃないの…！？
-> CONTEXT: Map479/events/1/pages/0/11/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/11/Dialogue/enemy39
+I know attack magic isn't normally my specialty,
+but I should've at least been able to put a crack
+in with how much magic I threw at it. Whoever set
+this barrier up must have a screw loose...!#Ron
 > END STRING
 
 > BEGIN STRING
 "EX4　ハイラミア"
-> CONTEXT: Map479/events/1/pages/0/17/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/17/InlineScript/2:1
+"EX4　High Lamia"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -27,16 +32,21 @@
 
 まさかあなたの方から来てくれるなんてね♪
 そんなにママが恋しかったかしら？♡
-> CONTEXT: Map479/events/1/pages/0/161/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/161/Dialogue/enemy39
+Oh my, \\N[1]-chan. ♡
 
+I didn't expect you to come out to meet me. ♪
+Did you miss your mommy that much? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ストップ！夜深ちゃん。
 
 変な対抗心燃やさないで…！
-> CONTEXT: Map479/events/1/pages/0/168/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/168/Dialogue/enemy38
+Stop, Yami-chan.
 
+Don't get into any weird contests with her!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -44,8 +54,11 @@
 
 \\C[2]あれから練習して、この力も制御できるようになったの
 普段は使わない攻撃魔法もね…
-> CONTEXT: Map479/events/1/pages/0/172/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/172/Dialogue/enemy39
+I was taken by surprise last time and had to
+retreat, \\C[2]but I've been practicing since then, and
+now I have much more control over my powers. So
+much so I can now do things I couldn't before\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -53,8 +66,11 @@
 
 \\C[2]今度は絶対メロメロになるようにしてあげたから
 逃げようなんて考える暇も無いわよ♡
-> CONTEXT: Map479/events/1/pages/0/177/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/177/Dialogue/enemy39
+Naturally, that means I've perfected "that" magic
+as well. \\C[2]This time I'll definitely make you fall
+so head-over-heels for me you won't even entertain
+the idea of running away\\C[0]. ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -62,16 +78,20 @@
 
 様子から見るに、貴様の攻撃魔法では
 この結界に傷一つ付けられぬようではないか。
-> CONTEXT: Map479/events/1/pages/0/183/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/183/Dialogue/alice_fc5
+Hmph, you're bluffing. It's obvious just by
+looking that your magic wasn't able to make even
+a scratch on this barrier.#Ron
 > END STRING
 
 > BEGIN STRING
 一方で、我らは結界の中に守られておる……
 
 貴様が圧倒的不利であるのは、明らかであろう？
-> CONTEXT: Map479/events/1/pages/0/188/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/188/Dialogue/alice_fc5
+Meanwhile, we're protected on the other side.
 
+It's obvious you're at a huge disadvantage here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -79,16 +99,20 @@
 
 私がこうやって爆音を立てたのは
 『あなたたちを外に出すため』だって考えなかったの？
-> CONTEXT: Map479/events/1/pages/0/193/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/193/Dialogue/enemy39
+Ufufu... is that what you think?
 
+Did you not think that the large noise I made was
+actually to draw you out?#Ron
 > END STRING
 
 > BEGIN STRING
 確かに結界の頑丈さには驚いたけど………
 
 こうしてしまえば、関係ないのよ……♡
-> CONTEXT: Map479/events/1/pages/0/198/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/198/Dialogue/enemy39
+Though it's true this barrier is surprisingly
+sturdy, that doesn't matter if this happens... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -96,8 +120,11 @@
 
 アバドーンは
 \\C[4]『正史』\\C[0]に手を出せないはずなのに…！
-> CONTEXT: Map479/events/1/pages/0/260/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/260/Dialogue/other8
+H-How...?!!
 
+Abaddon shouldn't be able to meddle with the
+\\C[4]official timeline\\C[0]!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -105,8 +132,11 @@
 
 \\C[2]本当にあなたの\\C[10]『介入』\\C[2]の力が
 まったく喰われずに済んだと思っているの？
-> CONTEXT: Map479/events/1/pages/0/280/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/280/Dialogue/enemy39
+Ufufu... you foolish disembodied cat head. ♡
+\\C[2]Did you really think that everything would be
+fine as long as not all of your \\C[10]Intervention\\C[0]
+power was consumed?\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -114,14 +144,17 @@
 判断力と知性が中途半端になったんじゃないかしら？
 
 \\C[0]人格がチェシャに戻ってるのが良い証拠よ♡
-> CONTEXT: Map479/events/1/pages/0/285/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/285/Dialogue/enemy39
+\\C[2]Your judgment and intellect have both been
+reduced since losing your body and the majority
+of yourself, have they not? \\C[0]The fact you've
+reverted to being Cheshire is proof of that. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 そ、そんな……
-> CONTEXT: Map479/events/1/pages/0/290/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/290/Dialogue/other8
+N-No way...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -129,38 +162,48 @@
 
 空間が消えたせいで、結界の術式が無くなって
 \\C[2]どうやら結界が消えちゃったみたいねぇ？
-> CONTEXT: Map479/events/1/pages/0/293/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/293/Dialogue/enemy39
+Ahah, oh dear... ♡
 
+With that part of spacetime gone, \\C[2]the barrier
+protecting you has also disappeared\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 目の前にかわいい男の子が３人も…♡
 
 ああ……誰のママになろうかしら…♡
-> CONTEXT: Map479/events/1/pages/0/298/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/298/Dialogue/enemy39
+And now I have three cute little boys right in
+front of me. ♡
 
+Aaah, I wonder whose mommy I should be...? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 誰のママにもならせんわ！！ショタ喰い蛇め！
 
 貴様はこのまま元の世界に強制送還だ！！
-> CONTEXT: Map479/events/1/pages/0/302/Dialogue/alice_fc6 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/302/Dialogue/alice_fc6
+You won't be anyone's mommy, you stupid
+shota-eating snake!! We're gonna kick you
+straight back to your own world!!#Ron
 > END STRING
 
 > BEGIN STRING
 だが、ヤツの魔法が強力なのは確かだ……
 
 \\C[2]特に例の幼児退行魔法は注意しろ…！！
-> CONTEXT: Map479/events/1/pages/0/306/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/306/Dialogue/enemy35
+However, it is true that her magic has grown in
+strength. \\C[2]You need to be especially careful of
+her age regression magic!!#Ron
 > END STRING
 
 > BEGIN STRING
 き、消えた……
-> CONTEXT: Map479/events/1/pages/0/333/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/333/Dialogue/ruka_fc1
+S-She vanished...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -168,28 +211,36 @@
 実体が崩壊し、アバドーンと『つながり』が絶たれたようだ
 
 今頃、元の世界に帰っているだろう。
-> CONTEXT: Map479/events/1/pages/0/335/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/335/Dialogue/enemy35
+It would seem her materialized form collapsed and
+her connection to Abaddon severed in accordance
+with this world's natural laws. I suspect she has
+now returned to her own world.#Ron
 > END STRING
 
 > BEGIN STRING
 前もやってたけど……それ、何…？
-> CONTEXT: Map479/events/1/pages/0/368/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/368/Dialogue/ruka_fc1
+I remember him doing that before...
 
+What's that about?#Ron
 > END STRING
 
 > BEGIN STRING
 彼なりの勝ち鬨のようなものだ。
 
 気にしないでいい。
-> CONTEXT: Map479/events/1/pages/0/370/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/370/Dialogue/enemy35
+Don't worry about it, that's just his way of
+doing a victory shout.#Ron
 > END STRING
 
 > BEGIN STRING
 そんな……\\C[4]『正史』\\C[0]の世界が……
-> CONTEXT: Map479/events/1/pages/0/393/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/393/Dialogue/other8
+No...
 
+The world of the \\C[4]official timeline \\C[0]has...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -197,22 +248,27 @@
 
 多分、ボクたちに見せつけるためだ……
 \\C[10]『いつでも手を出せる』\\C[0]って……
-> CONTEXT: Map479/events/1/pages/0/395/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/395/Dialogue/sirousagi_fc1
+I can't sense Abaddon's presence anymore...
 
+This was probably him trying to show us that \\C[10]he
+can get to us anytime, anywhere\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
 でも……\\C[10]この世界はもう……
-> CONTEXT: Map479/events/1/pages/0/400/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/400/Dialogue/sirousagi_fc1
+But... \\C[10]this world is already\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんだこやつらは！？
 
 アバドーンの新たな刺客か！！？
-> CONTEXT: Map479/events/1/pages/0/461/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/461/Dialogue/alice_fc5
+W-What're all these things?!
 
+New assassins from Abaddon?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -220,28 +276,32 @@
 \\C[2]終末の匂いをかぎつけてやってくるハイエナ……
 
 別称『獣』と言われる下級悪魔………。
-> CONTEXT: Map479/events/1/pages/0/465/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/465/Dialogue/sirousagi_fc1
+No, \\C[2]they're hyenas drawn to the smell of the end
+times... low-grade demons also known as
+"beasts"...#Ron
 > END STRING
 
 > BEGIN STRING
 そ、それって…！！
-> CONTEXT: Map479/events/1/pages/0/470/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/470/Dialogue/kazuya
+T-That's...!!#Ron
 > END STRING
 
 > BEGIN STRING
 この世界の……\\C[10]崩壊が始まる……
 
 もう止めることは出来ん……
-> CONTEXT: Map479/events/1/pages/0/478/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/478/Dialogue/enemy35
+\\C[10]This world's collapse has begun...
 
+It can no longer be stopped.#Ron
 > END STRING
 
 > BEGIN STRING
 そ、そんな…！！
-> CONTEXT: Map479/events/1/pages/0/482/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/482/Dialogue/ruka_fc1
+N-No...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -249,8 +309,10 @@
 ここは私たちに任せて、お逃げください。
 
 そして……必ずやアバドーンを討ってください。
-> CONTEXT: Map479/events/1/pages/0/498/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/498/Dialogue/yuuma
+\\N[1], please leave this to us and escape.
 
+Also, please make sure you defeat Abaddon.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -258,62 +320,80 @@
 この世界を救うためには、それしかありません。
 
 \\C[0]私たちのことは気にせず……
-> CONTEXT: Map479/events/1/pages/0/503/Dialogue/yuuma < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/503/Dialogue/yuuma
+\\C[2]Everything will be restored if Abaddon is
+defeated, right? There's no other way to save
+this world. \\C[0]So don't worry about us...#Ron
 > END STRING
 
 > BEGIN STRING
 で、でも………
 
 逃げるったって、何処に…！？
-> CONTEXT: Map479/events/1/pages/0/508/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/508/Dialogue/enemy38
+B-But...
 
+We don't have anywhere to run to...#Ron
 > END STRING
 
 > BEGIN STRING
 大丈夫………
 
 \\C[2]そこの男が、貴方たちの道筋を示してくれるようですよ
-> CONTEXT: Map479/events/1/pages/0/516/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/516/Dialogue/yuuma
+Don't worry...
 
+\\C[2]It would appear that gentleman will show you the
+way.#Ron
 > END STRING
 
 > BEGIN STRING
 えっ……誰！？
-> CONTEXT: Map479/events/1/pages/0/562/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/562/Dialogue/kazuya
+Huh?
 
+Who are you?!#Ron
 > END STRING
 
 > BEGIN STRING
 やぁ、ルシィくん。久しぶりだね。
 
 今宵も変わらず、見目麗しゅう……
-> CONTEXT: Map479/events/1/pages/0/571/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/571/Dialogue/enemy35
+Hey Lucy-kun, long time no see.
 
+You're as beautiful as ever tonight.#Ron
 > END STRING
 
 > BEGIN STRING
 …………
 
 貴方も相変わらずのようですね、\\C[2]ルシフェル\\C[0]。
-> CONTEXT: Map479/events/1/pages/0/575/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/575/Dialogue/yuuma
+......
 
+I see you haven't changed either, \\C[2]Lucifer\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 ルシフェル！！！！！遅かったじゃないか！！！
 
 今まで何してたんだよ！！！！！！！！！
-> CONTEXT: Map479/events/1/pages/0/579/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/579/Dialogue/other8
+Lucifer!!! Where the hell've you been?!!
 
+What've you been doing all this time?!!!#Ron
 > END STRING
 
 > BEGIN STRING
 君を待つ過程で、世界が一つ消えそうになってるんだぞ！！
 
 何悠長に身構えてるのさ！！！
-> CONTEXT: Map479/events/1/pages/0/583/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/583/Dialogue/other8
+The world's about to disappear while we've been
+waiting for you!!
 
+What took you so long to get ready?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -321,8 +401,11 @@
 
 少し遅れただけで、お茶会の会場が跡形も無くなってた
 私の身にもなってくれたまえ
-> CONTEXT: Map479/events/1/pages/0/591/Dialogue/enemy36 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/591/Dialogue/enemy36
+Hey don't talk like that. Put yourself in my
+shoes for a moment, I was just a little late and
+found the venue for the Tea Party had vanished
+without a trace.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -330,32 +413,40 @@
 
 ここに来たのは、キミたちがここで力尽きて
 私の苦労を無駄にしないためだよ。
-> CONTEXT: Map479/events/1/pages/0/596/Dialogue/enemy36 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/596/Dialogue/enemy36
+Also, I've already done my job. I've only come
+here to make sure you all don't waste my hard
+work.#Ron
 > END STRING
 
 > BEGIN STRING
 お茶会に……ということは
 
 この者が、例の『協力者』……！？
-> CONTEXT: Map479/events/1/pages/0/602/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/602/Dialogue/enemy35
+The Tea Party...
 
+Is this the "helper" mentioned earlier?!#Ron
 > END STRING
 
 > BEGIN STRING
 まぁ、込み入った話は移動してからにしようか。
 
 この世界も、そこまで安全とは言えないからね。
-> CONTEXT: Map479/events/1/pages/0/632/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/632/Dialogue/enemy34
+Well, let's get into all that after we've moved
+location. This world isn't what you'd call safe
+anymore.#Ron
 > END STRING
 
 > BEGIN STRING
 ……………貴方に任せざるを得ないのは、不本意ですが……
 
 彼らを頼みましたよ、ルシフェル。
-> CONTEXT: Map479/events/1/pages/0/636/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/636/Dialogue/yuuma
+I'm reluctant to have to rely on you, Lucifier...
 
+But I'll leave them all to you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -363,16 +454,21 @@
 
 君のナイト様は、無事に送り届けてあげるよ。
 私の出来る範囲でね。
-> CONTEXT: Map479/events/1/pages/0/643/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/643/Dialogue/enemy35
+Don't worry, Lucy-kun.
 
+I'll safely escort your knight.
+As far as I'm able, anyway.#Ron
 > END STRING
 
 > BEGIN STRING
 ルシィ……
 
 ニーナ……ティタノボア…！
-> CONTEXT: Map479/events/1/pages/0/651/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/651/Dialogue/kazuya
+Lucy...
+Nina...
+Titanoboa...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -380,16 +476,19 @@
 後生の別れじゃあるまいし！
 
 アンタがアバドーンをぶっ倒せば、万事解決なんだよ！
-> CONTEXT: Map479/events/1/pages/0/659/Dialogue/enemy14 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/659/Dialogue/enemy14
+What's with that look?! This isn't some final
+parting! Everything will be resolved if you go
+beat up Abaddon!#Ron
 > END STRING
 
 > BEGIN STRING
 こういうときはビシッとした顔して
 
 私らを安心させてみたらどうだい！？
-> CONTEXT: Map479/events/1/pages/0/664/Dialogue/enemy14 < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/664/Dialogue/enemy14
+In times like this, you should be seeing us off
+with a confident look to reassure us!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -397,8 +496,11 @@
 
 チャチャッと済ませて、帰ってきてね！
 約束だよ！！
-> CONTEXT: Map479/events/1/pages/0/669/Dialogue/enemy23 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/669/Dialogue/enemy23
+Don't worry about us, \\N[1]!
 
+Just promise you'll deal with all this and come
+back to us lickety-split!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -406,8 +508,11 @@
 で？どうするんだい？
 
 まさかこのまま、世界滅亡まで待つのかい？
-> CONTEXT: Map479/events/1/pages/0/755/Dialogue/enemy14 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/755/Dialogue/enemy14
+Hmph.
 
+So what now? We're not actually going to just sit
+here and wait for the world to end, are we?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -415,16 +520,20 @@
 
 普通の悪魔なら、そうするかもしれませんが
 あいにく、私たちは彼の『具現種』ですから……
-> CONTEXT: Map479/events/1/pages/0/773/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/773/Dialogue/yuuma
+Perish the thought.
 
+A normal demon might do that, but I'm afraid
+we're his "Spirits"...#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]彼が、私たちに示してくれたこと……
 
 私たちは、彼から何を学びましたか……？
-> CONTEXT: Map479/events/1/pages/0/778/Dialogue/yuuma < UNTRANSLATED
-
+> CONTEXT: Map479/events/1/pages/0/778/Dialogue/yuuma
+\\C[2]And we've learned a thing or two from all the
+things he's shown us.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -432,8 +541,10 @@
 
 私も、もとより諦める気はないよ！
 思いっきり暴れてやろうじゃないか！！
-> CONTEXT: Map479/events/1/pages/0/783/Dialogue/enemy14 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/783/Dialogue/enemy14
+That's the spirit! I never planned on giving up!
 
+Let's give 'em hell!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -441,6 +552,9 @@
 
 全力で最期まで抗わなくっちゃね！！
 いくよ！！二人とも！！
-> CONTEXT: Map479/events/1/pages/0/788/Dialogue/enemy23 < UNTRANSLATED
+> CONTEXT: Map479/events/1/pages/0/788/Dialogue/enemy23
+We can't let \\N[1] have all the fun!!
 
+We'll fight with everything we have until the
+bitter end!! Let's go, you two!!#Ron
 > END STRING

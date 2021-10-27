@@ -560,9 +560,9 @@ certainly hard to wrap your head around.#Ron/Triketos
 
 ボーットシテナイカ？？？
 > CONTEXT: Map471/events/1/pages/0/261/Dialogue/enemy37
-Oi, you understand this?!!
+OI, YOU UNDERSTAND THIS?!!
 
-Your face blank!!#Ron
+YOUR FACE BLANK!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -580,9 +580,9 @@ That's just how those silent types are.#Ron
 
 オレ、ナットク
 > CONTEXT: Map471/events/1/pages/0/269/Dialogue/enemy37
-You wise, big brother.
+YOU WISE, BIG BROTHER.
 
-I understand.#Ron
+I UNDERSTAND.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1788,7 +1788,7 @@ Wrong answer!!#Ron
 > BEGIN STRING
 （チガウノカ…）
 > CONTEXT: Map471/events/1/pages/0/853/Dialogue/enemy37
-(Wrong answer, huh...)#Ron
+(WRONG ANSWER, HUH...)#Ron
 > END STRING
 
 > BEGIN STRING

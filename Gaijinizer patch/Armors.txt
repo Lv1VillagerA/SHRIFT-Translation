@@ -976,13 +976,14 @@ Cloth Clothes#StrateUnsure
 マリオン斎藤の祖父、斎藤義則が身に付けていたとされる胸甲。
 マリオンに合わせて、限りなく薄い装甲になっている
 > CONTEXT: Armors/99/description < UNTRANSLATED
-
+A breastplate worn by Saitou Marion's grandfather,
+Yoshinori. The armor itself is very light to suit Marion.#RonIffYWording
 > END STRING
 
 > BEGIN STRING
 聖騎士の胸甲
-> CONTEXT: Armors/99/name < UNTRANSLATED
-
+> CONTEXT: Armors/99/name
+Holy Knight Breastplate#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1044,14 +1045,15 @@ Green Apple#Triketos
 > BEGIN STRING
 \\C[2]【共闘者用】\\C[0]かつての洋館の主だったナード男爵の騎士鎧。
 抵：＋３０％　ターン終了時、味方全体の体力を８００回復する。
-> CONTEXT: Armors/104/description < UNTRANSLATED
-
+> CONTEXT: Armors/104/description
+Armor belonging to the former owners of the mansion.
+Will: +30%, Restores party's stamina by 800 each turn.#Ron
 > END STRING
 
 > BEGIN STRING
 ナード男爵の胸鎧
-> CONTEXT: Armors/104/name < UNTRANSLATED
-
+> CONTEXT: Armors/104/name
+Baron Nerd's Chestplate#Ron
 > END STRING
 
 > BEGIN STRING
