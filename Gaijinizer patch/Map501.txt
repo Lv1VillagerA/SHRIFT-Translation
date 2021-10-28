@@ -4,8 +4,10 @@
 
 ちゃんと車の中で待ってなって？
 オジさんたちは、どこにも行かないってさ、ね？
-> CONTEXT: Map501/events/4/pages/0/5/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/5/Dialogue/other8
+You just wait in the car, there's a good girl.
 
+We won't be going anywhere, okay?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13,8 +15,11 @@
 その間に、こわーい悪魔が来ないように見張ってるだけ。
 
 もうちょっとしたら、車の中に戻るから…な？
-> CONTEXT: Map501/events/4/pages/0/10/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/10/Dialogue/other8
+The guy over there with the silver hair is on
+the phone, so until he's done I'll keep watch so
+no big scaawy demons come. Just a little bit
+longer and we'll be back in the car.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -22,8 +27,11 @@
 
 公園のルートは迂回しよう。
 わざわざすまんな、ユウマ。
-> CONTEXT: Map501/events/4/pages/0/20/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/20/Dialogue/other8
+......Got it.
 
+We'll circumvent the park route. Sorry to make
+you do all this, Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -31,8 +39,11 @@
 予定通り、空港で落ち合おう。
 
 ………切るぞ。
-> CONTEXT: Map501/events/4/pages/0/25/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/25/Dialogue/other8
+Though we might be a little late, we'll
+rendezvous at the harbor as planned.
 
+See you when we see you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -40,8 +51,11 @@
 車の中から出したのか？
 
 危ないから中にいろと言ったはずだが……
-> CONTEXT: Map501/events/4/pages/0/38/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/38/Dialogue/other8
+What's with the kid? Did she hop out of the car?
 
+I thought I told you it was too dangerous for her
+to leave the vehicle...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -49,16 +63,21 @@
 
 どうもこの子、独りになるのが怖いみたいで……
 ピッタリくっついて離れないんですわ……
-> CONTEXT: Map501/events/4/pages/0/46/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/46/Dialogue/other8
+Well, I did tell her that...
+But it looks like she's too scared to sit by
+herself, and would much rather stick to us like
+glue...#Ron
 > END STRING
 
 > BEGIN STRING
 俺、ジャックみてぇに身内に子供もいねぇし……
 
 どう対応したらいいか分かんなくて……
-> CONTEXT: Map501/events/4/pages/0/51/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/51/Dialogue/other8
+Just like Jack, I don't have any kids or relatives
+so I don't really know how to deal with this kind
+of thing...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -66,16 +85,21 @@
 
 公園ルートはやめて、１ブロック先の路地へ迂回する。
 だいぶ遠回りになるぞ。
-> CONTEXT: Map501/events/4/pages/0/56/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/56/Dialogue/other8
+......Well just get in the car for now.
+We're going to go around the park by using an
+alley a block away, but it'll be quite the
+detour.#Ron
 > END STRING
 
 > BEGIN STRING
 え…？どうしたんすか。
 
 何か問題があったんスか？
-> CONTEXT: Map501/events/4/pages/0/62/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/62/Dialogue/other8
+Huh? Why're we doing that?
 
+Was there some kind of problem?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -83,8 +107,11 @@
 だが、公園で１部隊がまるごと行方不明になったらしい。
 
 避難した市民もいる、密集した公園のド真ん中でだ。
-> CONTEXT: Map501/events/4/pages/0/66/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/66/Dialogue/other8
+No idea. But apparently a whole squad went missing
+in the park. They were crowded together in the
+middle of the park with a bunch of evacuated
+civilians as well.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -92,16 +119,22 @@
 結局、GPSの反応の一つも見つけられなかったらしい
 
 悪魔が関わっている可能性もあるそうだ。
-> CONTEXT: Map501/events/4/pages/0/71/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/71/Dialogue/other8
+Yuuma said they mounted a desperate search for
+them, but in the end they didn't get even a single
+GPS signal from the missing squad. There's a good
+chance demons were involved.#Ron
 > END STRING
 
 > BEGIN STRING
 俺たちも少女一人とはいえ、市民を誘導している。
 
 万全を期すに、こしたことはないだろう。
-> CONTEXT: Map501/events/4/pages/0/76/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/76/Dialogue/other8
+Though it's just one little girl, we're in the
+middle of evacuating civilians ourselves. So we
+have to do everything in our power to make sure
+nothing happens to her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -109,8 +142,11 @@
 
 誰だったんすかね、結局……
 \\C[2]『モドキのクイーン個体を倒した若者』\\C[0]って…
-> CONTEXT: Map501/events/4/pages/0/86/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/86/Dialogue/other8
+Captain Toshiaki...
 
+There was \\C[2]some youngster who defeated that Harpy
+Spawn Queen\\C[0]...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -118,16 +154,22 @@
 
 でもクイーンクラスを倒せる人間って
 ユウマ隊長ぐらいしか思いつかないんですけど……
-> CONTEXT: Map501/events/4/pages/0/91/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/91/Dialogue/other8
+He was probably the guy who rescued this girl
+as well. But if we're talking about a human
+capable of doing all that, Captain Yuuma's the
+only person who comes to mind...#Ron
 > END STRING
 
 > BEGIN STRING
 知らん。
 
 ユウマにも聞いてみたが、心当たりはないらしい。
-> CONTEXT: Map501/events/4/pages/0/97/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/97/Dialogue/other8
+No clue.
 
+I tried asking Yuuma about it, but he said he
+couldn't imagine who it might've been.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -135,8 +177,14 @@
 まぐれで撃退できたってオチじゃないか？
 
 もしそうなら、俺たちの力なんて必要ないだろうさ。
-> CONTEXT: Map501/events/4/pages/0/101/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/101/Dialogue/other8
+The idea that there's someone out there playing
+hero who managed to drive her back on a fluke
+sounds like the punchline to a bad joke.
 
+And if such a person is out there somewhere,
+then they certainly don't need the likes of
+us around.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -144,39 +192,48 @@
 
 モドキどもがまだ何匹か周囲に反応がある。
 どのみち長居はしていられないぞ。
-> CONTEXT: Map501/events/4/pages/0/106/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/106/Dialogue/other8
+Anyway, forget about that and get in the car
+already. These damn Harpy Spawn are still liable
+to swarm us so we can't afford to hang around here
+too long.#Ron
 > END STRING
 
 > BEGIN STRING
 は、はぁ………
 
 『まぐれ』……ッスか…
-> CONTEXT: Map501/events/4/pages/0/112/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/112/Dialogue/other8
+R-Right...
 
+"A fluke"... huh...#Ron
 > END STRING
 
 > BEGIN STRING
 ｼｭﾙﾙﾙﾙﾙﾙﾙ……
 > CONTEXT: Map501/events/4/pages/0/135/Dialogue/other8 < UNTRANSLATED
 > CONTEXT: Map501/events/4/pages/0/156/Dialogue/other8 < UNTRANSLATED
-
+#CheckLater
 > END STRING
 
 > BEGIN STRING
 な、なんだコイツ…！！
 
 新手の…\\^
-> CONTEXT: Map501/events/4/pages/0/137/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/137/Dialogue/other8
+T-The hell is that?!!
 
+Some new kind of...\\^#Ron
 > END STRING
 
 > BEGIN STRING
 シッ…！！
 
 静かにしろ…！！
-> CONTEXT: Map501/events/4/pages/0/141/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/141/Dialogue/other8
+Shh!!
 
+Pipe down!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -184,8 +241,11 @@
 
 　コイツには、\\C[2]目と鼻がない
 　音で探知するタイプだ……）
-> CONTEXT: Map501/events/4/pages/0/159/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/159/Dialogue/other8
+(Just as I thought.
 
+ That thing doesn't have eyes or a nose. \\C[2]It's
+ the type to hunt by sound\\C[0]...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -193,55 +253,64 @@
 
 　今までの経験でも、軍のデータベースにも
 　こんな悪魔は存在しなかったと思うが……）
-> CONTEXT: Map501/events/4/pages/0/164/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/164/Dialogue/other8
+(But what the hell is it? I've never seen
+ something like it before, nor has it ever come
+ up on the military databases.)#Ron
 > END STRING
 
 > BEGIN STRING
 （しかも、コイツの容姿……
 
 　悪魔というより、まるで……）
-> CONTEXT: Map501/events/4/pages/0/169/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/169/Dialogue/other8
+(And it's appearance...
 
+ It looks less like a demon, and more like...)#Ron
 > END STRING
 
 > BEGIN STRING
 ギャアアアアアァァァァ！！！！！！！
-> CONTEXT: Map501/events/4/pages/0/179/Dialogue/enemy21 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/179/Dialogue/enemy21
+Gyaaaah!!!!#Ron
 > END STRING
 
 > BEGIN STRING
 （なんだよ…！！１体じゃねぇのかよ…！？
 
 　しかも、\\C[10]他の悪魔を……喰ってるのか…！！？）
-> CONTEXT: Map501/events/4/pages/0/201/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/201/Dialogue/other8
+(What the hell?!! There's more than one?!
 
+ And they're... \\C[10]eating other demons\\C[0]?!!)#Ron
 > END STRING
 
 > BEGIN STRING
 （攻撃っていうより、\\C[2]吸収してやがる……！？
 
   っていうか、アイツほんとに悪魔なのかよ！！？）
-> CONTEXT: Map501/events/4/pages/0/205/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/205/Dialogue/other8
+(It's like it's \\C[2]absorbing them instead of
+ attacking!! Are those things actually demons?!!)#Ron
 > END STRING
 
 > BEGIN STRING
 女の子「キャアアアアアアアアアアアアア！！！！」
-> CONTEXT: Map501/events/4/pages/0/218/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map501/events/4/pages/0/218/Dialogue
+Girl 「Kyaaaaaaah!!!」#Ron
 > END STRING
 
 > BEGIN STRING
 ナオキ！！、早くガキを車に乗せろ！！
 全速力で飛ばすぞ！
-> CONTEXT: Map501/events/4/pages/0/237/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map501/events/4/pages/0/237/Dialogue/other8
+Naoki!! Grab the kid and get in the car!!
 
+We're gonna bust out of here at full speed!!#Ron
 > END STRING
 
 > BEGIN STRING
 市街地=ある世界線=
-> CONTEXT: Map501/display_name < UNTRANSLATED
-
+> CONTEXT: Map501/display_name
+Town = A Certain World Line = #Ron
 > END STRING

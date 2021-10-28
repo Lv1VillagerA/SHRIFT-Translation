@@ -131,8 +131,15 @@ to that you hate?#Ron
 
 アイツの攻撃でフラついてた私たちを
 ジャイアントスイングでぶん投げるなんて前代未聞よ！！
-> CONTEXT: Map498/events/2/pages/0/82/Dialogue/enemy38 < UNTRANSLATED
-#CheckLater
+> CONTEXT: Map498/events/2/pages/0/82/Dialogue/enemy38
+We didn't work together!! That was just you
+picking us up and hurling us at Octael to chase
+after her!!
+
+You grabbed us while we were still reeling from
+her attack and did a giant swing throw to try
+and make us deal with her! I've never seen
+something so insane before!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -140,10 +147,10 @@ to that you hate?#Ron
 あわよくば奪おうと思って、あの場で機会を窺ってたら…
 
 アイツが私の住処をぶっ壊そうとしたから止めただけよ！
-> CONTEXT: Map498/events/2/pages/0/87/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/87/Dialogue/enemy38
 I was just waiting for the right chance to take
-the angel orb that Baphomet said he'd stolen. I
-only stopped that plan because he tried to
+the angel orb that Baphomet said she'd stolen. I
+only stopped that plan because Octael tried to
 destroy my home.#Ron
 > END STRING
 
@@ -152,9 +159,9 @@ destroy my home.#Ron
 
 オクタエルに共に立ち向かった事はどう説明するのだ…？
 > CONTEXT: Map498/events/2/pages/0/92/Dialogue/enemy35
-Then how do you explain carrying Marion in your
-arms after you(???) were thrown and working
-together to face Octael?#CheckLater
+Then how do you explain flying with Marion in your
+arms to stop her after I'd thrown the both of
+you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -164,9 +171,9 @@ together to face Octael?#CheckLater
 全然協力とか、そういうのじゃないんだから！！
 > CONTEXT: Map498/events/2/pages/0/96/Dialogue/enemy38
 That wasn't me working together with him at all!!
-I just thought it would frustrate Baphomet's (??)
-plans if I caught Marion to help him steady his
-aim!!#CheckLater
+
+I just thought it'd throw a wrench in her plans
+if I helped Marion steady his aim!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -176,7 +183,7 @@ aim!!#CheckLater
 崩壊するあの場所に、放っておくわけにもいかないでしょ！
 > CONTEXT: Map498/events/2/pages/0/101/Dialogue/enemy38
 Certainly I did carry him back to his own land,
-but it just kind of work out that way!
+but it just kind of worked out that way!
 I couldn't just leave him there when everything
 was collapsing!#Ron
 > END STRING
@@ -247,8 +254,8 @@ Here she comes!!!#Ron
 
 > BEGIN STRING
 うっ……うっ……
-> CONTEXT: Map498/events/2/pages/0/168/Dialogue/コラボ^ヴァソ < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/168/Dialogue/コラボ^ヴァソ
+Ugh... Ugh...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -256,8 +263,11 @@ Here she comes!!!#Ron
 
 だが、\\C[2]背や容姿が明らかに幼くなっている……
 マリオンと同じくらいの背格好だ……
-> CONTEXT: Map498/events/2/pages/0/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/173/Dialogue
+The girl slumped on the ground in front of us was
+definitely Vasilica, but \\C[2]her height and appearance were
+both clearly changed into a form much younger. Her stature
+was now about the same as Marion's\\C[0]...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -265,8 +275,11 @@ Here she comes!!!#Ron
 
 \\C[10]世界融解\\C[0]の力で、図体だけではなく
 背格好も\\N[1]を襲いやすくしていたか……
-> CONTEXT: Map498/events/2/pages/0/180/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/180/Dialogue/enemy35
+This is \\C[2]her original form\\C[0]...
+Her \\C[10]World Fusion \\C[0]power had changed not just her
+frame but also her physique, perhaps to make it
+easier for her to attack us...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -274,16 +287,21 @@ Here she comes!!!#Ron
 こっちの姿も、小さくて可愛いね！
 
 お人形さんみたい♪
-> CONTEXT: Map498/events/2/pages/0/185/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/185/Dialogue/enemy15
+She was cute before, but now she's tiny as well
+as cute!
 
+She's like a little dolly. ♪#Ron
 > END STRING
 
 > BEGIN STRING
 や、やめろ……！！頭を撫でるな！！
 
 優しく撫でるなぁ……！！
-> CONTEXT: Map498/events/2/pages/0/191/Dialogue/コラボ^ヴァソ < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/191/Dialogue/コラボ^ヴァソ
+S-Stop it!! Don't pat my head!!
 
+Stop gently stroking me!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -291,8 +309,11 @@ Here she comes!!!#Ron
 
 あの姿だからこそ、\\N[1]の前でも
 強キャラ感が出せてたのに……！！
-> CONTEXT: Map498/events/2/pages/0/195/Dialogue/コラボ^ヴァソ < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/195/Dialogue/コラボ^ヴァソ
+Uugh, this is so humiliating and pathetic!!
+That form was specifically meant to convey how
+much of a strong character I am in front of
+\\N[1]!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -300,28 +321,34 @@ Here she comes!!!#Ron
 
 この仕打ちは、絶対に忘れないわよ…！
 次に会った時を楽しみにしていることね！！
-> CONTEXT: Map498/events/2/pages/0/200/Dialogue/コラボ^ヴァソ < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/200/Dialogue/コラボ^ヴァソ
+You'll pay for this, Marion!!
 
+I won't ever forget!! You can look forward to my
+revenge next time we meet!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ヴァシリカは、涙を必死に堪えながら、奥へ姿を消した……
-> CONTEXT: Map498/events/2/pages/0/212/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/212/Dialogue
+Vasilica's form disappeared deep into the multiverse space,
+desperately trying to hold back tears...#Ron
 > END STRING
 
 > BEGIN STRING
 それ、毎回やらないとダメなの…？
-> CONTEXT: Map498/events/2/pages/0/238/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/238/Dialogue/ruka_fc1
+Do you have to do that every single time?#Ron
 > END STRING
 
 > BEGIN STRING
 彼なりの儀式のようなものだ。
 
 気にしないでいい。
-> CONTEXT: Map498/events/2/pages/0/240/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/240/Dialogue/enemy35
+It's kind of like a ritual for him.
 
+Don't worry about it.#Ron
 > END STRING
 
 > BEGIN STRING

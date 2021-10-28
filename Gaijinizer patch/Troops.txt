@@ -17587,30 +17587,36 @@ electricity...
 くっ……！！
 
 いい加減に、倒れなさい…！！！
-> CONTEXT: Troops/364/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/4/4/Dialogue/enemy38
+> CONTEXT: Troops/388/pages/4/4/Dialogue/enemy38
+> CONTEXT: Troops/393/pages/4/4/Dialogue/enemy38
+Kgh!!
 
+Hurry up and go down already!!#Ron
 > END STRING
 
 > BEGIN STRING
 う、嘘……！！
 
 私が負けるはずが……！
-> CONTEXT: Troops/364/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/5/0/Dialogue/enemy38
+> CONTEXT: Troops/388/pages/5/0/Dialogue/enemy38
+> CONTEXT: Troops/393/pages/5/0/Dialogue/enemy38
+I-It can't be...!!
 
+There's no way I could've lost...!#Ron
 > END STRING
 
 > BEGIN STRING
 い、いや……！！
 
 \\C[10]世界融解\\C[0]の力が……消える……！？
-> CONTEXT: Troops/364/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/5/4/Dialogue/enemy38
+> CONTEXT: Troops/388/pages/5/4/Dialogue/enemy38
+> CONTEXT: Troops/393/pages/5/4/Dialogue/enemy38
+N-No!!
 
+My \\C[10]World Fusion \\C[0]power... it's disappearing...?!#Ron
 > END STRING
 
 > BEGIN STRING
