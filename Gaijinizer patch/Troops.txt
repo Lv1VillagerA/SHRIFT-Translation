@@ -17519,36 +17519,38 @@ Her material form appears to have vanished.#Ron
 状況不利……
 
 撤退……
-> CONTEXT: Troops/362/pages/3/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/4/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/5/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/6/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/7/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/8/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/3/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/4/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/5/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/6/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/7/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/8/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/3/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/362/pages/4/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/362/pages/5/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/362/pages/6/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/362/pages/7/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/362/pages/8/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/3/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/4/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/5/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/6/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/7/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/8/8/Dialogue/c_beast_fc1
+Situation unfavorable...
 
+Withdrawing...#Ron
 > END STRING
 
 > BEGIN STRING
 キメラビーストたちは散り散りに退いていった……
-> CONTEXT: Troops/362/pages/3/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/4/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/5/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/6/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/7/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/8/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/3/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/4/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/5/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/6/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/7/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/8/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/362/pages/3/20/Dialogue
+> CONTEXT: Troops/362/pages/4/20/Dialogue
+> CONTEXT: Troops/362/pages/5/20/Dialogue
+> CONTEXT: Troops/362/pages/6/20/Dialogue
+> CONTEXT: Troops/362/pages/7/20/Dialogue
+> CONTEXT: Troops/362/pages/8/20/Dialogue
+> CONTEXT: Troops/387/pages/3/20/Dialogue
+> CONTEXT: Troops/387/pages/4/20/Dialogue
+> CONTEXT: Troops/387/pages/5/20/Dialogue
+> CONTEXT: Troops/387/pages/6/20/Dialogue
+> CONTEXT: Troops/387/pages/7/20/Dialogue
+> CONTEXT: Troops/387/pages/8/20/Dialogue
+The group of Chimera Beasts scatter and retreat...#Ron
 > END STRING
 
 > BEGIN STRING

@@ -1,16 +1,18 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 \\N[1]は、ヴァシリカの前に跪いた………
-> CONTEXT: CommonEvents_801/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/5/Dialogue
+\\N[1] kneels before Vasilica...#Ron
 > END STRING
 
 > BEGIN STRING
 ふふふっ、やっと観念したようね……
 
 言ったでしょう？甘く見ないでって…
-> CONTEXT: CommonEvents_801/7/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/7/Dialogue/enemy38
+Fufufu, looks like you've finally given up...
 
+I told you not to take me so lightly...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18,41 +20,49 @@
 
 私をコケにした償いは、精気で支払ってもらうわ……♡
 覚悟しなさい…♡
-> CONTEXT: CommonEvents_801/11/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/11/Dialogue/enemy37
+For both the Black Dog incident, and the way you
+looked at me before, I'll have you pay with your
+energy for mocking me. Prepare yourself... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ヴァシリカに顔面騎乗されてしまった！
-> CONTEXT: CommonEvents_801/38/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_816/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/38/Dialogue
+> CONTEXT: CommonEvents_816/27/Dialogue
+Vasilica　is sitting on \\N[1]'s face!#Ron
 > END STRING
 
 > BEGIN STRING
 アハハッ♡いい気味ね、\\N[1]♡
 
 頭を敷きものにされる気分はどうかしら？♡
-> CONTEXT: CommonEvents_801/64/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: CommonEvents_816/53/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/64/Dialogue/enemy37
+> CONTEXT: CommonEvents_816/53/Dialogue/enemy37
+Ahaha, this feels pretty good, huh \\N[1]... ♡
 
+How do you like having your face used as a mat?#Ron
 > END STRING
 
 > BEGIN STRING
 悔しかったら、早く抜け出してみなさい？
 
 アンタの力なら、それくらい造作もないでしょう？♡
-> CONTEXT: CommonEvents_801/68/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/68/Dialogue/enemy37
+If you don't like it, why don't you try slipping
+out from under me? Surely someone with your power
+shouldn't have any trouble managing that, right? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 んっっ…！
 
 ぐっ……！
-> CONTEXT: CommonEvents_801/72/Dialogue/kazuya-10 < UNTRANSLATED
-> CONTEXT: CommonEvents_801/124/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/72/Dialogue/kazuya-10
+> CONTEXT: CommonEvents_801/124/Dialogue/kazuya-10
+Mmmph!
 
+Gh!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -60,16 +70,22 @@
 
 なによアンタ！私の股間に顔を埋めてイっちゃったの！？
 そんなに気持ちよかったのかしら？♡
-> CONTEXT: CommonEvents_801/119/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/119/Dialogue/enemy37
+Ahahahahahahahaha!!
 
+Did you really just cum just from having my crotch
+in your face?! Did it feel that good? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ふん……！反抗的な眼ね……
 
 まだ自分の置かれてる状況が分かってないのかしら？
-> CONTEXT: CommonEvents_801/128/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/128/Dialogue/enemy38
+Hmph! You still have a defiant look in your eyes.
 
+You don't seem to realize what kind of situation
+you've found yourself in.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -77,16 +93,21 @@
 
 アンタたちは、魔族に玩ばれる立場がお似合いよ♡
 今のアンタみたいにね、\\N[1]♡
-> CONTEXT: CommonEvents_801/132/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/132/Dialogue/enemy37
+Know your place you lowly human!!
 
+Just like I'm toying with you now, your species
+was made to be the playthings of monsters. ♡#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ふふっ……身体は正直なのね…♡
 
 すっかり快楽に従順になっちゃって……♡
-> CONTEXT: CommonEvents_801/202/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/202/Dialogue/enemy37
+Fufu, your body's honest... ♡
 
+It's become utterly obedient to pleasure. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -94,25 +115,31 @@
 私と一緒に来てもらうわよ、\\N[1]。
 
 アンタを食べて、私はもっともっと強くなるの…♡
-> CONTEXT: CommonEvents_801/206/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/206/Dialogue/enemy37
+Now then, playtime is over... I'll have you
+come with me.
 
+I'll become even stronger after I devour you. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 そして私は……
 
 魔族も天使も、全てを見返すほどの力を手に入れるのよ…！
-> CONTEXT: CommonEvents_801/211/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/211/Dialogue/enemy37
+And then I'll have the power I need to prove
+myself to everyone who looked down on me,
+monster and angel alike!#Ron
 > END STRING
 
 > BEGIN STRING
 ヴァシリカは
 
 \\N[1]を抱えてどこかに消えてしまった……
-> CONTEXT: CommonEvents_801/224/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_816/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/224/Dialogue
+> CONTEXT: CommonEvents_816/79/Dialogue
+Vasilica grabbed \\N[1] and disappeared somewhere with
+him...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -120,9 +147,12 @@
 
 いいわぁ…♡\\N[1]♡♡
 身体にエネルギーが溢れていくのを感じる…♡♡
-> CONTEXT: CommonEvents_801/314/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: CommonEvents_816/169/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/314/Dialogue/enemy37
+> CONTEXT: CommonEvents_816/169/Dialogue/enemy37
+Ahahahahahahaha!!
 
+That's it, \\N[1]. ♡♡♡
+I can feel the energy overflowing from you... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -130,8 +160,10 @@
 強大な魔力を手に入れられる……！
 
 私の時代がやってくるのよ…！！
-> CONTEXT: CommonEvents_801/319/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/319/Dialogue/enemy37
+If we keep doing this, then someday my magic will
+be so powerful that even vampires will be nothing
+before me! My time is coming!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -139,16 +171,21 @@
 
 あなたは私の野望の礎になるために
 私に吸い尽くされるんだから♡
-> CONTEXT: CommonEvents_801/324/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/324/Dialogue/enemy37
+Now then, offer up more of your energy to me! ♡
 
+I have to drain you dry in order for you to become
+the cornerstone of my ambitions. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あっ……あっ……！！♡♡
 
 も、もう出な……！！ゆ、ゆるし……♡♡
-> CONTEXT: CommonEvents_801/330/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/330/Dialogue/kazuya-0
+Aah... Aaah...!! ♡♡
 
+I-I can't...!! L-Let me rest... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -156,8 +193,11 @@
 
 この期に及んで、
 自分がお願いできる立場だと思っているのかしら？
-> CONTEXT: CommonEvents_801/334/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/334/Dialogue/enemy37
+What's this? ♡
 
+Do you really think you're in a position to be
+making requests of me at this stage?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -165,32 +205,40 @@
 
 この世界の魔物はほとんどその存在を知らないから
 こうやって洋館の個室を自由に使うことが出来る……♡
-> CONTEXT: CommonEvents_801/339/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/339/Dialogue/enemy37
+The barriers demons use are rather useful, aren't
+they? The monsters of this world don't really know
+about them, which means I can set up here in one
+of the mansion rooms and use it all I like.#Ron
 > END STRING
 
 > BEGIN STRING
 ここなら、アンタの喘ぎ声も、叫び声も……
 
 どんなに叫いても、私以外の誰にも届かない……♡
-> CONTEXT: CommonEvents_801/344/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/344/Dialogue/enemy37
+That means you can moan and cry out all you like,
+and the only person who's going to hear it is
+me. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 たっぷりと愉しみましょう、\\N[1]♡
 
 まだまだ、夜はこれからよ……♡♡
-> CONTEXT: CommonEvents_801/348/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: CommonEvents_801/348/Dialogue/enemy37
+Let's enjoy ourselves to the fullest. ♡
 
+The young is still very young, after all... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 薄暗い部屋の中………
 
 ベッドの上で、彼女は優雅に激しく腰を振る……
-> CONTEXT: CommonEvents_801/444/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/444/Dialogue
+She continues to gracefully yet feverishly buck her hips
+on top of this bed in this dusky room...#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -198,22 +246,28 @@
 
 それとも、一刻も早く力を手にしたいと思う
 彼女の焦りからなのか……
-> CONTEXT: CommonEvents_801/448/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/448/Dialogue
+I don't know whether the fierce pace of her movements is
+because of her inherent nature as a monster, or because
+of her impatience to obtain more power as quickly as
+possible...#Ron
 > END STRING
 
 > BEGIN STRING
 身体中から、精気が吸われていく……
 
 彼女の野望の糧になっていく……
-> CONTEXT: CommonEvents_801/453/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_801/453/Dialogue
+My energy from throughout my body is being drained...
 
+All to become fuel for her ambitions...#Ron
 > END STRING
 
 > BEGIN STRING
 嬉しそうに高笑いをする彼女に……
 
 僕は喘ぎ声で応えることしか出来なかった……
-> CONTEXT: CommonEvents_801/457/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_801/457/Dialogue
+And all I can do is moan in response to the happy, elegant
+smile on her face...#Ron
 > END STRING

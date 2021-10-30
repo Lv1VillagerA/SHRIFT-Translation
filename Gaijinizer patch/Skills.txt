@@ -7866,25 +7866,25 @@ Raid Scissor#afrg
 > BEGIN STRING
 妖しく蠢く膣内の触手が、\\N[1]の口内に入ってくる…
 > CONTEXT: Skills/650/message2
-Tentacles squirm in it, then crawl into \\N[1]'s mouth!#afrg
+Its lewdly squirming tentacles crawl into his mouth!#afrg/Ron
 > END STRING
 
 > BEGIN STRING
 イラマンニリングス
 > CONTEXT: Skills/650/name
-Ira Manni Rings#afrg
+Forced Cunnilingus#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]の頭を押さえつけ、膣で口を塞いだ！
 > CONTEXT: Skills/650/message1
- grabs \\N[1]'s head, covering his mouth with her vagina!#afrg
+ pushes herself down, forcing his mouth on her vagina!#afrg/Ron
 > END STRING
 
 > BEGIN STRING
 ブラシのような触手が絡みつき、精気がジュルジュルと吸い上げられていく…
 > CONTEXT: Skills/652/message2
-Brush-like tentacles coil around, slupring up his energy...#afrg
+Brush-like tentacles coil around, slurping up his energy...#afrg
 > END STRING
 
 > BEGIN STRING

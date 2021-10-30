@@ -2729,8 +2729,8 @@ Do you want to view this scene?#Ron
 
 > BEGIN STRING
 ヴァシリカ if(s[764])
-> CONTEXT: Map002/events/1/pages/0/3095/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3095/Choice/2
+Vasilica if(s[764])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2813,8 +2813,10 @@ Milking#Dargoth
 【ヴァソ】：搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3205/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3205/Dialogue
+[Vanmpire]: Milking
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
