@@ -7943,14 +7943,14 @@ Sweet Boy#Ron
 
 > BEGIN STRING
 母蛇の慈愛遊戯
-> CONTEXT: Skills/663/name < UNTRANSLATED
-
+> CONTEXT: Skills/663/name
+Mother Snake's Affectionate Play#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]のペニスを包み込むように締め付けた
-> CONTEXT: Skills/663/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/663/message1
+ tightens around \\N[1]'s penis as if wrapping around it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8153,20 +8153,20 @@ Energy Sucking Tail#afrg
 
 > BEGIN STRING
 いやらしい音を立てながら、精気がどんどんと吸い取られていく…
-> CONTEXT: Skills/691/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/691/message2
+The tails make lewd noises as they sap his energy...#Ron
 > END STRING
 
 > BEGIN STRING
 テイルドレイン
-> CONTEXT: Skills/691/name < UNTRANSLATED
-
+> CONTEXT: Skills/691/name
+Tail Drain#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]の手足を尻尾に取り込んだ！
-> CONTEXT: Skills/691/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/691/message1
+s have sucked \\N[1]'s limbs into their tails...#Ron
 > END STRING
 
 > BEGIN STRING
