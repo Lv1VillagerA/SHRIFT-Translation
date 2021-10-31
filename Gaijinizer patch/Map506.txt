@@ -3,20 +3,25 @@
 この先から禍々しい気配がする……
 
 先に進みますか？
-> CONTEXT: Map506/events/10/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map506/events/10/pages/0/2/Dialogue
+There's an ominous presence on the other side...
 
+Proceed on ahead?#Ron
 > END STRING
 
 > BEGIN STRING
 ここを進めば、\\C[10]もう決着まで後戻りは出来ません。
 
 心の準備と、時間の余裕は出来ましたか？
-> CONTEXT: Map506/events/10/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map506/events/10/pages/0/10/Dialogue
+\\C[10]There'll be no going back from here.
 
+Have you prepared yourself and set aside the time for
+what's to come?#Ron
 > END STRING
 
 > BEGIN STRING
 多元宇宙～第６６６層～
-> CONTEXT: Map506/display_name < UNTRANSLATED
-
+> CONTEXT: Map506/display_name
+Multiverse - 666th Layer#Ron
 > END STRING

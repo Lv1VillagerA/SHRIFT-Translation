@@ -18523,8 +18523,8 @@ Call me mommy... just one more time...#Ron
 
 > BEGIN STRING
 ウボ＝サスラは消滅した……
-> CONTEXT: Troops/389/pages/3/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/389/pages/3/31/Dialogue
+Ubbo-Sathla was destroyed...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18535,19 +18535,19 @@ Call me mommy... just one more time...#Ron
 
 > BEGIN STRING
 ウボ＝サスラは跡形もなく消えていった……
-> CONTEXT: Troops/390/pages/3/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/4/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/5/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/6/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/7/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/8/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/390/pages/3/18/Dialogue
+> CONTEXT: Troops/390/pages/4/18/Dialogue
+> CONTEXT: Troops/390/pages/5/18/Dialogue
+> CONTEXT: Troops/390/pages/6/18/Dialogue
+> CONTEXT: Troops/390/pages/7/18/Dialogue
+> CONTEXT: Troops/390/pages/8/18/Dialogue
+The group of Ubbo-Sathla disappeared without a trace...#Ron
 > END STRING
 
 > BEGIN STRING
 ベルゼバブ（Ｐ付き）
-> CONTEXT: Troops/391/name < UNTRANSLATED
-
+> CONTEXT: Troops/391/name
+Beelzebub (With P)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18555,22 +18555,26 @@ Call me mommy... just one more time...#Ron
 
 強くなったはずの私が……\\N[1]はともかく……
 こんなふざけた人間なんかに……
-> CONTEXT: Troops/391/pages/2/0/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Troops/391/pages/2/0/Dialogue/beelzebub_fc2
+B-But how... With all this power I should be able
+to deal with \\N[1], let alone a man as silly
+as that...#Ron
 > END STRING
 
 > BEGIN STRING
 ベルゼバブ（Ｐ無）
-> CONTEXT: Troops/392/name < UNTRANSLATED
-
+> CONTEXT: Troops/392/name
+Beelzebub (Without P)#Ron
 > END STRING
 
 > BEGIN STRING
 な、なぜ……私が負けるの…？
 
 \\N[1]………
-> CONTEXT: Troops/392/pages/2/0/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Troops/392/pages/2/0/Dialogue/beelzebub_fc2
+H-How did I lose...?
 
+\\N[1]...#Ron
 > END STRING
 
 > BEGIN STRING

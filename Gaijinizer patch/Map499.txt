@@ -1,49 +1,61 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 ｼｭﾙﾙﾙﾙﾙ……
-> CONTEXT: Map499/events/7/pages/0/25/Dialogue/other8 < UNTRANSLATED
-> CONTEXT: Map499/events/7/pages/0/129/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/25/Dialogue/other8
+> CONTEXT: Map499/events/7/pages/0/129/Dialogue/other8
+#CheckLater
 > END STRING
 
 > BEGIN STRING
 な、なんだこやつらは……！？
 
 \\C[2]下の層から湧き上がってきたように見えたが…！
-> CONTEXT: Map499/events/7/pages/0/30/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map499/events/7/pages/0/30/Dialogue/alice_fc5
+W-What are those things?!
 
+\\C[2]It's like they're breaking out from the layer
+below!#Ron
 > END STRING
 
 > BEGIN STRING
 あーあ………
 
 やりたい放題だね、\\C[10]オールドワン\\C[0]のやつ……
-> CONTEXT: Map499/events/7/pages/0/34/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map499/events/7/pages/0/34/Dialogue/sirousagi_fc1
+Haaah...
 
+The \\C[10]Old One's \\C[0]just doing whatever it wants at
+this point...
 > END STRING
 
 > BEGIN STRING
 ということは……
 
 こいつらも、アバドーンの刺客か…！
-> CONTEXT: Map499/events/7/pages/0/38/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map499/events/7/pages/0/38/Dialogue/enemy35
+So in other words...
 
+Those things are also Abaddon's assassins?!#Ron
 > END STRING
 
 > BEGIN STRING
 …………違うよ。
 
 あれは\\C[10]\\N[1]くんだよ
-> CONTEXT: Map499/events/7/pages/0/43/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map499/events/7/pages/0/43/Dialogue/enemy15
+......That's not it.
 
+Those things are \\C[10]\\N[1]-kun\\C[0]...
 > END STRING
 
 > BEGIN STRING
 な、何を言い出すの、夜深ちゃん！
 
 あれは誰がどう見たって…！
-> CONTEXT: Map499/events/7/pages/0/50/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map499/events/7/pages/0/50/Dialogue/enemy38
+W-What're you saying, Yami-chan!
 
+They don't look like anyone!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -51,8 +63,11 @@
 
 あれは、\\C[10]儀式が成功した\\N[1]くん……
 子供時代に、邪神が実体化してしまった姿……
-> CONTEXT: Map499/events/7/pages/0/54/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/54/Dialogue/other8
+Yami-chan's right, but also wrong. Those things
+are \\C[10]\\N[1]-kun after the ceremony was
+carried out. It's the form he turns into when the
+evil god materializes inside him as a child.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -60,8 +75,11 @@
 
 \\C[2]もうあの姿になったら、もう意志も身体も残ってない
 完全な邪神の降臨だ……
-> CONTEXT: Map499/events/7/pages/0/59/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/59/Dialogue/other8
+So, while he was certainly the medium used, \\C[2]once
+he takes that form there is no trace of his will
+or body left. He is nothing but the complete
+embodiment of that evil deity...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -69,16 +87,19 @@
 
 クトゥルフの、混沌より生まれし母……
 新たな人類を迎え入れるための媒体……
-> CONTEXT: Map499/events/7/pages/0/64/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/64/Dialogue/other8
+Even their name... \\C[10]Ubbo-Sathla\\C[0]... mark them
+as the mothers of Cthulhu, born of chaos... The
+mediums through which a new humanity will be
+ushered in...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 で、では……
 
 まさか、これが全員……！？
-> CONTEXT: Map499/events/7/pages/0/69/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/69/Dialogue/enemy35
+T-Then... don't tell me... all of them are...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -86,8 +107,11 @@
 \\C[10]アバドーンの手先になった介入者は多い\\C[0]って…
 
 彼ら……いや、このモンスターたちも、その犠牲者さ。
-> CONTEXT: Map499/events/7/pages/0/73/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/73/Dialogue/other8
+Remember how I told you that there were a lot of
+Interveners who became pawns for Abaddon? Well
+those people... those monsters... are also
+victims.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -95,8 +119,10 @@
 
 \\C[2]ヤツは、\\C[10]虐殺の世界線\\C[2]を拠点にして
 今から『選定』を始める気なんだ……！
-> CONTEXT: Map499/events/7/pages/0/78/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/78/Dialogue/other8
+Now that the \\C[4]Official Timeline \\C[0]is gone, we don't
+have any time to lose. \\C[2]He's going to begin the
+"Selection" inside the \\C[10]Genocide world line\\C[0]!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -104,16 +130,20 @@
 そういえば先ほど、新しい人類がどうとか……
 
 まさかこのバケモノの目的は……！！
-> CONTEXT: Map499/events/7/pages/0/83/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/83/Dialogue/alice_fc5
+Selection?! You said something about a new
+humanity before... Is that what that monster's
+goal is?!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]『アバドーンの腹の中の混沌世界へ招き入れる
 
 　新たな人類の材料探し……』\\C[0]ってところかな。
-> CONTEXT: Map499/events/7/pages/0/88/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/88/Dialogue/sirousagi_fc1
+You could say that \\C[10]Abaddon is searching for the
+materials for a new humanity among the chaotic
+world inside his stomach\\C[0]...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -121,8 +151,11 @@
 
 \\C[2]逆に無から意味のある有は生まれない。
 \\C[0]出来たとしても、意味を成さない、曖昧なものだ。
-> CONTEXT: Map499/events/7/pages/0/94/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/94/Dialogue/other8
+He's gathering infinite existence and birthing a
+world of nothingness, \\C[2]but meaningful existence
+cannot be born of nothing\\C[0]. Even if it could be,
+it would be a vague thing with no meaning.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -130,8 +163,10 @@
 魂、魔力、そして肉体……
 
 \\C[2]新人類を生成する上で、必要な『材料』を……
-> CONTEXT: Map499/events/7/pages/0/99/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/99/Dialogue/other8
+Separate from Abaddon, they collect souls, magic,
+and flesh. \\C[2]All the indispensable raw materials
+needed to create a new kind of humanity...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -139,8 +174,11 @@
 
 \\C[2]儀式が成功した\\N[1]ならば
 自身の配下を実体化させ、動かせるということか……
-> CONTEXT: Map499/events/7/pages/0/104/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/104/Dialogue/enemy37
+I see, though he himself can't materialize, \\C[2]he
+can take advantage of the completed ceremony
+\\N[1] went through to materialize these
+minions, and have them do his bidding...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -148,8 +186,10 @@
 
 \\C[2]全ての多重世界から、部下を生成したということか…！
 『虐殺を選んだ世界線』の数だけ……！！
-> CONTEXT: Map499/events/7/pages/0/109/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/109/Dialogue/enemy35
+Using the \\C[10]Intervention Authority \\C[0]he stole from
+Mad Hatter, \\C[2]he can create these minions from all
+the many Genocide worlds\\C[0]!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -157,24 +197,30 @@
 
 こんな得体の知れないバケモノが、
 どれほど世界にばらまかれるっていうのよ…！？
-> CONTEXT: Map499/events/7/pages/0/114/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map499/events/7/pages/0/114/Dialogue/enemy38
+No way!!
 
+Just how many of these strange monsters will be
+scattered throughout the world?!#Ron
 > END STRING
 
 > BEGIN STRING
 多分、数え切れないだろうね。
 
 \\C[10]その世界線で『コンテニュー』した回数も含まれてるから…
-> CONTEXT: Map499/events/7/pages/0/119/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/119/Dialogue/sirousagi_fc1
+Including all the times that world line was
+"continued", probably a lot more than we can
+count.#RonIffy
 > END STRING
 
 > BEGIN STRING
 介入者特有の\\C[10]『諦めない精神』\\C[0]すらも
 
 アイツにとってはただの傀儡要素なのさ
-> CONTEXT: Map499/events/7/pages/0/123/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/123/Dialogue/sirousagi_fc1
+Even the Intervener's special \\C[10]never-say-die
+attitude \\C[0]is nothing but a tool for him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -182,8 +228,11 @@
 今のボクたちには、他にやることがある……
 
 \\C[2]ここで体力を消耗するわけにはいかない………
-> CONTEXT: Map499/events/7/pages/0/133/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/133/Dialogue/other8
+Though I'm sure he expected to coast to an easy
+victory by releasing these girls, we have more
+important things to do. \\C[2]We can't afford to waste
+our stamina on them\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -191,18 +240,20 @@
 
 だから、\\C[2]アコニーと同じやり方でしのげるはずだよ\\C[0]
 慎重に進んでいこう。
-> CONTEXT: Map499/events/7/pages/0/138/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map499/events/7/pages/0/138/Dialogue/other8
+They can \\C[10]neither hear nor see\\C[0], so you should
+\\C[2]sneak by them the same way you did back in
+Arachne's nest\\C[0]. Let's move nice and slow.#Ron
 > END STRING
 
 > BEGIN STRING
 "EX4　ウボ＝サスラ集団"
-> CONTEXT: Map499/events/12/pages/0/5/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map499/events/12/pages/0/5/InlineScript/2:1
+"EX4 Ubbo-Sathla Group"#Ron
 > END STRING
 
 > BEGIN STRING
 多元宇宙～第６層～
-> CONTEXT: Map499/display_name < UNTRANSLATED
-
+> CONTEXT: Map499/display_name
+Multiverse - Sixth Layer#Ron
 > END STRING

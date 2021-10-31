@@ -3,30 +3,36 @@
 とうとうここまで来たのね……
 
 \\N[1]……そしてルカ………
-> CONTEXT: Map500/events/2/pages/0/15/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/15/Dialogue/beelzebub_fc1
+So you've finally come this far...
 
+\\N[1]... and Luka...#Ron
 > END STRING
 
 > BEGIN STRING
 大人しく、上の層でやられていれば良かったのに……
 
 私たちが直々に相手をするしかないみたいね……
-> CONTEXT: Map500/events/2/pages/0/19/Dialogue/beelzebub_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/19/Dialogue/beelzebub_fc1
+You should have let yourself be violated on the
+upper levels. Now you have no choice but to face
+us directly...#RonIffy
 > END STRING
 
 > BEGIN STRING
 ふふ……また会いましたね、\\N[1]♡
 
 今度こそ、逃がしませんよ…♡
-> CONTEXT: Map500/events/2/pages/0/23/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/23/Dialogue/beelzebub_fc2
+Fufu... We meet again, \\N[1]. ♡
 
+We won't let you get away this time. ♡#Ron 
 > END STRING
 
 > BEGIN STRING
 ここで……終わらせる……
-> CONTEXT: Map500/events/2/pages/0/27/Dialogue/beelzebub_fc3 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/27/Dialogue/beelzebub_fc3
+We'll end it... here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -34,8 +40,10 @@
 また図体がデカくなってないか…？
 
 \\C[10]世界融解\\C[0]の力が更に進行しているのか…！！
-> CONTEXT: Map500/events/2/pages/0/29/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/29/Dialogue/alice_fc5
+H-Hold on a second... have they gotten even
+bigger since last time? Is that \\C[10]World Fusion
+\\C[0]power ramping up?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -43,16 +51,21 @@
 
 もうヤツの\\C[10]世界融解の加速は止まらない\\C[0]……
 早くなんとかしないと………
-> CONTEXT: Map500/events/2/pages/0/34/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/34/Dialogue/other8
+It's at the point now where they can change their
+size at will and Ubbo-Sathla are appearing. We
+can no longer stop Abaddon's \\C[10]acceleration of World
+Fusion\\C[0]. We've got to hurry up and do something.#Ron
 > END STRING
 
 > BEGIN STRING
 だが、我らとて結束は強まっているはずだ。
 
 全員で力を合わせれば、負けはしない……！
-> CONTEXT: Map500/events/2/pages/0/39/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/39/Dialogue/enemy35
+But our solidarity is stronger than ever.
 
+We won't lose if we all combine our power!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -60,32 +73,41 @@
 
 互いにサポートし、役割を決めて行動することで
 その個の合計能力以上の力を発揮する……
-> CONTEXT: Map500/events/2/pages/0/47/Dialogue/beelzebub_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/47/Dialogue/beelzebub_fc1
+Yes, that "solidarity" is a nuisance...
+By supporting each other and working together in
+your separate roles, you demonstrate far more
+power as a combined unit...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 貴方たちは、これまでに多くの戦いを共にした……
 
 だから、その結束力を侮るつもりはないわ……
-> CONTEXT: Map500/events/2/pages/0/52/Dialogue/beelzebub_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/52/Dialogue/beelzebub_fc1
+We three have fought many battles together up
+until now. So we have no intention of making
+light of that solidarity.#Ron
 > END STRING
 
 > BEGIN STRING
 それじゃあ……
 
 こういうのはどうかしら…？♡
-> CONTEXT: Map500/events/2/pages/0/56/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/56/Dialogue/beelzebub_fc1
+But knowing that...
 
+How about we do this? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんだ……！？
 
 何が起こったんだ……！！
-> CONTEXT: Map500/events/2/pages/0/69/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/69/Dialogue/kazuya
+W-What's this?!
 
+Something's happened!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -93,40 +115,53 @@
 
 みんな…！？どこだ！！
 真っ暗で何も見えない………
-> CONTEXT: Map500/events/2/pages/0/74/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/74/Dialogue/kazuya
+......?!!
 
+Guys?! Where are you?!!
+It's pitch-black in here, I can't see a thing...#Ron
 > END STRING
 
 > BEGIN STRING
 やぁ、\\N[1]くん。
 
 どうやら、少し面倒な事になったみたいだね。
-> CONTEXT: Map500/events/2/pages/0/80/Dialogue/enemy34 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/80/Dialogue/enemy34
+Hey there, \\N[1]-kun.
 
+It seems you've found yourself in a bit of a
+pickle.#Ron
 > END STRING
 
 > BEGIN STRING
 うわ、ビックリした！！
 
 る、ルシフェル…！？
-> CONTEXT: Map500/events/2/pages/0/84/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/84/Dialogue/kazuya
+Whoa, you gave me a fright!!
 
+L-Lucifer?!#Ron
 > END STRING
 
 > BEGIN STRING
 ……どうもボクたち、\\C[2]分断させられたみたいだ。\\C[0]
 
 『複製型結界』……なかなか厄介な術式を……
-> CONTEXT: Map500/events/2/pages/0/88/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/88/Dialogue/sirousagi_fc1
+It looks like we've been cut off from the others.
 
+Their "multi-dimensional barriers" are a real
+hassle to deal with...#Ron
 > END STRING
 
 > BEGIN STRING
 白兎…！？
 
 『分断させられた』って……どういうことだ！？
-> CONTEXT: Map500/events/2/pages/0/92/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/92/Dialogue/kazuya
+White Rabbit?!
 
+What do you mean we've been cut off?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -134,16 +169,21 @@
 
 \\C[2]同じ場所に同じ空間を重ねて生成することで
 まったく同じ次元にまったく別の空間を生成する結界\\C[0]…
-> CONTEXT: Map500/events/2/pages/0/96/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/96/Dialogue/enemy34
+Multi-dimensional barriers work by \\C[2]creating a
+completely different space in the exact same
+dimension by generating the same space in the
+same place over and over.#DL
 > END STRING
 
 > BEGIN STRING
 つまり、\\C[2]我々は全員同じ空間にはいるものの
 
 まったく別の空間に隔離されてしまったということだ。
-> CONTEXT: Map500/events/2/pages/0/101/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/101/Dialogue/enemy34
+In other words, \\C[2]though we're all in the same
+place, we've been separated into different
+spaces.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -151,8 +191,11 @@
 実際はすごい近くにいるって事。
 
 ホラ、ボクの『つながり』が切れてないでしょ。
-> CONTEXT: Map500/events/2/pages/0/107/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/107/Dialogue/sirousagi_fc1
+Though we're cut off from both Luka-kun and
+Marion-kun, they're actually really close by.
+I can tell by the fact that my connections to
+them are still there.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -160,32 +203,39 @@
 じっくり探索すれば、見破ることは簡単なんだけど……
 
 分断させられたって事は、多分……
-> CONTEXT: Map500/events/2/pages/0/112/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/112/Dialogue/sirousagi_fc1
+This kind of barrier puts a huge strain on the
+space around it, so if you search carefully you
+should easily be able to find a way out. If we
+really have just been separated, that is...#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ふふっ……
 
 作戦は上手くいったみたいですね…♡
-> CONTEXT: Map500/events/2/pages/0/117/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/117/Dialogue/beelzebub_fc2
+Fufu...
 
+Looks like our strategy worked well... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ああ…\\N[1]♡
 
 やっと二人きりになれましたね……♡
-> CONTEXT: Map500/events/2/pages/0/128/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/128/Dialogue/beelzebub_fc2
+Oh \\N[1]... ♡
 
+We're finally alone... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 お前は……！！
 
 あの３人のうちの一人……！！
-> CONTEXT: Map500/events/2/pages/0/132/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/132/Dialogue/kazuya
+You're... one of those three!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -193,16 +243,19 @@
 
 私は\\N[1]一人だけを連れ込むつもりだったのですが…
 やはり、慣れないことをするものではありませんね……
-> CONTEXT: Map500/events/2/pages/0/136/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/136/Dialogue/beelzebub_fc2
+Oh my, looks like we have some extras in here with
+us. I was trying to get \\N[1] in here by
+himself, but clearly I still haven't quite got
+the hang of this power yet...#Ron
 > END STRING
 
 > BEGIN STRING
 ひどいなぁ
 
 ボクたちは余計なもの扱いかぁ
-> CONTEXT: Map500/events/2/pages/0/141/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/141/Dialogue/sirousagi_fc1
+How mean of you to treat us like "extras"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -210,8 +263,10 @@
 
 \\C[2]他二人が他メンバーの足止めをしている間に
 \\N[1]くんを無力化させる作戦\\C[0]だったようだね…
-> CONTEXT: Map500/events/2/pages/0/145/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/145/Dialogue/enemy34
+So your  plan was \\C[2]to incapacitate \\N[1]-kun
+while the others are busy holding off the other
+two\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -219,8 +274,11 @@
 
 \\C[2]\\N[1]さえ精神面で屈服させてしまえば
 一気に全員の無力化ができるのは、子供化の際に実証済み…。
-> CONTEXT: Map500/events/2/pages/0/150/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/150/Dialogue/beelzebub_fc2
+That's right... If I can make him submit to me,
+then everyone else will be incapacitated in one
+fell swoop, as evidenced by his time spent in
+child form.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -228,14 +286,17 @@
 
 \\C[2]\\N[1]は大きな胸がお好きだとか…♡\\C[0]
 私の身体など…ほぉら、どうですか……？♡♡
-> CONTEXT: Map500/events/2/pages/0/155/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/155/Dialogue/beelzebub_fc2
+By the way, \\N[1]... \\C[2]I heard on the
+grapevine that you love big breasts. ♡
 
+So how do you like this body of mine, hmm? ♡♡#RonLocalization
 > END STRING
 
 > BEGIN STRING
 \\{\\{誰から聞いたの！？
-> CONTEXT: Map500/events/2/pages/0/160/Dialogue/kazuya-a < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/160/Dialogue/kazuya-a
+\\{\\{Who told you that?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -243,24 +304,32 @@
 大きいのだけが好きってワケでも……
 
 って今はそういうことじゃなくて……！！
-> CONTEXT: Map500/events/2/pages/0/162/Dialogue/kazuya-a < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/162/Dialogue/kazuya-a
+I mean, it's true I don't hate them...
+But it's not like that's the only thing...
 
+Wait, why're we talking about this?!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 すごい慌ててる……
 
 やっぱりヘンタイだな。
-> CONTEXT: Map500/events/2/pages/0/167/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/167/Dialogue/sirousagi_fc1
+Look how flustered he got...
 
+He's definitely a pervert.#Ron
 > END STRING
 
 > BEGIN STRING
 落ち着きたまえ、\\N[1]くん。
 
 顔が真っ赤で、興味津々なのがバレバレだぞ。
-> CONTEXT: Map500/events/2/pages/0/171/Dialogue/enemy36 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/171/Dialogue/enemy36
+Take it easy, \\N[1]-kun.
 
+Your flushed face and obvious interest are giving
+the game away.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -268,32 +337,40 @@
 
 それにここには、逃げ場などありません♡
 大人しく私に抱かれなさい…♡
-> CONTEXT: Map500/events/2/pages/0/175/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/175/Dialogue/beelzebub_fc2
+Fufu... Your body is honest even while your
+words deny it. You should know there's no way of
+escaping from here, so just give up and let me
+hold you. ♡♡#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ベルゼバブ娘は、こちらに近付いてきた……
 
 一歩進んだだけなのに、一気に距離を詰められてしまう…
-> CONTEXT: Map500/events/2/pages/0/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/182/Dialogue
+With just a single step forward, the Beelzebub closed the
+gap between us...#Ron
 > END STRING
 
 > BEGIN STRING
 距離を取ろうとすると、背中に壁のような感触がぶつかった
 
 どうやら、結界の端に追い込まれてしまったらしい……
-> CONTEXT: Map500/events/2/pages/0/189/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/189/Dialogue
+Trying to keep my distance, my back slammed into what felt
+like a wall. It seems she's got me literally up against
+the wall of this barrier here.#Ron
 > END STRING
 
 > BEGIN STRING
 くっ……！！仕方ない！
 
 戦うぞ！２人とも！
-> CONTEXT: Map500/events/2/pages/0/193/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/193/Dialogue/kazuya
+Kgh!! Guess I've got no choice!
 
+Let's fight her!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -301,30 +378,38 @@
 
 前も言ったけど、\\C[2]ボクは戦わないんだって。\\C[0]
 身体の替えもきかないし。
-> CONTEXT: Map500/events/2/pages/0/197/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/197/Dialogue/sirousagi_fc1
+Huh? No way!!
 
+Didn't I tell you before that I'm not going to
+fight? This body is irreplaceable for starters.#Ron
 > END STRING
 
 > BEGIN STRING
 悪いが私も、多元空間の道を作るのにリソースを割いている
 
 \\C[2]戦闘に回せるような余力など持ち合わせていない\\C[0]よ？
-> CONTEXT: Map500/events/2/pages/0/205/Dialogue/enemy36 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/205/Dialogue/enemy36
+Sorry, but I allocated a lot of my resources to
+making the multiverse pathway, \\C[2]so I don't have
+much in the way of leftover power to use for
+fighting\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{えええっ！？
-> CONTEXT: Map500/events/2/pages/0/212/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/212/Dialogue/kazuya
+\\{\\{You what?!#Ron
 > END STRING
 
 > BEGIN STRING
 あらあら……味方にも見捨てられてしまったようですね…
 
 可哀想に…♡
-> CONTEXT: Map500/events/2/pages/0/214/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/214/Dialogue/beelzebub_fc2
+Oh my, looks like your allies have deserted you.
 
+You poor thing... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -332,16 +417,21 @@
 いつでも私の胸に飛び込んできて良いのですよ…♡
 
 私といっぱい子供を作りましょう♡
-> CONTEXT: Map500/events/2/pages/0/218/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/218/Dialogue/beelzebub_fc2
+If you start finding it too lonely to fight all
+by your lonesome, feel free to leap into my chest
+whenever you like. You and I will make lots of
+children together. ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 いや近っ…おっぱいでかっ…！
 
 じゃなくて…このままじゃまずい…！！
-> CONTEXT: Map500/events/2/pages/0/223/Dialogue/kazuya-a < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/223/Dialogue/kazuya-a
+Those massive boobs are too close!
 
+No, I mean... I've got to do something!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -349,22 +439,25 @@
 
 蘇ってくるハイスラッグ娘との戦い……
 \\C[2]おそらく今回の状況は、それの数十倍に不利なのは明らかだ…
-> CONTEXT: Map500/events/2/pages/0/228/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/228/Dialogue
+Can I really win against this powerful opponent
+in front of me? \\C[2]It's obvious that my situation is
+much worse than when I fought High Slug...#RonIffy
 > END STRING
 
 > BEGIN STRING
 僕が次の行動を決めあぐねて困惑していると
 
 ルシフェルがふと、耳元でヒソヒソ話を始めた……
-> CONTEXT: Map500/events/2/pages/0/233/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/233/Dialogue
+Just when I was at a loss as to what my next action should
+be, Lucifer started whispering something into my ear...#Ron
 > END STRING
 
 > BEGIN STRING
 "EX4　ベルゼバブ（赤）"
-> CONTEXT: Map500/events/2/pages/0/238/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/238/InlineScript/2:1
+"EX4　Beelzebub (Red)"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -372,8 +465,10 @@
 
 \\C[2]こんな時にでも一時的に助けに来てくれる
 お助けヒーロー的な人物を\\C[0]、私は知っているよ。
-> CONTEXT: Map500/events/2/pages/0/243/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/243/Dialogue/enemy34
+\\N[1]-kun... I can't help you directly, but
+\\C[2]I do know of someone not unlike a helpful hero
+who can temporarily assist at a time like this\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -381,37 +476,45 @@
 \\C[2]少々恥ずかしい合言葉を言わなければいけないんだが…
 
 \\C[0]試してみる気はないかい？
-> CONTEXT: Map500/events/2/pages/0/248/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/248/Dialogue/enemy34
+Though \\C[2]you have to say a somewhat embarrassing
+phrase to get them to come\\C[0], it might be worth a
+try.#Ron
 > END STRING
 
 > BEGIN STRING
 お、お助けヒーロー…？\\C[2]恥ずかしい合言葉\\C[0]……！？
 
 い、一体それは…！？
-> CONTEXT: Map500/events/2/pages/0/253/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/253/Dialogue/kazuya
+A h-helpful hero? \\C[2]Embarrassing phrase\\C[0]?!
 
+W-What the hell are you talking about?!#Ron
 > END STRING
 
 > BEGIN STRING
 ……………（ﾎﾞｿﾎﾞｿ）
-> CONTEXT: Map500/events/2/pages/0/257/Dialogue/enemy36 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/257/Dialogue/enemy36
+(*whisper* *whisper*)#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{言えるかっ！！
 そんな小っ恥ずかしいこと！
-> CONTEXT: Map500/events/2/pages/0/261/Dialogue/kazuya-a < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/261/Dialogue/kazuya-a
+\\{\\{I can't say that!!
+That's extremely embarrassing!#Ron
 > END STRING
 
 > BEGIN STRING
 しかし、状況が不利なのは明らかなのだろう？
 
 今は恥ずかしさなど気にしている場合ではないと思うが……
-> CONTEXT: Map500/events/2/pages/0/264/Dialogue/enemy36 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/264/Dialogue/enemy36
+But you're at a clear disadvantage here.
 
+Is this really the time to be worried about being
+embarrassed?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -419,32 +522,35 @@
 
 別に私はそれでも構わないが……
 負ければ、ここまで来た健闘が全て無駄になってしまうよ？
-> CONTEXT: Map500/events/2/pages/0/268/Dialogue/enemy36 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/268/Dialogue/enemy36
+Or do you plan on \\C[2]accepting this disadvantage and
+fighting her anyway\\C[0]? I don't care either way, but
+all this effort would be for nothing if you lose
+here.#Ron
 > END STRING
 
 > BEGIN STRING
 ぐぐぐ……！
-> CONTEXT: Map500/events/2/pages/0/273/Dialogue/kazuya-a < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/273/Dialogue/kazuya-a
+Guugh!#Ron
 > END STRING
 
 > BEGIN STRING
 『合言葉』を言う
-> CONTEXT: Map500/events/2/pages/0/277/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/277/Choice/0
+Say the phrase#Ron
 > END STRING
 
 > BEGIN STRING
 独りで戦う
-> CONTEXT: Map500/events/2/pages/0/277/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/277/Choice/1
+Fight alone#Ron
 > END STRING
 
 > BEGIN STRING
 に…\\}にゃうぅ\\}誰か助けてにゃう……
-> CONTEXT: Map500/events/2/pages/0/279/Dialogue/kazuya-a < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/279/Dialogue/kazuya-a
+M-\\}Meow\\}... someone save meow...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -452,93 +558,110 @@
 
 もっと感情を込めて！！
 ピンチのフリじゃ、ヒーローはやってこないぞ！！！
-> CONTEXT: Map500/events/2/pages/0/281/Dialogue/enemy36 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/281/Dialogue/enemy36
+Come on, that was too quiet!!
 
+Put some feeling into it!! They won't come if they
+don't think you're actually in trouble!!#Ron
 > END STRING
 
 > BEGIN STRING
 もっと泣きそうに！！いやむしろ泣いて！！！
 
 思いっきりこの空間に響き渡らせるように！！！！
-> CONTEXT: Map500/events/2/pages/0/286/Dialogue/enemy36 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/286/Dialogue/enemy36
+Make it sound like you're crying!!
+In fact, start crying!!
 
+Cry so hard it echos all through this space!!#Ron
 > END STRING
 
 > BEGIN STRING
 （楽しそうだなーー…）
-> CONTEXT: Map500/events/2/pages/0/290/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/290/Dialogue/sirousagi_fc1
+(He looks like he's having fun...)#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{ニャウー！
 誰か助けてニャウー！！
-> CONTEXT: Map500/events/2/pages/0/297/Dialogue/kazuya-d < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/297/Dialogue/kazuya-d
+\\{\\{Meooow!
+Somebody save meooow!!#Ron
 > END STRING
 
 > BEGIN STRING
 ……………わお
 
 本当に言うとはね。
-> CONTEXT: Map500/events/2/pages/0/307/Dialogue/enemy36 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/307/Dialogue/enemy36
+......Whoa...
 
+You actually said it...#Ron
 > END STRING
 
 > BEGIN STRING
 ………死にたい……
-> CONTEXT: Map500/events/2/pages/0/311/Dialogue/kazuya-a < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/311/Dialogue/kazuya-a
+Just kill me now...#Ron
 > END STRING
 
 > BEGIN STRING
 ふふ……いきなり何を言い出すかと思えば……
 
 追い詰められて、ヤケクソにでもなりましたか？
-> CONTEXT: Map500/events/2/pages/0/313/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/313/Dialogue/beelzebub_fc2
+Fufu... What are you trying to say all of a
+sudden?
 
+Has the situation made you that desperate?#Ron
 > END STRING
 
 > BEGIN STRING
 どうせ死ぬのであれば、気持ちよく死なせてあげますよ♡
 
 さぁ……私の胸の中に…♡
-> CONTEXT: Map500/events/2/pages/0/317/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/317/Dialogue/beelzebub_fc2
+If you're going to die either way, I may as well
+let you die in pleasure. ♡
 
+Now, hop into chest... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ベルゼバブ娘がこちらに手をかけようとしたその瞬間……
 
 一振りの閃光が、僕の目の前に走った！
-> CONTEXT: Map500/events/2/pages/0/325/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/325/Dialogue
+The moment the Beelzebubs reached out to grab me, a
+flash of light flew across in front of me!#Ron
 > END STRING
 
 > BEGIN STRING
 急いで閃光の発生源を確認しようと目線を移すと
 
 その場所に、ひとつの人影が立っていた……
-> CONTEXT: Map500/events/2/pages/0/329/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/329/Dialogue
+When I quickly looked to see what had made it, there was
+single shadow standing there...#Ron
 > END STRING
 
 > BEGIN STRING
 …………来たか。
-> CONTEXT: Map500/events/2/pages/0/334/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/334/Dialogue/enemy34
+......So he came.#Ron
 > END STRING
 
 > BEGIN STRING
 \\{よろしく！！
-> CONTEXT: Map500/events/2/pages/0/342/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/342/Dialogue/other8
+\\{LET'S DO THIS!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\{何が！！？
-> CONTEXT: Map500/events/2/pages/0/345/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/345/Dialogue/kazuya
+\\{What?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -546,8 +669,11 @@
 人呼んで\\C[2]『Ｐちゃん』\\C[0]だ
 
 さっきの合言葉をいうと、次元関係なく現れる謎の男……
-> CONTEXT: Map500/events/2/pages/0/347/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/347/Dialogue/enemy34
+He's the Mysterious Masked Man (P)...
+People call him P-chan. If you say that phrase,
+he'll appear to help regardless of what dimension
+you're in.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -555,64 +681,77 @@
 助けを求める相手の脅威を排除する………
 
 さながら『用心棒』といったところか
-> CONTEXT: Map500/events/2/pages/0/352/Dialogue/enemy34 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/352/Dialogue/enemy34
+Equipped with jet boots and his dual swords, he
+eliminates threats to those who've called for him.
 
+You could say he's just like a bodyguard...#Ron
 > END STRING
 
 > BEGIN STRING
 （\\C[2]バウンサー\\C[0]かぁ……）
-> CONTEXT: Map500/events/2/pages/0/357/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/357/Dialogue/sirousagi_fc1
+(\\C[2]A bouncer\\C[0], huh...)#Ron
 > END STRING
 
 > BEGIN STRING
 \\{グッジョブ！！！
-> CONTEXT: Map500/events/2/pages/0/359/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/359/Dialogue/other8
+\\{GOOD JOB!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\{だから何が！！？
-> CONTEXT: Map500/events/2/pages/0/361/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/361/Dialogue/kazuya
+\\{What's going on?!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ああ、彼にまともな応答を期待しない方がいい。
 
 \\C[2]彼は定型文でしか喋らないからね。
-> CONTEXT: Map500/events/2/pages/0/363/Dialogue/enemy36 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/363/Dialogue/enemy36
+Oh, don't expect any kind of normal response
+from him.
 
+\\C[2]He can only speak in canned phrases.#Ron
 > END STRING
 
 > BEGIN STRING
 今まで確認されたものでも、せいぜい１０種類程度だそうだ。
 
 一応、こちらの言っていることは聞いているようだが……
-> CONTEXT: Map500/events/2/pages/0/367/Dialogue/enemy36 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/367/Dialogue/enemy36
+I've only been able to confirm ten distinct
+catchphrases so far. But at the very least, it
+does seem like he can hear what we say to him.#Ron
 > END STRING
 
 > BEGIN STRING
 （\\C[2]ショートカットワード\\C[0]かぁ……）
-> CONTEXT: Map500/events/2/pages/0/371/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/371/Dialogue/sirousagi_fc1
+(\\C[2]Verbal shortcuts\\C[0], huh...)#Ron
 > END STRING
 
 > BEGIN STRING
 なんですか……そのふざけた男は……
 
 これから愉しい時間だったというのに……
-> CONTEXT: Map500/events/2/pages/0/376/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/376/Dialogue/beelzebub_fc2
+What's with that silly man?
 
+And we were just about to have some fun, too...#Ron
 > END STRING
 
 > BEGIN STRING
 台無しではないですか……私の結界も……
 
 \\N[1]と二人っきりになるという私の計画も…
-> CONTEXT: Map500/events/2/pages/0/380/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/380/Dialogue/beelzebub_fc2
+You've messed up my barrier...
 
+And my plans to have some alone time with
+\\N[1]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -620,76 +759,93 @@
 
 貴方を堕とせば全てが終わりだということに
 変わりはありません………
-> CONTEXT: Map500/events/2/pages/0/385/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/385/Dialogue/beelzebub_fc2
+Well, that's fine.
 
+None of that changes the fact that all I have to
+do is seduce \\N[1] and all of this ends...#Ron
 > END STRING
 
 > BEGIN STRING
 私の腕の中で、可愛く鳴いてもらいますよ…♡
 
 \\N[1]…♡
-> CONTEXT: Map500/events/2/pages/0/390/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/390/Dialogue/beelzebub_fc2
+I'll have you making cute noises in my chest,
+\\N[1]... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ええい！！こうなりゃもうヤケクソだ！！
 
 ぶっつけ本番だ！！やってやるぞ！！
-> CONTEXT: Map500/events/2/pages/0/394/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/394/Dialogue/kazuya
+Alright!! This is our one shot!!
 
+Come on, let's do this!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 \\{いきましょう！！
-> CONTEXT: Map500/events/2/pages/0/398/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/398/Dialogue/other8
+\\{LET'S GO!!#Ron
 > END STRING
 
 > BEGIN STRING
 いや！！いい！！
 
 そんなことを叫ぶくらいなら、潔く戦ってやるよ！
-> CONTEXT: Map500/events/2/pages/0/404/Dialogue/kazuya-a < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/404/Dialogue/kazuya-a
+On second thought, I'm fine!!
 
+I'd rather fight like a man than shout something
+like that!#Ron
 > END STRING
 
 > BEGIN STRING
 そんな………
 
 私たちの、繁殖の野望が……
-> CONTEXT: Map500/events/2/pages/0/449/Dialogue/beelzebub_fc1 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/449/Dialogue/beelzebub_fc1
+No...
 
+Our reproduction plans...#Ron
 > END STRING
 
 > BEGIN STRING
 あと少しでしたのに……
 
 残念ですね……
-> CONTEXT: Map500/events/2/pages/0/453/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/453/Dialogue/beelzebub_fc2
+We were so close...
 
+How unfortunate.#Ron
 > END STRING
 
 > BEGIN STRING
 ………疲れた
 
 帰って、お団子食べる……
-> CONTEXT: Map500/events/2/pages/0/457/Dialogue/beelzebub_fc3 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/457/Dialogue/beelzebub_fc3
+......Tired.
 
+Going home to eat a dango...#Ron
 > END STRING
 
 > BEGIN STRING
 ベルゼバブ娘たちは、その場で消えていった……
 
 どうやら、元の世界に戻ったようだ………
-> CONTEXT: Map500/events/2/pages/0/472/Dialogue < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/472/Dialogue
+The Beelzebubs disappeared on the spot...
 
+It appears they've returned to their own world.#Ron
 > END STRING
 
 > BEGIN STRING
 か、勝った……！
-> CONTEXT: Map500/events/2/pages/0/476/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/476/Dialogue/ruka_fc1
+W-We won...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -697,68 +853,87 @@
 \\N[1]の方も無事だったか……
 
 ヤられているのではないかと、少し焦ったぞ……
-> CONTEXT: Map500/events/2/pages/0/478/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/478/Dialogue/alice_fc5
+Good grief... I didn't know how this was going to
+turn out for a second, but it looks like you're
+safe and sound, \\N[1].
 
+We were getting pretty flustered wondering
+whether they'd got you...#Ron
 > END STRING
 
 > BEGIN STRING
 それ、今回２回目……
-> CONTEXT: Map500/events/2/pages/0/507/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/507/Dialogue/ruka_fc1
+That's the second time now...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]が見ていなかったから、やり直しているそうだ
 
 気にしなくていい。
-> CONTEXT: Map500/events/2/pages/0/509/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/509/Dialogue/enemy35
+He did it again because \\N[1] didn't see him
+do it before.
 
+Don't worry about it.#Ron
 > END STRING
 
 > BEGIN STRING
 ルカ、こういう系は疑問を投げかけるだけ野暮だ
 
 好きにやらせてやれ
-> CONTEXT: Map500/events/2/pages/0/513/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/513/Dialogue/alice_fc5
+Luka, it's rude to keep bringing that up.
 
+Just let him do what he wants.#Ron
 > END STRING
 
 > BEGIN STRING
 あ、あれ……？
 
 Ｐちゃんは…？
-> CONTEXT: Map500/events/2/pages/0/527/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/527/Dialogue/kazuya
+H-Huh?
 
+Where's P-chan?#Ron
 > END STRING
 
 > BEGIN STRING
 『Ｐちゃん』…？？？？？
-> CONTEXT: Map500/events/2/pages/0/531/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/531/Dialogue/ruka_fc1
+P-chan?!!#Ron
 > END STRING
 
 > BEGIN STRING
 え………彼に会ったんだ……
 
 何か変なことされなかった…？
-> CONTEXT: Map500/events/2/pages/0/533/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/533/Dialogue/other8
+Ah, so you've met him...
 
+He didn't do anything weird did he?#Ron
 > END STRING
 
 > BEGIN STRING
 彼は、颯爽と現れ、終われば風のように去っていく………
 
 あれでも\\C[2]一つの宇宙を救った英雄\\C[0]という話だ。
-> CONTEXT: Map500/events/2/pages/0/537/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/537/Dialogue/enemy34
+He gallantly appeared, and then when everything
+was over, he disappeared like the wind. It's the
+story of \\C[2]a hero who saved the universe\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
 彼も、『ゲスト』候補の一人ではあったのだが…
 
 その神出鬼没さから、合流は無理と判断されたんだよ。
-> CONTEXT: Map500/events/2/pages/0/541/Dialogue/enemy34 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/541/Dialogue/enemy34
+He was actually a candidate to be one of the
+guests for the Tea Party, but it was decided his
+elusive nature would make it too difficult to
+find him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -766,24 +941,30 @@
 
 確かに変な人だったけど……
 サポートの実力はすごかったな……
-> CONTEXT: Map500/events/2/pages/0/545/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/545/Dialogue/kazuya
+I see...
 
+He certainly was a strange one...
+But he was a huge help...#Ron
 > END STRING
 
 > BEGIN STRING
 これで……
 
 \\C[2]アバドーンの刺客は、全員倒した……
-> CONTEXT: Map500/events/2/pages/0/556/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/556/Dialogue/kazuya
+\\C[2]That's all of Abaddon's assassins dealt
+with...#Ron
 > END STRING
 
 > BEGIN STRING
 残るは\\C[2]アバドーン……
 
 \\C[0]そして、\\C[10]オールドワン……
-> CONTEXT: Map500/events/2/pages/0/560/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/560/Dialogue/ruka_fc1
+It's just \\C[2]Abaddon \\C[0]himself left...
 
+And the \\C[10]Old One\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -791,20 +972,26 @@
 \\C[2]アバドーンの中の無世界が完成しなければ、実体化できない
 
 だから、アバドーンを阻止できれば、それで終わりだ。
-> CONTEXT: Map500/events/2/pages/0/566/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map500/events/2/pages/0/566/Dialogue/other8
+The Old One \\C[2]has to finish the creation of his
+void world inside Abaddon, or he won't be able to
+materialize. So we'll be able to end this if we
+can stop Abaddon.#RonIffy
 > END STRING
 
 > BEGIN STRING
 だから、\\C[2]アバドーン戦こそが正念場\\C[0]……
 
 みんな、気を引き締めて行こう！！
-> CONTEXT: Map500/events/2/pages/0/571/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map500/events/2/pages/0/571/Dialogue/other8
+That makes this upcoming \C[2]battle with Abaddon a
+do-or-die situation\C[0]...
 
+Brace yourselves everyone, and let's go!!#Ron
 > END STRING
 
 > BEGIN STRING
 多元宇宙～第７層～
-> CONTEXT: Map500/display_name < UNTRANSLATED
-
+> CONTEXT: Map500/display_name
+Multiverse - Seventh Layer#Ron
 > END STRING

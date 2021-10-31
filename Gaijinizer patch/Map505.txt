@@ -3,8 +3,10 @@
 ………ナオキ
 
 弾はあとどれくらいある？
-> CONTEXT: Map505/events/5/pages/0/5/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/5/Dialogue/other8
+Naoki...
 
+How much ammo do you have left?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,24 +14,32 @@
 
 ナイトウォーカーが３つ弾倉ありますけど
 ハンドガンだし、期待はしない方がいいっス……
-> CONTEXT: Map505/events/5/pages/0/10/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/10/Dialogue/other8
+My rifle has two mags left including the spares.
 
+The nightwalker's got three mags left, but it's a
+handgun so I wouldn't expect much from it.#Ron
 > END STRING
 
 > BEGIN STRING
 ……俺のは合計１６発……
 
 一匹２発だとしても、正面を突破するのは厳しいな…
-> CONTEXT: Map505/events/5/pages/0/17/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/17/Dialogue/other8
+I've got 16 rounds all up...
 
+Even assuming two rounds per monster, it'll be
+tough to do any real damage...#RonLocalization
 > END STRING
 
 > BEGIN STRING
 くそっ……装甲車を失ったのが痛いな……
 
 まさか奴ら、自分たちで肉壁を作るとは……
-> CONTEXT: Map505/events/5/pages/0/21/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/21/Dialogue/other8
+Damn it... losing the APC has made things a lot
+harder. It's almost like those things are making
+a wall of flesh...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -37,16 +47,20 @@
 
 ここから迂回ルートだと、かなり歩くことになりますから
 この子の体力がもつかどうか……
-> CONTEXT: Map505/events/5/pages/0/25/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/25/Dialogue/other8
+Looks like we have no choice but to go through
+the park after all. Taking that detour would be
+a hell of a walk, and I don't know if this kid
+has the stamina for it.#Ron
 > END STRING
 
 > BEGIN STRING
 あまりリスクは負いたくはないが……
 
 最悪の場合、やむを得んかもしれんな……
-> CONTEXT: Map505/events/5/pages/0/32/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/32/Dialogue/other8
+I don't want to take excessive risks, but worst
+case, there's not much we can do about that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,8 +68,11 @@
 こいつらで溢れているかもしれん……
 
 ユウマのいう『話して分かる』相手とも違うだろうな。
-> CONTEXT: Map505/events/5/pages/0/36/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/36/Dialogue/other8
+At this rate, the detour route's going to be
+jam-packed with these things... And I don't think
+they're the "persuadable type" as Yuuma calls
+them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -63,8 +80,10 @@
 
 あれじゃ悪魔っていうより…\\C[2]エイリアン\\C[0]ですよ
 悪魔もまとめて侵略しに来たみたいな……
-> CONTEXT: Map505/events/5/pages/0/43/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/43/Dialogue/other8
+Just what the hell are they? They're more like
+\\C[2]aliens \\C[0]than anything. It's like they've come to
+invade along with the demons.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -72,8 +91,10 @@
 
 ただでさえ今も大変なのに、そこに第三勢力の参戦とは
 ますます穏やかじゃない話だ……
-> CONTEXT: Map505/events/5/pages/0/49/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/49/Dialogue/other8
+Aliens... Things are already bad enough, if we
+have a third force getting involved in the war,
+things will really start to get crazy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +102,10 @@
 そして俺たちにも敵意をもって襲ってくる……
 
 あながち間違いじゃないのかもしれんな……
-> CONTEXT: Map505/events/5/pages/0/54/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/54/Dialogue/other8
+But considering they're eating demons, building
+walls of flesh, and attacking us... you may not
+be entirely wrong...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,46 +113,57 @@
 
 \\C[2]アイツらは\\C[10]何も見てない、何も感じてない。
 ただただ淡々と、機械のように相手を喰って吸収する……
-> CONTEXT: Map505/events/5/pages/0/59/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/59/Dialogue/other8
+Aliens come to invade our world...
 
+\\C[2]They \\C[10]can't see, they can't feel. They just
+emotionlessly and robotically devour and absorb\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 あんなんじゃ、悪魔の方がまだ可愛げがあるぜ。
 
 ありゃあ……ただの\\C[10]操り人形だ\\C[0]。
-> CONTEXT: Map505/events/5/pages/0/64/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/64/Dialogue/other8
+I think I'd much rather hang out with demons.
 
+Those things are like simple \\C[10]puppets...#Ron
 > END STRING
 
 > BEGIN STRING
 ………！！
 
 コイツ、どこから…！
-> CONTEXT: Map505/events/5/pages/0/80/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/80/Dialogue/other8
+......!!
 
+Where'd this one come from?!#Ron
 > END STRING
 
 > BEGIN STRING
 チッ…！！
 
 ナオキ、ガキを守\\.\\^
-> CONTEXT: Map505/events/5/pages/0/84/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/84/Dialogue/other8
+Shh!!
 
+Protect the kid.\\.\\^#Ron
 > END STRING
 
 > BEGIN STRING
 …………早く逃げて……
 
 今のうちよ……
-> CONTEXT: Map505/events/5/pages/0/97/Dialogue/enemy4 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/97/Dialogue/enemy4
+Quickly, run...
 
+While you still can...#Ron
 > END STRING
 
 > BEGIN STRING
 女の子「ママ………！！」
-> CONTEXT: Map505/events/5/pages/0/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/102/Dialogue
+Girl 「Mommy!!!」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -137,16 +171,20 @@
 
 ま、ママ……！？
 この悪魔が……！！？
-> CONTEXT: Map505/events/5/pages/0/104/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/104/Dialogue/other8
+?!
 
+M-Mommy?!
+This demon?!#Ron
 > END STRING
 
 > BEGIN STRING
 まさか………
 
 お前がクイーンを…！？
-> CONTEXT: Map505/events/5/pages/0/109/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/109/Dialogue/other8
+Don't tell me you're the one who took down the
+queen...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -154,16 +192,21 @@
 
 気配を察知して、ここにまた増援が来る……
 \\C[2]その子の孤独に感応して……
-> CONTEXT: Map505/events/5/pages/0/113/Dialogue/enemy4 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/113/Dialogue/enemy4
+I don't have time to explain.
 
+I can sense more of them coming.
+\\C[2]They're responding to this child's loneliness\\C[0]...#Ron
 > END STRING
 
 > BEGIN STRING
 今は私たちを信じて……
 
 彼女たちについていって……
-> CONTEXT: Map505/events/5/pages/0/135/Dialogue/enemy4 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/135/Dialogue/enemy4
+Just trust us...
 
+Come on, follow me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -171,16 +214,21 @@
 
 こっちにまだ安全な裏路地があるの
 アタシたちについてきて…！
-> CONTEXT: Map505/events/5/pages/0/140/Dialogue/enemy5 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/140/Dialogue/enemy5
+Come on, hurry up!
 
+We've got an alleyway where you'll be safe, we'll
+take you there!#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんなんだよお前たち…！！
 
 悪魔どもが、何で俺たち人間を助けるんだよ…！！
-> CONTEXT: Map505/events/5/pages/0/151/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/151/Dialogue/other8
+W-Who the hell are you two?!
 
+Why would demon scum help humans?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -188,8 +236,10 @@
 こちとら、やりたくてやってるわけじゃないんだ…
 
 アンタらだって、死にたくはないだろ？
-> CONTEXT: Map505/events/5/pages/0/155/Dialogue/enemy7 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/155/Dialogue/enemy7
+This isn't the time to be making a scene about
+every little thing. We're doing this because we
+want to. You three don't want to die, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -197,22 +247,27 @@
 
 私たちも、あまり戦闘が得意ではない……
 混戦になれば、勝ち目はないぞ……
-> CONTEXT: Map505/events/5/pages/0/161/Dialogue/enemy4 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/161/Dialogue/enemy4
+Over here.
+We don't have much fighting power. We'll have no
+chance of winning if we get caught up in
+something.#Ron
 > END STRING
 
 > BEGIN STRING
 急げ……
 
 マザーラビットが、時間を稼いでいるうちに……
-> CONTEXT: Map505/events/5/pages/0/166/Dialogue/enemy4 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/166/Dialogue/enemy4
+Hurry...
 
+While Mother Rabbit can still buy us time...#Ron
 > END STRING
 
 > BEGIN STRING
 ど、どうします、トシアキ隊長…！
-> CONTEXT: Map505/events/5/pages/0/171/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/171/Dialogue/other8
+W-What do we do, Captain Toshiaki?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -220,31 +275,36 @@
 
 敵の敵は味方ってワケではなさそうだが
 ここに留まるよりかはよっぽどいい…
-> CONTEXT: Map505/events/5/pages/0/174/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/174/Dialogue/other8
+We've got no other option, let's go.
+I wouldn't go as far as to say the enemy of my
+enemy is my friend in this situation, but going
+with them beats staying here.#Ron
 > END STRING
 
 > BEGIN STRING
 ナオキ、ガキを抱えていけ
 
 俺が援護する。
-> CONTEXT: Map505/events/5/pages/0/179/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/179/Dialogue/other8
+Naoki, grab the kid and I'll cover you.#Ron
 > END STRING
 
 > BEGIN STRING
 ｼｭﾙﾙﾙﾙﾙﾙﾙﾙ……
-> CONTEXT: Map505/events/5/pages/0/207/Dialogue/other8 < UNTRANSLATED
-> CONTEXT: Map505/events/5/pages/0/224/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/207/Dialogue/other8
+> CONTEXT: Map505/events/5/pages/0/224/Dialogue/other8
+#CheckLater
 > END STRING
 
 > BEGIN STRING
 ………いいのよ
 
 ママの腕のひとつくらい……ボウヤのためなら……
-> CONTEXT: Map505/events/5/pages/0/213/Dialogue/enemy4 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/213/Dialogue/enemy4
+It's okay...
 
+I'd give an arm and a leg for my little boy...#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -252,30 +312,40 @@
 
 どんな姿になっても、意識が完全になくなっても……
 あなたの『泣く声』は、私には届くのよ……
-> CONTEXT: Map505/events/5/pages/0/217/Dialogue/enemy4 < UNTRANSLATED
-
+> CONTEXT: Map505/events/5/pages/0/217/Dialogue/enemy4
+Just as I've already told you, I love you. No
+matter what form you take, no matter how little
+of your own will remains, your cries will always
+reach me.#Ron
 > END STRING
 
 > BEGIN STRING
 辛かったわよね……寂しかったわよね……
 
 だってあなたたちは、こんなにも震えて……
-> CONTEXT: Map505/events/5/pages/0/226/Dialogue/enemy4 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/226/Dialogue/enemy4
+It's been so hard, hasn't it?
+You've been so lonely, haven't you?
 
+Just look at how much you're all trembling...#Ron
 > END STRING
 
 > BEGIN STRING
 たとえ、\\C[10]世界から否定\\C[0]されたとしても……
 
 あなたたちは、私のかわいいボウヤなのよ……
-> CONTEXT: Map505/events/5/pages/0/230/Dialogue/enemy4 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/230/Dialogue/enemy4
+Even if \\C[10]you're denied by the entire world\\C[0]...
 
+You'll always be my cute little boy...#Ron
 > END STRING
 
 > BEGIN STRING
 大丈夫………
 
 ママはどこにも行かないわ………
-> CONTEXT: Map505/events/5/pages/0/241/Dialogue/enemy4 < UNTRANSLATED
+> CONTEXT: Map505/events/5/pages/0/241/Dialogue/enemy4
+It's okay...
 
+Mommy's not going anywhere...#Ron
 > END STRING
