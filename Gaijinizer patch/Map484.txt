@@ -5,9 +5,9 @@
 　　遘√?鬲皮黄縺溘■縺梧?縺
 　　縺ｪ縺懈?縺??縺九☆繧芽ｦ壹∴縺ｦ縺?∪縺帙ｓ縺代←」
 > CONTEXT: Map484/events/23/pages/0/0/Dialogue
-*　「Why did the village lights ■ ■ ■ have to be ■ ■ ■
+*　「\\X[50]Why did the village lights ■ ■ ■ have to be ■ ■ ■
     I ■ ■ ■ monsters ■ ■ ■ why is ■ ■ ■ all I can
-    remember?」#Ron
+    remember?\\X[0]」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -49,7 +49,8 @@ from the cycle of reincarnation.#Ron
 > CONTEXT: Map484/events/23/pages/0/18/Dialogue/enemy34
 This form is not something that's limited to the
 souls of humans, either. \\C[2]There have been instances
-of "thoughts" forming a space as well.#RonIffy
+of strong emotions or impactful events forming
+spaces of their own as well.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -59,7 +60,7 @@ of "thoughts" forming a space as well.#RonIffy
 > CONTEXT: Map484/events/23/pages/0/22/Dialogue/enemy34
 There may be a wide variety of them even here.
 
-Feel free to touch them if you're curious.#RonIffyWording
+Feel free to peer into them if you're curious.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -360,7 +361,7 @@ one?#Ron
 
 『残念系』って、そういう………
 > CONTEXT: Map484/events/35/pages/0/137/Dialogue/enemy38
-Aah
+Aah...
 
 "Unfortunate type", now I get it...#Ron
 > END STRING
@@ -396,7 +397,7 @@ She does have a pretty... distinctive look...#Ron
 Amira really helped me out. Not only did she guide
 me here, \\C[2]but she also helped bring the
 merchandise\\C[0]. I'll bet you guys are starting
-to run low on items about now, huh?#
+to run low on items about now, huh?#Ron
 > END STRING
 
 > BEGIN STRING

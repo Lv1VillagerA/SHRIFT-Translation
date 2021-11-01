@@ -462,7 +462,7 @@ regard.#Ron
 Of course, her counterattacks will be aimed at
 you so \\C[2]having Luka summon Gnome is a good idea.
 But be especially careful of her lightning-based
-Kelavturia attack.#Ron
+Kerav Tria attack.#Ron
 > END STRING
 
 > BEGIN STRING

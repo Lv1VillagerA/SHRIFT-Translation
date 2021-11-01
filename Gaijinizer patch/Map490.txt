@@ -107,9 +107,10 @@ when he helped.#Ron
 なんの合図もなしに、３人とも手を伸ばしにいったのが
 良い証拠だ……
 > CONTEXT: Map490/events/1/pages/0/57/Dialogue/enemy35
-I'm afraid these three aren't interested in ideas
-of "living in disgrace." The fact that they jumped
-to help without any prompting is proof of that.#RonIffy
+I'm afraid these three aren't interested in
+things like making you "live in disgrace".
+The fact that they all jumped to help you
+without a second thought is proof of that.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -210,10 +211,10 @@ buried\\C[0]...#Ron
 \\C[0]今や、介入権限は向こうの方が強い……
 \\C[10]ヤツは、虐殺の世界線を『正史』にする気なんだ！！
 > CONTEXT: Map490/events/1/pages/0/148/Dialogue/other8
-The \\C[4]Official Timeline \\C[0]is gradually losing its
-status as \\C[4]Official\\C[0]. Its Intervention authority has
-grown... \\C[10]It's planning on turning the Genocide
-timeline into the Official Timeline!!#RonIffyWording
+The \\C[4]official timeline \\C[0]is gradually losing its
+status as \\C[4]"Official"\\C[0]. Its Intervention authority
+has grown... \\C[10]It's planning on turning the
+Genocide timeline into the official one!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING

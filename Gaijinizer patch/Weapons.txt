@@ -744,6 +744,6 @@ toughness. \\C[6]Normal attacks now hit twice.#Ron
 
 > BEGIN STRING
 竜鱗のレイピア
-> CONTEXT: Weapons/129/name < UNTRANSLATED
-
+> CONTEXT: Weapons/129/name
+Dragon-Scale Rapier#Ron
 > END STRING

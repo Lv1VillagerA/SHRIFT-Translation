@@ -7,8 +7,8 @@
 > CONTEXT: Map486/events/2/pages/0/0/Dialogue
 * 「That gun...
 
-    I see, so you escaped. Heh, I think I deserve some
-    some thanks.」#Ron
+    I see... so you managed to escape. Heh, I
+    think I deserve some some thanks for that.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17,9 +17,10 @@
 　　弟たちに合わせる顔がないって言いながら
 　　こんな場所を彷徨う亡霊みたいになってる……」
 > CONTEXT: Map486/events/2/pages/0/5/Dialogue
-* 「What a bummer. I've been like a ghost wandering this
-    place, too afraid to show my face to my brother and
-    the others...」#RonIffy
+* 「What a shame...
+    I've felt like a ghost wandering around like this,
+    too afraid to show my face to my brother and
+    the rest of them...」#RonIffy
 > END STRING
 
 > BEGIN STRING
