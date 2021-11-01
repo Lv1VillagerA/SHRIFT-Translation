@@ -26,9 +26,9 @@ endure mating with me otherwise.#Ron
 いったいアバドーンのどんな口車に乗せられたのだ？
 > CONTEXT: Map489/events/2/pages/0/19/Dialogue/alice_fc5
 Seems like your goal is simply to have
-\\N[1], like you've got nothing to do with
-the ones running the world. Just how did Abaddon
-get you on board?#RonIffy
+\\N[1], it's almost like you have no
+interest at all in taking over the world...
+Just how did Abaddon get you on board?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -244,7 +244,7 @@ Kyaah!!#Ron
 ハイスラッグ娘の腕をとっさに掴んだ！
 > CONTEXT: Map489/events/2/pages/0/170/Dialogue
 \\N[1] dashed forward and grabbed the arm of High Slug
-Girl who was about to plunge into Hades!#Ron
+Girl who was about to plunge into the Abyss!#Ron
 > END STRING
 
 > BEGIN STRING

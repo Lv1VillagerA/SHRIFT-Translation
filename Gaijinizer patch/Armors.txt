@@ -990,7 +990,7 @@ Cloth Clothes#StrateUnsure
 抵：＋８０％　ダウンしても３０％の確率で即復活できる
 > CONTEXT: Armors/100/description
 \\C[11][Marion Only] \\C[0]Silver armor cherished by Marion's forefathers.
-Will: +80%, 30% instant revive chance when downed.#CheckLater
+Will: +80%, 30% instant revive chance when downed.#Ron
 > END STRING
 
 > BEGIN STRING

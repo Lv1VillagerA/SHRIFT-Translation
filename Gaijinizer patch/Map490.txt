@@ -369,9 +369,9 @@ It's not like you have a dog in this fight.#Ron
 少しおかしくなってしまったみたいね……
 > CONTEXT: Map490/events/1/pages/0/240/Dialogue/highslag_fc1
 That might've been true until just a little while
-ago. But it would appear that he's done something
-to turn me a little strange, just as he did to
-you all.#RonIffyWording
+ago... But it would appear that he's done
+something to make me start thinking strangely,
+just like he's done with all of you.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
