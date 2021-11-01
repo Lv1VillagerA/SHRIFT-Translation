@@ -1,8 +1,8 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 マリオンは、敵の攻撃を避けた！
-> CONTEXT: CommonEvents_752/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_752/16/Dialogue
+Marion evaded the enemy attack!#Ron
 > END STRING
 
 > BEGIN STRING

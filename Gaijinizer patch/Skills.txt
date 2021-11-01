@@ -5317,14 +5317,14 @@ has trapped Kazuya's body inside her clothes!#DL
 
 > BEGIN STRING
 蹂躙撃
-> CONTEXT: Skills/406/name < UNTRANSLATED
-
+> CONTEXT: Skills/406/name
+Overrun#Ron
 > END STRING
 
 > BEGIN STRING
 は周囲を飛び回り、相手を蹂躙した！
-> CONTEXT: Skills/406/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/406/message1
+ leaps around and tramples her opponents!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -5365,14 +5365,14 @@ Magic Fly Attack#Ron
 
 > BEGIN STRING
 アンスタン
-> CONTEXT: Skills/409/name < UNTRANSLATED
-
+> CONTEXT: Skills/409/name
+Anston#RonIffy
 > END STRING
 
 > BEGIN STRING
 はアンスタンを放った！
-> CONTEXT: Skills/409/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/409/message1
+ unleashes Anston#Ron
 > END STRING
 
 > BEGIN STRING
@@ -5531,26 +5531,26 @@ Submissive Masturbation#afrgPR
 
 > BEGIN STRING
 ケラヴトゥリア
-> CONTEXT: Skills/421/name < UNTRANSLATED
-
+> CONTEXT: Skills/421/name
+Kerav Tria#RonIffy
 > END STRING
 
 > BEGIN STRING
 はケラヴトゥリアを放った！
-> CONTEXT: Skills/421/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/421/message1
+ unleashes Kerav Tria!#Ron
 > END STRING
 
 > BEGIN STRING
 スプラッシュフルーレ
-> CONTEXT: Skills/422/name < UNTRANSLATED
-
+> CONTEXT: Skills/422/name
+Splash Fleuret#RonIffy
 > END STRING
 
 > BEGIN STRING
 はスプラッシュフルーレを放った！
-> CONTEXT: Skills/422/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/422/message1
+ unleashes Splash Fleuret!#Ron
 > END STRING
 
 > BEGIN STRING

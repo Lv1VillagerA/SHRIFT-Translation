@@ -18369,30 +18369,30 @@ Call me mommy... just one more time...#Ron
 ブラックドッグは姿を消した……
 
 元の世界に戻ったようだ……
-> CONTEXT: Troops/383/pages/3/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/383/pages/3/32/Dialogue
+Black Dog vanished, seemingly returning to her own world...#Ron
 > END STRING
 
 > BEGIN STRING
 キャン！キャン！
-> CONTEXT: Troops/384/pages/3/8/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/4/8/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/5/8/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/6/8/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/7/8/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/8/8/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Troops/384/pages/3/8/Dialogue/enemy37
+> CONTEXT: Troops/384/pages/4/8/Dialogue/enemy37
+> CONTEXT: Troops/384/pages/5/8/Dialogue/enemy37
+> CONTEXT: Troops/384/pages/6/8/Dialogue/enemy37
+> CONTEXT: Troops/384/pages/7/8/Dialogue/enemy37
+> CONTEXT: Troops/384/pages/8/8/Dialogue/enemy37
+*yelp yelp*#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ブラックドッグたちは散り散りに退いていった……
-> CONTEXT: Troops/384/pages/3/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/4/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/5/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/6/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/7/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/8/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/384/pages/3/18/Dialogue
+> CONTEXT: Troops/384/pages/4/18/Dialogue
+> CONTEXT: Troops/384/pages/5/18/Dialogue
+> CONTEXT: Troops/384/pages/6/18/Dialogue
+> CONTEXT: Troops/384/pages/7/18/Dialogue
+> CONTEXT: Troops/384/pages/8/18/Dialogue
+The pack of Black Dogs dispersed and retreated...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18403,32 +18403,37 @@ Call me mommy... just one more time...#Ron
 
 > BEGIN STRING
 ハイスラッグ娘は姿勢を元に戻した…
-> CONTEXT: Troops/385/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/385/pages/0/4/Dialogue
+High Slug Girl has returned to her normal stance.#Ron
 > END STRING
 
 > BEGIN STRING
 ハイスラッグ娘が再びうずくまる……
 
 その腕は、すこし震えているようにも思える…
-> CONTEXT: Troops/385/pages/5/11/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/385/pages/5/11/Dialogue
+High Slug Girl is cowering once again...
 
+It looks like her sword arm is shaking slightly...#Ron
 > END STRING
 
 > BEGIN STRING
 お願いだ……降参してくれ。
 
 もう目に見えてボロボロじゃないか……
-> CONTEXT: Troops/385/pages/5/15/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/385/pages/5/15/Dialogue/kazuya
+Please... just give up...
 
+You're clearly in bad shape.#Ron
 > END STRING
 
 > BEGIN STRING
 僕たちは、君を傷付けたくない…
 
 その必要がないなら、なおさらだ…！
-> CONTEXT: Troops/385/pages/5/19/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Troops/385/pages/5/19/Dialogue/kazuya
+We don't want to hurt you, especially when
+there's no need to!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18436,30 +18441,37 @@ Call me mommy... just one more time...#Ron
 
 私は、思い通りにならないと燃える質なの…
 そう簡単に諦める事なんて出来ないわ
-> CONTEXT: Troops/385/pages/5/29/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Troops/385/pages/5/29/Dialogue/highslag_fc1
+Not yet! I'm the type who can't let go when things
+aren't going her way.
 
+There's no way I could give up so easily.#Ron
 > END STRING
 
 > BEGIN STRING
 ああ……\\N[1]……
 
 あなたを１度私の腕で抱くまでは、絶対に諦めない…！
-> CONTEXT: Troops/385/pages/5/34/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Troops/385/pages/5/34/Dialogue/highslag_fc1
+Aaah, \\N[1]...
 
+I can't give up until I've held you in my bosom
+at least once!#Ron
 > END STRING
 
 > BEGIN STRING
 ぐっ……！？
-> CONTEXT: Troops/385/pages/5/43/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/385/pages/5/43/Dialogue/highslag_fc1
+Gugh?!#Ron
 > END STRING
 
 > BEGIN STRING
 ハイスラッグ娘はその場にうずくまった……
 
 サーベルを握る手が、初めて戦闘中に下を向く……
-> CONTEXT: Troops/385/pages/5/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/385/pages/5/45/Dialogue
+High Slug Girl is cowering, her saber pointing downward
+for the first time in the battle...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18467,8 +18479,11 @@ Call me mommy... just one more time...#Ron
 僕はあの時みたいに一人じゃない…。
 
 いくら君が\\C[10]世界融解\\C[0]の力を得ているからって…
-> CONTEXT: Troops/385/pages/5/49/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/385/pages/5/49/Dialogue/kazuya
+Let's stop this... it's over!
 
+No matter how much power you have from the \\C[10]World
+Fusion\\C[0], I'm not alone this time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18476,8 +18491,11 @@ Call me mommy... just one more time...#Ron
 
 これから楽しくなってくるんじゃない…！
 まだまだ私は戦えるわ…！
-> CONTEXT: Troops/385/pages/5/58/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Troops/385/pages/5/58/Dialogue/highslag_fc1
+What are you saying?
 
+We're only just getting to the fun part!
+I still have plenty of fight left in me!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18485,8 +18503,11 @@ Call me mommy... just one more time...#Ron
 
 私は\\C[10]世界融解\\C[0]の力がなくても十分強いのよ…！
 見てなさい…！
-> CONTEXT: Troops/385/pages/5/63/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Troops/385/pages/5/63/Dialogue/highslag_fc1
+You just don't get it...
 
+I'm plenty powerful even without the \\C[10]World
+Fusion\\C[0]! Behold!#Ron
 > END STRING
 
 > BEGIN STRING

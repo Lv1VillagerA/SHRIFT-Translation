@@ -727,7 +727,7 @@ I... really didn't expect that...#RonIffy
 Good god...
 I was on my guard on hearing that you were an
 angel, but it seems I mistook you for one that
-isn't the "pathetic type"...#Ron
+isn't the "unfortunate type"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -735,10 +735,10 @@ isn't the "pathetic type"...#Ron
 
 さっきの無言系といい、最近の言葉は分からないわ……
 > CONTEXT: Map469/events/3/pages/0/570/Dialogue/enemy38
-P-Pathetic type?
+U-Unfortunate type?
 
-Pathetic type, silent type... I don't really get
-all these new phrases.#Ron
+Unfortunate type, silent type... I don't really
+get all these new phrases.#Ron
 > END STRING
 
 > BEGIN STRING
