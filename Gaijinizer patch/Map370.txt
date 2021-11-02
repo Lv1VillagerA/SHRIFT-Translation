@@ -233,24 +233,29 @@ Start From Designated Location.
 ………………来たね。
 
 アンタなら、ここが分かると思った………
-> CONTEXT: Map370/events/1/pages/1/9/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/9/Dialogue/hyakki
+......You came.
 
+I was pretty sure you'd know about this place.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]………チェシャは消滅したよ。
 
 \\C[0]双子に、全部喰われちまった。
-> CONTEXT: Map370/events/1/pages/1/13/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/13/Dialogue/hyakki
+\\C[10]......Cheshire's been destroyed...
 
+\\C[0]Completely devoured by the Twins.#Ron
 > END STRING
 
 > BEGIN STRING
 それでも、アンタがこれを起動できているのは
 
 \\C[2]私がここに居るから……。
-> CONTEXT: Map370/events/1/pages/1/17/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/17/Dialogue/hyakki
+But the reason you're still able to start the
+game is \\C[2]because I'm here\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -258,8 +263,11 @@ Start From Designated Location.
 
 \\C[10]虐殺の道を辿った\\C[0]\\V[40]を止めるために
 チェシャを分離するときに、ここを使ったんだよ。
-> CONTEXT: Map370/events/1/pages/1/21/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/21/Dialogue/hyakki
+To tell you the truth, this isn't the first time
+I've come here. I used this place to stop
+\\V[40] when he went down the \\C[10]Genocide route\\C[0]
+after separating from Cheshire.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -267,16 +275,22 @@ Start From Designated Location.
 アンタに\\V[40]の介入権限を戻せない……
 
 \\C[2]\\V[40]本人を正気に戻さないと……
-> CONTEXT: Map370/events/1/pages/1/26/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/26/Dialogue/hyakki
+But my power alone, isn't enough to restore your
+Intervention power over \\V[40].
+\\C[2]We'll have to bring the man himself back
+to his senses...#Ron
 > END STRING
 
 > BEGIN STRING
 いちおう、策はあるんだけど……
 
 その前に……一つ聞いておきたいんだ。
-> CONTEXT: Map370/events/1/pages/1/31/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/31/Dialogue/hyakki
+For what it's worth, I do have a plan...
 
+But I need you to hear me out about something
+before I tell you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -284,8 +298,13 @@ Start From Designated Location.
 
 \\C[10]『介入』\\C[0]は、知られてなかったからこそ黙認できた
 でもその仕組みを知ってしまったら、元には戻れない……
-> CONTEXT: Map370/events/1/pages/1/37/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/37/Dialogue/hyakki
+If I had to pick a side, \\C[2]I'd say I agree more
+with the Twins\\C[0]. The existence of \\C[10]Interventions \\C[0]is
+something I could only tolerate if I had never
+found out about them.
+But now that I know how it all works, there's no
+going back.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -293,8 +312,11 @@ Start From Designated Location.
 
 たとえその存在を感じていなくても、常に意識してしまう。
 \\C[2]『これは本当に運命だったのか』\\C[0]って……
-> CONTEXT: Map370/events/1/pages/1/42/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/42/Dialogue/hyakki
+\\V[40] too, is a human who learned about the
+existence of Interventions. Even if he couldn't
+sense them, he'd always be aware of them,
+constantly wondering whether it's really fate.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -302,8 +324,10 @@ Start From Designated Location.
 
 だけど、\\V[40]の今後の苦悩を考えると、
 それも一つの選択かもしれない……
-> CONTEXT: Map370/events/1/pages/1/47/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/47/Dialogue/hyakki
+Though he's certainly being deceived, whether or
+not he suffers in the future may come down to a
+single choice you make...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -311,8 +335,11 @@ Start From Designated Location.
 ただただ幸せな日々を過ごすことが出来る……
 
 それでもアンタは、\\V[40]を助けるかい？
-> CONTEXT: Map370/events/1/pages/1/52/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/52/Dialogue/hyakki
+Left alone, he can live carefree days of
+happiness, free from fate and Intervention.
 
+Do you still want to save him, knowing that?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -320,62 +347,77 @@ Start From Designated Location.
 この時点で、ウィンドウを閉じな。
 
 双子の言うとおり、そっとしておいてやるんだよ。
-> CONTEXT: Map370/events/1/pages/1/57/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/57/Dialogue/hyakki
+\\C[10]If you believe that things are fine the way they
+are, then close this window. Do as the Twins
+asked and leave him be.
 > END STRING
 
 > BEGIN STRING
 だけどもし、それでも私と一緒に助けに行くってんなら……
 
 \\C[10]アンタの意思で、このボタンを押すんだ。
-> CONTEXT: Map370/events/1/pages/1/67/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/67/Dialogue/hyakki
+But if you want to come with me anyway...
 
+\\C[10]Then choose that option of your own free will.#Ron
 > END STRING
 
 > BEGIN STRING
 助けに行く
-> CONTEXT: Map370/events/1/pages/1/71/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/71/Choice/0
+Go rescue him#Ron
 > END STRING
 
 > BEGIN STRING
 ……………分かった。
 
 それじゃあアタシも、アンタにとことん付き合うよ。
-> CONTEXT: Map370/events/1/pages/1/75/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/75/Dialogue/hyakki
+......Understood.
 
+Then I'll be with you until the very end.#Ron
 > END STRING
 
 > BEGIN STRING
 …………聞いただろう？
 
 出てきな！\\V[40]を助けに行くよ！
-> CONTEXT: Map370/events/1/pages/1/79/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/79/Dialogue/hyakki2
+......You heard them, didn't you?
 
+Come out of there and let's go save \\V[40]!#Ron
 > END STRING
 
 > BEGIN STRING
 はいはーい
 
 そこまでハッキリ言われちゃうんじゃ、しょうがないよねぇ
-> CONTEXT: Map370/events/1/pages/1/86/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/86/Dialogue/sirousagi_fc1
+Okey dokey.
 
+If you're going to make bold statements like that,
+then I guess I've got no choice.#Ron
 > END STRING
 
 > BEGIN STRING
 でも、アバドーンのお腹の中はアイツの独壇場だよ。
 
 さっき言ってた『策』ってなんなの？百鬼ちゃん。
-> CONTEXT: Map370/events/1/pages/1/90/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/90/Dialogue/sirousagi_fc1
+But the inside of Abaddon's stomach is his home
+turf, you know. So what's this "plan" you've
+hatched, Hyakki-chan?#Ron
 > END STRING
 
 > BEGIN STRING
 決まってるだろ
 
 アタシとアンタで、\\C[2]直接\\V[40]を叩き起こす
-> CONTEXT: Map370/events/1/pages/1/94/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/94/Dialogue/hyakki
+I would've thought that'd be obvious.
 
+The three of us will go shake \\V[40] awake.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -383,8 +425,10 @@ Start From Designated Location.
 アクセスする権限はないけど
 
 \\C[2]自分たちの世界に戻る事ぐらいはできる。
-> CONTEXT: Map370/events/1/pages/1/98/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/98/Dialogue/hyakki
+We don't have the authority to access \\C[10]Cheshire's
+save data\\C[0], but we can return back to our own
+worlds.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -392,8 +436,11 @@ Start From Designated Location.
 
 正気に戻ったところで、すかさず介入権限を
 コイツに戻すんだ。
-> CONTEXT: Map370/events/1/pages/1/103/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/103/Dialogue/hyakki
+From there we'll find where they're toying with
+\\V[40], bring him back to his senses, and
+quickly return the Intervention authority back
+to this one here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -401,24 +448,31 @@ Start From Designated Location.
 
 アタシの中の\\C[10]『介入能力』もチェシャのものだ
 きっと、上手く機能してくれるはずだ。
-> CONTEXT: Map370/events/1/pages/1/108/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/108/Dialogue/hyakki
+Though the \\C[10]Intervention power \\C[0]inside me isn't
+Cheshire's \\C[10]Intervention authority, it still
+belonged to her, and I'm sure I'll be able to make
+good use of it.#RonIffy
 > END STRING
 
 > BEGIN STRING
 だから……失敗は許されない。
 
 １度っきりの、最後のチャンスだ。
-> CONTEXT: Map370/events/1/pages/1/113/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/113/Dialogue/hyakki
+So I won't tolerate failure out there.
 
+This is our one and only last chance.#Ron
 > END STRING
 
 > BEGIN STRING
 わーお、思ったより無謀な策だった……
 
 それってボクがついていく意味ある？
-> CONTEXT: Map370/events/1/pages/1/117/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/117/Dialogue/sirousagi_fc1
+Waah, that plan's a lot more reckless than I was
+expecting. Is there even any point to me tagging
+along?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -426,16 +480,20 @@ Start From Designated Location.
 
 今のボクにそんな力はないよ？
 いったいなにを手伝えっていうのさ。
-> CONTEXT: Map370/events/1/pages/1/121/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/1/121/Dialogue/sirousagi_fc1
+You asked me to help with \\C[10]Interventions, but I
+don't have that power right now. So what exactly
+am I supposed to be helping with?#Ron
 > END STRING
 
 > BEGIN STRING
 ……………なるほどね。
 
 オーケィ、いいよ。付き合おうかな。
-> CONTEXT: Map370/events/1/pages/1/131/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/131/Dialogue/sirousagi_fc1
+......Oh, I see.
 
+Okay, got it. Guess I'll go with you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -443,14 +501,20 @@ Start From Designated Location.
 
 それじゃあ、アタシの世界に戻るよ。
 行き先は……\\C[10]『アバドンの腹の中』\\C[0]だ
-> CONTEXT: Map370/events/1/pages/1/135/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/135/Dialogue/hyakki
+Right then.
 
+We'll go back to my world.
+Our destination: \\C[10]Abaddon's stomach\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]マッドハッターの介入じゃないから、多少無茶するよ
 
 しっかりついてくるんだ。
-> CONTEXT: Map370/events/1/pages/1/140/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/1/140/Dialogue/hyakki
+\\C[10]I'll be pulling out all the stops since we
+don't have Mad Hatter's authority.
 
+Make sure you stick close to me.#Ron
 > END STRING

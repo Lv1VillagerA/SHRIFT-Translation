@@ -3,8 +3,8 @@
 だ、誰……？
 
 きみは…？
-> CONTEXT: Map528/events/7/pages/0/1/Dialogue/kazuya-2 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/1/Dialogue/kazuya-2
+W-Who... are you?
 > END STRING
 
 > BEGIN STRING
@@ -12,16 +12,22 @@
 でも込み入った話はあとでしよう
 
 今はここを脱出するのが先だ……
-> CONTEXT: Map528/events/7/pages/0/5/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/5/Dialogue/sirousagi_fc1
+Heya \\V[40]-kun, long time no see.
+But let's leave the chit-chat for later.
 
+We've got to get you out of here first.#Ron
 > END STRING
 
 > BEGIN STRING
 ははは……参ったな……
 
 あとちょっとなのに……\\C[2]ここまでみたいだ………
-> CONTEXT: Map528/events/7/pages/0/40/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/40/Dialogue/sirousagi_fc1
+Hahaha... oh dear...
 
+\\C[2]Looks like this is as far as I go\\C[0]...
+And we were so close...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,8 +35,11 @@
 
 \\C[0]ボクは彼女の中に在るチェシャの力で
 かろうじて実体化を保ってた状態だったから……
-> CONTEXT: Map528/events/7/pages/0/47/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/47/Dialogue/sirousagi_fc1
+\\C[10]They got Hyakki...\\C[0]
 
+And I was just barely able to stay manifested with
+the power of Cheshire inside her...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,24 +47,30 @@
 
 さっき百鬼が、ボクの力なら目覚めさせられるって言ったのは
 これが理由……
-> CONTEXT: Map528/events/7/pages/0/52/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/52/Dialogue/sirousagi_fc1
+In other words, I was being controlled remotely
+with her power. That's why Hyakki said I'd be
+able to wake him with the power I have...#RonIffy
 > END STRING
 
 > BEGIN STRING
 ………はぁ、最初は道案内だけのつもりだったのにな……
 
 なんでこんな事にまで手を貸しちゃったんだろう……
-> CONTEXT: Map528/events/7/pages/0/59/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/59/Dialogue/sirousagi_fc1
+Haah, I was only planning on being a guide at
+first. Why did I end up helping this much?#Ron
 > END STRING
 
 > BEGIN STRING
 \\V[40]くん、本当に罪作りな人間だよ……
 
 敵からも味方からもモテモテじゃん……
-> CONTEXT: Map528/events/7/pages/0/63/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/63/Dialogue/sirousagi_fc1
+\\V[40]-kun really is an awful human...
 
+Everyone from his enemies to his allies have the
+hots for him...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -63,8 +78,11 @@
 
 大丈夫……ボク自身の存在が消えるわけじゃ無いから
 『つながり』が切れるわけじゃない…
-> CONTEXT: Map528/events/7/pages/0/69/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/69/Dialogue/sirousagi_fc1
+All that's left is to look for Luka-kun and
+Marion-kun. Don't worry, it's not like my
+existence itself will be erased, so my
+"connection" to them won't be cut.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -72,16 +90,22 @@
 アバドーンに遭遇しても、逃げることだけ考えてね……
 
 外に出れば、夜深ちゃんやアリスちゃんと合流できる………
-> CONTEXT: Map528/events/7/pages/0/74/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/74/Dialogue/sirousagi_fc1
+\\C[2]But his combat magic effectiveness has
+probably plummeted, so just focus on escaping
+if you run into Abaddon.
 
+You'll be able to meet up with Yami-chan and
+Alice-chan if you can get outside.#Ron
 > END STRING
 
 > BEGIN STRING
 \\V[40]くんを……３人をお願いするよ……
 
 百鬼ちゃんのためにも……みんなのためにも……
-> CONTEXT: Map528/events/7/pages/0/79/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/79/Dialogue/sirousagi_fc1
+I'm leaving \\V[40]-kun, and those three in your
+hands. For Hyakki-chan... and everyone else...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -89,40 +113,49 @@
 
 なにか……
 なにか大事なことを忘れているような……
-> CONTEXT: Map528/events/7/pages/0/89/Dialogue/kazuya-2 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/89/Dialogue/kazuya-2
+"Hyakki"...?
 
+It feels like... I'm forgetting something
+important...#Ron
 > END STRING
 
 > BEGIN STRING
 きみは……誰だ……？
 
 僕……？
-> CONTEXT: Map528/events/7/pages/0/94/Dialogue/kazuya-2 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/94/Dialogue/kazuya-2
+Who... are you...?
 
+I...#Ron
 > END STRING
 
 > BEGIN STRING
 行かせないよ
 
 \\V[40]にぃは渡さない。
-> CONTEXT: Map528/events/7/pages/0/102/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/102/Dialogue/enemy39
+I won't let you take him away.
 
+I won't give \\V[40]-nii to you.#Ron 
 > END STRING
 
 > BEGIN STRING
 せっかくお兄ちゃんがいい夢を見ていたのに……
 
 起こしてしまうなんて、悪い人たちですね……
-> CONTEXT: Map528/events/7/pages/0/122/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/122/Dialogue/enemy39
+You people are awful for waking him up just as
+he was getting to the good part of his dream.#Ron
 > END STRING
 
 > BEGIN STRING
 でも、最後の味方である白兎も居なくなった……
 
 これで、残るは\\C[10]無力なお前だけ
-> CONTEXT: Map528/events/7/pages/0/126/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/126/Dialogue/enemy39
+But now that the last of his allies are gone, all
+that's left is the \\C[10]utterly powerless you\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -130,8 +163,10 @@
 最後の脅威だった２人を連れてきたのは、褒めてあげるよ
 
 \\C[0]ちょっとぐらいなら、いい思いさせてあげてもいいかも？
-> CONTEXT: Map528/events/7/pages/0/130/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/130/Dialogue/enemy39
+\\C[10]Still, I'll praise you for bringing the last two
+possible threats to us, knowing there'd be no risk
+to you\\C[0]. So how about I do something nice for you?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -139,16 +174,21 @@
 
 \\N[1]お兄ちゃんの友達を創造するときの
 材料にぐらいはしてあげましょう
-> CONTEXT: Map528/events/7/pages/0/135/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/135/Dialogue/enemy39
+Yes...
 
+I'll use you as material when we create all of
+Onii-chan's friends.#RonIffy
 > END STRING
 
 > BEGIN STRING
 \\C[2]私は、全ての世界を喰らい尽くす…
 
 お前の世界も、いずれは……
-> CONTEXT: Map528/events/7/pages/0/140/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/140/Dialogue/enemy39
+\\C[2]I'll devour every single world.
 
+Including yours someday...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -156,8 +196,11 @@
 
 もしかして、私たちに立ち向かう気？
 勝ち目がないって分かってるのに？
-> CONTEXT: Map528/events/7/pages/0/150/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/150/Dialogue/enemy39
+What's this?
 
+Are you maybe planning on fighting us even though
+you know you can never win?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -165,8 +208,11 @@
 ルカやマリオンたちもここには呼べない……
 
 どうやって私たちに勝つつもりなの？
-> CONTEXT: Map528/events/7/pages/0/155/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/155/Dialogue/enemy39
+Just how are you planning on winning? Everyone in
+My Room is gone, Cheshire and Hyakki are both
+gone, and you have no way to summon Luka or
+Marion.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -174,24 +220,31 @@
 こちらの世界では、随分と役に立ったよ。
 
 オールドワンが部下を作るのに事欠かない……
-> CONTEXT: Map528/events/7/pages/0/160/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/160/Dialogue/enemy39
+Your \\C[10]never-give-up spirit \\C[0]has served us well
+in this world. It's given the Old One all it needs
+to create its minions.#Ron
 > END STRING
 
 > BEGIN STRING
 お前も、ああいう姿になるのがお望み？
 
 それじゃあ……、あとでそうしてあげる。
-> CONTEXT: Map528/events/7/pages/0/165/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/165/Dialogue/enemy39
+Is that the form you want to be in?
 
+If so, when I recreate you I'll make you just
+as you are now.#Ron
 > END STRING
 
 > BEGIN STRING
 でもその前に……
 
 お兄ちゃんを、安全な場所に移さなきゃ…
-> CONTEXT: Map528/events/7/pages/0/169/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/169/Dialogue/enemy39
+But before that...
 
+I need to move Onii-chan somewhere safe...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -199,114 +252,141 @@
 
 まったくお前は、レイナに腹パンしてもらわないと
 だいたい寝坊だな？
-> CONTEXT: Map528/events/7/pages/0/189/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/189/Dialogue/yuuma
+You up now?
 
+Good grief, you'd never be up on time if it
+weren't for Reina's gut punches.#Ron
 > END STRING
 
 > BEGIN STRING
 今日はみんなで山にキャンプに行くって言ったでしょ？
 
 ほら、早くこっち来て。車に乗って？
-> CONTEXT: Map528/events/7/pages/0/195/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/195/Dialogue/other8
+You said you wanted to go camping in the mountains
+today, didn't you? Come on, hurry up and hop in
+the car.#Ron
 > END STRING
 
 > BEGIN STRING
 行きましょう、\\N[1]。
 
 きっと楽しい日になるわ
-> CONTEXT: Map528/events/7/pages/0/200/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/200/Dialogue/other1
+Let's go, \\N[1].
 
+I'm sure today'll be a lot of fun.#Ron
 > END STRING
 
 > BEGIN STRING
 み、みんな……
 
 ごめん……すぐ行くよ………
-> CONTEXT: Map528/events/7/pages/0/204/Dialogue/kazuya-2 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/204/Dialogue/kazuya-2
+S-Sorry... everyone...
 
+I'm coming...#Ron
 > END STRING
 
 > BEGIN STRING
 往生際が悪い………
 
 \\C[10]時には諦めることも大事ですよ。役立たずさん。
-> CONTEXT: Map528/events/7/pages/0/225/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/225/Dialogue/enemy39
+You need to learn when to give up...
 
+\\C[10]There are times when it's important for dead
+weight like you to know when you're beaten.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 それとも、また奇跡を待ちますか？
 
 あの時のように……
-> CONTEXT: Map528/events/7/pages/0/229/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/229/Dialogue/enemy39
+Or are you waiting for another miracle to happen
+like last time?#Ron
 > END STRING
 
 > BEGIN STRING
 待つならどうぞ、好きなだけ…
 
 永遠に続く時間、その無力さを孤独に噛み締めるのです。
-> CONTEXT: Map528/events/7/pages/0/233/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/233/Dialogue/enemy39
+In that case, feel free to wait all you want.
 
+Spend eternity reflecting on your powerlessness
+while you're at it.#Ron
 > END STRING
 
 > BEGIN STRING
 いこう！\\N[1]にぃ！
 
 みんなでキャンプだよ！！
-> CONTEXT: Map528/events/7/pages/0/237/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/237/Dialogue/enemy39
+Let's go, \\N[1]-nii!
 
+You've gotta go camping with everyone!!#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？「だめだよ、おにいちゃん
 
 　　　　そっちに行ったら、もどれなくなる」
-> CONTEXT: Map528/events/7/pages/0/252/Dialogue < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/252/Dialogue
+??? 「Don't go, Onii-chan.
 
+      There'll be no going back if you do.」#Ron
 > END STRING
 
 > BEGIN STRING
 き、きみは……？
-> CONTEXT: Map528/events/7/pages/0/265/Dialogue/kazuya-2 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/265/Dialogue/kazuya-2
+W-Who're you?#Ron
 > END STRING
 
 > BEGIN STRING
 うわっ……！！！
-> CONTEXT: Map528/events/7/pages/0/284/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/284/Dialogue/kazuya
+Uwaah!!!#Ron
 > END STRING
 
 > BEGIN STRING
 少女？「まったく……
 
 　　　　勝手に抱きつくのは、これで２回目ね？」
-> CONTEXT: Map528/events/7/pages/0/287/Dialogue < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/287/Dialogue
+Girl? 「Jeez...
 
+        This makes it twice now that you've clung onto me
+        like this.」#Ron
 > END STRING
 
 > BEGIN STRING
 少女？「でもこれで、アンタとの貸し借りはナシよ
 
 　　　　あとは、アイツにもツケを払わせなきゃ……」
-> CONTEXT: Map528/events/7/pages/0/291/Dialogue < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/291/Dialogue
+Girl? 「But now we're even.
 
+        And it's time to pay back those trash.」#CheckLater
 > END STRING
 
 > BEGIN STRING
 そ、その声は……まさか…！！！
-> CONTEXT: Map528/events/7/pages/0/296/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/296/Dialogue/kazuya
+T-That voice... are you...?!!#Ron
 > END STRING
 
 > BEGIN STRING
 やっとお目覚め？\\V[60]♪
 
 気付けにはいい一発だったでしょ？
-> CONTEXT: Map528/events/7/pages/0/312/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/312/Dialogue/enemy2
+Have you finally woken up, \\V[60]? ♪
 
+That was a hell of a pick-me-up, wasn't it?#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -314,36 +394,43 @@
 アバドーンの催眠が解けたのかしら？
 
 今なら、\\C[10]彼と一つに戻れるかもね
-> CONTEXT: Map528/events/7/pages/0/316/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/316/Dialogue/enemy2
+You've got your usual impudent look back, I
+suppose that means Abaddon's hypnosis wore off.
 
+\\C[10]You should be able to merge with him again now.#Ron
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n介入権限を照合中…"
-> CONTEXT: Map528/events/7/pages/0/335/InlineScript/1:6 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/335/InlineScript/1:6
+"[SYSTEM]\\nVerifying Intervention authority..."#Ron
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n介入対象者への介入を開始します"
-> CONTEXT: Map528/events/7/pages/0/339/InlineScript/1:6 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/339/InlineScript/1:6
+"[SYSTEM]\\nInitiating Intervention target's Intervention"#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ………\\C[10]アバドーン\\C[0]…！！
 
 よくも……好き勝手やってくれたな！！
-> CONTEXT: Map528/events/7/pages/0/344/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/344/Dialogue/kazuya
+\\C[10]Abaddon\\C[0]!!
 
+How dare you do all this!!#Ron
 > END STRING
 
 > BEGIN STRING
 お前……負け犬の魔王風情が……
 
 こんなことをして、ただで済むと思わないことね……
-> CONTEXT: Map528/events/7/pages/0/349/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/349/Dialogue/enemy39
+You... You're that loser playing at being a Demon
+King. Don't think you're getting off lightly
+after what you've done.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -351,8 +438,10 @@
 わざわざ怖い思いして、刃向かおうっていうの？
 
 だっさーい
-> CONTEXT: Map528/events/7/pages/0/353/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/353/Dialogue/enemy39
+So the little kiddie who got used by us has
+decided to put her big girl pants on and betray
+us? So lame.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -360,8 +449,10 @@
 認めるわよ、あの時の私はどうかしてた。
 
 \\C[10]『面白い玩具』\\C[0]を手にして舞い上がっちゃってたわ。
-> CONTEXT: Map528/events/7/pages/0/358/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/358/Dialogue/enemy2
+Something like that. I'll admit you got me pretty
+good back then. I was so carried away with
+getting my hands on a \\C[10]fun toy\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -369,34 +460,40 @@
 ヘラにもこっぴどく叱られたし……
 
 でも……おかげで目が覚めた。
-> CONTEXT: Map528/events/7/pages/0/363/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/363/Dialogue/enemy2
+I let my guard down because I've been acting like
+a brat for so many years, and Hera gave me the
+scolding of my life for it. But thanks to that I
+finally opened my eyes.#RonIffy
 > END STRING
 
 > BEGIN STRING
 アンタらも、\\C[2]ガキの真似事はやめたら？
 
 そんな姿、アンタらしくないわよ。
-> CONTEXT: Map528/events/7/pages/0/368/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map528/events/7/pages/0/368/Dialogue/enemy2
+It's about time you two dropped the act as well.
 
+That form doesn't suit you at all.#Ron
 > END STRING
 
 > BEGIN STRING
 な……………なに……を……
-> CONTEXT: Map528/events/7/pages/0/387/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/387/Dialogue/enemy39
+W-...What... are...#Ron
 > END STRING
 
 > BEGIN STRING
 や、や………ぇ……て………
-> CONTEXT: Map528/events/7/pages/0/389/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/389/Dialogue/enemy39
+S-St......p...#Ron
 > END STRING
 
 > BEGIN STRING
 そうそう、そっちの方が似合ってるわよ。
 
 醜いバケモノのアバドーンちゃん…♡
-> CONTEXT: Map528/events/7/pages/0/428/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map528/events/7/pages/0/428/Dialogue/enemy2
+That's it, that form suits you much better,
+horrifying monster Abaddon-chan... ♡#Ron
 > END STRING

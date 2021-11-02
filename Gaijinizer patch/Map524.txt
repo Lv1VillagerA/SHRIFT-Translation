@@ -3,10 +3,13 @@
 全員が笑顔で、ひたすらに\\V[40]の名前を呼んでいる……
 
 その身体は微動だにせず、まるで人形のようだ……
-> CONTEXT: Map524/events/4/pages/0/28/Dialogue < UNTRANSLATED
-> CONTEXT: Map524/events/22/pages/0/28/Dialogue < UNTRANSLATED
-> CONTEXT: Map524/events/23/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map524/events/4/pages/0/28/Dialogue
+> CONTEXT: Map524/events/22/pages/0/28/Dialogue
+> CONTEXT: Map524/events/23/pages/0/28/Dialogue
+Everyone is standing there with smiles on their faces,
+singlemindedly repeating \\V[40]'s name...
+Their bodies don't even so much as twitch, making them
+look almost like dolls...
 > END STRING
 
 > BEGIN STRING
@@ -14,10 +17,13 @@
 
 \\C[2]双子が外見と声だけ整えて創造して、
 \\V[40]を説得する材料にしたんだ…
-> CONTEXT: Map524/events/4/pages/0/33/Dialogue/sirousagi_fc1 < UNTRANSLATED
-> CONTEXT: Map524/events/22/pages/0/33/Dialogue/sirousagi_fc1 < UNTRANSLATED
-> CONTEXT: Map524/events/23/pages/0/33/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map524/events/4/pages/0/33/Dialogue/sirousagi_fc1
+> CONTEXT: Map524/events/22/pages/0/33/Dialogue/sirousagi_fc1
+> CONTEXT: Map524/events/23/pages/0/33/Dialogue/sirousagi_fc1
+They're life forms that just repeat the same word
+over and over. \\C[2]The Twins recreated only their
+voices and appearance to help convince
+\\V[40].#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -25,8 +31,11 @@
 今はそんなこと気にしてる場合じゃない…！
 
 先に進もう！！
-> CONTEXT: Map524/events/4/pages/0/39/Dialogue/sirousagi_fc1 < UNTRANSLATED
-> CONTEXT: Map524/events/22/pages/0/39/Dialogue/sirousagi_fc1 < UNTRANSLATED
-> CONTEXT: Map524/events/23/pages/0/39/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map524/events/4/pages/0/39/Dialogue/sirousagi_fc1
+> CONTEXT: Map524/events/22/pages/0/39/Dialogue/sirousagi_fc1
+> CONTEXT: Map524/events/23/pages/0/39/Dialogue/sirousagi_fc1
+It's really creepy, but now's not the time to get
+hung up on that!
 
+Let's keep moving!!#Ron
 > END STRING
