@@ -4,8 +4,11 @@
 
 悔しくない……悔しくない……
 私はもっとやれるもの………
-> CONTEXT: Map514/events/4/pages/0/13/Dialogue/コラボ^ヴァソ < UNTRANSLATED
+> CONTEXT: Map514/events/4/pages/0/13/Dialogue/コラボ^ヴァソ
+Uugh... Uugh...
 
+I'm not upset... I'm not upset...
+I've still got lots I can do...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13,6 +16,9 @@
 
 \\C[2]私が協力するから、この世界には手を出さないって
 アイツ『約束』してくれたのに…！！
-> CONTEXT: Map514/events/4/pages/0/43/Dialogue/コラボ^ヴァソ < UNTRANSLATED
+> CONTEXT: Map514/events/4/pages/0/43/Dialogue/コラボ^ヴァソ
+W-Why?! This isn't what we agreed!!
 
+\\C[2]You said you wouldn't touch my world if I helped
+you! You made a promise!!#Ron
 > END STRING

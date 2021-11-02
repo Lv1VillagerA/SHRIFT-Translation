@@ -668,8 +668,10 @@ during the battle.#Ron
 \\N[1]……
 
 アバドーンに喰われてしまったのね……
-> CONTEXT: CommonEvents_770/503/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/503/Dialogue/other5
+\\N[1]...
 
+So you were devoured by Abaddon...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -677,8 +679,11 @@ during the battle.#Ron
 
 でも今の貴方ならば……それすらも打ち破れるはずよ。
 がんばって……
-> CONTEXT: CommonEvents_770/507/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/507/Dialogue/other5
+Abaddon certainly is a powerful entity...
 
+But given how far you've come, you should be able
+to defeat even him. Try your best out there...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -686,8 +691,11 @@ during the battle.#Ron
 
 だから、\\C[2]サポートスキルは無理に攻撃を選ばずに
 中村のサポートを中心に選んでいくのが無難ね……
-> CONTEXT: CommonEvents_770/513/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/513/Dialogue/other5
+He's resistant to all types of damage.
+\\C[2]So rather than recklessly trying to attack
+with support skills, the safest option is to
+just use Nakamura as support\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -695,8 +703,14 @@ during the battle.#Ron
 \\C[2]必殺技の無属性を中心に攻めていくといいわ。
 
 裏練気からの乱れ星は、特に決定打となるでしょうね…。
-> CONTEXT: CommonEvents_770/518/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/518/Dialogue/other5
+And you should avoid using Luka and Marion's
+standard attacks, and instead \\C[2]have them use their
+special skills with null-type damage.
 
+\\C[2]Activating Shadow-Honed Energy for use with
+Death Sword Chaos Star will ensure you deal a
+decisive blow.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -704,8 +718,13 @@ during the battle.#Ron
 防御やリンゴで被害を最小限に抑えるのが重要よ。
 
 攻めるタイミングと、守るタイミングを意識して……
-> CONTEXT: CommonEvents_770/523/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/523/Dialogue/other5
+Aside from that, \\C[2]the three of you should avoid
+pushing yourselves to attack, and instead try to
+minimize incoming damage with defense and apples.
 
+\\C[2]Be conscious of the best time to attack
+versus the best time to defend.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -713,8 +732,11 @@ during the battle.#Ron
 \\C[2]平均２０００ダメージの万能５回攻撃……
 
 まともに受ければ、無事では済まないわ……
-> CONTEXT: CommonEvents_770/528/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/528/Dialogue/other5
+Also, \\C[2]Abaddon has a special move that does an
+average of 2000 damage five times in a row to all
+party members. You won't last if you end up
+taking that attack head-on.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -722,6 +744,11 @@ during the battle.#Ron
 中村の『大天使の一喝』で相手の攻撃力を下げるのも有効ね。
 
 \\C[0]それらを駆使して、最大限にダメージを減らしましょう。
-> CONTEXT: CommonEvents_770/533/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/533/Dialogue/other5
+Going into Defensive Stance goes without saying.
+\\C[2]Use Marion's Cannon and Rabbit Apple to minimize
+damage to him. Nakamura's Archangel's Rebuke is
+also effective at lowering an opponent's attack.
+Use all those abilities properly and you can
+significantly curtail the damage you receive.#Ron
 > END STRING

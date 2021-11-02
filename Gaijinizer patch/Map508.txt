@@ -3,24 +3,30 @@
 な、なんだ……！？
 
 何が起こった……！
-> CONTEXT: Map508/events/6/pages/0/19/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/19/Dialogue/kazuya
+W-What the...?!
 
+Something's happened!#Ron
 > END STRING
 
 > BEGIN STRING
 ここは………？民家……？
 
 でも、一体どこの……
-> CONTEXT: Map508/events/6/pages/0/31/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/31/Dialogue/kazuya
+This is... someone's house?
 
+But where on earth am I?#Ron
 > END STRING
 
 > BEGIN STRING
 それより、武器はどこだ……？
 
 僕は確かに、さっきまでアバドーンと戦っていたはず……
-> CONTEXT: Map508/events/6/pages/0/37/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/37/Dialogue/kazuya
+And more importantly, where's my weapon?
 
+I was fighting Abaddon until just a moment ago...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -28,70 +34,89 @@
 
 \\C[2]右手の印さえ消えている\\C[0]……
 これは一体………
-> CONTEXT: Map508/events/6/pages/0/41/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/41/Dialogue/kazuya
+No Luka... No Marion... No one's here...
 
+\\C[2]Even the mark on my hand has gone\\C[0]...
+What the hell is happening?#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？「ここは、我の………
 
 　　　ううん、『私たち』の新しい世界……」
-> CONTEXT: Map508/events/6/pages/0/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/46/Dialogue
+??? 「This is my... no...
 
+      This is *our*... new world...」#Ron
 > END STRING
 
 > BEGIN STRING
 おかえり！\\N[1]にぃ！
-> CONTEXT: Map508/events/6/pages/0/72/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/72/Dialogue/enemy39
+Welcome home, \\N[1]-nii!#Ron
 > END STRING
 
 > BEGIN STRING
 おかえりなさい、\\N[1]お兄ちゃん……
 
 やっと、落ち着いて話せるね……
-> CONTEXT: Map508/events/6/pages/0/74/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/74/Dialogue/enemy39
+Welcome home, \\N[1]-oniichan...
 
+You've finally settled down enough for us to
+talk...#Ron
 > END STRING
 
 > BEGIN STRING
 なっ…！？
 
 お、お前たちは……\\C[10]『双子』\\C[0]……！？
-> CONTEXT: Map508/events/6/pages/0/78/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/78/Dialogue/kazuya
+Wha?!
 
+Y-You're... \\C[10]the Twins\\C[0]...?!#Ron
 > END STRING
 
 > BEGIN STRING
 やだなぁ、\\N[1]にぃったら
 
 私たちは、生まれたときから\\C[4]『双子』\\C[0]だよ？
-> CONTEXT: Map508/events/6/pages/0/89/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/89/Dialogue/enemy39
+\\N[1]-nii you big silly...
 
+We've always been \\C[4]twins \\C[0]ever since we were born.#Ron
 > END STRING
 
 > BEGIN STRING
 ここでの私たちは\\C[2]『人間』\\C[0]……
 
 \\C[2]藍（あい）\\C[0]と\\C[2]翠（みどり）\\C[0]って名前なのよ……
-> CONTEXT: Map508/events/6/pages/0/93/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/93/Dialogue/enemy39
+We're \\C[2]human \\C[0]in this place...
 
+Our names are Ai and Midori...#Ron
 > END STRING
 
 > BEGIN STRING
 そして、\\N[1]は\\C[2]お兄ちゃん……
 
 私たち二人のお兄ちゃんなんだよ。
-> CONTEXT: Map508/events/6/pages/0/97/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/97/Dialogue/enemy39
+And you're the \\C[2]onii-chan...
 
+Our onii-chan, that is.#Ron
 > END STRING
 
 > BEGIN STRING
 僕の……他の世界の僕をあんな姿にして……！！
 
 今更そんな姿で僕が攻撃できなくなると思ったのか……！
-> CONTEXT: Map508/events/6/pages/0/106/Dialogue/kazuya-b < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/106/Dialogue/kazuya-b
+How dare you turn me... the me of another world,
+into that!! Do you really think I won't attack
+after all you've done just because you've taken
+this form?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -99,24 +124,28 @@
 
 僕はお前を倒して、ルシィたちを元に戻すんだ！！
 こんなことで…！
-> CONTEXT: Map508/events/6/pages/0/110/Dialogue/kazuya-b < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/110/Dialogue/kazuya-b
+You're not going to sway me with this kind of
+illusion! I'll defeat you and go back home to
+Lucy and the others!! This won't be enough to...!#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？「なぁに？\\N[1]。
 
 　　　　そんな大声出して……」
-> CONTEXT: Map508/events/6/pages/0/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/117/Dialogue
+??? 「\\N[1]? What's with all the racket?」#Ron
 > END STRING
 
 > BEGIN STRING
 ………大丈夫だよ、\\C[2]お母さん\\C[0]。
 
 またいつものことだから。
-> CONTEXT: Map508/events/6/pages/0/136/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/136/Dialogue/enemy39
+It's okay, \\C[2]mother\\C[0].
 
+It's just the same as usual.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -124,8 +153,9 @@
 
 また私たちが部屋に入ったこと怒ってたの～
 別に何もとってないのにさぁ
-> CONTEXT: Map508/events/6/pages/0/140/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/140/Dialogue/enemy39
+\\N[1]-nii got mad at us for going into his
+room again even though we didn't take anything.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -133,48 +163,62 @@
 
 　　ダメでしょ？あなたたちも今年で５年生なんだから
 　　もうお兄ちゃん離れしないと…」
-> CONTEXT: Map508/events/6/pages/0/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/146/Dialogue
+* 「You're sneaking into his room again?
+    You two shouldn't be doing that kind of thing anymore.
+    You're both in year five of school, it's time you
+    both stopped being so attached to your brother...」#Ron
 > END STRING
 
 > BEGIN STRING
 ＊「兄妹で仲が良いのはいいけど……
 
 　　あんまり\\N[1]お兄ちゃんを困らせないでね？」
-> CONTEXT: Map508/events/6/pages/0/151/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/151/Dialogue
+* 「I'm glad you're all getting along with each other,
+    but don't bother your brother so much, okay?」#Ron
 > END STRING
 
 > BEGIN STRING
 うん、お母さん。
 
 分かってる。
-> CONTEXT: Map508/events/6/pages/0/155/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/155/Dialogue/enemy39
+Yes mother.
 
+Understood.#Ron
 > END STRING
 
 > BEGIN STRING
 分かったぁ～
 
 今度は怒られないようにするー
-> CONTEXT: Map508/events/6/pages/0/159/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/159/Dialogue/enemy39
+Okaaay.
 
+We'll try not to make him mad next time.#Ron
 > END STRING
 
 > BEGIN STRING
 ど、どういうことだ……！！？
 
 僕のママ……あの母さんも、お前たちの幻惑なのか…！？
-> CONTEXT: Map508/events/6/pages/0/176/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/176/Dialogue/kazuya
+W-What's going on here?!!
 
+Is mommy... that mother... is she a part of your
+illusion as well?!#Ron
 > END STRING
 
 > BEGIN STRING
 やだぁ、\\N[1]にぃ、『ママ』だって～
 
 まだお母さん離れできてないんじゃないの～？
-> CONTEXT: Map508/events/6/pages/0/181/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/181/Dialogue/enemy39
+Oooh, \\N[1]-nii said "mommy"...
 
+Aren't you a little too old to be using words
+like that?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -182,8 +226,11 @@
 
 \\C[2]だって\\N[1]お兄ちゃんは、私たちよりもっと前に
 母さんと死別してるんだもの……
-> CONTEXT: Map508/events/6/pages/0/185/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/185/Dialogue/enemy39
+It's not his fault, Midori.
 
+\\C[2]After all, \\N[1]-oniichan lost his mother
+long before we did.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -191,8 +238,11 @@
 あの『母さん』はなんなんだ！！？
 
 お前たちはこんなことをして……いったい何が目的なんだ！？
-> CONTEXT: Map508/events/6/pages/0/191/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/191/Dialogue/kazuya
+Answer the question!!
 
+Just what is that "mother"?!! And what's your
+angle in doing all this?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -200,8 +250,10 @@
 
 \\C[2]正真正銘、私たちが創造した
 \\N[1]のお母さん……
-> CONTEXT: Map508/events/6/pages/0/197/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/197/Dialogue/enemy39
+She's neither a figment of your imagination, nor
+an illusion we're showing you. \\C[2]She's your actual
+mother who we've created.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -209,22 +261,25 @@
 
 \\C[2]喰った世界を一箇所に集中させて、創り上げた……
 私と、\\N[1]お兄ちゃんの世界……
-> CONTEXT: Map508/events/6/pages/0/202/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/202/Dialogue/enemy39
+While it's still just a small space... \\C[2]It's a
+world for you and me created by concentrating
+the devoured worlds into one place...#RonIffy
 > END STRING
 
 > BEGIN STRING
 さっき、ルシィがどうとか言ってたけど……
 
 \\C[2]それは本当に、\\N[1]にぃが居たい世界なの？
-> CONTEXT: Map508/events/6/pages/0/208/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/208/Dialogue/enemy39
+You said something before about Lucy or whatever,
+\\C[2]but do you really want to be in that world?#Ron
 > END STRING
 
 > BEGIN STRING
 な、なに……！！
-> CONTEXT: Map508/events/6/pages/0/212/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/212/Dialogue/kazuya
+W-What?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -232,8 +287,11 @@
 お兄ちゃんは多分、私たちが害虫に見えてると思うけど…
 
 私たちだって、お兄ちゃんに話を聞いてもらいたい……
-> CONTEXT: Map508/events/6/pages/0/214/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/214/Dialogue/enemy39
+You probably heard from Cheshire... \\C[10]Mad Hatter\\C[0]...
+that we're like some kind of noxious insect.
+But we'd like you to listen to our side of the
+story as well.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -241,22 +299,27 @@
 私たちの話を、冷静に聞く事なんてできないはず……
 
 \\C[2]だから、お兄ちゃんだけをこの空間に呼んだの
-> CONTEXT: Map508/events/6/pages/0/219/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/219/Dialogue/enemy39
+But with the lives and fates of other people
+burdening you, you wouldn't be able to rationally
+hear us out. \\C[2]Which is why we've called you and
+you alone into this space\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]\\N[1]お兄ちゃんの人生を、本当に狂わせたのは誰なのか
 
 私たちの話を聞いてからでも、遅くはないはずだよ……
-> CONTEXT: Map508/events/6/pages/0/224/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/224/Dialogue/enemy39
+\\C[2]It shouldn't be too late for you to find out who
+really ruined your life after you hear what we
+have to say.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 本当に……狂わせた……？
-> CONTEXT: Map508/events/6/pages/0/230/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/230/Dialogue/kazuya
+Who really... ruined my life...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -264,8 +327,11 @@
 
 その前に、\\C[10]セーブしとかない？
 \\C[0]けっこー長話になるよ？
-> CONTEXT: Map508/events/6/pages/0/235/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/235/Dialogue/enemy39
+Oh yeah!
 
+Wanna \\C[10]save \\C[0]before that? It's a preeetty long
+story.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -428,24 +494,29 @@
 ふふふっ、そっか。
 
 \\C[10]そこにいるんだね。
-> CONTEXT: Map508/events/6/pages/0/342/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/342/Dialogue/enemy39
+Fufufu... I see.
 
+\\C[10]So that's where they are.#Ron
 > END STRING
 
 > BEGIN STRING
 ふふふっ、そっか。
 
 じゃあ遠慮なく、長話しちゃうね？
-> CONTEXT: Map508/events/6/pages/0/348/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map508/events/6/pages/0/348/Dialogue/enemy39
+Fufufu, I see.
 
+Well then, let's get started.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]マッドハッター\\C[0]はね……
 
 \\C[2]一つだけ、お兄ちゃんに言わなかった事実がある。
-> CONTEXT: Map508/events/6/pages/0/357/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/357/Dialogue/enemy39
+\\C[2]There's one fact that \\C[10]Mad Hatter \\C[2]neglected to
+tell you, onii-chan.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -453,12 +524,15 @@
 
 \\C[2]『シェルターで命を落とす』以外に、
 もう一つ、『今の運命とは違うものがある』こと……。
-> CONTEXT: Map508/events/6/pages/0/361/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/361/Dialogue/enemy39
+In the timeline that you originally reached,
+aside from not losing your life in the shelter,
+there was one more thing about fate that was
+different.#Ron
 > END STRING
 
 > BEGIN STRING
 違うこと…？
-> CONTEXT: Map508/events/6/pages/0/366/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map508/events/6/pages/0/366/Dialogue/kazuya
+Different?#Ron
 > END STRING

@@ -7716,20 +7716,20 @@ Snake Glare#afrg
 
 > BEGIN STRING
 \\N[1]の衣服が煙を立てている……
-> CONTEXT: Skills/632/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/632/message2
+Smoke is coming off his clothes...#Ron
 > END STRING
 
 > BEGIN STRING
 溶解液
-> CONTEXT: Skills/632/name < UNTRANSLATED
-
+> CONTEXT: Skills/632/name
+Dissolving Liquid#Ron
 > END STRING
 
 > BEGIN STRING
 は溶解液を\\N[1]の身体に浴びせてきた！！
-> CONTEXT: Skills/632/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/632/message1
+ douses \\N[1] in Dissolving Liquid!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7754,9 +7754,9 @@ Did you want to see what would happen?#Ron
 
 > BEGIN STRING
 は禍々しい光線を放ってきた！！
-> CONTEXT: Skills/633/message1 < UNTRANSLATED
-> CONTEXT: Skills/634/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/633/message1
+> CONTEXT: Skills/634/message1
+ unleashes beams of sinister light!!#Ron
 > END STRING
 
 > BEGIN STRING
