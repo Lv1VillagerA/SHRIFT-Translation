@@ -11046,6 +11046,12 @@ Universal Requiem#Ron
 > END STRING
 
 > BEGIN STRING
+は全ての者への鎮魂歌を放った！
+> CONTEXT: Skills/937/message1
+ puts up his shield to defend himself!#Ron
+> END STRING
+
+> BEGIN STRING
 相手の攻撃を防ぐ体勢をとる
 > CONTEXT: Skills/937/description
 Braces for an enemy's attack.#Ron
