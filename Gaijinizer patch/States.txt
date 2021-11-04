@@ -2057,14 +2057,14 @@ Ran away#Ron
 
 > BEGIN STRING
 は盾で防御した！
-> CONTEXT: States/246/message1 < UNTRANSLATED
-
+> CONTEXT: States/246/message1
+ defends with Shield!#Ron
 > END STRING
 
 > BEGIN STRING
 は防御体勢を解除した！
-> CONTEXT: States/246/message4 < UNTRANSLATED
-
+> CONTEXT: States/246/message4
+ returns to his normal stance!#Ron
 > END STRING
 
 > BEGIN STRING

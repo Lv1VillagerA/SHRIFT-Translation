@@ -17628,16 +17628,18 @@ Would you like to read it again?#Ron
 
 > BEGIN STRING
 アバドン
-> CONTEXT: Troops/370/name < UNTRANSLATED
-
+> CONTEXT: Troops/370/name
+Abaddon#Ron
 > END STRING
 
 > BEGIN STRING
 い、意識が…！！
 
 引っ張られる……！！
-> CONTEXT: Troops/370/pages/1/45/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/1/45/Dialogue/ruka_fc1
+My consciousness!!
 
+It's being pulled in!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17645,8 +17647,11 @@ Would you like to read it again?#Ron
 
 \\C[2]サマエルの『世界を破壊する衝動』を
 キミたちが\\N[1]くんと共有して抑えてるんだ！！
-> CONTEXT: Troops/370/pages/1/49/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/1/49/Dialogue/enemy29
+Endure it, you two!!
 
+\\C[2]You're both holding back Samael's world-destroying
+impulses with \\N[1]-kun!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17654,8 +17659,10 @@ Would you like to read it again?#Ron
 \\N[1]くんは自身のコントロールを失ってしまう！！
 
 本当の意味での\\C[10]全ての破壊者\\C[2]になってしまうんだ！！
-> CONTEXT: Troops/370/pages/1/54/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/1/54/Dialogue/enemy29
+\\C[2]He'll lose control if either of you lose
+consciousness!! That'll turn him into a destroyer
+of \\C[10]literally everything\\C[0]!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17663,36 +17670,42 @@ Would you like to read it again?#Ron
 思った以上に、精神を集中しないとダメだ……
 
 \\C[2]攻撃は、\\N[1]に任せるしかないか……！
-> CONTEXT: Troops/370/pages/1/59/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/1/59/Dialogue/ruka_fc1
+Kgh... focusing my mind is a lot more important
+than I thought I'd be. \\C[2]We'll have to leave all
+the fighting to \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
 なぁにがサマえルだぁぁぁぁぁ
 
 まだぐっでやるう”ううううぅぅぅ
-> CONTEXT: Troops/370/pages/3/5/Dialogue/enemy40 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/5/Dialogue/enemy40
+WHAT ARE YOU, SAMAAAAAAAEL...
 
+I'LL DEVOUR YOOOOOOOOOOOU...#Ron
 > END STRING
 
 > BEGIN STRING
 ごりごりにがみぐだいでえええええ
 
 とりこんでやるう"う"う"う"う"""う"
-> CONTEXT: Troops/370/pages/3/9/Dialogue/enemy40 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/9/Dialogue/enemy40
+I'LL CRUSH YOU IN MY JAAAAWS...
 
+GET IN MY MOUUUU\\X[15]UUUUTH\\X[0]...#Ron
 > END STRING
 
 > BEGIN STRING
 させないっ！！！！！！
-> CONTEXT: Troops/370/pages/3/14/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/3/14/Dialogue/enemy30
+Oh no you don't!!!#Ron
 > END STRING
 
 > BEGIN STRING
 ごああああああああああああああああああああ
-> CONTEXT: Troops/370/pages/3/26/Dialogue/enemy40 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/3/26/Dialogue/enemy40
+GOAAAAAAAAAAAAAAARGH...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17700,57 +17713,73 @@ Would you like to read it again?#Ron
 もう少しでアバドーンの懐に入り込めるよ！！
 
 がんばって！！！！！
-> CONTEXT: Troops/370/pages/3/28/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/28/Dialogue/enemy15
+You're almost there, \\N[1]-kun!!
 
+Keep fighting!! You can do it!!!!#Ron
 > END STRING
 
 > BEGIN STRING
 きっとキミなら、みんなを救える！！
 
 自信を持って！！！がんばって！！！
-> CONTEXT: Troops/370/pages/3/33/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/33/Dialogue/enemy15
+You'll definitely save everyone!!
 
+I believe in you!! Do your best!!#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ………
 
 私もとっておきの攻撃、いくよっ！！！
-> CONTEXT: Troops/370/pages/3/38/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/38/Dialogue/enemy30
+Now then...
 
+Time for me to use my own trump card, here I go!!#Ron
 > END STRING
 
 > BEGIN STRING
 アバドーンは大きく息を吸い込んでいる……
 
 \\C[2]何か仕掛けてくる気だ……！
-> CONTEXT: Troops/370/pages/3/57/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/370/pages/4/10/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/57/Dialogue
+> CONTEXT: Troops/370/pages/4/10/Dialogue
+Abaddon takes a deep breath...
 
+\\C[2]It looks like he's about to do something!#Ron
 > END STRING
 
 > BEGIN STRING
 やれやれ………
 
 また\\C[2]この銃\\C[0]のお世話になる日が来るとはね……
-> CONTEXT: Troops/370/pages/3/65/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/65/Dialogue/enemy38
+Good grief...
 
+I didn't think the day would come again when I'd
+have to rely on \\C[2]this gun\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]『メギドフレイム』\\C[0]………
 
 魔女帝リリスを倒す足がかりとなった武器……
-> CONTEXT: Troops/370/pages/3/69/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/69/Dialogue/enemy37
+\\C[2]Megido Flame\\C[0]...
 
+The weapon you used as a stepping stone to defeat
+the Witch Empress Lilith...#Ron
 > END STRING
 
 > BEGIN STRING
 ミズキ、ソレ使ウト、死ヌホドヨワル
 
 マタ、魔界洛ニオチルカ？
-> CONTEXT: Troops/370/pages/3/73/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/73/Dialogue/enemy37
+YOU USE THAT, YOU GET DEATHLY WEAK...
 
+YOU GONNA FALL INTO DEMON REALM CAPITAL AGAIN?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17758,92 +17787,114 @@ Would you like to read it again?#Ron
 
 その代わり、アンタたちにも全力で働いてもらうから！！
 準備はいい、２人とも！？
-> CONTEXT: Troops/370/pages/3/77/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/77/Dialogue/enemy38
+No way, I'll control it.
 
+But I'll need you two to put your full power into
+this for me!! Are you ready?!#Ron
 > END STRING
 
 > BEGIN STRING
 無論だ。
 
 我らが力、存分に振るえ！ミズキ！！
-> CONTEXT: Troops/370/pages/3/82/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/82/Dialogue/enemy37
+Of course.
 
+Wield our power to the fullest, Mizuki!!#Ron
 > END STRING
 
 > BEGIN STRING
 ヤット、出番！！
 
 アオオオオオオオオンン！！！！！！！！！
-> CONTEXT: Troops/370/pages/3/86/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/86/Dialogue/enemy37
+FINALLY OUR TURN!!
 
+AWOOOOOOOOOOOOOOOOON!!!!#Ron
 > END STRING
 
 > BEGIN STRING
 もらった！！！！！！！！！！
 
 これでも喰らえっ！！！
-> CONTEXT: Troops/370/pages/3/96/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/96/Dialogue/enemy38
+It's ready!!
 
+Eat this!!!!!#Ron
 > END STRING
 
 > BEGIN STRING
 きさまらああああああああああああああ
 
 じゃばをずらばあああああああああああああ
-> CONTEXT: Troops/370/pages/3/111/Dialogue/enemy40 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/111/Dialogue/enemy40
+YOU WOOOOOOOOOOOOORMS...
 
+STAY OUT OF MY WAAAAAAAAAAAAAY...#Ron
 > END STRING
 
 > BEGIN STRING
 我のこの肉体は、飾りではないぞ。
 
 貴様の攻撃を受け止め、反撃することくらいは容易い……
-> CONTEXT: Troops/370/pages/3/123/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/123/Dialogue/enemy35
+My physique isn't just for show...
 
+Taking your attack and striking back will be
+child's play.#Ron
 > END STRING
 
 > BEGIN STRING
 天使長たるこの中村の体技
 
 しかとその身に刻め！！
-> CONTEXT: Troops/370/pages/3/127/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/3/127/Dialogue/enemy35
+I, Chief Angel Nakamura, will thoroughly etch the
+proof of my martial prowess upon your body!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 おお………\\C[2]聖騎士サイトウ…！！
 
 子孫マリオンの意志に呼応し、英霊として現れ出でたか！！
-> CONTEXT: Troops/370/pages/3/146/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/146/Dialogue/enemy35
+Oooh, \\C[2]it's the Holy Knight Saitou!!
 
+Have you appeared as a heroic spirit in response
+to the determination of your descendant, Marion?!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 あああああああああああああああぁぁぁぁぁ！！！
-> CONTEXT: Troops/370/pages/3/156/Dialogue/enemy40 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/3/156/Dialogue/enemy40
+AAAAAAAAAAAAAAAAAaaaah!!!#Ron
 > END STRING
 
 > BEGIN STRING
 ………ッ！！！
-> CONTEXT: Troops/370/pages/3/159/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/3/159/Dialogue/ruka_fc1
+...Gh!!!#Ron
 > END STRING
 
 > BEGIN STRING
 させるか！！！！！！！！！
 
 これでも喰らえ！！！
-> CONTEXT: Troops/370/pages/3/164/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/164/Dialogue/alice_fc6
+Not on my watch!!!!
 
+Take this!!#Ron
 > END STRING
 
 > BEGIN STRING
 精霊のみんな、お願いだ……！
 
 僕の代わりに、\\N[1]を……！
-> CONTEXT: Troops/370/pages/3/176/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/176/Dialogue/ruka_fc1
+Spirits, hear my call!
 
+Give \\N[1] your blessings instead of me!#Ron
 > END STRING
 
 > BEGIN STRING
