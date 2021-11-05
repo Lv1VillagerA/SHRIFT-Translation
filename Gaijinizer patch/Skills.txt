@@ -10297,14 +10297,14 @@ Sovereign's Insight#Ron
 
 > BEGIN STRING
 ロゴス・マギア
-> CONTEXT: Skills/899/name < UNTRANSLATED
-
+> CONTEXT: Skills/899/name
+Logos Magia#Ron
 > END STRING
 
 > BEGIN STRING
 はロゴス・マギアを放った！
-> CONTEXT: Skills/899/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/899/message1
+ unleashes Logos Magia!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11120,32 +11120,32 @@ Technique Conversion#Ron
 
 > BEGIN STRING
 だが、オールドワンはリニアキャノンの弾を握りつぶした！
-> CONTEXT: Skills/943/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/943/message2
+But the Old One crushed the round in its hand!#Ron
 > END STRING
 
 > BEGIN STRING
 とルカはリニアキャノンを放った！
-> CONTEXT: Skills/943/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/943/message1
+ and Luka unleash the Linear Cannon!#Ron
 > END STRING
 
 > BEGIN STRING
 リニアキャノンがオールドワンの頭上に降りかかる！！
-> CONTEXT: Skills/944/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/944/message2
+The Linear Cannon hits the Old One in the head!!#Ron
 > END STRING
 
 > BEGIN STRING
 インディペンデンス・デイ
-> CONTEXT: Skills/944/name < UNTRANSLATED
-
+> CONTEXT: Skills/944/name
+Independence Day#Ron
 > END STRING
 
 > BEGIN STRING
 はリニアキャノンをぶん投げた！
-> CONTEXT: Skills/944/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/944/message1
+ hurls the Linear Cannon!#Ron
 > END STRING
 
 > BEGIN STRING

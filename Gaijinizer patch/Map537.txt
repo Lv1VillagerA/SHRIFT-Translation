@@ -4,8 +4,11 @@
 
 ボクが管轄してた部分も、ここから見える範囲ですら
 砂の一粒にも満たないんだろうなぁ……
-> CONTEXT: Map537/events/7/pages/0/7/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/7/Dialogue/enemy29
+The multiverse...
 
+My jurisdiction along with everything I can see
+from here is nothing but a speck...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13,8 +16,11 @@
 
 それがこうやって束ねられて、星に形容されて……
 視覚情報として出されると、これまた途方もない話だね…
-> CONTEXT: Map537/events/7/pages/0/12/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/12/Dialogue/enemy29
+Even though the parallel worlds of the Official
+timeline are bundled together like this, in the
+shape of stars and visually displayed, it's
+a pretty crazy thing...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -22,8 +28,10 @@
 ルカくんの世界は、もう大詰めなんだね……
 
 ボクはてっきり、まだ先の事かと思ってたよ……
-> CONTEXT: Map537/events/7/pages/0/18/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/18/Dialogue/enemy29
+Though it's a parallel world, Luka-kun's world is
+already at its finale. I thought for sure it had
+more time before then...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -31,16 +39,22 @@
 
 事態を収拾するためとはいえ、えげつないよね…
 ひとつの特異点に背負わせる業としては……
-> CONTEXT: Map537/events/7/pages/0/23/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/23/Dialogue/enemy29
+"A third option"...
+Even if it's to resolve the situation... it's
+disgusting that he's being burdened with the role
+of singularity.#Ron
 > END STRING
 
 > BEGIN STRING
 ボクには無関係な世界だから、といえばそこまでだけど
 
 辛いだろうなぁ……ルカくん。
-> CONTEXT: Map537/events/7/pages/0/28/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/28/Dialogue/enemy29
+That's all I can say since that world has nothing
+to do with me.
 
+But it must be rough, Luka-kun...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -48,40 +62,50 @@
 この感じ……\\C[13]『白兎』\\C[0]…！？
 
 い、いや、そんなわけない……！！
-> CONTEXT: Map537/events/7/pages/0/53/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/53/Dialogue/enemy29
+......!!
 
+That sensation... \\C[13]White Rabbit\\C[0]?!
+
+N-No, it can't be!!#Ron
 > END STRING
 
 > BEGIN STRING
 でもこの感じは……
 
 もう、すぐ近くにいる……！
-> CONTEXT: Map537/events/7/pages/0/58/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/58/Dialogue/enemy29
+But that feeling's already so close!#Ron
 > END STRING
 
 > BEGIN STRING
 ルカくん……その姿……！！
 
 そうか……\\C[2]やっぱり気休めにもならなかったか……
-> CONTEXT: Map537/events/7/pages/0/119/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/119/Dialogue/enemy29
+Luka-kun... that form!!
 
+I see... \\C[2]so it really didn't do anything...#Ron
 > END STRING
 
 > BEGIN STRING
 ルカらしき人物は、チェシャに近付いてきた……
 
 その眼には、明らかな\\C[10]殺気\\C[0]が込められている……
-> CONTEXT: Map537/events/7/pages/0/126/Dialogue < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/126/Dialogue
+The individual resembling Luka has approached Cheshire...
 
+There's a distinct \\C[10]desire to kill \\C[0]manifest in its eyes...#Ron
 > END STRING
 
 > BEGIN STRING
 ………………もう、理性も消えちゃったんだね。
 
 ボクの気配だけを頼りに、ここまで辿り着いたのか……
-> CONTEXT: Map537/events/7/pages/0/130/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/130/Dialogue/enemy29
+......You've already lost all reason.
 
+You relied on following my presence to get here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -89,45 +113,56 @@
 
 ボクとしては、大きな問題が一段落した直後だから
 もうこれ以上の揉め事はイヤなんだけど……
-> CONTEXT: Map537/events/7/pages/0/137/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/137/Dialogue/enemy29
+Well then, what to do.
 
+I've only just resolved one huge problem so I
+don't feel like getting into any more scraps.#Ron
 > END STRING
 
 > BEGIN STRING
 キミがどうしてもっていうなら……
 
 相手をしてあげないといけないのかな……
-> CONTEXT: Map537/events/7/pages/0/142/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/142/Dialogue/enemy29
+But if you really want to fight me no matter
+what, I suppose I'll take you on.#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？「対象、発見」
-> CONTEXT: Map537/events/7/pages/0/150/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/150/Dialogue
+??? 「Target... confirmed...」#Ron
 > END STRING
 
 > BEGIN STRING
 第零種断界接触、および第二法則侵蝕率0.986……
 イレギュラー個体を処断する。
-> CONTEXT: Map537/events/7/pages/0/161/Dialogue/kureo_adora_fc1 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/161/Dialogue/kureo_adora_fc1
+Class Zero Cross-World Contact detected...
+Second Law Corruption Rate of 0.986%...
 
+Passing sentence on irregularity...#Ron
 > END STRING
 
 > BEGIN STRING
 わーお………
 
 まさかの………
-> CONTEXT: Map537/events/7/pages/0/164/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/164/Dialogue/enemy29
+Waah...
 
+Is that...#Ron
 > END STRING
 
 > BEGIN STRING
 キミは、受肉した規定法則……
 
 ……たぶん第四法則あたりかな。
-> CONTEXT: Map537/events/7/pages/0/182/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/182/Dialogue/enemy29
+You're an incarnation of natural law...
 
+You probably correspond to the fourth one...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -135,38 +170,48 @@
 
 ボクとしても、これ以上いざこざに巻き込まれたくなかったし
 キミが来てくれなかったらどうなってたことか……
-> CONTEXT: Map537/events/7/pages/0/186/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/186/Dialogue/enemy29
+Haah, you really did me a solid!
+I don't know what I would've done if you hadn't
+come, I didn't want to get wrapped up in any more
+trouble...#Ron
 > END STRING
 
 > BEGIN STRING
 我々は、もはや法則でも概念でもない。
 
 この意志をもって、世界を混沌に沈める……
-> CONTEXT: Map537/events/7/pages/0/191/Dialogue/kureo_adora_fc1 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/191/Dialogue/kureo_adora_fc1
+We are no longer natural laws or concepts...
 
+We will use our will to plunge the world into
+chaos.#Ron
 > END STRING
 
 > BEGIN STRING
 …………………！！
 
 …あ、そういうヤツ？
-> CONTEXT: Map537/events/7/pages/0/195/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/195/Dialogue/enemy29
+.........!!
 
+Ah, you're one of those ones?#Ron
 > END STRING
 
 > BEGIN STRING
 …………………………あー、うん。
 
 がんばってね………
-> CONTEXT: Map537/events/7/pages/0/199/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/199/Dialogue/enemy29
+......Oh... well...
 
+Good luck with that...#Ron
 > END STRING
 
 > BEGIN STRING
 謎の人物は去っていった………
-> CONTEXT: Map537/events/7/pages/0/205/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/205/Dialogue
+The mysterious individual left...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -174,16 +219,25 @@
 
 あのままルカくんに手を出してたら、マジで責任問題だよ！
 命令違反で初期化どころの話じゃなくなってたよ！
-> CONTEXT: Map537/events/7/pages/0/214/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/214/Dialogue/enemy29
+AAAAAAAAAAAH!! THANK GOD!!!
 
+
+
+If I'd actually gotten involved with Luka-kun
+back there, I would've definitely gotten the
+blame! And I'd get far worse than defying orders
+to be formatted!!#RonIffy
 > END STRING
 
 > BEGIN STRING
 それにしても、規定法則が自分で受肉してるなんて……
 
 それじゃあルカくんの世界は、もう既に……
-> CONTEXT: Map537/events/7/pages/0/221/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/221/Dialogue/enemy29
+But to think the natural laws are incarnating
+themselves. That means Luka-kun's world is
+already...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -191,16 +245,20 @@
 
 ボクがルカくんと関わるのは、おそらくこれで最後だし
 あとは、向こうの世界の問題だ……。
-> CONTEXT: Map537/events/7/pages/0/225/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/225/Dialogue/enemy29
+...No, best not to think about it anymore.
+This is probably the last of my dealings with
+Luka-kun, everything that's left is his world's
+problem to deal with.#Ron
 > END STRING
 
 > BEGIN STRING
 ルカくん……
 
 つらい運命を背負うことになるね……
-> CONTEXT: Map537/events/7/pages/0/230/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/230/Dialogue/enemy29
+Luka-kun's going to be burdened with a pretty
+rough fate...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -208,16 +266,21 @@
 ルシフェルが固執するのも分かる気がするよ……
 
 人間って、まだまだ分からないことだらけだ……
-> CONTEXT: Map537/events/7/pages/0/236/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/236/Dialogue/enemy29
+The power to change fate...
+I think I understand why Lucifer's so stuck on
+that. There are so many things I still don't
+understand about humans.#Ron
 > END STRING
 
 > BEGIN STRING
 ふふ……
 
 だから飽きないんだよ、この仕事は………♪
-> CONTEXT: Map537/events/7/pages/0/241/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/241/Dialogue/enemy29
+Fufu...
 
+That's why this job never gets boring. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -225,15 +288,17 @@
 
 ま、大目に見てくれてた方だよね……
 > CONTEXT: Map537/events/7/pages/0/256/Dialogue/enemy29 < UNTRANSLATED
-
+#CheckLater
 > END STRING
 
 > BEGIN STRING
 初期化の前に、アプリ側に複製だけ残しておいて……
 
 次の姿になるための、用意をしようかな……
-> CONTEXT: Map537/events/7/pages/0/260/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map537/events/7/pages/0/260/Dialogue/enemy29
+I'll leave a duplicate of me on the application
+before I'm formatted. I guess I'll make
+preparations for my next form.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -241,6 +306,8 @@
 
 いったいどんな姿になるんだろうね……
 ふふふ……
-> CONTEXT: Map537/events/7/pages/0/264/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map537/events/7/pages/0/264/Dialogue/enemy29
+My next form...
 
+I wonder what it'll be... Fufufu...#Ron
 > END STRING
