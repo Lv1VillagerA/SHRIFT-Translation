@@ -6,15 +6,17 @@
 > CONTEXT: CommonEvents_802/128/Dialogue/other8 < UNTRANSLATED
 > CONTEXT: CommonEvents_802/163/Dialogue/other8 < UNTRANSLATED
 > CONTEXT: CommonEvents_802/178/Dialogue/other8 < UNTRANSLATED
-
+#CheckLater
 > END STRING
 
 > BEGIN STRING
 んんんんんんっ……！！！
 
 んんーーーーーーーーーーーっ！！！
-> CONTEXT: CommonEvents_802/53/Dialogue/kazuya-2 < UNTRANSLATED
+> CONTEXT: CommonEvents_802/53/Dialogue/kazuya-2
+Mmmmmmmph!!!
 
+Mmmmmmmmmmmmmmmmmph!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -22,8 +24,11 @@
 
 僕の身体を上下させながら、下半身まるごと
 ペニスを扱いて、刺激を与えてくる……
-> CONTEXT: CommonEvents_802/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_802/101/Dialogue
+Ubbo-Sathla's mouth and belly tentacles cling to my body
+in an alternating rhythm. My penis along with my entire
+lower body is stroked as my body is moved up and down,
+providing an intense stimulation.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -31,16 +36,20 @@
 正確に全身に快感を与えてくる………
 
 その証拠に僕のペニスは、まだまだ萎えようとはしなかった……
-> CONTEXT: CommonEvents_802/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_802/106/Dialogue
+Though its movements are mechanical, they give very precise
+stimulation. The fact that my penis shows no signs of
+going soft is proof of that.#Ron
 > END STRING
 
 > BEGIN STRING
 う……ぅ……♡
 
 あ……♡
-> CONTEXT: CommonEvents_802/113/Dialogue/kazuya-2 < UNTRANSLATED
+> CONTEXT: CommonEvents_802/113/Dialogue/kazuya-2
+Ugh... ugh... ♡
 
+Aah... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -48,38 +57,47 @@
 
 僕の全身の力が抜けていく……
 抵抗の意志が、快楽に負けていく………
-> CONTEXT: CommonEvents_802/117/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_802/117/Dialogue
+And gradually... my body is getting weaker and weaker...
 
+My will to resist being overcome by the pleasure...#Ron
 > END STRING
 
 > BEGIN STRING
 やがて踏ん張っていた腕の力も失われ……
 
 僕の身体は、完全にウボ＝サスラに委ねられた……
-> CONTEXT: CommonEvents_802/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_802/122/Dialogue
+The only parts of my body that have any strength left are
+my arms, and even that's now fading. My body is completely
+entrusting itself to the Ubbo-Sathla...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]はウボ＝サスラの腹部に
 
 頭までずっぽりと取り込まれてしまった……
-> CONTEXT: CommonEvents_802/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_802/165/Dialogue
+The Ubbo-Sathla has engulfed \\N[1] in its belly up
+to his head...#Ron
 > END STRING
 
 > BEGIN STRING
 う……ぅ………♡
 
 た………す……ぇ……♡
-> CONTEXT: CommonEvents_802/170/Dialogue/kazuya-5 < UNTRANSLATED
+> CONTEXT: CommonEvents_802/170/Dialogue/kazuya-5
+Ugh... ugh... ♡
 
+H...el...p... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 だ…れ………ぁ……
 
 た……す……
-> CONTEXT: CommonEvents_802/174/Dialogue/kazuya-5 < UNTRANSLATED
+> CONTEXT: CommonEvents_802/174/Dialogue/kazuya-5
+So...me....one...
 
+He...lp...#Ron
 > END STRING

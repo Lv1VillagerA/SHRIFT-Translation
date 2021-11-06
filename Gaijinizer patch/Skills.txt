@@ -7979,20 +7979,20 @@ Virtue: Ayashi Ayaka#MTLed
 
 > BEGIN STRING
 柔らかいおっぱいの壁が、\\N[1]をギュウギュウと圧迫する…
-> CONTEXT: Skills/668/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/668/message2
+A wall of soft breasts squeeze down around him.#Ron
 > END STRING
 
 > BEGIN STRING
 魔蠅の抱擁
-> CONTEXT: Skills/668/name < UNTRANSLATED
-
+> CONTEXT: Skills/668/name
+Magic Fly's Embrace#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]を自身の下半身でぐるぐる巻きにした！
-> CONTEXT: Skills/668/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/668/message1
+ wraps \\N[1] up in her lower half!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8135,20 +8135,20 @@ Energy Sucking Tail#afrg
 
 > BEGIN STRING
 ヌルヌルの乳房の波が、\\N[1]の身体を玩ぶ……
-> CONTEXT: Skills/689/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/689/message2
+The waves of slippery breasts toy with his body...#Ron
 > END STRING
 
 > BEGIN STRING
 抱乳溶獄
-> CONTEXT: Skills/689/name < UNTRANSLATED
-
+> CONTEXT: Skills/689/name
+Melting Milky Hell Embrace#CheckLater
 > END STRING
 
 > BEGIN STRING
 は大量のおっぱいで\\N[1]をもみくちゃにした！
-> CONTEXT: Skills/689/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/689/message1
+ crushes \\N[1] with a huge number of breasts!#Ron
 > END STRING
 
 > BEGIN STRING

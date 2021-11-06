@@ -288,9 +288,12 @@
 
 どうですか、私の抱擁は…
 蕩けてしまいそうでしょう…？♡♡
-> CONTEXT: CommonEvents_798/290/Dialogue/beelzebub_fc2 < UNTRANSLATED
-> CONTEXT: CommonEvents_799/36/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_798/290/Dialogue/beelzebub_fc2
+> CONTEXT: CommonEvents_799/36/Dialogue/beelzebub_fc2
+Fufu, \\N[1]... ♡
 
+How do you like my embrace?
+Doesn't it feel like you're melting away? ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -298,18 +301,24 @@
 
 おっぱい……包まれてるぅ……♡
 きもちいぃい……♡♡
-> CONTEXT: CommonEvents_798/295/Dialogue/kazuya-8 < UNTRANSLATED
-> CONTEXT: CommonEvents_799/41/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_798/295/Dialogue/kazuya-8
+> CONTEXT: CommonEvents_799/41/Dialogue/kazuya-0
+A-Aaaaah... ♡♡♡
 
+Being wrapped... in boobs... ♡
+Feels so goooood... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 うふふっ……それはよかった…♡
 
 魔蠅の抱擁、ゆっくり楽しんでくださいね…♡
-> CONTEXT: CommonEvents_798/303/Dialogue/beelzebub_fc2 < UNTRANSLATED
-> CONTEXT: CommonEvents_799/49/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_798/303/Dialogue/beelzebub_fc2
+> CONTEXT: CommonEvents_799/49/Dialogue/beelzebub_fc2
+Ufufufu... I'm glad to hear it... ♡
 
+Please just relax and enjoy my Magic Fly
+Embrace, okay? ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -317,16 +326,17 @@
 \\C[10]世界融解\\C[0]の影響で大きくなっているので…
 
 こういうことも出来るのですよ…？♡
-> CONTEXT: CommonEvents_798/307/Dialogue/beelzebub_fc2 < UNTRANSLATED
-> CONTEXT: CommonEvents_799/53/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_798/307/Dialogue/beelzebub_fc2
+> CONTEXT: CommonEvents_799/53/Dialogue/beelzebub_fc2
+I'm able to do this because of the effect that
+\\C[10]World Fusion \\C[0]has had on my physique.#Ron
 > END STRING
 
 > BEGIN STRING
 あああぁっ……！♡♡♡
-> CONTEXT: CommonEvents_798/313/Dialogue/kazuya-8 < UNTRANSLATED
-> CONTEXT: CommonEvents_799/59/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_798/313/Dialogue/kazuya-8
+> CONTEXT: CommonEvents_799/59/Dialogue/kazuya-0
+Aaaaah! ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -334,9 +344,11 @@
 
 \\N[1]……
 よっぽどおっぱいが好きなのですね…♡
-> CONTEXT: CommonEvents_798/348/Dialogue/beelzebub_fc2 < UNTRANSLATED
-> CONTEXT: CommonEvents_799/94/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_798/348/Dialogue/beelzebub_fc2
+> CONTEXT: CommonEvents_799/94/Dialogue/beelzebub_fc2
+Fufu... you let out so much... ♡
 
+You must really like breasts, \\N[1]... ♡#Ron
 > END STRING
 
 > BEGIN STRING

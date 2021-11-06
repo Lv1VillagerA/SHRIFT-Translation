@@ -2731,8 +2731,8 @@ Do you want to view this scene?#Ron
 
 > BEGIN STRING
 ウボ＝サスラ if(s[765])
-> CONTEXT: Map002/events/1/pages/0/3095/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3095/Choice/3
+Ubbo-Sathlaif(s[765])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2811,16 +2811,18 @@ Milking#Dargoth
 
 > BEGIN STRING
 捕食回帰
-> CONTEXT: Map002/events/1/pages/0/3234/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3234/Choice/0
+Predation Regression#Ron
 > END STRING
 
 > BEGIN STRING
 【ウボ＝サスラ】：捕食回帰
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3238/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3238/Dialogue
+[Ubbo-Sathla]: Predation Regression
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
