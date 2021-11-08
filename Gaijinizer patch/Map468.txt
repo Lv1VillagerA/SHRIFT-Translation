@@ -575,8 +575,9 @@ What's that presence?!!#Ron
 > CONTEXT: Map468/events/48/pages/0/92/Dialogue/sirousagi_fc1
 > CONTEXT: Map541/events/48/pages/0/92/Dialogue/sirousagi_fc1
 That's.. don't tell me... \\C[2]that's a \\C[10]vampire's
-\\C[2]presence. The ones who were sealed away for so
-many years by the former owners of this mansion?!#RonIffyWording
+\\C[2]presence. They not the ones who were sealed
+away long ago by the one who owned this mansion,
+are they?!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -588,11 +589,11 @@ many years by the former owners of this mansion?!#RonIffyWording
 > CONTEXT: Map541/events/48/pages/0/97/Dialogue/sirousagi_fc1
 When the Monster Lord created monsters, he created
 vampires to be its representative with \\C[2]alteration
-powers\\C[0] on par with that of \\C[10]Intervenors\\C[0].
+powers\\C[0] on par with that of \\C[10]Interveners\\C[0].
 
 It took the combined power of demons and angels
-as a united front, to barely be able to seal them
-away!#RonIffyWording
+working together, and even that barely sealed
+them away!#RonIffyWording
 > END STRING
 
 > BEGIN STRING

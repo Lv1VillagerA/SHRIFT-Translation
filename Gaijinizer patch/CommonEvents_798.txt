@@ -242,9 +242,9 @@ Abaddon... wasn't lying...#Ron
 アバドーンなんて、本来私たちの敵じゃないんだもの。
 > CONTEXT: CommonEvents_798/193/Dialogue/beelzebub_fc1
 Fufufu, I'm glad to hear it. If we'd come all
-this way, only to find out we'd been lied to,
+this way only to find out we'd been lied to,
 I would've been ready to switch sides. But it
-seems Abaddon's fundamentally not our enemy. ♡#RonIffyWording
+looks like Abaddon's not our enemy after all. ♡#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -253,9 +253,9 @@ seems Abaddon's fundamentally not our enemy. ♡#RonIffyWording
 そのためにあなたには、
 強い子供たちを産んでもらわなければね、\\N[1]♡♡
 > CONTEXT: CommonEvents_798/198/Dialogue/beelzebub_fc1
-The true rulers of the world are our army of
-magic flies. And in order to make that happen, we
-need you to give birth to strong children for
+The true rulers of this world are us, and our army
+of magic flies. And in order to make that happen,
+we need you to give birth to strong children for
 us. ♡♡#RonIffyWording
 > END STRING
 
@@ -349,7 +349,7 @@ seed. So go on and spoil him all you want. ♡#Ron
 Fufu... if that's the case, then I won't hold
 back. ♡
 
-Please leawve it to me. ♡#Ron
+Please leave it to me. ♡#Ron
 > END STRING
 
 > BEGIN STRING
