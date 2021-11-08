@@ -227,7 +227,7 @@
 > BEGIN STRING
 "%sは攻撃を打ち消した！"
 > CONTEXT: Scripts/Vocab/71:21
-"%s nullified the attack!"#Ron
+"%s nullifies the attack!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2462,13 +2462,13 @@
 > BEGIN STRING
 "所持品モードに切り替えます"
 > CONTEXT: Scripts/アイテム預かり所/116:15
-"所持品モードに切り替えます"#NoTL
+"Switched to held items"#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 "預かり所モードに切り替えます"
 > CONTEXT: Scripts/アイテム預かり所/120:15
-"預かり所モードに切り替えます"#NoTL
+"Switched to storage"#StrateLocalization
 > END STRING
 
 > BEGIN STRING

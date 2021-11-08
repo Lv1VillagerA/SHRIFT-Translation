@@ -2,8 +2,9 @@
 > BEGIN STRING
 
 　　　　　　　　兄に送られた手紙
-> CONTEXT: Map485/events/1/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/1/pages/0/2/Dialogue
 
+        A letter from someone's brother#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11,8 +12,11 @@
 
 面と向かって話すと、また文句ばかり言ってしまうから
 こうやって書き置きするよ。
-> CONTEXT: Map485/events/1/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/1/pages/0/6/Dialogue
+I'm sorry.
 
+I'll do nothing but complain if we speak face-to-face so
+I'll leave this last note behind for you instead.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,8 +24,11 @@
 
 兄貴がよくても、オレ自身が周りからの視線に
 耐えられそうも無い
-> CONTEXT: Map485/events/1/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/1/pages/0/12/Dialogue
+I've decided not to return home after all.
 
+Even if you'll be good to me, I won't be able to endure
+the stares of everyone around us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,8 +36,11 @@
 オレときたら、未だにヘリの整備係だ……
 
 あの家にオレの居場所なんてないんだよ
-> CONTEXT: Map485/events/1/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/1/pages/0/18/Dialogue
+While you continue to be promoted, I'm still stuck in
+helicopter maintenance.
 
+I don't have a place in that house.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,8 +48,11 @@
 
 だけど、それとこれとは話が別だ。
 悪いけど、家には一人で帰ってくれ。
-> CONTEXT: Map485/events/1/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/1/pages/0/24/Dialogue
+I'm proud to have you as my brother, but that's not the
+issue.
 
+I'm sorry, but please go home without me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -47,15 +60,18 @@
 
 そのマグナム、特注品なんだ。
 大事にしてくれよ。
-> CONTEXT: Map485/events/1/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/1/pages/0/30/Dialogue
+PS Congrats on the promotion.
 
+That magnum's been specially made for you, so please take
+good care of it.#Ron
 > END STRING
 
 > BEGIN STRING
 
 　　　　　　　　元部下に送られた手紙
-> CONTEXT: Map485/events/2/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/2/pages/0/2/Dialogue
+        A letter to a former subordinate#Ron
 > END STRING
 
 > BEGIN STRING
@@ -63,8 +79,11 @@
 
 面と向かってこういう言葉を贈るのは柄でなくてな。
 こんな形で許してくれ。
-> CONTEXT: Map485/events/2/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/2/pages/0/6/Dialogue
+Yuuma, congratulations on becoming squad captain.
 
+It's not my style to say these kinds of things directly to
+people, so forgive the letter.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -72,8 +91,11 @@
 
 自分だけでなく、今後命を預けるであろう複数の人間の
 命すら危うくしてしまう可能性がある。
-> CONTEXT: Map485/events/2/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/2/pages/0/12/Dialogue
+The responsibility of making sound judgment calls will be
+even greater now that you have a squad of your own. It's
+not just your own life on the line, but of all the men
+under your command that you could potentially endanger.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +103,11 @@
 
 自分の部隊員には、同じように接してやるといい。
 お前ならば、良い部隊長になれるよ。
-> CONTEXT: Map485/events/2/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/2/pages/0/18/Dialogue
+You have people in your life you care about, don't you?
+Be sure to treat your squad members with that same regard.
 
+Knowing you, I'm sure you'll become a fine captain.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,8 +115,11 @@
 
 だが、今は軍を飛び出し行方知れず……
 未だにその消息はつかめていない……
-> CONTEXT: Map485/events/2/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/2/pages/0/24/Dialogue
+I myself have a brother who's precious to me.
 
+But he left the army and I don't know where he is.
+To this day I've had no contact from him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -99,21 +127,26 @@
 結局は分からずじまいだ。
 
 私はアイツにどういう言葉をかけてやれば良かったんだろうか…
-> CONTEXT: Map485/events/2/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map485/events/2/pages/0/30/Dialogue
+I heard a rumor that he's a helicopter pilot somewhere,
+but ultimately I have no solid information. I wonder if
+there was something I could have said so things didn't end
+up the way they did...#Ron
 > END STRING
 
 > BEGIN STRING
 だから私にとって、お前は弟も同然だ。
 
 ………くれぐれも、無茶はするなよ。
-> CONTEXT: Map485/events/2/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map485/events/2/pages/0/36/Dialogue
+That's why I treat you like you're my little brother.
 
+So please don't do anything stupid out there.#Ron
 > END STRING
 
 > BEGIN STRING
 軍部＝更衣室＝
-> CONTEXT: Map485/display_name < UNTRANSLATED
-> CONTEXT: MapInfos/485/name < UNTRANSLATED
-
+> CONTEXT: Map485/display_name
+> CONTEXT: MapInfos/485/name
+Military = Locker Room =#Ron
 > END STRING

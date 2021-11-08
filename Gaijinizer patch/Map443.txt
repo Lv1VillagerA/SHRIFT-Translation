@@ -17,7 +17,7 @@ Orthrus!#Ron
 アオオオォォォン！！！！！！！！！
 > CONTEXT: Map443/events/11/pages/0/33/Dialogue/enemy37
 > CONTEXT: Map463/events/11/pages/0/34/Dialogue/enemy37
-Awoooooon!!!!!#Ron
+AWOOOOOOON!!!!#Ron
 > END STRING
 
 > BEGIN STRING

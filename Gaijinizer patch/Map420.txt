@@ -4,7 +4,10 @@
 
 君とは、何やら他人のような気がしないな。
 不思議な感覚だ。
-> CONTEXT: Map420/events/1/pages/0/0/Dialogue/enemy34 < UNTRANSLATED
-> CONTEXT: Map482/events/11/pages/0/45/Dialogue/enemy34 < UNTRANSLATED
+> CONTEXT: Map420/events/1/pages/0/0/Dialogue/enemy34
+> CONTEXT: Map482/events/11/pages/0/45/Dialogue/enemy34
+Fufu, particularly you, Luka-kun.
 
+It feels like you and I know each other somehow.
+What a strange feeling.#Ron
 > END STRING

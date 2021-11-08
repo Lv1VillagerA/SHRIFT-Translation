@@ -3,8 +3,11 @@
 隊員「…………そこの二人は
 
 　　　ついさっき、息を引き取ったよ……」
-> CONTEXT: Map487/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map487/events/9/pages/0/0/Dialogue
+Soldier 「Those two over there...
 
+          They took their last breaths just a little
+          while ago...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,16 +15,19 @@
 
 　　　不幸にも、そのグループと鉢合わせしたらしくてな…
 　　　俺が来たときにはもう……」
-> CONTEXT: Map487/events/9/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map487/events/9/pages/0/4/Dialogue
+Soldier 「Have you heard of those "Mother Demon" groups?
+          I've run into them, unfortunately. By the time
+          I got there, they were already...」#RonIffy
 > END STRING
 
 > BEGIN STRING
 隊員「………なぜこの二人は、避難しなかったんだ？
 
 　　　まるで何かを探しに行っているようだったが……」
-> CONTEXT: Map487/events/9/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map487/events/9/pages/0/9/Dialogue
+Soldier 「Why didn't those two evacuate? It's almost as if
+          they came here looking for something...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,8 +35,10 @@
 　　　どうも銃身が曲がっちまったらしい……
 
 　　　リペアキットがありゃ、修理できるんだがな…」
-> CONTEXT: Map487/events/9/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map487/events/9/pages/0/13/Dialogue
+Soldier 「Even my assault rifle's busted. It looks like the
+          barrel's gotten twisted. Though I could fix it if
+          I had a repair kit...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,18 +46,21 @@
 
 　　　生存者を探すために残ってたが、潮時らしい。
 　　　少し休憩したら、部隊と合流するよ……」
-> CONTEXT: Map487/events/9/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map487/events/9/pages/0/18/Dialogue
+Soldier 「It might be about time for me to head out. I was
+          left behind to look for survivors, but it seems
+          like a good time to link up with my squad now
+          that I've had a little rest...」#Ron
 > END STRING
 
 > BEGIN STRING
 手には、自身の血が染みた、ウサギの人形が握ってある……
-> CONTEXT: Map487/events/4/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map487/events/4/pages/0/0/Dialogue
+There's a rabbit doll clutched in her bloodied hand.#Ron
 > END STRING
 
 > BEGIN STRING
 市街地＝休憩室＝
-> CONTEXT: Map487/display_name < UNTRANSLATED
-
+> CONTEXT: Map487/display_name
+Town = Rest Area =#Ron
 > END STRING

@@ -617,8 +617,9 @@ Worn Sword (Small)#Ron
 
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]ルカの体格や戦法に合わせてカスタムされた剣
-> CONTEXT: Weapons/120/description < UNTRANSLATED
-
+> CONTEXT: Weapons/120/description
+\\C[11][Luka Only] \\C[0]A sword custom-made for Luka to suit
+his frame and fighting style.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -630,27 +631,29 @@ Custom Sword#Strate
 > BEGIN STRING
 マリオンが大天使中村に授けられた無限の天使武器
 その形状は、マリオンの意思を反映して変化する。
-> CONTEXT: Weapons/121/description < UNTRANSLATED
-
+> CONTEXT: Weapons/121/description
+A pouch with limitless angelic weapons bestowed by the
+archangel Takamura. Their forms reflect Marion's will.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 セラフィムポーチ
-> CONTEXT: Weapons/121/name < UNTRANSLATED
-
+> CONTEXT: Weapons/121/name
+Seraphim Pouch#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]人間の身長ほどもあり、扱うものが限られる巨剣
 \\C[6]防御でダメージが10％になるが、回避不可
-> CONTEXT: Weapons/122/description < UNTRANSLATED
-
+> CONTEXT: Weapons/122/description
+\\C[11][Luka Only] \\C[0]A difficult-to-use sword as tall as a person.
+\\C[6]Damage taken when defending drops to 10%, but cannot evade.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 バスタードソード
-> CONTEXT: Weapons/122/name < UNTRANSLATED
-
+> CONTEXT: Weapons/122/name
+Bastard Sword#Ron
 > END STRING
 
 > BEGIN STRING
@@ -670,14 +673,15 @@ Mythril Sword#Ron
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]ゴルド地方の伝説に残る騎士が所持していたという剣
 \\C[6]全ての属性の被ダメージが少し減少
-> CONTEXT: Weapons/124/description < UNTRANSLATED
-
+> CONTEXT: Weapons/124/description
+\\C[11][Luka Only] \\C[0]A sword supposedly belonging to a legendary
+knight of the Gold Region. \\C[6]Slightly reduces element damage.#Ron
 > END STRING
 
 > BEGIN STRING
 アロンダイト
-> CONTEXT: Weapons/124/name < UNTRANSLATED
-
+> CONTEXT: Weapons/124/name
+Arondite#Ron
 > END STRING
 
 > BEGIN STRING
@@ -724,21 +728,22 @@ Oni Spirit Knife#Ron
 \\C[11][ルカ専用]\\C[0]魔導の力を高めたウィザードロッドの特注品
 \\C[6]精霊召喚の持続ターン増加＆アリスのサポートスキルの威力上昇
 > CONTEXT: Weapons/128/description < UNTRANSLATED
-
+\\C[11][Luka Only] \\C[0]A specially-made, black-magic enhancing
+wizard's rod. \\C[6]Buffs Alice, increases Spirit summon duration.#Ron
 > END STRING
 
 > BEGIN STRING
 グランウィザード
-> CONTEXT: Weapons/128/name < UNTRANSLATED
-
+> CONTEXT: Weapons/128/name
+Grand Wizard#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]卓越した硬度を誇る竜の鱗で造られたレイピア
 \\C[6]通常攻撃が２回攻撃になる
 > CONTEXT: Weapons/129/description
-\\C[11][Luka Only] \\C[0]A rapier of unparalleled sturdiness made from
-dragon scale. \\C[6]Normal attacks hit twice.#Ron
+\\C[11][Luka Only] \\C[0]A dragon-scale rapier boasting unrivaled
+toughness. \\C[6]Normal attacks now hit twice.#Ron
 > END STRING
 
 > BEGIN STRING

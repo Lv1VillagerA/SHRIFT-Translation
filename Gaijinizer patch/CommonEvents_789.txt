@@ -16,8 +16,8 @@
 
 > BEGIN STRING
 \\N[1]は、ハイラミアに敗北してしまった……
-> CONTEXT: CommonEvents_789/212/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_789/212/Dialogue
+\\N[1] has been defeated by High Lamia...#Ron
 > END STRING
 
 > BEGIN STRING

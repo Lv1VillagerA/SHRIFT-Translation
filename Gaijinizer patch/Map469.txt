@@ -727,7 +727,7 @@ I... really didn't expect that...#RonIffy
 Good god...
 I was on my guard on hearing that you were an
 angel, but it seems I mistook you for one that
-isn't the "pathetic type"...#Ron
+isn't the "unfortunate type"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -735,10 +735,10 @@ isn't the "pathetic type"...#Ron
 
 さっきの無言系といい、最近の言葉は分からないわ……
 > CONTEXT: Map469/events/3/pages/0/570/Dialogue/enemy38
-P-Pathetic type?
+U-Unfortunate type?
 
-Pathetic type, silent type... I don't really get
-all these new phrases.#Ron
+Unfortunate type, silent type... I don't really
+get all these new phrases.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -757,9 +757,9 @@ schooler.#Ron
 
 スグ老ケルゾ！気ヲツケルンダナ！！
 > CONTEXT: Map469/events/3/pages/0/578/Dialogue/enemy37
-Mizuki, you're outdated!!
+MIZUKI, YOU'RE BEHIND THE TIMES!!
 
-You'll grow old quickly! So be careful!!#RonIffyWording
+YOU'LL BE OLD SOON! BE CAREFUL!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -899,7 +899,7 @@ This group's full of oddballs.#Ron
 > BEGIN STRING
 オマエガ、言ウカ、ミズキ
 > CONTEXT: Map469/events/3/pages/0/655/Dialogue/enemy37
-Rich coming from you, Mizuki.#Ron
+RICH COMING FROM YOU, MIZUKI.#Ron
 > END STRING
 
 > BEGIN STRING
