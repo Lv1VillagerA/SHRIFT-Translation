@@ -226,8 +226,8 @@ business with you for a reeeeeeeeeally long time.#Amaboye
 
  飛んで周囲を警戒しているハーピーモドキが見える？
 > CONTEXT: Map301/events/17/pages/0/0/Dialogue 
-Hey, look over there. Do you see those Harpy
-Spawn flying around and patrolling the area?#Amaboye
+Hey, look over there. Do you see those Harpy Spawn
+flying around and patrolling the area?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -236,8 +236,9 @@ Spawn flying around and patrolling the area?#Amaboye
 \\C[2]カマソッソと同じように、隠れて行動する必要があるよ
 > CONTEXT: Map301/events/17/pages/0/8/Dialogue 
 You've surely seen those movements before.
-\\C[2]Just like with Camazotz, you need to
-keep yourself hidden while you move.#Amaboye
+
+\\C[2]Just like with Camazotz, you need to keep yourself
+hidden while you move.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -247,9 +248,8 @@ keep yourself hidden while you move.#Amaboye
 \\C[2]静止しているハーピーモドキも忘れないでね。
 > CONTEXT: Map301/events/17/pages/0/12/Dialogue 
 Since they can't hear over their loud wing flaps,
-it's fine to run... is what I'd like to say,
-\\C[2]but you can't forget about the stationary
-Harpy Spawn.#Amaboye
+it's fine to run... is what I'd like to say, \\C[2]but you
+can't forget about the stationary Harpy Spawn.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -258,10 +258,10 @@ Harpy Spawn.#Amaboye
 
 それに、視界の範囲もそこまで広くないんだ
 > CONTEXT: Map301/events/17/pages/0/17/Dialogue 
-Harpy Spawn have good eyesight, but
-\\C[2]when they're not vigilant, their hearing is
-poor. Plus, their field of view shouldn't be too
-large, either.#Amaboye
+Harpy Spawn have good eyesight, but \\C[2]when they're not
+vigilant, their hearing is poor.
+
+Plus, their field of view shouldn't be too large, either.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -270,9 +270,9 @@ large, either.#Amaboye
 静止しているハーピーモドキに対しては
 \\C[2]結構近場を通り過ぎても気付かれないはずだ。
 > CONTEXT: Map301/events/17/pages/0/22/Dialogue 
-They may not be as easy to pass as the weak
-eyesight of Aconitum, but stationary Harpy Spawn
-\\C[2]shouldn't notice you even if you pass close.#Amaboye
+They may not be as easy to pass as the nearsighted
+Aconitum, but stationary Harpy Spawn \\C[2]shouldn't
+notice you even if you pass nearby.#Amaboye/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -282,7 +282,7 @@ eyesight of Aconitum, but stationary Harpy Spawn
 \\C[0]近くを通り過ぎる際は、意識してね。
 > CONTEXT: Map301/events/17/pages/0/27/Dialogue 
 Let's see... As a rule of thumb... \\C[2]
-They have a "2 square radius" where they'll
-notice you. \\C[0]Be conscious of that when you're
-passing close by them."#Amaboye
+They have a "2 square radius" where they'll notice you.
+
+\\C[0]Be conscious of that when you're passing close by them.#Amaboye
 > END STRING
