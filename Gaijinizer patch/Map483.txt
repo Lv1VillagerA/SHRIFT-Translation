@@ -1,19 +1,19 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 先に進みますか？
-> CONTEXT: Map483/events/3/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map484/events/3/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map489/events/3/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map490/events/3/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map491/events/3/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map498/events/3/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map499/events/5/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map500/events/3/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map483/events/3/pages/0/4/Dialogue
+> CONTEXT: Map484/events/3/pages/0/2/Dialogue
+> CONTEXT: Map489/events/3/pages/0/4/Dialogue
+> CONTEXT: Map490/events/3/pages/0/4/Dialogue
+> CONTEXT: Map491/events/3/pages/0/2/Dialogue
+> CONTEXT: Map498/events/3/pages/0/4/Dialogue
+> CONTEXT: Map499/events/5/pages/0/2/Dialogue
+> CONTEXT: Map500/events/3/pages/0/4/Dialogue
+Follow the path?#Ron
 > END STRING
 
 > BEGIN STRING
 多元宇宙～第１層～
-> CONTEXT: Map483/display_name < UNTRANSLATED
-
+> CONTEXT: Map483/display_name
+Multiverse - First Layer#Ron
 > END STRING

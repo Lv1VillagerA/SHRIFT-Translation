@@ -3,8 +3,10 @@
 ようやく撒いたか……？
 
 魔法の効果も、さすがにもう切れるだろう……。
-> CONTEXT: Map469/events/3/pages/0/92/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/92/Dialogue/alice_fc5
+Did we finally give her the slip?
 
+Her magic should be wearing off about now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,8 +14,11 @@
 
 \\N[1]の体力も子供基準になってるせいか
 だいぶキツそうだし…
-> CONTEXT: Map469/events/3/pages/0/96/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/96/Dialogue/ruka_fc1
+You're right, let's have a quick rest.
 
+\\N[1] isn't looking too hot, I guess he
+doesn't have the same stamina in kid form...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -21,8 +26,10 @@
 
 \\N[1]くん本人を走らせるんじゃなくて
 誰かが抱えて走れば、少しは違ったんじゃないの？
-> CONTEXT: Map469/events/3/pages/0/101/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/101/Dialogue/sirousagi_fc1
+I had a thought. Wouldn't it be better to have
+someone carry \\N[1]-kun instead of making
+him run around?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,16 +37,21 @@
 
 ニッコニッコしながら、クランク回す\\N[1]くんを
 観察してたけど……
-> CONTEXT: Map469/events/3/pages/0/106/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/106/Dialogue/sirousagi_fc1
+I'm looking at you, Yami-chan...
+You were watching him at practically point-blank
+range with a big grin on your face as he was
+turning those cranks.#Ron
 > END STRING
 
 > BEGIN STRING
 だって、必死にトテトテ走ったりクランク回したりする
 
 \\N[1]くんが可愛かったから、見てたくて♡
-> CONTEXT: Map469/events/3/pages/0/111/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/111/Dialogue/enemy15
+Oh come on, the way he totters when he's
+desperately running and turning the cranks is so
+cute I can't help but want to watch. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -47,8 +59,10 @@
 
 この姿では、いくら子供に戻った相手といえど
 人一人抱えて走り回るのは、ちょっとな………
-> CONTEXT: Map469/events/3/pages/0/115/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/115/Dialogue/alice_fc5
+If he were an adult we'd have our powers back.
+But right now even carrying him around while
+he's a child would be a bit too much...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -56,24 +70,32 @@
 
 \\N[1]が子供に戻ってる影響なのか
 心なしか、自分自身の体力も少なくなってる気がするし……
-> CONTEXT: Map469/events/3/pages/0/120/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/120/Dialogue/ruka_fc1
+I agree. Maybe it's because of the effect on us
+of \\N[1]'s age being regressed, but I get
+the feeling that even with my stamina I'd get
+pretty worn out carrying him around.#Ron
 > END STRING
 
 > BEGIN STRING
 ……………あれ？
 
 これ、私が言うべきだったのかしら……？
-> CONTEXT: Map469/events/3/pages/0/130/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/130/Dialogue/enemy38
+......Huh?
 
+Am I supposed to chime in on this?#Ron
 > END STRING
 
 > BEGIN STRING
 ふん、うまくハイラミアからは逃げおおせているようね…
 
 でも…そろそろチェックメイトよ。
-> CONTEXT: Map469/events/3/pages/0/144/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/144/Dialogue/enemy38
+Hmph, you've done well to successfully evade High
+Lamia.
 
+But I'm afraid this is checkmate.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +103,11 @@
 
 私たちの世界のために、消えてもらうわよ！
 \\N[1]！
-> CONTEXT: Map469/events/3/pages/0/148/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/148/Dialogue/enemy38
+I take little pleasure in dispatching a child...
 
+But I'll make you disappear for the sake of my
+world, \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,8 +115,11 @@
 
 私と\\N[1]ちゃんの追いかけっこは
 まだまだ気の済むまでやるんだから。
-> CONTEXT: Map469/events/3/pages/0/175/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/175/Dialogue/enemy39
+Hey, don't write me off like that.
 
+\\N[1]-chan and I are far from finished with
+our game of tag.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -99,8 +127,11 @@
 どんだけ追いかけ回せば気が済むのよ！！
 
 ほんっとアンタの子供好きときたら…！！
-> CONTEXT: Map469/events/3/pages/0/180/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/180/Dialogue/enemy38
+You had your fun already! Just how much more do
+you want to chase him around?!!
 
+You really have a thing for little kiddies!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -108,16 +139,21 @@
 
 \\C[0]せっかくの一網打尽のチャンスなんだから
 ちゃんとやることはやりなさい！！！
-> CONTEXT: Map469/events/3/pages/0/185/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/185/Dialogue/enemy38
+\\C[2]Also, that magic you put on him is about to wear
+off! \\C[0]This is our chance to catch all of them in
+one go, so do your job properly!!!#Ron
 > END STRING
 
 > BEGIN STRING
 魔法なんて、もう一度かければいい話じゃない……
 
 まったくガミガミと……
-> CONTEXT: Map469/events/3/pages/0/190/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/190/Dialogue/enemy39
+Didn't you say all I had to do was use my magic
+on him once?
 
+You're such a nag...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -125,46 +161,57 @@
 そろそろ『取り巻き』の連中には消えてもらおうかしら
 
 \\N[1]ちゃんの世話は、私一人で充分よ…♡
-> CONTEXT: Map469/events/3/pages/0/194/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/194/Dialogue/enemy39
+But perhaps I'll make all his friends around him
+disappear. After all, I'm more than enough to
+look after \\N[1]-chan. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 くっ……あと少し……
 
 あと少しで\\N[1]の魔法が切れるのに…！！
-> CONTEXT: Map469/events/3/pages/0/205/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/205/Dialogue/ruka_fc1
+Kgh... Just a little longer...
 
+We just need a little longer for the magic on
+\\N[1] to wear off!!#Ron
 > END STRING
 
 > BEGIN STRING
 そう、もう少し……
 
 もう少しだね。
-> CONTEXT: Map469/events/3/pages/0/209/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/209/Dialogue/sirousagi_fc1
+That's right, just a little longer...
 
+Just a little more time.#Ron
 > END STRING
 
 > BEGIN STRING
 そろそろか……
-> CONTEXT: Map469/events/3/pages/0/213/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/213/Dialogue/sirousagi_fc1
+Almost there...#Ron
 > END STRING
 
 > BEGIN STRING
 こ、この攻撃は……
 
 まさか……！！
-> CONTEXT: Map469/events/3/pages/0/242/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/242/Dialogue/enemy38
+T-That attack...
 
+Don't tell me...!!#Ron
 > END STRING
 
 > BEGIN STRING
 よし、時間ぴったり
 
 ……彼こそが、最後の『ゲスト』……
-> CONTEXT: Map469/events/3/pages/0/252/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/252/Dialogue/sirousagi_fc1
+Right on time.
 
+The man before you is our final guest.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -172,48 +219,62 @@
 
 魔物の大群に立ち向かう、人間代表の朴念仁！
 \\C[2]その名も『マリオン』！！！
-> CONTEXT: Map469/events/3/pages/0/267/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/267/Dialogue/sirousagi_fc1
+He uses his ancestor Saitou's angelic magic
+to violently hurl weapons and face down hordes
+of monsters... it's the aloof representative
+of humanity, Marion!!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 な、なによ……！！
 
 なんでよりによって、この子が来るのよ…！！
-> CONTEXT: Map469/events/3/pages/0/274/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/274/Dialogue/enemy39
+W-What is this?!!
 
+Why has this boy come now of all times?!!#Ron
 > END STRING
 
 > BEGIN STRING
 マリオン……！！
 
 また私たちの邪魔をする気なのね…！！？
-> CONTEXT: Map469/events/3/pages/0/278/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/278/Dialogue/enemy38
+Marion!!
 
+Have you come to interfere with us once again?!!#Ron
 > END STRING
 
 > BEGIN STRING
 ……！！
 
 姿が元に戻った…！！
-> CONTEXT: Map469/events/3/pages/0/292/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/292/Dialogue/kazuya
+...!!
 
+I'm back to normal!!#Ron
 > END STRING
 
 > BEGIN STRING
 我らの力も、戻ったのを感じる…！！
 
 今なら戦えるぞ、瑞紀！！
-> CONTEXT: Map469/events/3/pages/0/296/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/296/Dialogue/enemy37
+I can feel our power returning to us as well!!
 
+Now we can fight her, Mizuki!!#Ron
 > END STRING
 
 > BEGIN STRING
 よし！反撃開始だ！
 
 今まで散々追いかけ回された、お返しをしてやるぞ！！
-> CONTEXT: Map469/events/3/pages/0/300/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/300/Dialogue/alice_fc6
+Right! Begin the counterattack!
 
+She's hounded us all the way here, so let's
+return the favor!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -221,24 +282,30 @@
 
 こんなに強い侵入者たちの他に
 マリオンちゃんまで相手にするなんて聞いてないわ！
-> CONTEXT: Map469/events/3/pages/0/317/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/317/Dialogue/enemy39
+T-This must be some kind of joke!! You never said
+anything about facing such powerful intruders,
+let alone Marion as well.#Ron
 > END STRING
 
 > BEGIN STRING
 わ、私はいったん退かせてもらうわ…！！
 
 後は頼んだわよ！ヴァシリカ！！
-> CONTEXT: Map469/events/3/pages/0/322/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/322/Dialogue/enemy39
+I-I'm retreating for now!!
 
+I'll leave the rest to you, Vasilica!!#Ron
 > END STRING
 
 > BEGIN STRING
 い、いや…待ちなさいよ！！
 
 勝手に任せておいて逃げるんじゃないわよ！！
-> CONTEXT: Map469/events/3/pages/0/332/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/332/Dialogue/enemy38
+N-No... wait right there!!
 
+Don't run away and leave everything to me!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -246,8 +313,11 @@
 
 勝負はまた今度よ、\\N[1]！！
 命拾いしたようね…
-> CONTEXT: Map469/events/3/pages/0/336/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/336/Dialogue/enemy38
+Kuh... I suppose I have no choice...
 
+It would seem you've narrowly escaped death,
+\\N[1]. But our battle is yet to come!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -255,14 +325,17 @@
 
 アンタとはやっぱり決着を付ける必要があるみたいね…！！
 今に見てなさい！！
-> CONTEXT: Map469/events/3/pages/0/341/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/341/Dialogue/enemy38
+And as for you, Marion!!!
 
+It seems we have a score to settle!! Just you
+watch!!#Ron
 > END STRING
 
 > BEGIN STRING
 よっ、と。
-> CONTEXT: Map469/events/3/pages/0/387/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/387/Dialogue/sirousagi_fc1
+There we go...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -270,32 +343,35 @@
 
 別に喋れないってワケじゃないけど
 ほら、『無言系』ってやつ？
-> CONTEXT: Map469/events/3/pages/0/389/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/389/Dialogue/sirousagi_fc1
+Marion-kun doesn't talk.
 
+It's not that he can't talk, but he's what you'd
+call... you know... the "silent type".#Ron
 > END STRING
 
 > BEGIN STRING
 無言系……
-> CONTEXT: Map469/events/3/pages/0/394/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/394/Dialogue/ruka_fc1
+The silent type...#Ron
 > END STRING
 
 > BEGIN STRING
 無言系か…
-> CONTEXT: Map469/events/3/pages/0/396/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/396/Dialogue/alice_fc5
+The silent type, huh...#Ron
 > END STRING
 
 > BEGIN STRING
 無言系かぁ
-> CONTEXT: Map469/events/3/pages/0/398/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/398/Dialogue/enemy15
+So he's the silent type...#Ron
 > END STRING
 
 > BEGIN STRING
 …………無言系？
-> CONTEXT: Map469/events/3/pages/0/400/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/400/Dialogue/kazuya
+......The silent type?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -303,8 +379,11 @@
 
 それじゃあ、彼がこの世界で見つける予定だった子？
 随分と年齢は若いように見えるけど……
-> CONTEXT: Map469/events/3/pages/0/402/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/402/Dialogue/enemy38
+You said before that he's the last guest...
 
+Does that mean he's the one we were planning on
+finding in this world? He looks quite young.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -312,8 +391,11 @@
 返す言葉に困るなぁ……
 
 彼はキミより年上だよ。
-> CONTEXT: Map469/events/3/pages/0/407/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/407/Dialogue/sirousagi_fc1
+I don't know how to respond when a middle-schooler
+as young as you says something like that...
 
+He's actually older than you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -321,8 +403,14 @@
 
 その子孫であるマリオンくんは、かつて天使のオーブを巡る
 天使と魔物の騒乱を解決した人間なんだ。
-> CONTEXT: Map469/events/3/pages/0/412/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/412/Dialogue/sirousagi_fc1
+Marion is the descendant of the holy knight
+"Saitou" who had the blessings of the angels.
 
+
+And though he might not look it, he is the human
+who resolved the mayhem between angels and
+monsters that arose over the Angel Orb.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -330,24 +418,33 @@
 
 \\C[2]『射撃武器を投擲すること』『投擲物を殴打に使うこと』\\C[0]
 で、相手を攻撃すると発動する。
-> CONTEXT: Map469/events/3/pages/0/417/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/417/Dialogue/sirousagi_fc1
+His angelic powers manifest in a unique way.
 
+He attacks by \\C[2]throwing ranged weapons, and
+bludgeoning with throwing weapons\\C[0].#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 な、投げる……！？武器を……
 
 だからさっき、ライフルが飛んできたのか……
-> CONTEXT: Map469/events/3/pages/0/422/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/422/Dialogue/kazuya
+H-He throws... weapons?!
 
+So that's why those rifles were flying over us
+before...#Ron
 > END STRING
 
 > BEGIN STRING
 しかし、『無言系』となると
 
 翻訳できるヒロインというか…付き添いが欲しいところだな
-> CONTEXT: Map469/events/3/pages/0/429/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/429/Dialogue/alice_fc5
+But if we're going to have one of those
+"silent types" here with us... 
+Couldn't he bring his sidekick here to come
+translate what he's thinking...?#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -355,40 +452,48 @@
 
 ずっとそんな調子で何も喋らないっていうなら
 事情を話しても、通じてるか分かりにくいし……
-> CONTEXT: Map469/events/3/pages/0/433/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/433/Dialogue/enemy38
+That's true... if he never says a word to us, how
+will we know that he's understood anything we've
+told him?#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？「それならば、心配は無用だ。
 
 　　　私のほうから、彼には全て伝えてある。」
-> CONTEXT: Map469/events/3/pages/0/438/Dialogue < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/438/Dialogue
+??? 「In that case, worry not.
 
+      I've explained everything to him.」#Ron
 > END STRING
 
 > BEGIN STRING
 ようこそ、異世界からの来訪者。
 
 ずいぶんと予定より早い到着なようだが…
-> CONTEXT: Map469/events/3/pages/0/452/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/452/Dialogue/enemy35
+Welcome, visitors from another world.
 
+You've arrived much earlier than anticipated.#Ron
 > END STRING
 
 > BEGIN STRING
 目の前に現れたのは、がたいの良い男の天使……
 
 縁の広い眼鏡をかけて、こちらを見据えている……
-> CONTEXT: Map469/events/3/pages/0/458/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/458/Dialogue
+Appearing in front of us is a well-built male angel,
+staring at us intently through his thick-brimmed glasses.#Ron
 > END STRING
 
 > BEGIN STRING
 その風貌からは、厳格な雰囲気が漂っており
 
 かなり高位な天使であることがうかがえる……
-> CONTEXT: Map469/events/3/pages/0/462/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/462/Dialogue
+His appearance gives a stern atmosphere about him,
+suggesting that he's a high-ranking angel.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -396,16 +501,21 @@
 なんせ予定外な事が起こりまくっちゃってね……
 
 正直、ここに来るときもちょっと怖かったけど……
-> CONTEXT: Map469/events/3/pages/0/466/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/466/Dialogue/sirousagi_fc1
+My bad, my bad... We had a lot of unexpected
+things happen to us on the way. To be honest,
+even getting here was a little scary.#Ron
 > END STRING
 
 > BEGIN STRING
 でも、事前に情報が届いてて助かったよ。
 
 そっちは予定通りに事が進んでたってワケだね。
-> CONTEXT: Map469/events/3/pages/0/471/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/471/Dialogue/sirousagi_fc1
+But you've done me a real favor by filling him
+in on the situation in advance. I guess
+everything's gone according to plan on your
+end, huh.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -413,14 +523,17 @@
 
 貴様、そのフザけた天使と知り合いなのか？
 一体誰なのだ、そいつは！
-> CONTEXT: Map469/events/3/pages/0/475/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/475/Dialogue/alice_fc6
+Hey, explain what's going on, White Rabbit.
 
+Do you know this joke of an angel? Just who the
+hell is this guy?!#Ron
 > END STRING
 
 > BEGIN STRING
 アリス、目が怖いよ……
-> CONTEXT: Map469/events/3/pages/0/480/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/480/Dialogue/ruka_fc1
+He's got a scary look in his eyes, Alice...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -428,8 +541,11 @@
 我は\\C[2]大天使中村\\C[0]。
 
 この世界の天使長を務めている。
-> CONTEXT: Map469/events/3/pages/0/482/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/482/Dialogue/enemy35
+This is no joke.
 
+I am \\C[2]Archangel Nakamura\\C[0], and I serve as leader
+of the angels in this world.
 > END STRING
 
 > BEGIN STRING
@@ -437,14 +553,16 @@
 今後介入するつもりはなかったのだが………
 
 『友』に頼まれたとあらば、無碍にするわけにもいかん。
-> CONTEXT: Map469/events/3/pages/0/487/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/487/Dialogue/enemy35
+I had no intention of meddling any further with
+human affairs, but I could not disregard the
+request of a "friend"...#Ron
 > END STRING
 
 > BEGIN STRING
 『友』……？
-> CONTEXT: Map469/events/3/pages/0/492/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/492/Dialogue/kazuya
+Friend?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -452,30 +570,36 @@
 その天使間のコネを通して知り合ったおかげなんだ。
 
 \\N[1]くんもよく知る、彼女だよ。
-> CONTEXT: Map469/events/3/pages/0/494/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/494/Dialogue/sirousagi_fc1
+That's right. I was introduced to this world's
+"guest" thanks to the inter-angel connections of
+a certain angel in particular. I think you know
+who I'm talking about, \\N[1]-kun.#RonLocalization
 > END STRING
 
 > BEGIN STRING
 れ、レイナ……！？
-> CONTEXT: Map469/events/3/pages/0/505/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/505/Dialogue/kazuya
+R-Reina?!#Ron
 > END STRING
 
 > BEGIN STRING
 レミエル……随分と久しい顔を見たものだ
 
 神より異なる世界を任ぜられ、別れたとき以来か
-> CONTEXT: Map469/events/3/pages/0/507/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/507/Dialogue/enemy35
+Remiel... I haven't seen your face in quite some
+time. Not since you left after God assigned you
+to look after a different world.#Ron
 > END STRING
 
 > BEGIN STRING
 ええ…中村。
 
 私も、また顔を合わせることになるとは思わなかったわ……
-> CONTEXT: Map469/events/3/pages/0/511/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/511/Dialogue/other5
+Yes, Nakamura... I also didn't expect us to ever
+meet again.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -483,24 +607,32 @@
 各世界で私たちが協力しなければならないの…
 
 あなたも、マリオンもね……
-> CONTEXT: Map469/events/3/pages/0/515/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/515/Dialogue/other5
+But we must all work together in each of our
+worlds in order to resolve this situation.
 
+That goes for you as well, and Marion...#Ron
 > END STRING
 
 > BEGIN STRING
 分かっている、事態の深刻さは理解しているつもりだ。
 
 アバドーンか……厄介な存在が顕現したものだ…。
-> CONTEXT: Map469/events/3/pages/0/520/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/520/Dialogue/enemy35
+I know, I understand the gravity of the situation.
 
+Abaddon, or a rather bothersome being, is
+manifesting itself.#Ron
 > END STRING
 
 > BEGIN STRING
 ま、待って！
 
 レミエル……いやレイナの天使の力は、たしか…
-> CONTEXT: Map469/events/3/pages/0/524/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/524/Dialogue/kazuya
+W-Wait!
 
+Remiel, I mean Reina's angelic power should...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -508,8 +640,11 @@
 リニアランチャーで木っ端微塵になった……\\C[0]
 
 まさしくその通りだよ。
-> CONTEXT: Map469/events/3/pages/0/528/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/528/Dialogue/sirousagi_fc1
+\\C[2]When you used the Linear Cannon on Samael after
+her magic went out of control and he manifested,
+you blew her power into smithereens.\\C[0]
+And that's how it remains.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -517,8 +652,10 @@
 レミエルという天使の存在は消えたわけじゃない。
 
 \\C[2]このレミエルは、キミの魂に定着している一部分なんだよ。
-> CONTEXT: Map469/events/3/pages/0/533/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/533/Dialogue/sirousagi_fc1
+But as you already know, that doesn't mean Remiel
+herself disappeared. \\C[2]And that's because this
+is a part of Remiel that settled in your soul.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -526,8 +663,11 @@
 『ゲスト』は少なからず、キミと関わりがあるって。
 
 だからこそ、ボクは彼女の協力を仰ぐことができた。
-> CONTEXT: Map469/events/3/pages/0/538/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/538/Dialogue/sirousagi_fc1
+I told you before, didn't I? All of the guests
+have some kind of connection to you, even if it's
+tenuous. That's why I was able to turn to her
+for help with this.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -535,8 +675,11 @@
 こうやって幽体みたいな状態でしか姿を現せないけど……
 
 彼女が事前にこっちの世界と話を付けてくれてたんだ。
-> CONTEXT: Map469/events/3/pages/0/543/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/543/Dialogue/sirousagi_fc1
+She's lost the power necessary to manifest, this
+ghost-like body is the best she can do. But she
+was able to arrange things ahead of time for us
+in this world...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -544,8 +687,11 @@
 
 全ての魔力をも失っていると聞いたときは
 さすがの我も、驚きを隠せなかったがな……
-> CONTEXT: Map469/events/3/pages/0/548/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/548/Dialogue/enemy35
+I couldn't hide my shock when I heard that a
+former friend had been cast out and exiled from
+the heavens for one mistake, and that she had also
+lost all of her magical power.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -553,16 +699,23 @@
 人間を守護するため、傍らで暮らしていると聞いたときは
 
 良い意味で、何も変わらぬ友であると感じたよ。
-> CONTEXT: Map469/events/3/pages/0/553/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/553/Dialogue/enemy35
+But then I also heard that though she had fallen
+from the heavens, she still lived side-by-side
+with the humans, keeping them under her protection
+while atoning for her sins.
+Hearing that made me feel good, knowing that my
+old friend hasn't changed a bit.#RonIffyWording 
 > END STRING
 
 > BEGIN STRING
 ほ、本当に知り合いなんだ……
 
 なんていうか…インパクトあるなぁ……
-> CONTEXT: Map469/events/3/pages/0/561/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/561/Dialogue/kazuya
+T-They really do know each other.
 
+I... really didn't expect that...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -570,54 +723,67 @@
 
 天使というだけで警戒度が上がるというのに
 『残念系』かと勘違いしてしまったぞ……
-> CONTEXT: Map469/events/3/pages/0/565/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/565/Dialogue/alice_fc5
+Good god...
+I was on my guard on hearing that you were an
+angel, but it seems I mistook you for one that
+isn't the "unfortunate type"...#Ron
 > END STRING
 
 > BEGIN STRING
 ざ、残念系…？
 
 さっきの無言系といい、最近の言葉は分からないわ……
-> CONTEXT: Map469/events/3/pages/0/570/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/570/Dialogue/enemy38
+U-Unfortunate type?
 
+Unfortunate type, silent type... I don't really
+get all these new phrases.#Ron
 > END STRING
 
 > BEGIN STRING
 落ち着け、ミズキ。
 
 最近も何も、お前はまだ中学生だ。
-> CONTEXT: Map469/events/3/pages/0/574/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/574/Dialogue/enemy37
+Calm yourself, Mizuki.
 
+No matter the times, you're still a middle
+schooler.#Ron
 > END STRING
 
 > BEGIN STRING
 ミズキ、オマエ、流行遅レ！！
 
 スグ老ケルゾ！気ヲツケルンダナ！！
-> CONTEXT: Map469/events/3/pages/0/578/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/578/Dialogue/enemy37
+MIZUKI, YOU'RE BEHIND THE TIMES!!
 
+YOU'LL BE OLD SOON! BE CAREFUL!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ………オルトロス。
-> CONTEXT: Map469/events/3/pages/0/582/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/582/Dialogue/enemy37
+Orthros...#Ron
 > END STRING
 
 > BEGIN STRING
 昔話に花を咲かせたいところではあるけど……
 
 さっきも言ったとおり、事態は深刻だわ。
-> CONTEXT: Map469/events/3/pages/0/587/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/587/Dialogue/other5
+As much as I'd like to reminisce about old times,
+the situation is quite grave, as I told before.#Ron
 > END STRING
 
 > BEGIN STRING
 ゲストが揃ったことだし……
 
 早速『お茶会』の会場に向かいましょう。
-> CONTEXT: Map469/events/3/pages/0/591/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/591/Dialogue/other5
+Now that the guests have now been assembled,
+let us quickly head to the Tea Party.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -625,8 +791,10 @@
 
 ボクも慌てたり驚いたり
 慣れないことばっかりで、いい加減疲れたよ……
-> CONTEXT: Map469/events/3/pages/0/595/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/595/Dialogue/sirousagi_fc1
+You're right, I'm sick and tired of being spooked,
+running around everywhere, and dealing with all
+these new things.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -634,16 +802,19 @@
 
 後のことは、お茶会の主催者……
 \\C[2]『マッドハッター』\\C[0]に任せるよ。
-> CONTEXT: Map469/events/3/pages/0/600/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/600/Dialogue/sirousagi_fc1
+This as far as I go being your guide, now it's up
+to the organizer of the Tea Party, the \\C[2]Mad Hatter\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]『マッドハッター』\\C[0]……
 
 『チェシャ』のことか……
-> CONTEXT: Map469/events/3/pages/0/605/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/605/Dialogue/kazuya
+\\C[2]Mad Hatter\\C[0]...
 
+You mean Cheshire?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -651,8 +822,11 @@
 
 余やルカが、この場所に呼ばれた理由……
 そして、あの虫食い現象の正体が……
-> CONTEXT: Map469/events/3/pages/0/609/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/609/Dialogue/alice_fc5
+We should be able to get answers to everything
+from them. Like why Luka and I were brought here,
+and the true nature of those holes being eaten
+in reality.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -660,8 +834,11 @@
 
 やっぱり感じてる…？
 あの虫食いと『あの現象』が似てるって……
-> CONTEXT: Map469/events/3/pages/0/614/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/614/Dialogue/ruka_fc1
+Alice...
 
+You felt it too, right? What those holes in
+reality were similar to...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -669,8 +846,10 @@
 
 だが、その詳細を聞けば
 何か解決の糸口が見つかるやもしれんからな……
-> CONTEXT: Map469/events/3/pages/0/619/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/619/Dialogue/alice_fc5
+I don't think they're entirely one and the same.
+But we might get a start on how to deal with them
+by asking for details on what they are.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -678,16 +857,21 @@
 『彼女』のもとにご案内するよ。
 
 いざ、お茶会の会場へ……
-> CONTEXT: Map469/events/3/pages/0/626/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/626/Dialogue/sirousagi_fc1
+And then ladies and gentlemen, I shall guide you
+to where "she" is.
 
+Come, to the Tea Party shall-#Ron
 > END STRING
 
 > BEGIN STRING
 ………早いなぁ
 
 まだ台詞の途中だったのに……
-> CONTEXT: Map469/events/3/pages/0/642/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/642/Dialogue/sirousagi_fc1
+That was fast.
 
+I hadn't even finished my lines...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -695,22 +879,27 @@
 若干ものの流れに自ら乗るような傾向があるのだ。
 
 決して無謀というわけではないのだがな……
-> CONTEXT: Map469/events/3/pages/0/646/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/646/Dialogue/enemy35
+How can I put this, he makes up for his lack of
+words with action, or rather he has a tendency to
+go with the flow. But it's not that he's
+reckless...#Ron
 > END STRING
 
 > BEGIN STRING
 やれやれ……大丈夫かしら。
 
 個性溢れるメンツって感じだけど……
-> CONTEXT: Map469/events/3/pages/0/651/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/651/Dialogue/enemy38
+Good grief, I wonder if he's alright.
 
+This group's full of oddballs.#Ron
 > END STRING
 
 > BEGIN STRING
 オマエガ、言ウカ、ミズキ
-> CONTEXT: Map469/events/3/pages/0/655/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map469/events/3/pages/0/655/Dialogue/enemy37
+RICH COMING FROM YOU, MIZUKI.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -718,6 +907,9 @@
 
 今、何が起きているのかを知るために……
 そして、何をすべきかを知るために………
-> CONTEXT: Map469/events/3/pages/0/657/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map469/events/3/pages/0/657/Dialogue/kazuya
+Alright everyone, let's go.
 
+Both to find out what's going on, and what we
+should be doing about it.#Ron
 > END STRING

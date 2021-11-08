@@ -3,26 +3,31 @@
 ああああっ…！♡♡
 
 だめっ……で、でるぅぅ…！♡♡
-> CONTEXT: CommonEvents_747/6/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_747/6/Dialogue/kazuya-0
+Aaaah! ♡♡
 
+I'm gonna...
+C-Cumming! ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ブラックドッグに敗北してしまった……
-> CONTEXT: CommonEvents_747/103/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_789/34/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_789/72/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/353/pages/0/185/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_747/103/Dialogue
+> CONTEXT: CommonEvents_789/34/Dialogue
+> CONTEXT: CommonEvents_789/72/Dialogue
+> CONTEXT: Troops/353/pages/0/185/Dialogue
+> CONTEXT: Troops/384/pages/0/18/Dialogue
+\\N[1] has lost to Black Dog...#Ron
 > END STRING
 
 > BEGIN STRING
 はあっ……
 
 はあっ……
-> CONTEXT: CommonEvents_747/123/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_747/123/Dialogue/kazuya-0
+Haah...
 
+Haah...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,8 +35,10 @@
 
 まるで自分の戦利品であるかのように
 勝ち誇った顔で眺めている………
-> CONTEXT: CommonEvents_747/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_747/129/Dialogue
+Black Dog stares in triumph at my semen almost overflowing
+from her breasts, as though she were staring down at the
+spoils of war.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -39,40 +46,50 @@
 
 下半身が巨弾なマシュマロに包まれているかのようで
 まるで腰の力が働かない……！
-> CONTEXT: CommonEvents_747/134/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_747/134/Dialogue
+I tried to get myself free, but because my strength had
+gone, it was like my lower half was engulfed in a big
+marshmallow. I couldn't find the power in my hips
+to shake her off...#RonLocalization
 > END STRING
 
 > BEGIN STRING
 その様子に気付いたのか
 
 ブラックドッグは、静かにこちらに目線を移した……
-> CONTEXT: CommonEvents_747/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_747/139/Dialogue
+Perhaps realizing my situation as well, Black Dog quietly
+cast her gaze over towards me.#Ron
 > END STRING
 
 > BEGIN STRING
 うっ……くっ…
 
 は、はなして……おねがい………
-> CONTEXT: CommonEvents_747/145/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_747/145/Dialogue/kazuya-0
+Uugh... Kugh...
 
+Please... l-let me go...#Ron
 > END STRING
 
 > BEGIN STRING
 ブラックドッグは、ヒダが蠢く自分の舌を見せつけてきた……
 
 まるで『そういうこと』をするのに特化したような、いやらしい舌…
-> CONTEXT: CommonEvents_747/161/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_747/161/Dialogue
+Black dog flaunts her tongue, covered in writhing folds.
 
+It's a lewd thing, seemingly designed specifically for
+"that".#Ron
 > END STRING
 
 > BEGIN STRING
 ブラックドッグは、その舌を左右に揺らしながら
 
 ニンマリとした表情で、こちらを見つめている……
-> CONTEXT: CommonEvents_747/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_747/165/Dialogue
+She stares at me with a look of satisfaction as her tongue
+swings left and right in front of me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -80,8 +97,11 @@
 
 バーゲストや彼女たちにとっては
 \\C[2]射精するという事は、『同意』のサインなのだ…！
-> CONTEXT: CommonEvents_747/170/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_747/170/Dialogue
+That's right... I'd forgotten...
 
+To demons like her and Barghest, \\C[2]ejaculating is as good
+as consenting.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -89,14 +109,17 @@
 
 や、やめてぇ…！♡
 おねがい……い、いい子だから…！
-> CONTEXT: CommonEvents_747/175/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_747/175/Dialogue/kazuya-0
+Hiii!
 
+S-Stop! ♡
+Please... T-There's a good girl!#Ron
 > END STRING
 
 > BEGIN STRING
 あああああああああああああああっ…！♡
-> CONTEXT: CommonEvents_747/204/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_747/204/Dialogue/kazuya-0
+Aaaaaaaaaaaaaaah! ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -104,22 +127,25 @@
 
 やめてぇぇぇ……♡♡
 気持ちよすぎるううう……♡
-> CONTEXT: CommonEvents_747/272/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_747/272/Dialogue/kazuya-0
+Aaaaaaah!! ♡♡♡
 
+Stoooop... ♡♡
+It's too gooooood... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ワフッ♡♡♡
-> CONTEXT: CommonEvents_747/277/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_747/277/Dialogue/enemy37
+Wafu... ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 僕が「やめて」と言えば言うほど……
 
 彼女の責めは激しくなっていく………
-> CONTEXT: CommonEvents_747/385/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_747/385/Dialogue
+The more I tell her to stop, the more intense she gets.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -127,8 +153,10 @@
 
 「僕が止めて欲しくない理由」だと分かっているから……
 彼女は嬉しそうに、それを貪るのだ……
-> CONTEXT: CommonEvents_747/389/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_747/389/Dialogue
+That's because the semen coming from my crotch is itself
+understood to be proof that I don't actually want this to
+stop. And so she happily indulges herself.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -136,14 +164,18 @@
 交尾での相手の反応こそが全てである魔獣にとって……
 
 僕が出来る対処は一つだけ……
-> CONTEXT: CommonEvents_747/394/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_747/394/Dialogue
+There's only one thing I can do for magical beasts like
+her and Barghest, for whom their mating partner's reactions
+are everything...#RonIffy
 > END STRING
 
 > BEGIN STRING
 彼女の前で……僕は一匹の「オス犬」になり……
 
 彼女との交尾で、愛を示し続ける事だけだった……
-> CONTEXT: CommonEvents_747/399/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_747/399/Dialogue
+And that is to become a "male dog" in front of her...
 
+And continue to show my affection by mating with her.#RonIffyWording
 > END STRING

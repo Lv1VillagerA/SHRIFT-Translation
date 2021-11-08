@@ -463,7 +463,7 @@ Ocelot#Triketos
 > CONTEXT: Enemies/379/name
 > CONTEXT: Enemies/380/name
 > CONTEXT: Enemies/392/name
-High Slug Girl#Ron
+High Slug#Ron
 > END STRING
 
 > BEGIN STRING

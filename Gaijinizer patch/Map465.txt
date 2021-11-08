@@ -3,8 +3,10 @@
 ふぅ……心臓に悪い……
 
 ボク、こんなに余裕ないキャラじゃないはずなんだけどなぁ…
-> CONTEXT: Map465/events/3/pages/0/1/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/1/Dialogue/sirousagi_fc1
+Fugh... this kind of excitement's bad for my
+heart. I'm supposed to be the cool, calm
+character here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,24 +14,30 @@
 身体の替えがきかないって、結構大変だ……
 
 はやいとこ、最後の『ゲスト』と合流しないと……
-> CONTEXT: Map465/events/3/pages/0/5/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/5/Dialogue/sirousagi_fc1
+It's pretty tough when you don't get any second
+chances or do-overs. We need to hurry and meet
+up with our final guest...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 アリス……
 
 いつの間に、僕の身体に絡みついたの……？
-> CONTEXT: Map465/events/3/pages/0/14/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/14/Dialogue/ruka_fc1
+Alice...
 
+When exactly did you start clinging to me?#Ron
 > END STRING
 
 > BEGIN STRING
 気にするな。
 
 しがみ付き過ぎただけだ。
-> CONTEXT: Map465/events/3/pages/0/18/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/18/Dialogue/alice_fc5
+Don't worry about it.
 
+I just got a little too wrapped up around you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -37,16 +45,22 @@
 
 なんだかすごいおどろおどろしい雰囲気だけど…
 魔界か何かか…？
-> CONTEXT: Map465/events/3/pages/0/26/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/26/Dialogue/kazuya
+Where are we?
 
+This place has a pretty eerie atmosphere. Are
+we in the Demon Realm or something?#Ron
 > END STRING
 
 > BEGIN STRING
 いいや、れっきとした人間界さ
 
 でも、\\C[2]魔界も存在しない……って言えばいいのかな
-> CONTEXT: Map465/events/3/pages/0/33/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/33/Dialogue/sirousagi_fc1
+No, we're clearly in the human realm.
 
+But \\C[2]I guess you could say the Demon Realm
+doesn't exist here...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -54,8 +68,10 @@
 『第二の知的種族』として人間界に存在する世界…
 
 つまり、魔物もここで生きているんだよ。
-> CONTEXT: Map465/events/3/pages/0/37/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/37/Dialogue/sirousagi_fc1
+This is a world in which monsters exist alongside
+humanity as another, sentient species. In other
+words, monsters exist naturally in this world.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -63,24 +79,33 @@
 それをこの世界の生物が浴びて、魔物に変異した感じ……
 
 まぁ、その点で言えば、ボクらの世界に近しいのかな？
-> CONTEXT: Map465/events/3/pages/0/42/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/42/Dialogue/sirousagi_fc1
+A demon king arrived here from another world,
+bringing with him monstrous essence that he
+spread over the lifeforms here, turning them
+into monsters.
+I suppose in that sense, our world isn't too
+different from this one.#Ron
 > END STRING
 
 > BEGIN STRING
 わぁ、すごいお屋敷！！
 
 いかにも吸血鬼が住んでそうな洋館があるね！
-> CONTEXT: Map465/events/3/pages/0/53/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/53/Dialogue/enemy15
+Wow, what an amazing palace!!
 
+It totally looks like one of those houses they
+have in the West that vampires would live in!#Ron
 > END STRING
 
 > BEGIN STRING
 あのヴァ\\C[9]ソ\\C[0]パイアの……
 
 ヴァシリカちゃんっていう子も、ここに住んでるのかなぁ？
-> CONTEXT: Map465/events/3/pages/0/57/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/57/Dialogue/enemy15
+I wonder if that va\\C[9]n\\C[0]pire girl Vasilica-chan
+lives here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -88,8 +113,11 @@
 彼女も、ブラックドッグもこの世界の住人だよ。
 
 おそらく『ゲスト』の世界から刺客を選んでるんだろうね。
-> CONTEXT: Map465/events/3/pages/0/61/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/61/Dialogue/sirousagi_fc1
+Ah yes, that's right! Both her and Black Dog
+dwell in this world. They were probably picked to
+be Abaddon's assassins because they come from the
+same world as the next guest.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -97,22 +125,28 @@
 
 彼女、そのパチモンみたいな種族のせいで
 \\C[2]あんまりいい境遇じゃない\\C[0]って聞いたけど…
-> CONTEXT: Map465/events/3/pages/0/66/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/66/Dialogue/sirousagi_fc1
+I wonder about that girl... I've heard \\C[2]she
+hasn't had an easy time of it\\C[0] because of how her
+species seems like nothing more than a cheap
+imitation.#Ron
 > END STRING
 
 > BEGIN STRING
 やっぱりイジめられてんのか……
-> CONTEXT: Map465/events/3/pages/0/71/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/71/Dialogue/kazuya
+So she really does get bullied...#Ron
 > END STRING
 
 > BEGIN STRING
 どのみち、この中に最後の『ゲスト』はいる。
 
 はやく見つけて、チェシャのお茶会に向かわないとね。
-> CONTEXT: Map465/events/3/pages/0/73/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/73/Dialogue/sirousagi_fc1
+Either way, our final guest is further inside.
 
+We need to quickly find them, and then make our
+way to Cheshire's tea party.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -120,32 +154,41 @@
 
 急に巻き込まれて混乱しているミズキちゃんに
 ちゃんと状況を説明しなきゃ
-> CONTEXT: Map465/events/3/pages/0/82/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/82/Dialogue/sirousagi_fc1
+But... before all that...
+Since you've got yourself wrapped up in all this
+confusion, Mizuki-chan, I'd better fill you in on
+what's going on.#Ron
 > END STRING
 
 > BEGIN STRING
 自分の世界がああなっちゃった理由も説明しないとだし
 
 またいつ慌ただしくなるかも分からないから………
-> CONTEXT: Map465/events/3/pages/0/87/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/87/Dialogue/sirousagi_fc1
+We don't know when things will pop off again, so
+I'll also explain the reason why your world ended
+up like it did back there.#RonLocalization
 > END STRING
 
 > BEGIN STRING
 …………正直、面子に夜深ちゃんが含まれていなかったら
 
 あんな得体の知れない亀裂になんか入らなかったわ……
-> CONTEXT: Map465/events/3/pages/0/94/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/94/Dialogue/enemy38
+To be honest, if Yami-chan hadn't been part of
+your group, I wouldn't have jumped into such a
+weird rift.#Ron
 > END STRING
 
 > BEGIN STRING
 説明してもらおうかしら……
 
 私の世界で、一体何が起こったのかを。
-> CONTEXT: Map465/events/3/pages/0/98/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/98/Dialogue/enemy38
+I guess I'll get you to explain it all.
 
+Just what on earth happened to my world?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -153,16 +196,21 @@
 
 そして、それを阻止するための『ゲスト』が私…？
 ついでにアンタが、道案内をする『白兎』……
-> CONTEXT: Map465/events/3/pages/0/112/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/112/Dialogue/enemy38
+So this Abaddon is causing worlds to collapse...
+And I'm a "guest" that's meant to prevent that...
 
+And you, White Rabbit, happen to be our guide?#Ron
 > END STRING
 
 > BEGIN STRING
 トドメに、『アリス』に『チェシャ』に『お茶会』……
 
 やれやれ……鏡の世界にでも迷い込んだのかしら……？
-> CONTEXT: Map465/events/3/pages/0/117/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/117/Dialogue/enemy38
+And to top it off, there's Alice, Cheshire,
+and some tea party? Good grief, have I stumbled
+through the looking-glass?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -170,8 +218,11 @@
 知らぬうちに入り込んでいる、謎多き言い伝えだ……
 
 単語が一致したとしても、さして不思議ではない。
-> CONTEXT: Map465/events/3/pages/0/121/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/121/Dialogue/enemy37
+Well, that fairy tale is a story that spread
+oddly fast and became quite popular among
+demons and the Demon Realm itself.
+It's not *that* surprising all the words line up.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -179,16 +230,21 @@
 
 確かにあの虫食いがヤツの仕業なら説明がつくが……
 何故今になって実体化を……？
-> CONTEXT: Map465/events/3/pages/0/126/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/126/Dialogue/enemy37
+But putting that aside, the problem is Abaddon's
+manifestation. If those holes in our world are
+his doing then it makes sense, but why is he
+manifesting now?#Ron
 > END STRING
 
 > BEGIN STRING
 アイツ、タダノ魔界ノ『ブラックホール』
 
 食ベルダケ。悪巧ミ、シナイ
-> CONTEXT: Map465/events/3/pages/0/131/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/131/Dialogue/enemy37
+HE'S JUST DEMONIC "BLACK HOLE"...
 
+ONLY CONSUMES, NO THOUGHT.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -196,8 +252,11 @@
 
 アバドーンって\\C[2]元々、主食は崩壊したり廃れた世界で
 こんなにアクティブに動き回るような悪魔じゃないんだよね
-> CONTEXT: Map465/events/3/pages/0/135/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/135/Dialogue/sirousagi_fc1
+That's about the short of it.
 
+Abaddon's main diet is \\C[2]collapsed, dead worlds,
+so he's not normally a particularly active demon.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -205,8 +264,11 @@
 
 前途有望な世界を無差別に食い潰されるのは
 どのみち阻止しなきゃ大ごとだ。
-> CONTEXT: Map465/events/3/pages/0/140/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/140/Dialogue/sirousagi_fc1
+I think Cheshire will explain more at the tea
+party, but at any rate, we've got to put a stop
+to him indiscriminately devouring worlds that
+have a promising future.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -214,8 +276,10 @@
 ベルゼバブの連中が言ってた\\C[10]『世界融解』\\C[0]とやら…
 
 あれは結局、どういう現象なのだ？
-> CONTEXT: Map465/events/3/pages/0/145/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/145/Dialogue/alice_fc5
+And what's with that \\C[10]World Fusion \\C[0]the
+beelzebubs were talking about? Just what kind of
+phenomenon is it?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -223,8 +287,11 @@
 聞き流してしまっていたが……
 
 あのベルゼバブたちの強化具合は、尋常ではないぞ……
-> CONTEXT: Map465/events/3/pages/0/150/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/150/Dialogue/alice_fc5
+I thought it was just another name for describing
+the world collapsing, so I didn't pay much
+attention to it. But the enhanced power it gave
+them was not normal at all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -232,8 +299,10 @@
 
 要するに\\C[2]アバドーンが食べた世界の数に比例して
 その従者の能力が強化されていく現象\\C[0]……かな。
-> CONTEXT: Map465/events/3/pages/0/155/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/155/Dialogue/sirousagi_fc1
+Hmm, so in other words... \\C[2]Abaddon might be able
+to strengthen his followers in proportion to the
+number of worlds he consumes...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -241,8 +310,15 @@
 
 多少違えど、同じ性質、同じ伝承とかで
 \\C[2]共通項がある存在が重なることで、その個体は強くなる……
-> CONTEXT: Map465/events/3/pages/0/160/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/160/Dialogue/sirousagi_fc1
+The beelzebubs in Yami-chan's world have similar
+characteristics and legends with only slight
+differences.
 
+Those overlapping commonalities from species in
+worlds that have been consumed could be used to
+strengthen a particular individual who shares
+similar traits.#RonSuperIffyLocalization
 > END STRING
 
 > BEGIN STRING
@@ -250,8 +326,11 @@
 その刺客として協力しているヤツも強くなるって事。
 
 しかも、図体もデカくなるって聞いたことがある。
-> CONTEXT: Map465/events/3/pages/0/165/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/165/Dialogue/sirousagi_fc1
+To put it another way, \\C[2]the more worlds Abaddon
+consumes, the more powerful he can make his
+assassins. I've heard he can even make them
+physically larger.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -259,8 +338,11 @@
 
 \\N[1]が会ったっていうハイスラッグ娘も含めて
 早く止めないと、手がつけられなくなるぞ…
-> CONTEXT: Map465/events/3/pages/0/170/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/170/Dialogue/ruka_fc1
+So they'll get more powerful the longer we leave
+them be. If we don't stop them as well as that
+High Slug \\N[1] ran into, the situation
+will quickly get out of hand.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -268,8 +350,10 @@
 
 \\C[2]『私が生き残れば、世界を元に戻せる』\\C[0]
 っていうのは、ホントなんでしょうね……？
-> CONTEXT: Map465/events/3/pages/0/177/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/177/Dialogue/enemy38
+So is it true what you said when you told me
+that if I survive, I can return my world back to
+normal?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -277,16 +361,22 @@
 私にとって、弟はかけがえのない存在なの。
 
 もし口からデマカセだったら、私は協力しないわよ。
-> CONTEXT: Map465/events/3/pages/0/182/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/182/Dialogue/enemy38
+My father died when I was young, and my mother's
+not coming back home, so my brother is
+irreplaceable to me. I'm not going to help if
+you were pulling my leg.#Ron
 > END STRING
 
 > BEGIN STRING
 ダイジョーブ♪
 
 全ての物事が解決すれば、チェシャが元に戻してくれるよ。
-> CONTEXT: Map465/events/3/pages/0/188/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/188/Dialogue/sirousagi_fc1
+Don't you worry. ♪
 
+If we manage to resolve everything, Cheshire can
+turn it all back to normal.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -294,8 +384,13 @@
 アバドーンに関する介入権限を一時的に拡張してもらってる。
 
 \\C[2]もたらされた被害の後処理も含めて\\C[0]、ね
-> CONTEXT: Map465/events/3/pages/0/192/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/192/Dialogue/sirousagi_fc1
+Cheshire, also known as "Mad Hatter", has had
+her intervention authority temporarily expanded
+to matters involving Abaddon.
 
+\\C[2]And that includes dealing with the aftermath
+of the damage that's been brought about.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -303,16 +398,21 @@
 
 \\C[2]『アバドーンがもたらした被害を全て修復する』権限\\C[0]が
 彼女には与えられてるって事
-> CONTEXT: Map465/events/3/pages/0/197/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/197/Dialogue/sirousagi_fc1
+She's been assigned \\C[2]the authority to fix all
+harm brought about by Abaddon\\C[0] after everything
+has been dealt with.
 > END STRING
 
 > BEGIN STRING
 アバドーンがもたらした被害……
 
 \\C[2]アバドーンに喰われて破壊された世界を直せる\\C[0]って事か…！
-> CONTEXT: Map465/events/3/pages/0/202/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/202/Dialogue/kazuya
+Harm brought about by Abaddon, huh...
 
+\\C[2]So you're saying it's possible to repair worlds
+that've been consumed and destroyed by Abaddon?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -320,22 +420,26 @@
 
 まぁ『後処理』の権限だから、ちゃんと事象を解決しないと
 施行できない権限だけどね……
-> CONTEXT: Map465/events/3/pages/0/206/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/206/Dialogue/sirousagi_fc1
+Bingo!!
+But since it only authorizes her to deal with the
+aftermath specifically, it won't be of much help
+until everything is properly resolved.#Ron
 > END STRING
 
 > BEGIN STRING
 …………ということは、もし解決できなければ……
-> CONTEXT: Map465/events/3/pages/0/211/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/211/Dialogue/alice_fc5
+So, if we can't resolve everything...#Ron
 > END STRING
 
 > BEGIN STRING
 被害はそのまま、アバドーンは引き続き世界を躍り食い…
 
 当然じゃん？
-> CONTEXT: Map465/events/3/pages/0/213/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/3/pages/0/213/Dialogue/sirousagi_fc1
+Obviously the damage will remain, and Abaddon
+will move on to devour the next world.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -343,65 +447,85 @@
 
 自分の世界がなくなってしまった以上
 帰る場所もないみたいだし……
-> CONTEXT: Map465/events/3/pages/0/218/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/218/Dialogue/enemy38
+Doesn't seem like I have much of a choice.
 
+Now that my own world has been destroyed, it
+seems I don't even have anywhere to go back to.#Ron
 > END STRING
 
 > BEGIN STRING
 協力させてもらうわ、\\N[1]さん。
 
 そのアバドーンとやらをぶっ潰すために…！
-> CONTEXT: Map465/events/3/pages/0/223/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/223/Dialogue/enemy38
+Let me help, \\N[1]-san.
 
+We'll crush this Abaddon!
 > END STRING
 
 > BEGIN STRING
 \\N[1]でいいよ……
 
 いや、中学生だからさん付けが妥当なんだろうけど…
-> CONTEXT: Map465/events/3/pages/0/227/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/227/Dialogue/kazuya
+You can just call me \\N[1].
 
+Then again, since you're a middle-schooler it
+might be more appropriate for you to use "san".#Ron
 > END STRING
 
 > BEGIN STRING
 ルカといいアリスといい、なんで見た目と雰囲気の年齢が
 
 かけ離れてる面子ばかりなんだろう……この一行……
-> CONTEXT: Map465/events/3/pages/0/231/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map465/events/3/pages/0/231/Dialogue/kazuya
+Luka, Alice, and now you...
 
+Why is this party filled with people who look
+so much younger than they act?#Ron/Amaboye
 > END STRING
 
 > BEGIN STRING
 水面の少し先は、滝のように途切れており
 
 その奥の景色は宇宙空間が広がっている……
-> CONTEXT: Map465/events/28/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map465/events/28/pages/2/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map465/events/28/pages/1/1/Dialogue
+> CONTEXT: Map465/events/28/pages/2/0/Dialogue
+Just a little further out, the water's surface is broken
+by what appears to be a waterfall. Beyond which is what
+seems to be outer space stretching out before us.#Ron
 > END STRING
 
 > BEGIN STRING
 この滝……どんだけの幅で、どれだけ高いんだろう
 
 向こうの景色が見えないけど……
-> CONTEXT: Map465/events/28/pages/1/5/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map465/events/28/pages/1/5/Dialogue/kazuya
+I wonder just how wide and tall that waterfall is?
 
+I can't see what's on the other side...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 \\C[2]ないよ。
 
 滝の下も、滝の向こうも、宇宙空間しかない。
-> CONTEXT: Map465/events/28/pages/1/9/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map465/events/28/pages/1/9/Dialogue/sirousagi_fc1
+\\C[2]There's nothing there.
 
+Nothing at the bottom, nothing on the other side,
+nothing at all but space.#Ron
 > END STRING
 
 > BEGIN STRING
 まさか…『地球平面説』の実物か……！？
 
 本当に存在するとはな…
-> CONTEXT: Map465/events/28/pages/1/14/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map465/events/28/pages/1/14/Dialogue/alice_fc5
+Don't tell me this is an actual "flat earth"!!
 
+I didn't think they actually existed...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -409,16 +533,19 @@
 こんな変な地形での重力維持も出来るんだと思う。
 
 数ある世界の中でも、かなりレアなのは確かだね。
-> CONTEXT: Map465/events/28/pages/1/18/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/28/pages/1/18/Dialogue/sirousagi_fc1
+I think this world can maintain its gravity with
+its weird terrain because it's not very big.
+Though among all the worlds out there, ones like
+this are certainly quite rare.#RonIffy
 > END STRING
 
 > BEGIN STRING
 キミは………
 
 うちのバーゲストと一緒に居たブラックドッグ……？
-> CONTEXT: Map465/events/29/pages/1/2/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map465/events/29/pages/1/2/Dialogue/kazuya
+You're that Black Dog who was with Barghest?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -426,15 +553,17 @@
 
 少なくとも、神社で現れた集団のように
 問答無用でこちらに襲いかかってくる気配はないようだ……
-> CONTEXT: Map465/events/29/pages/1/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map465/events/29/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map465/events/29/pages/1/6/Dialogue
+> CONTEXT: Map465/events/29/pages/2/2/Dialogue
+Black Dog is staring hard at me. But at the very least, she
+doesn't seem like she's going to single-mindedly attack me
+like the ones that appeared at the shrine.#Ron
 > END STRING
 
 > BEGIN STRING
 ウォゥン………
-> CONTEXT: Map465/events/29/pages/1/11/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map465/events/29/pages/1/11/Dialogue/enemy37
+Awoon...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -442,16 +571,20 @@
 『襲ってはダメだ』と聞かされているらしいな。
 
 あの場所で、随分と仲良くなったらしい
-> CONTEXT: Map465/events/29/pages/1/13/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map465/events/29/pages/1/13/Dialogue/alice_fc5
+It seems that Barghest of yours told her she's
+not allowed to attack you. It looks like those
+two became fast friends in that school.#Ron
 > END STRING
 
 > BEGIN STRING
 そうだ、バーゲスト…！
 
 バーゲストは、一体何処に…！？
-> CONTEXT: Map465/events/29/pages/1/19/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map465/events/29/pages/1/19/Dialogue/kazuya
+Oh yeah, Barghest...!
 
+Where on earth did she go?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -459,8 +592,10 @@
 
 \\N[1]くんの脱出を確認した後に
 バーゲスト自身も、あの世界から離脱してたよ。
-> CONTEXT: Map465/events/29/pages/1/23/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/29/pages/1/23/Dialogue/sirousagi_fc1
+She probably went back to My Room. Barghest
+herself escaped after she had confirmed that
+you'd managed to make it out.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -468,28 +603,35 @@
 ブラックドッグたちも助ける余裕があるなんて……
 
 飼い主に似て、随分とお人好しなバーゲストだ
-> CONTEXT: Map465/events/29/pages/1/28/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map465/events/29/pages/1/28/Dialogue/sirousagi_fc1
+And not just you, she also went out of her way
+to help all the Black Dogs as well. Seeing how
+good-natured she is, it's clear she's taken after
+her owner.#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ナカヨシ！！群レルノ、キライ！
 
 弱イケモノガ、ヤルコト！
-> CONTEXT: Map465/events/29/pages/1/33/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map465/events/29/pages/1/33/Dialogue/enemy37
+I HATE GETTING ALONG... FORMING PACKS!!
 
+ONLY WEAK BEASTS DO THAT!#Ron
 > END STRING
 
 > BEGIN STRING
 ヘルハウンドノ、風上ニモ置ケナイ！
 
 ヘルハウンドハ、強ク生キル！
-> CONTEXT: Map465/events/29/pages/1/37/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map465/events/29/pages/1/37/Dialogue/enemy37
+IS DISGRACE TO HELLHOUNDS!
 
+HELLHOUNDS LIVE STRONG!#CheckLater
 > END STRING
 
 > BEGIN STRING
 オルトロス！！
-> CONTEXT: Map465/events/29/pages/1/41/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map465/events/29/pages/1/41/Dialogue/enemy37
+Ortolos!!#Ron
 > END STRING

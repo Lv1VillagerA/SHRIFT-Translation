@@ -73,8 +73,11 @@
 いきなり負けてしまったのね……
 
 新たな種類の敵の出現で、戸惑ってしまったのかしら。
-> CONTEXT: CommonEvents_770/60/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/60/Dialogue/other5
+\\N[1]... You lost pretty quickly, huh.
 
+Perhaps the appearance of a new variety of enemy
+confused you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -82,8 +85,11 @@
 ひたすらに回避して、チャンスを待つの……
 
 \\C[0]忘れないで……今回、貴方は独りでは戦えないのよ……
-> CONTEXT: CommonEvents_770/65/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/65/Dialogue/other5
+\\C[2]You have no means of defeating her at this stage.
+Your only option is to focus on evading and wait
+for an opening. \\C[0]Don't forget, you're not fighting
+alone this time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -91,35 +97,42 @@
 
 大丈夫……今までの戦いをくぐり抜けてきたあなたならば
 これくらいの障害…なんてことはないはずよ…
-> CONTEXT: CommonEvents_770/70/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/70/Dialogue/other5
+That's all I can tell you.
+But don't worry... for someone like you who's
+made it this far, an obstacle like this should
+be nothing.#Ron
 > END STRING
 
 > BEGIN STRING
 元ネタに比べて、マイルド…！
 
 てっきり辛辣なコメントされると思ったのに…！
-> CONTEXT: CommonEvents_770/76/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/76/Dialogue/kazuya
+That was a pretty mild evaluation compared to the
+ones this is parodying. I thought for sure you'd
+really let me have it!#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ……行って、\\N[1]。
 
 あなたなら、この世界を救えるわ……
-> CONTEXT: CommonEvents_770/81/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/112/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/143/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/177/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/211/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/254/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/300/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/343/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/386/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/429/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/496/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/539/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/81/Dialogue/other5
+> CONTEXT: CommonEvents_770/112/Dialogue/other5
+> CONTEXT: CommonEvents_770/143/Dialogue/other5
+> CONTEXT: CommonEvents_770/177/Dialogue/other5
+> CONTEXT: CommonEvents_770/211/Dialogue/other5
+> CONTEXT: CommonEvents_770/254/Dialogue/other5
+> CONTEXT: CommonEvents_770/300/Dialogue/other5
+> CONTEXT: CommonEvents_770/343/Dialogue/other5
+> CONTEXT: CommonEvents_770/386/Dialogue/other5
+> CONTEXT: CommonEvents_770/429/Dialogue/other5
+> CONTEXT: CommonEvents_770/496/Dialogue/other5
+> CONTEXT: CommonEvents_770/539/Dialogue/other5
+Now go, \\N[1].
 
+I'm sure you can save the world.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -127,27 +140,33 @@
 ブラックドッグと交尾で逝ってしまったのね……
 
 あなた、イヌが好きなの？
-> CONTEXT: CommonEvents_770/88/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/119/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/88/Dialogue/other5
+> CONTEXT: CommonEvents_770/119/Dialogue/other5
+So you passed away from mating with Black Dog...
 
+Are you a dog person?#Ron
 > END STRING
 
 > BEGIN STRING
 今度、ペットショップで、色々な動物を見に行きましょう。
 
 それで、あなたの気が紛れるなら……
-> CONTEXT: CommonEvents_770/93/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/124/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/93/Dialogue/other5
+> CONTEXT: CommonEvents_770/124/Dialogue/other5
+If it'll help you forget your problems, let's go
+to a pet shop and have a look at all the animals
+there.#RonIffy
 > END STRING
 
 > BEGIN STRING
 いやいやいや……
 
 別にそういうことじゃなくて……
-> CONTEXT: CommonEvents_770/97/Dialogue/kazuya < UNTRANSLATED
-> CONTEXT: CommonEvents_770/128/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_770/97/Dialogue/kazuya
+> CONTEXT: CommonEvents_770/128/Dialogue/kazuya
+No, no, no...
 
+That's not what that was about...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -155,9 +174,12 @@
 だから、シルフストームや夜深のカウンターが有効よ。
 
 押し倒しも予防できるし、まず負けなくなるわ。
-> CONTEXT: CommonEvents_770/101/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/132/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/101/Dialogue/other5
+> CONTEXT: CommonEvents_770/132/Dialogue/other5
+\\C[2]Black Dog focuses heavily on physical attacks,
+so Sylph Storm or Yami's counter skill are both
+effective. They'll protect you from getting
+pinned down and stop you from losing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -165,9 +187,14 @@
 スタンの予防策をあらかじめ用意しておくと完璧ね。
 
 物理回避が高いから、魔法で攻めても良いかもしれないわ…
-> CONTEXT: CommonEvents_770/106/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/137/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/106/Dialogue/other5
+> CONTEXT: CommonEvents_770/137/Dialogue/other5
+\\C[2]Preparing Hell Break or equipping Rear Mark
+Proto in advance to deal with her roar attack
+will make your defenses perfect.
 
+Since she has high physical evasion, magic might
+be the best way to attack.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -231,24 +258,30 @@
 ベルゼバブたちに孕ませられてしまったのね……
 
 ボテ腹なあなたは、流石に見たくなかったけど……
-> CONTEXT: CommonEvents_770/218/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/218/Dialogue/other5
+You were impregnated by the Beelzebub's weren't
+you, \\N[1]. I didn't really want to see
+what you look like with a pregnant belly.#Ron
 > END STRING
 
 > BEGIN STRING
 あなたは、ああいうのでも感じて射精するのね…
 
 それならば、私もいっそのこと……
-> CONTEXT: CommonEvents_770/223/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/223/Dialogue/other5
+You can even ejaculate with that kind of thing
+happening to you. In which case I'd......#RonIffy
 > END STRING
 
 > BEGIN STRING
 無言やめてよ……
 
 なにか怖い事考えてるんじゃないかって思うから……
-> CONTEXT: CommonEvents_770/229/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_770/229/Dialogue/kazuya
+Stop with the long pause...
 
+It makes me think you're considering something
+terrifying.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -256,8 +289,13 @@
 \\C[2]『魔蠅の一撃』のダメージの大きさね。
 
 ルカの『ノーム』で軽減しないとすぐにピンチになるわ。
-> CONTEXT: CommonEvents_770/233/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/233/Dialogue/other5
+The thing you need to watch out for most of all
+when fighting the Beelzebubs is \\C[2]the high damage
+output of their "Magic Fly Attack".
 
+\\C[2]You'll quickly be in trouble if you don't have
+Luka summon Gnome to mitigate the attack.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -265,8 +303,14 @@
 \\C[2]雷と風が同時に対策できる『シルフ』がいいと思うわ。
 
 ウンディーネも召喚すると、ルカが攻撃できなくなるから……
-> CONTEXT: CommonEvents_770/238/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/238/Dialogue/other5
+You can defend against their "Triple Breath"
+attack by \\C[2]using Sylph who protects against both
+lightning and wind.
 
+You can summon Undine as well, but if you do
+you'll have trouble using Luka to attack while
+keeping their summons up during the fight.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -274,8 +318,11 @@
 そうすると、ＳＰが足りなくなってしまうわ……
 
 \\C[2]消費ＳＰの少ない行動でルーチンするのが無難ね。
-> CONTEXT: CommonEvents_770/243/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/243/Dialogue/other5
+You might want to use Luka's Chaos Star attack
+to shave off their health in one hit, but that'll
+use up his SP. \\C[2]Sticking to a routine of
+conserving his SP is the safest way to go.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -283,8 +330,11 @@
 
 弱点って程の倍率ではないけど
 アリスのサポートでも、十分ダメージを与えられるはずよ
-> CONTEXT: CommonEvents_770/248/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/248/Dialogue/other5
+\\C[2]Though it's not what you'd call a huge weakness,
+wind magic works well on them, so Alice should be
+able to do plenty of damage in her role as
+support.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -292,24 +342,33 @@
 ハイラミアの子供になってしまったのね……
 
 あなたが幸せなら、それもいいかもしれないけど……
-> CONTEXT: CommonEvents_770/261/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/261/Dialogue/other5
+So you became High Lamia's little boy...
 
+If it makes you happy, then maybe that's not so
+bad.#Ron
 > END STRING
 
 > BEGIN STRING
 やはり、あなたはママが恋しいの……？
 
 大学時代も、何度も私の事をお母さんって言い間違えて…
-> CONTEXT: CommonEvents_770/266/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/266/Dialogue/other5
+You really do miss your mommy, don't you?
 
+You accidentally called me "mom" a number of
+times even when you were in university.#Ron
 > END STRING
 
 > BEGIN STRING
 やめて！！
 
 サラッと僕の過去の恥ずかしい失敗を暴露しないで！！
-> CONTEXT: CommonEvents_770/270/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_770/270/Dialogue/kazuya
+Stop it!!
 
+Don't casually expose all my embarrassing
+slip-ups like that!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -317,8 +376,11 @@
 しかも、かなりの大ダメージを３回連続で撃ってくる。
 
 ルカの『シルフ』や『ウンディーネ』は必須ね。
-> CONTEXT: CommonEvents_770/275/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/275/Dialogue/other5
+\\C[2]High Lamia uses primarily magic-based attacks.
+She'll often come at you with bursts of three
+high-damaging attacks. Using Luka to summon
+Slyph and Undine is essential.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -326,8 +388,14 @@
 こちらが与えるダメージの底上げも出来るわ。
 
 \\C[0]必殺技でなくても、物理攻撃ならば十分なはず……
-> CONTEXT: CommonEvents_770/280/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/280/Dialogue/other5
+\\C[2]Making use of Marion's Vicious Attack Apple will
+also allow you to raise your overall damage.
 
+
+\\C[0]Even if you don't use any powerful killer moves
+against her, just chipping away at her with
+physical damage should be more than enough.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -335,8 +403,11 @@
 
 \\C[2]大天使中村の回復サポートを毎ターン使う事で
 ルカやマリオンも攻撃に専念してしまうという事も出来る…
-> CONTEXT: CommonEvents_770/285/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/285/Dialogue/other5
+And this might be somewhat of a grind for him,
+\\C[2]but by using Archangel Nakamura's recovery
+support skill every turn, you can keep Luka and
+Marion focused on attacking.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -344,16 +415,22 @@
 
 猛攻に耐えられるかどうかは、\\C[2]きっとギリギリよ。
 あまり推奨できる方法ではないわ……
-> CONTEXT: CommonEvents_770/290/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/290/Dialogue/other5
+But be careful... This isn't a method I can
+recommend since \\C[2]Luka and Marion will just barely
+be able to stay in the fight, and might easily go
+down if you're unlucky.#Ron
 > END STRING
 
 > BEGIN STRING
 ただ、中村の回復サポートはルカのＳＰも回復させる…
 
 \\C[2]多少のＳＰ消費の無茶は出来るようになるはずだわ……
-> CONTEXT: CommonEvents_770/295/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/295/Dialogue/other5
+However, Nakamura's recovery support skill also
+recovers some of Luka's SP, \\C[2]which should give you
+the option of being more loose with his SP usage
+during the battle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -361,8 +438,10 @@
 ハイスラッグ娘の繁殖相手になってしまったのね……
 
 今のあなたなら、それも幸せなのかもしれないけど……
-> CONTEXT: CommonEvents_770/307/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/307/Dialogue/other5
+So you became High Slug Girl's reproductive
+partner. The way you are now, that might actually
+be something you're happy about...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -370,16 +449,21 @@
 貴族系の悪魔に態度を弱くする傾向があるわね……
 
 もしかして……高貴な雰囲気に弱いのかしら？
-> CONTEXT: CommonEvents_770/312/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/312/Dialogue/other5
+Just like with Iron Maiden, you seem to have a
+thing for high-class demons. Is it their
+aristocratic demeanor that really does it for
+you?#Ron
 > END STRING
 
 > BEGIN STRING
 う～ん……
 
 なにも言い返せない……
-> CONTEXT: CommonEvents_770/317/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_770/317/Dialogue/kazuya
+Hmmm...
 
+I don't have a comeback for that...Ron
 > END STRING
 
 > BEGIN STRING
@@ -387,8 +471,13 @@
 回数や状態異常が怖いから、受けるより流す方が楽よ。
 
 『夜深のサポートスキル』を活用するといいわ。
-> CONTEXT: CommonEvents_770/322/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/322/Dialogue/other5
+High Slug Girl \\C[2]focuses heavily on physical
+attacks, but since she has multiple attacks and
+inflicts statuses on you, you're best to avoid
+getting hit rather than trading blows.
+\\C[2]Yami's support skill is very useful in that
+regard.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -396,8 +485,11 @@
 \\C[2]ルカのノームを召喚しておくと良いわ。
 
 ただ、『ゲラヴトゥリア』だけは雷属性な事に注意してね。
-> CONTEXT: CommonEvents_770/327/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/327/Dialogue/other5
+Of course, her counterattacks will be aimed at
+you so \\C[2]having Luka summon Gnome is a good idea.
+But be especially careful of her lightning-based
+Kerav Tria attack.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -405,8 +497,11 @@
 
 \\C[2]夜深のサポートスキルが発動できるようであれば
 それだけで大ダメージを与えられるはず。
-> CONTEXT: CommonEvents_770/332/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/332/Dialogue/other5
+You should evade whenever it looks like she's
+about to use her special move, \\C[2]but if you can
+activate Yami's counter support skill, it's also
+a chance to deal a lot of damage to her\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -414,8 +509,11 @@
 
 ルカの「壊斧・大山鳴動」が使えるようなチャンスがあれば
 一斉逆転のダメージを与えられるでしょうね……
-> CONTEXT: CommonEvents_770/337/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/337/Dialogue/other5
+\\C[2]Lightning damage is effective \\C[0]against High Slug
+Girl, so if you can use Luka's Earth Rumbling
+Decapitation, you'll do a whole lot of damage
+all at once.#Ron
 > END STRING
 
 > BEGIN STRING

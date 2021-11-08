@@ -3,106 +3,121 @@
 ふふ……捕まえた♡
 
 さぁ、可愛がってあげるわ♡
-> CONTEXT: Map468/events/31/pages/1/10/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/10/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/10/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/10/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map468/events/31/pages/1/10/Dialogue/highslag_fc1
+> CONTEXT: Map468/events/43/pages/1/10/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/31/pages/1/10/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/43/pages/1/10/Dialogue/highslag_fc1
+Fufu... got you. ♡
 
+Time to give you some love. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ふへぇぇぇぇー………
 
 やめへぇー……
-> CONTEXT: Map468/events/31/pages/1/23/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/27/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/23/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/27/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: Map468/events/31/pages/1/23/Dialogue/kazuya-c
+> CONTEXT: Map468/events/43/pages/1/27/Dialogue/kazuya-c
+> CONTEXT: Map541/events/31/pages/1/23/Dialogue/kazuya-c
+> CONTEXT: Map541/events/43/pages/1/27/Dialogue/kazuya-c
+Fuheeeeh...
 
+Shtoooop...#Ron
 > END STRING
 
 > BEGIN STRING
 あらあら……お餅みたいなほっぺたね…♡
 
 どこまで伸びるのかしら……？♡
-> CONTEXT: Map468/events/31/pages/1/27/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/31/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/27/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/31/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map468/events/31/pages/1/27/Dialogue/highslag_fc1
+> CONTEXT: Map468/events/43/pages/1/31/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/31/pages/1/27/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/43/pages/1/31/Dialogue/highslag_fc1
+Oh my, your cheeks are as soft and bouncy as rice
+cakes. I wonder how much I can stretch them... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あうああああーーー
-> CONTEXT: Map468/events/31/pages/1/32/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/36/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/32/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/36/Dialogue/kazuya-c < UNTRANSLATED
-
+> CONTEXT: Map468/events/31/pages/1/32/Dialogue/kazuya-c
+> CONTEXT: Map468/events/43/pages/1/36/Dialogue/kazuya-c
+> CONTEXT: Map541/events/31/pages/1/32/Dialogue/kazuya-c
+> CONTEXT: Map541/events/43/pages/1/36/Dialogue/kazuya-c
+Auaaaah...#Ron
 > END STRING
 
 > BEGIN STRING
 ふふふ……スベスベで柔らかい肌……
 
 ここにヌルヌルを垂らすとどうなるかしら…？
-> CONTEXT: Map468/events/31/pages/1/34/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/38/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/34/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/38/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map468/events/31/pages/1/34/Dialogue/highslag_fc1
+> CONTEXT: Map468/events/43/pages/1/38/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/31/pages/1/34/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/43/pages/1/38/Dialogue/highslag_fc1
+Fufufu... Your skin is so soft and smooth...
 
+What if I were to dribble some of my slime
+over it, too...?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ひへえええ…！ちべたい……！
 
 くずぐったひほぅ……
-> CONTEXT: Map468/events/31/pages/1/39/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/43/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/39/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/43/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: Map468/events/31/pages/1/39/Dialogue/kazuya-c
+> CONTEXT: Map468/events/43/pages/1/43/Dialogue/kazuya-c
+> CONTEXT: Map541/events/31/pages/1/39/Dialogue/kazuya-c
+> CONTEXT: Map541/events/43/pages/1/43/Dialogue/kazuya-c
+Hiheeee!
 
+Aaah, that chtickles...#CheckLater
 > END STRING
 
 > BEGIN STRING
 ハイスラッグ娘は、
 
 \\N[1]を存分に『可愛がった』あと、解放してくれた…
-> CONTEXT: Map468/events/31/pages/1/47/Dialogue < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/51/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/47/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/31/pages/1/47/Dialogue
+> CONTEXT: Map468/events/43/pages/1/51/Dialogue
+> CONTEXT: Map541/events/31/pages/1/47/Dialogue
+> CONTEXT: Map541/events/43/pages/1/51/Dialogue
+High Slug released \\N[1] after spoiling him to her
+heart's content.#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ、ここまで来れば安全のはずよ。
 
 くれぐれも、他の魔物に捕まらないようにね……
-> CONTEXT: Map468/events/31/pages/1/59/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/63/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/59/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/63/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map468/events/31/pages/1/59/Dialogue/highslag_fc1
+> CONTEXT: Map468/events/43/pages/1/63/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/31/pages/1/59/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/43/pages/1/63/Dialogue/highslag_fc1
+Now then, you should be safe having gotten this
+far. Try your best to not get caught by another
+monster, okay?#Ron
 > END STRING
 
 > BEGIN STRING
 どういうことだ、貴様！
 
 なぜ\\N[1]を性的に襲わんのだ！！？
-> CONTEXT: Map468/events/31/pages/1/64/Dialogue/alice_fc6 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/68/Dialogue/alice_fc6 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/64/Dialogue/alice_fc6 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/68/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map468/events/31/pages/1/64/Dialogue/alice_fc6
+> CONTEXT: Map468/events/43/pages/1/68/Dialogue/alice_fc6
+> CONTEXT: Map541/events/31/pages/1/64/Dialogue/alice_fc6
+> CONTEXT: Map541/events/43/pages/1/68/Dialogue/alice_fc6
+What're you playing at!
 
+Why didn't you sexually assault \\N[1]?!!#Ron
 > END STRING
 
 > BEGIN STRING
 アリス、なんで怒ってるの…？
-> CONTEXT: Map468/events/31/pages/1/68/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/72/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/68/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/72/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map468/events/31/pages/1/68/Dialogue/ruka_fc1
+> CONTEXT: Map468/events/43/pages/1/72/Dialogue/ruka_fc1
+> CONTEXT: Map541/events/31/pages/1/68/Dialogue/ruka_fc1
+> CONTEXT: Map541/events/43/pages/1/72/Dialogue/ruka_fc1
+Why're you so mad about that, Alice?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -110,11 +125,14 @@
 
 でも、私が好きなのは、あくまで大人のほう…
 \\C[2]交尾相手としての、私の認めた\\N[1]よ。
-> CONTEXT: Map468/events/31/pages/1/71/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/75/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/71/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/75/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map468/events/31/pages/1/71/Dialogue/highslag_fc1
+> CONTEXT: Map468/events/43/pages/1/75/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/31/pages/1/71/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/43/pages/1/75/Dialogue/highslag_fc1
+If this were my first time meeting him, I
+might've done just that, \\C[2]but the one I like
+is the adult \\N[1] that I recognized as my
+mating partner.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -122,11 +140,14 @@
 以前の姿に戻るまで、生き延びてもらわないと……
 
 だから、今は見逃してあげるってだけよ
-> CONTEXT: Map468/events/31/pages/1/76/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/80/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/76/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/80/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map468/events/31/pages/1/76/Dialogue/highslag_fc1
+> CONTEXT: Map468/events/43/pages/1/80/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/31/pages/1/76/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/43/pages/1/80/Dialogue/highslag_fc1
+It would be a waste to devour him while he's in
+this smaller state, which is why I would like him
+to survive until he can return to normal. So I'm
+letting you all go.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -134,76 +155,86 @@
 その時まで、ちゃんと生きている事ね……
 
 それでは、ごきげんよう。
-> CONTEXT: Map468/events/31/pages/1/81/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/85/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/81/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/85/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map468/events/31/pages/1/81/Dialogue/highslag_fc1
+> CONTEXT: Map468/events/43/pages/1/85/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/31/pages/1/81/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/43/pages/1/85/Dialogue/highslag_fc1
+If we should meet again when he's back to normal,
+I won't show the same leniency. So be sure to
+stay alive until then. Now then, good day to you.#Ron
 > END STRING
 
 > BEGIN STRING
 ハイスラッグ娘は去っていった……
-> CONTEXT: Map468/events/31/pages/1/92/Dialogue < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/96/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/92/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/31/pages/1/92/Dialogue
+> CONTEXT: Map468/events/43/pages/1/96/Dialogue
+> CONTEXT: Map541/events/31/pages/1/92/Dialogue
+> CONTEXT: Map541/events/43/pages/1/96/Dialogue
+High Slug girl left...#Ron
 > END STRING
 
 > BEGIN STRING
 アリス……どうしたの？
 
 煮え切らないって顔してるけど……
-> CONTEXT: Map468/events/31/pages/1/99/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/103/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/99/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/103/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map468/events/31/pages/1/99/Dialogue/ruka_fc1
+> CONTEXT: Map468/events/43/pages/1/103/Dialogue/ruka_fc1
+> CONTEXT: Map541/events/31/pages/1/99/Dialogue/ruka_fc1
+> CONTEXT: Map541/events/43/pages/1/103/Dialogue/ruka_fc1
+Alice... what's wrong?
 
+You have this indecisive look on your face.#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんでもないわ！
 
 さっさと先に進むぞ！たわけめ！！
-> CONTEXT: Map468/events/31/pages/1/103/Dialogue/alice_fc6 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/107/Dialogue/alice_fc6 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/103/Dialogue/alice_fc6 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/107/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map468/events/31/pages/1/103/Dialogue/alice_fc6
+> CONTEXT: Map468/events/43/pages/1/107/Dialogue/alice_fc6
+> CONTEXT: Map541/events/31/pages/1/103/Dialogue/alice_fc6
+> CONTEXT: Map541/events/43/pages/1/107/Dialogue/alice_fc6
+I-It's nothing!
 
+Hurry up and let's go, you idiot!!#Ron
 > END STRING
 
 > BEGIN STRING
 だからなんで怒ってるの……？
-> CONTEXT: Map468/events/31/pages/1/107/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map468/events/43/pages/1/111/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/31/pages/1/107/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/43/pages/1/111/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map468/events/31/pages/1/107/Dialogue/ruka_fc1
+> CONTEXT: Map468/events/43/pages/1/111/Dialogue/ruka_fc1
+> CONTEXT: Map541/events/31/pages/1/107/Dialogue/ruka_fc1
+> CONTEXT: Map541/events/43/pages/1/111/Dialogue/ruka_fc1
+Why are you so angry about this?#Ron
 > END STRING
 
 > BEGIN STRING
 あら……ごきげんよう。
 
 なにやらとても慌てているようね…？
-> CONTEXT: Map468/events/35/pages/0/10/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/35/pages/0/9/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map468/events/35/pages/0/10/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/35/pages/0/9/Dialogue/highslag_fc1
+Well hello there.
 
+You seem to be rather flustered.#Ron
 > END STRING
 
 > BEGIN STRING
 あ、あのときの……！？
-> CONTEXT: Map468/events/35/pages/0/14/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map541/events/35/pages/0/13/Dialogue/kazuya-c < UNTRANSLATED
-
+> CONTEXT: Map468/events/35/pages/0/14/Dialogue/kazuya-c
+> CONTEXT: Map541/events/35/pages/0/13/Dialogue/kazuya-c
+Y-You're from back then...#Ron
 > END STRING
 
 > BEGIN STRING
 以前言ってた、ハイスラッグ娘か…！！
 
 こ、こんな時に…
-> CONTEXT: Map468/events/35/pages/0/16/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/35/pages/0/15/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map468/events/35/pages/0/16/Dialogue/ruka_fc1
+> CONTEXT: Map541/events/35/pages/0/15/Dialogue/ruka_fc1
+So you're the High Slug they were talking about!!
 
+And at a time like this...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -211,18 +242,23 @@
 少し見ない間に随分とかわいらしくなって…♡
 
 フフ……少し抱かせてちょうだい♡
-> CONTEXT: Map468/events/35/pages/0/21/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/35/pages/0/20/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map468/events/35/pages/0/21/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/35/pages/0/20/Dialogue/highslag_fc1
+Oh my, you've become so cute in the short moment
+I took my eyes off you... ♡
 
+Fufu... let me give you a little squeeze. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 大丈夫よ、食べたりしないから♡
 
 ちょっと可愛がってあげるだけ…♡
-> CONTEXT: Map468/events/35/pages/0/26/Dialogue/highslag_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/35/pages/0/25/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map468/events/35/pages/0/26/Dialogue/highslag_fc1
+> CONTEXT: Map541/events/35/pages/0/25/Dialogue/highslag_fc1
+It's okay, I won't eat you or anything. ♡
 
+I just want to spoil you a little... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -230,44 +266,53 @@
 今の私たちじゃ、あの子にも敵わないのね…
 
 逃げるわよ！！
-> CONTEXT: Map468/events/35/pages/0/30/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Map541/events/35/pages/0/29/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map468/events/35/pages/0/30/Dialogue/enemy38
+> CONTEXT: Map541/events/35/pages/0/29/Dialogue/enemy38
+As much as I'd like to turn the tables on her, we
+aren't in a position to do that right now.
 
+Stay away from her!!#Ron
 > END STRING
 
 > BEGIN STRING
 暖炉の上にスイッチがある……
 
 押してみますか？
-> CONTEXT: Map468/events/37/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/37/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map468/events/37/pages/1/2/Dialogue
+> CONTEXT: Map541/events/37/pages/1/2/Dialogue
+There's a switch above the fireplace...
 
+Try pushing it?#Ron
 > END STRING
 
 > BEGIN STRING
 レバーがある……
 
 動かしてみますか？
-> CONTEXT: Map468/events/45/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/45/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map468/events/45/pages/0/2/Dialogue
+> CONTEXT: Map541/events/45/pages/0/2/Dialogue
+There's a lever here...
 
+Try moving it?#Ron
 > END STRING
 
 > BEGIN STRING
 
 　　　　　　　　ナード男爵の手記
-> CONTEXT: Map468/events/46/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/46/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map468/events/46/pages/1/2/Dialogue
+> CONTEXT: Map541/events/46/pages/1/2/Dialogue
 
+          Baron Nerd's Notes#Ron
 > END STRING
 
 > BEGIN STRING
 我らが同胞、オタク男爵の家系が潰えてから
 
 もう随分と、月日がたったように思える……
-> CONTEXT: Map468/events/46/pages/1/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/46/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/46/pages/1/6/Dialogue
+> CONTEXT: Map541/events/46/pages/1/6/Dialogue
+It feels like it's been quite some time since the fall of
+our brethren, the house of Baron Otaku.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -275,9 +320,12 @@
 あの凶悪な『ヴァンパイア』を封印し続けてきたというのに…
 
 その仕打ちがこれか……
-> CONTEXT: Map468/events/46/pages/1/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/46/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/46/pages/1/11/Dialogue
+> CONTEXT: Map541/events/46/pages/1/11/Dialogue
+Our previous generations, with the blessings of the
+angels, fervently carried on their duty of continuing to
+seal away the vicious "vampires"...
+And *this* is what they repay us with.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -285,9 +333,12 @@
 
 魔物討伐に際しての、足がかりの拠点とするためらしい
 この洋館が、なんのために建てられたのかも知らずに……
-> CONTEXT: Map468/events/46/pages/1/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/46/pages/1/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/46/pages/1/17/Dialogue
+> CONTEXT: Map541/events/46/pages/1/17/Dialogue
+They sentenced my family into exile from this place as
+a punishment. They forgot that the estate was supposed
+to be a foothold for holding back the threat of
+monsters...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -295,9 +346,12 @@
 天使どもは忘れてしまっているらしい……
 
 『受け継ぐ』事をしない、奴ららしい結果だ。
-> CONTEXT: Map468/events/46/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/46/pages/1/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/46/pages/1/23/Dialogue
+> CONTEXT: Map541/events/46/pages/1/23/Dialogue
+It would seem that as the ages passed, the foolish angels
+themselves had forgotten about the beings they had once
+ordered us to seal away. That they've forgotten about this
+duty is proof of their stupidity.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -305,9 +359,12 @@
 
 意志と、誇りと、その精神だけは受け継がれなければならない
 例え何があろうとも……
-> CONTEXT: Map468/events/46/pages/1/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/46/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map468/events/46/pages/1/29/Dialogue
+> CONTEXT: Map541/events/46/pages/1/29/Dialogue
+But... we humans are different.
 
+Our will, our pride, and our spirit, are things that we
+must always pass on, come what may...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -315,9 +372,12 @@
 
 貴公はおそらく、人間なのだろう。
 天使や悪魔は、こんな人間の仕掛けには興味が無い。
-> CONTEXT: Map468/events/46/pages/1/35/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/46/pages/1/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map468/events/46/pages/1/35/Dialogue
+> CONTEXT: Map541/events/46/pages/1/35/Dialogue
+You, the one reading this letter, are most likely human.
 
+The sort of human who has no interest in the games of
+angels and demons.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -325,18 +385,23 @@
 この鎧だけは、奴らの手に渡らないよう、ここに隠した。
 
 この先代の鎧だけは……失われてはならないからだ。
-> CONTEXT: Map468/events/46/pages/1/41/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/46/pages/1/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/46/pages/1/41/Dialogue
+> CONTEXT: Map541/events/46/pages/1/41/Dialogue
+Though they took everything from me, this piece of armor
+is the one thing I will not let them have, so I've hidden
+it here. This armor of my forefathers is the only thing
+I must never lose.#Ron
 > END STRING
 
 > BEGIN STRING
 もし貴公に、何かの脅威へ立ち向かう意志があるのであれば…
 
 この鎧を、是非ともその成就のために役立てて欲しい。
-> CONTEXT: Map468/events/46/pages/1/47/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/46/pages/1/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/46/pages/1/47/Dialogue
+> CONTEXT: Map541/events/46/pages/1/47/Dialogue
+Should you possess the will to stand against some kind of
+menace, please take it to help you in that quest. I hope
+it proves useful.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -344,9 +409,12 @@
 追放された我ら一族が全て死んでしまったときに復活する……
 
 その時はきっと、天使の加護は受けられぬであろう。
-> CONTEXT: Map468/events/46/pages/1/52/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/46/pages/1/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/46/pages/1/52/Dialogue
+> CONTEXT: Map541/events/46/pages/1/52/Dialogue
+Should the vampires we sealed away with our bloodline
+revive after the banishment and deaths of our family... I
+don't expect the angels will provide any of their divine
+protection.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -354,9 +422,12 @@
 この先の戦いで、武運があらんことを……
 
 　　　　　　　　　　　　　　レイワ・ナード・アルキメデス
-> CONTEXT: Map468/events/46/pages/1/58/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/46/pages/1/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map468/events/46/pages/1/58/Dialogue
+> CONTEXT: Map541/events/46/pages/1/58/Dialogue
+To the reader of this letter, may the fortunes of war be
+in your favor...
 
+                Raywa Nerd Archimedes#Ron
 > END STRING
 
 > BEGIN STRING
@@ -523,7 +594,8 @@
 
 > BEGIN STRING
 レバー：\\C[10]方向キー押しっぱなしでも回せるよ
-> CONTEXT: Map468/events/60/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/60/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/60/pages/0/0/Dialogue
+> CONTEXT: Map541/events/60/pages/0/0/Dialogue
+Hint: \\C[10]You can turn the cranks just by holding down
+the movement key when facing them.#RonLocalization
 > END STRING

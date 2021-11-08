@@ -10,14 +10,14 @@
 
 > BEGIN STRING
 \\N[1]は、ベルゼバブたちに敗北してしまった……
-> CONTEXT: CommonEvents_789/177/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_789/177/Dialogue
+\\N[1] has been defeated by the Beelzebubs...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ハイラミアに敗北してしまった……
-> CONTEXT: CommonEvents_789/212/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_789/212/Dialogue
+\\N[1] has been defeated by High Lamia...#Ron
 > END STRING
 
 > BEGIN STRING

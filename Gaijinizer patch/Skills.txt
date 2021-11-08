@@ -5317,62 +5317,62 @@ has trapped Kazuya's body inside her clothes!#DL
 
 > BEGIN STRING
 蹂躙撃
-> CONTEXT: Skills/406/name < UNTRANSLATED
-
+> CONTEXT: Skills/406/name
+Overrun#Ron
 > END STRING
 
 > BEGIN STRING
 は周囲を飛び回り、相手を蹂躙した！
-> CONTEXT: Skills/406/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/406/message1
+ leaps around and tramples her opponents!#Ron
 > END STRING
 
 > BEGIN STRING
 火や冷気や真空波の入り交じったブレスが\\N[1]たちを襲う！！！！！！！！！！
 > CONTEXT: Skills/407/message2 < UNTRANSLATED
-
+The party is hit with waves of heat, frost, and void!#Ron
 > END STRING
 
 > BEGIN STRING
 トリプルブレス
-> CONTEXT: Skills/407/name < UNTRANSLATED
-
+> CONTEXT: Skills/407/name
+Triple Breath#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]たちにトリプルブレスを吹きかけた！
-> CONTEXT: Skills/407/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/407/message1
+ blows Triple Breath onto \\N[1]'s party!#Ron
 > END STRING
 
 > BEGIN STRING
 強烈な一撃が\\N[1]たちを襲う…！
-> CONTEXT: Skills/408/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/408/message2
+The party is hit with a powerful attack!#Ron
 > END STRING
 
 > BEGIN STRING
 魔蠅の一撃
-> CONTEXT: Skills/408/name < UNTRANSLATED
-
+> CONTEXT: Skills/408/name
+Magic Fly Attack#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]たちに魔蠅の一撃を放った！
-> CONTEXT: Skills/408/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/408/message1
+ unleashes Magic Fly Attack on \\N[1]'s party!#Ron
 > END STRING
 
 > BEGIN STRING
 アンスタン
-> CONTEXT: Skills/409/name < UNTRANSLATED
-
+> CONTEXT: Skills/409/name
+Anston#RonIffy
 > END STRING
 
 > BEGIN STRING
 はアンスタンを放った！
-> CONTEXT: Skills/409/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/409/message1
+ unleashes Anston#Ron
 > END STRING
 
 > BEGIN STRING
@@ -5531,26 +5531,26 @@ Submissive Masturbation#afrgPR
 
 > BEGIN STRING
 ケラヴトゥリア
-> CONTEXT: Skills/421/name < UNTRANSLATED
-
+> CONTEXT: Skills/421/name
+Kerav Tria#RonIffy
 > END STRING
 
 > BEGIN STRING
 はケラヴトゥリアを放った！
-> CONTEXT: Skills/421/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/421/message1
+ unleashes Kerav Tria!#Ron
 > END STRING
 
 > BEGIN STRING
 スプラッシュフルーレ
-> CONTEXT: Skills/422/name < UNTRANSLATED
-
+> CONTEXT: Skills/422/name
+Splash Fleuret#RonIffy
 > END STRING
 
 > BEGIN STRING
 はスプラッシュフルーレを放った！
-> CONTEXT: Skills/422/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/422/message1
+ unleashes Splash Fleuret!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -5574,7 +5574,7 @@ Submissive Masturbation#afrgPR
 > CONTEXT: Skills/754/description
 > CONTEXT: Skills/846/description
 > CONTEXT: Skills/862/description
-Deals non-attribute magical damage to your opponent. 
+Deals null-type magical damage to your opponent. 
 Does little damage, but ignores magic resistance.#afrg
 > END STRING
 
@@ -7931,14 +7931,14 @@ Specialty: Ruinous Breast Squeezing#afrg
 
 > BEGIN STRING
 スゥイート・タイム
-> CONTEXT: Skills/662/name < UNTRANSLATED
-
+> CONTEXT: Skills/662/name
+Sweet Boy#Ron
 > END STRING
 
 > BEGIN STRING
 は子供化の魔法を唱えた！！
-> CONTEXT: Skills/662/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/662/message1
+ casts her shotification spell!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8412,60 +8412,63 @@ Fear Curse Symbol#afrg
 > BEGIN STRING
 \\\>\\C[0]特性：１ターンの間、全員のダメージを半減する。
 \\\>\\C[24]『兎リンゴ』を装備時に使用可能
-> CONTEXT: Skills/722/description < UNTRANSLATED
-
+> CONTEXT: Skills/722/description
+\\\>\\C[0]Characteristics: Reduces damage received for one turn.
+\\\>\\C[24]Can only use when "Rabbit Apple" is equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 は兎リンゴを使った！
-> CONTEXT: Skills/722/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/722/message1
+　used Rabbit Apple!#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\C[0]特性：ルカのＳＰを全回復する。
 \\\>\\C[24]『緑リンゴ』を装備時に使用可能
-> CONTEXT: Skills/724/description < UNTRANSLATED
-
+> CONTEXT: Skills/724/description
+\\\>\\C[0]Characteristics: Fully recovers Luka's SP.
+\\\>\\C[24]Can only use when "Green Apple" is equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 は緑リンゴを使った！
-> CONTEXT: Skills/724/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/724/message1
+　used Green Apple!#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\C[0]特性：味方全員のＨＰを回復する。
 \\\>\\C[24]『赤リンゴ』を装備時に使用可能
-> CONTEXT: Skills/728/description < UNTRANSLATED
-
+> CONTEXT: Skills/728/description
+\\\>\\C[0]Characteristics: Fully recovers HP of all allies.
+\\\>\\C[24]Can only use when "Red Apple" is equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 は回復リンゴを使った！
-> CONTEXT: Skills/728/message1 < UNTRANSLATED
-> CONTEXT: Skills/894/message1 < UNTRANSLATED
-> CONTEXT: Skills/951/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/728/message1
+> CONTEXT: Skills/894/message1
+> CONTEXT: Skills/951/message1
+ uses a Recovery Apple!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]の精気が快楽と引き換えにみるみる吸い取られていく…！
-> CONTEXT: Skills/729/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/729/message2
+\\N[1]'s being quickly drained in exchange for pleasure!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 スラッグドレイン
-> CONTEXT: Skills/729/name < UNTRANSLATED
-
+> CONTEXT: Skills/729/name
+Slug Drain#Ron
 > END STRING
 
 > BEGIN STRING
 は、\\N[1]の身体を蛞蝓の身体で玩んだ！
-> CONTEXT: Skills/729/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/729/message1
+ uses her slug body to play with \\N[1]'s body!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8736,12 +8739,13 @@ It's over.#Triketos
 > BEGIN STRING
 ミズキのサポートスキル。
 相手に物理属性超特大ダメージを与える。
-> CONTEXT: Skills/755/description < UNTRANSLATED
-> CONTEXT: Skills/766/description < UNTRANSLATED
-> CONTEXT: Skills/788/description < UNTRANSLATED
-> CONTEXT: Skills/790/description < UNTRANSLATED
-> CONTEXT: Skills/930/description < UNTRANSLATED
-
+> CONTEXT: Skills/755/description
+> CONTEXT: Skills/766/description
+> CONTEXT: Skills/788/description
+> CONTEXT: Skills/790/description
+> CONTEXT: Skills/930/description
+One of Mizuki's support skills.
+Deals high physical damage to an opponent.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9178,9 +9182,9 @@ Great physical damage to a single enemy.#MTLed
 
 > BEGIN STRING
 の傍らで、ミズキはケルベロスを叩きつけた！
-> CONTEXT: Skills/790/message1 < UNTRANSLATED
-> CONTEXT: Skills/930/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/790/message1
+> CONTEXT: Skills/930/message1
+ looks on as Mizuki slams Cerberus into the ground!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -9765,11 +9769,12 @@ Demon Queen's Play#Ron
 > BEGIN STRING
 アリスのサポートスキル。
 相手に魔法の火炎属性特大ダメージを与える。
-> CONTEXT: Skills/855/description < UNTRANSLATED
-> CONTEXT: Skills/905/description < UNTRANSLATED
-> CONTEXT: Skills/939/description < UNTRANSLATED
-> CONTEXT: Skills/940/description < UNTRANSLATED
-
+> CONTEXT: Skills/855/description
+> CONTEXT: Skills/905/description
+> CONTEXT: Skills/939/description
+> CONTEXT: Skills/940/description
+One of Alice's support skills.
+Deals heavy fire damage to an enemy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10152,37 +10157,39 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 武器切り替え
-> CONTEXT: Skills/890/name < UNTRANSLATED
-
+> CONTEXT: Skills/890/name
+Weapon Swap#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[13]【属性】物理　\\C[14]【威力】中×２
 \\C[0]特性：\\C[24]必中攻撃
-> CONTEXT: Skills/891/description < UNTRANSLATED
-
+> CONTEXT: Skills/891/description
+\\\>\\C[13]Type: Physical　\\C[14]Power: Medium x2
+\\\>\\C[0]Characteristic: \\C[24]Guaranteed to hit.#Ron
 > END STRING
 
 > BEGIN STRING
 マスケット
-> CONTEXT: Skills/891/name < UNTRANSLATED
-> CONTEXT: Skills/945/name < UNTRANSLATED
-
+> CONTEXT: Skills/891/name
+> CONTEXT: Skills/945/name
+Musket#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[13]【属性】火　\\C[14]【威力】大×１
 \\C[0]特性：\\C[24]次ターン開始時、自身のＨＰ２０％回復
-> CONTEXT: Skills/892/description < UNTRANSLATED
-> CONTEXT: Skills/947/description < UNTRANSLATED
-
+> CONTEXT: Skills/892/description
+> CONTEXT: Skills/947/description
+\\C[13]Type: Fire　\\C[14]Power: High x1
+\\C[0]Characteristic: \\C[24]Marion will recover 20% HP next turn.#Ron
 > END STRING
 
 > BEGIN STRING
 てつはう
-> CONTEXT: Skills/892/name < UNTRANSLATED
-> CONTEXT: Skills/947/name < UNTRANSLATED
-
+> CONTEXT: Skills/892/name
+> CONTEXT: Skills/947/name
+Tetsuhau#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10206,9 +10213,9 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 回復リンゴ
-> CONTEXT: Skills/894/name < UNTRANSLATED
-> CONTEXT: Skills/951/name < UNTRANSLATED
-
+> CONTEXT: Skills/894/name
+> CONTEXT: Skills/951/name
+Recovery Apple#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10220,14 +10227,14 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 減欲リンゴ
-> CONTEXT: Skills/895/name < UNTRANSLATED
-
+> CONTEXT: Skills/895/name
+Lust-Inhibiting Apple#Ron
 > END STRING
 
 > BEGIN STRING
 は減欲リンゴを使った！
-> CONTEXT: Skills/895/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/895/message1
+ uses Lust-Inhibiting Apple!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10239,14 +10246,14 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 猛攻リンゴ
-> CONTEXT: Skills/896/name < UNTRANSLATED
-
+> CONTEXT: Skills/896/name
+Vicious Attack Apple#Ron
 > END STRING
 
 > BEGIN STRING
 は猛攻リンゴを使った！
-> CONTEXT: Skills/896/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/896/message1
+ uses Vicious Attack Apple!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10257,34 +10264,35 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 猫翔斬
-> CONTEXT: Skills/897/name < UNTRANSLATED
-
+> CONTEXT: Skills/897/name
+Flying Feline Slash#Ron
 > END STRING
 
 > BEGIN STRING
 のサポートスキルが発動！
-> CONTEXT: Skills/897/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/897/message1
+ activates a support skill!#Ron
 > END STRING
 
 > BEGIN STRING
 夜深のサポートスキル。
 このターンで\\N[1]が受ける物理攻撃を無効化し、回数分反撃する。
-> CONTEXT: Skills/898/description < UNTRANSLATED
-
+> CONTEXT: Skills/898/description
+One of Yami's support skills.
+Nullifies received physical damage and counterattacks.#Ron
 > END STRING
 
 > BEGIN STRING
 統治者の眼光
-> CONTEXT: Skills/898/name < UNTRANSLATED
-> CONTEXT: States/225/name < UNTRANSLATED
-
+> CONTEXT: Skills/898/name
+> CONTEXT: States/225/name
+Sovereign's Insight#Ron
 > END STRING
 
 > BEGIN STRING
 を守るために、夜深は意識を集中した！
-> CONTEXT: Skills/898/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/898/message1
+'s defense in mind, Yami centers herself.#RonLocalisation
 > END STRING
 
 > BEGIN STRING
@@ -10301,49 +10309,50 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 夜深は魔撃の号令を放った！！
-> CONTEXT: Skills/900/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/900/message2
+Yami unleashes Sovereign's Magic Decree!#Ron
 > END STRING
 
 > BEGIN STRING
 夜深のサポートスキル。
 このターンの間、\\N[1]の魔法攻撃力を大幅に上昇させる。
-> CONTEXT: Skills/900/description < UNTRANSLATED
-
+> CONTEXT: Skills/900/description
+One of Yami's support skills. Drastically increases
+\\N[1]'s magic attack on the turn it's used.#Ron
 > END STRING
 
 > BEGIN STRING
 魔撃の号令
-> CONTEXT: Skills/900/name < UNTRANSLATED
-
+> CONTEXT: Skills/900/name
+Sovereign's Magic Decree#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 のサポートスキル発動！
-> CONTEXT: Skills/900/message1 < UNTRANSLATED
-> CONTEXT: Skills/931/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/900/message1
+> CONTEXT: Skills/931/message1
+ activates a support skill!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]には、その剣先を目視することすら出来ない！！
-> CONTEXT: Skills/901/message2 < UNTRANSLATED
-> CONTEXT: Skills/904/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/901/message2
+> CONTEXT: Skills/904/message2
+The tip of her blade is a blur!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ノブレス・オブリージュ
-> CONTEXT: Skills/901/name < UNTRANSLATED
-> CONTEXT: Skills/904/name < UNTRANSLATED
-
+> CONTEXT: Skills/901/name
+> CONTEXT: Skills/904/name
+Noblesse Oblige#Ron
 > END STRING
 
 > BEGIN STRING
 は、凄まじい連続突きを放ってきた！
-> CONTEXT: Skills/901/message1 < UNTRANSLATED
-> CONTEXT: Skills/904/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/901/message1
+> CONTEXT: Skills/904/message1
+ unleashes a tremendous series of thrusts!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10398,364 +10407,379 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 \\N[1]の前方に、灼熱の業火が展開される…！！
-> CONTEXT: Skills/905/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/905/message2
+Scorching hellfire is unleashed in front of him!!#Ron
 > END STRING
 
 > BEGIN STRING
 プロミネンス
-> CONTEXT: Skills/905/name < UNTRANSLATED
-
+> CONTEXT: Skills/905/name
+Prominence#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、アリスはプロミネンスを放った！
-> CONTEXT: Skills/905/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/905/message1
+ hears Alice cast Prominence!#RonLocalisationIffy
 > END STRING
 
 > BEGIN STRING
 \\N[1]の前方に、凍てつく絶対零度が展開される…！！
-> CONTEXT: Skills/906/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/906/message2
+The power of absolute zero is unleashed in front of him!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 アリスのサポートスキル。
 相手に魔法の氷結属性特大ダメージを与える。
-> CONTEXT: Skills/906/description < UNTRANSLATED
-> CONTEXT: Skills/938/description < UNTRANSLATED
-
+> CONTEXT: Skills/906/description
+> CONTEXT: Skills/938/description
+One of Alice's support skills.
+Deals heavy ice damage to an enemy.#Ron
 > END STRING
 
 > BEGIN STRING
 アイスエイジ
-> CONTEXT: Skills/906/name < UNTRANSLATED
-
+> CONTEXT: Skills/906/name
+Ice Age#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、アリスはアイスエイジを放った！
-> CONTEXT: Skills/906/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/906/message1
+ hears Alice cast Ice Age!#RonLocalisationIffy
 > END STRING
 
 > BEGIN STRING
 \\N[1]の前方に、無慈悲な閃光を放つ雷の渦が展開される…！！
-> CONTEXT: Skills/907/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/907/message2
+A merciless vortex of lightning is unleashed!!#Ron
 > END STRING
 
 > BEGIN STRING
 アリスのサポートスキル。
 相手に魔法の電撃属性特大ダメージを与える。
-> CONTEXT: Skills/907/description < UNTRANSLATED
-
+> CONTEXT: Skills/907/description
+One of Alice's support skills.
+Deals heavy lightning damage to an enemy.#Ron
 > END STRING
 
 > BEGIN STRING
 ライトニング
-> CONTEXT: Skills/907/name < UNTRANSLATED
-
+> CONTEXT: Skills/907/name
+Lightning#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、アリスはライトニングを放った！
-> CONTEXT: Skills/907/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/907/message1
+ hears Alice cast Lightning!#RonLocalisation
 > END STRING
 
 > BEGIN STRING
 \\N[1]の前方に、凄まじい真空波が展開される…！！
-> CONTEXT: Skills/908/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/908/message2
+An intense wave of vacuum space is unleashed!!#Ron
 > END STRING
 
 > BEGIN STRING
 アリスのサポートスキル。
 相手に魔法の疾風属性大ダメージを与える。
-> CONTEXT: Skills/908/description < UNTRANSLATED
-
+> CONTEXT: Skills/908/description
+One of Alice's support skills.
+Deals heavy wind damage to an enemy.#Ron
 > END STRING
 
 > BEGIN STRING
 デルタエアロ
-> CONTEXT: Skills/908/name < UNTRANSLATED
-
+> CONTEXT: Skills/908/name
+Delta Aero#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、アリスはデルタエアロを放った！
-> CONTEXT: Skills/908/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/908/message1
+ hears Alice cast Delta Aero!#RonLocalisationIffy
 > END STRING
 
 > BEGIN STRING
 \\C[2]味方の風・雷属性の被ダメージ軽減
 \\C[6]味方の物理・魔法命中率２０％上昇
-> CONTEXT: Skills/910/description < UNTRANSLATED
-
+> CONTEXT: Skills/910/description
+\\C[2]Reduces incoming wind and lightning damage for the party.
+\\C[6]Increases accuracy of physical and wind attacks by 20%.#Ron
 > END STRING
 
 > BEGIN STRING
 シルフ
-> CONTEXT: Skills/910/name < UNTRANSLATED
-> CONTEXT: States/233/name < UNTRANSLATED
-
+> CONTEXT: Skills/910/name
+> CONTEXT: States/233/name
+Sylph#Ron
 > END STRING
 
 > BEGIN STRING
 はシルフを召喚した！
-> CONTEXT: Skills/910/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/910/message1
+ summoned Sylph!#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]味方の物理属性の被ダメージ軽減
 \\C[6]味方のスタン無効付与
-> CONTEXT: Skills/911/description < UNTRANSLATED
-
+> CONTEXT: Skills/911/description
+\\C[2]Reduces incoming physical damage for the party.
+\\C[6]Party gains immunity to Stun.#Ron
 > END STRING
 
 > BEGIN STRING
 ノーム
-> CONTEXT: Skills/911/name < UNTRANSLATED
-> CONTEXT: States/235/name < UNTRANSLATED
-
+> CONTEXT: Skills/911/name
+> CONTEXT: States/235/name
+Gnome#Ron
 > END STRING
 
 > BEGIN STRING
 はノームを召喚した！
-> CONTEXT: Skills/911/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/911/message1
+ summoned Gnome!#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]味方の物理・魔法攻撃力上昇
 \\C[6]味方の恍惚無効
-> CONTEXT: Skills/912/description < UNTRANSLATED
-
+> CONTEXT: Skills/912/description
+\\C[2]Increases party's physical and magic attack.
+\\C[6]Party gains immunity to Ecstasy.#Ron
 > END STRING
 
 > BEGIN STRING
 サラマンダー
-> CONTEXT: Skills/912/name < UNTRANSLATED
-> CONTEXT: States/232/name < UNTRANSLATED
-
+> CONTEXT: Skills/912/name
+> CONTEXT: States/232/name
+Salamander#Ron
 > END STRING
 
 > BEGIN STRING
 はサラマンダーを召喚した！
-> CONTEXT: Skills/912/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/912/message1
+ summoned Salamander!#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]味方の氷・炎属性の被ダメージ軽減
 \\C[6]味方の物理・魔法回避率２０％上昇
-> CONTEXT: Skills/913/description < UNTRANSLATED
-
+> CONTEXT: Skills/913/description
+\\C[2]Reduces incoming ice and fire damage for the party.
+\\C[6]Increases party's evasion by 20%.#Ron
 > END STRING
 
 > BEGIN STRING
 ウンディーネ
-> CONTEXT: Skills/913/name < UNTRANSLATED
-> CONTEXT: States/234/name < UNTRANSLATED
-
+> CONTEXT: Skills/913/name
+> CONTEXT: States/234/name
+Undine#Ron
 > END STRING
 
 > BEGIN STRING
 はウンディーネを召喚した！
-> CONTEXT: Skills/913/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/913/message1
+ summoned Undine!#Ron
 > END STRING
 
 > BEGIN STRING
 瞑想
-> CONTEXT: Skills/914/name < UNTRANSLATED
-
+> CONTEXT: Skills/914/name
+Meditate#Ron
 > END STRING
 
 > BEGIN STRING
 は目を閉じ、瞑想をした！
-> CONTEXT: Skills/914/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/914/message1
+ closes his eyes and meditates!#Ron
 > END STRING
 
 > BEGIN STRING
 相手に物理属性のダメージを与える
 \\C[2]必中攻撃。
-> CONTEXT: Skills/915/description < UNTRANSLATED
-
+> CONTEXT: Skills/915/description
+Deals physical damage to an opponent.
+\\C[2]Guaranteed to hit.#Ron
 > END STRING
 
 > BEGIN STRING
 魔剣・首狩り
-> CONTEXT: Skills/915/name < UNTRANSLATED
-
+> CONTEXT: Skills/915/name
+Demon Decapitation#Ron
 > END STRING
 
 > BEGIN STRING
 は魔剣・首狩りを放った！
-> CONTEXT: Skills/915/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/915/message1
+ unleashes Demon Decapitation!#Ron
 > END STRING
 
 > BEGIN STRING
 相手に風属性の物理ダメージを与える。
 \\C[2]戦闘開始時であればあるほどダメージアップ。
-> CONTEXT: Skills/916/description < UNTRANSLATED
-
+> CONTEXT: Skills/916/description
+\\C[0]Deals wind damage to an enemy.
+\\C[2]Damage increased if used at the start of battle.#Ron
 > END STRING
 
 > BEGIN STRING
 血裂雷鳴突き
-> CONTEXT: Skills/916/name < UNTRANSLATED
-
+> CONTEXT: Skills/916/name
+Bloody Fissure Thunder Thrust#Ron
 > END STRING
 
 > BEGIN STRING
 は血裂雷鳴突きを放った！
-> CONTEXT: Skills/916/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/916/message1
+ unleashes Bloody Fissure Thunder Thrust!#Ron
 > END STRING
 
 > BEGIN STRING
 強烈な一撃が大地をも砕く！
-> CONTEXT: Skills/917/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/917/message2
+The powerful attack smashes even the ground apart!#Ron
 > END STRING
 
 > BEGIN STRING
 相手に雷属性の物理ダメージを与える
 \\C[2]クリティカル率が高い。
-> CONTEXT: Skills/917/description < UNTRANSLATED
-
+> CONTEXT: Skills/917/description
+Deals lightning damage to an enemy.
+\\C[2]High chance to get a critical.#Ron
 > END STRING
 
 > BEGIN STRING
 壊斧・大山鳴動
-> CONTEXT: Skills/917/name < UNTRANSLATED
-
+> CONTEXT: Skills/917/name
+Earth Rumbling Decapitation#Ron
 > END STRING
 
 > BEGIN STRING
 の身体に土が宿り、渾身の一撃を繰り出した！
-> CONTEXT: Skills/917/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/917/message1
+'s body unleashes a huge attack with the power of earth!#RonIffy
 > END STRING
 
 > BEGIN STRING
 明鏡止水の剣閃が全てを斬る！
-> CONTEXT: Skills/918/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/918/message2
+His sword strike cleaves through everything!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 相手に氷属性の物理ダメージを与える
 \\C[2]このターンの攻撃を必中以外回避する。
-> CONTEXT: Skills/918/description < UNTRANSLATED
-
+> CONTEXT: Skills/918/description
+Deals ice damage to an enemy.
+\\C[2]Guaranteed evasion of all but auto-hit attacks.#Ron
 > END STRING
 
 > BEGIN STRING
 魔刀・明鏡止水
-> CONTEXT: Skills/918/name < UNTRANSLATED
-
+> CONTEXT: Skills/918/name
+Serene Demon Sword#Ron
 > END STRING
 
 > BEGIN STRING
 は一旦剣を鞘に収め、居合い斬りを繰り出した！
-> CONTEXT: Skills/918/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/918/message1
+ sheathes his sword, before drawing it out in a big strike!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 相手に物理攻撃のダメージを与える
 \\C[2]相手に攻撃低下・敏捷低下のデバフを付ける
-> CONTEXT: Skills/919/description < UNTRANSLATED
-
+> CONTEXT: Skills/919/description
+Deals physical damage to an enemy.
+\\C[2]Applies an attack and agility debuff.#Ron
 > END STRING
 
 > BEGIN STRING
 天魔頭蓋斬
-> CONTEXT: Skills/919/name < UNTRANSLATED
-
+> CONTEXT: Skills/919/name
+Demon Skull Beheading#Ron
 > END STRING
 
 > BEGIN STRING
 は天魔頭蓋斬を放った！
-> CONTEXT: Skills/919/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/919/message1
+ unleashes Demon Skull Beheading!#Ron
 > END STRING
 
 > BEGIN STRING
 相手に無属性の物理ダメージを５回与える
 \\C[2]与えるダメージの振り幅が大きい
-> CONTEXT: Skills/920/description < UNTRANSLATED
-
+> CONTEXT: Skills/920/description
+Deals null-type damage to an enemy five times.
+\\C[2]Does a wide spread of damage.#Ron
 > END STRING
 
 > BEGIN STRING
 死剣・乱れ星
-> CONTEXT: Skills/920/name < UNTRANSLATED
-
+> CONTEXT: Skills/920/name
+Death Sword Chaos Star#Ron
 > END STRING
 
 > BEGIN STRING
 は死剣・乱れ星を放った！
-> CONTEXT: Skills/920/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/920/message1
+ unleashes Death Sword Chaos Star!#Ron
 > END STRING
 
 > BEGIN STRING
 ルカは会心状態になった！！
-> CONTEXT: Skills/921/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/921/message2
+Luka enters a state of mindfulness!!#RonIffy
 > END STRING
 
 > BEGIN STRING
 次の物理攻撃を必ずクリティカルにする
 \\C[2]ターンを消費しない。\\C[30]【初心】とは効果が重複しない。
-> CONTEXT: Skills/921/description < UNTRANSLATED
-
+> CONTEXT: Skills/921/description
+\\C[0]Guarantees a critical on the next attack.
+\\C[2]Doesn't use a turn. \\C[30]Effect doesn't stack with [Focus].#Ron
 > END STRING
 
 > BEGIN STRING
 裏練気
-> CONTEXT: Skills/921/name < UNTRANSLATED
-
+> CONTEXT: Skills/921/name
+Inner Focused Mind#Ron
 > END STRING
 
 > BEGIN STRING
 は集中した！
-> CONTEXT: Skills/921/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/921/message1
+ concentrates!#Ron
 > END STRING
 
 > BEGIN STRING
 ルカのＳＰ回復量が一時的に増加した！
-> CONTEXT: Skills/922/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/922/message2
+Luka's SP recovery each turn has increased!#Ron
 > END STRING
 
 > BEGIN STRING
 ３ターンの間、ＳＰ回復量が＋１
 \\C[2]ターンを消費しない。\\C[30]【裏練気】とは効果が重複しない。
 > CONTEXT: Skills/922/description < UNTRANSLATED
-
+Recovers one SP each turn for three turns.
+\\C[2]Doesn't use a turn. \\C[30]Doesn't stack with Shadow-Honed Energy.
 > END STRING
 
 > BEGIN STRING
 初心
-> CONTEXT: Skills/922/name < UNTRANSLATED
-
+> CONTEXT: Skills/922/name
+Focus#Ron
 > END STRING
 
 > BEGIN STRING
 は身体の力を抜き、無の境地に入った！
-> CONTEXT: Skills/922/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/922/message1
+ releases energy from his body and clears his mind!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10905,103 +10929,108 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 地面を伝い、衝撃波は迷いなく相手へ直撃する！
-> CONTEXT: Skills/930/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/930/message2
+A shockwave moves unerring through the ground to the enemy!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ヘルインパクト
-> CONTEXT: Skills/930/name < UNTRANSLATED
-
+> CONTEXT: Skills/930/name
+Hell Impact#Ron
 > END STRING
 
 > BEGIN STRING
 ミズキは剛撃の号令を放った！！
-> CONTEXT: Skills/931/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/931/message2
+Mizuki unleashes Staunch Attack Decree!!#Ron
 > END STRING
 
 > BEGIN STRING
 ミズキのサポートスキル。
 このターンの間、\\N[1]の物理攻撃力を大幅に上昇させる。
-> CONTEXT: Skills/931/description < UNTRANSLATED
-
+> CONTEXT: Skills/931/description
+One of Mizuki's support skills.
+Significantly raises \\N[1]'s physical ATK this turn.#Ron
 > END STRING
 
 > BEGIN STRING
 剛撃の号令
-> CONTEXT: Skills/931/name < UNTRANSLATED
-
+> CONTEXT: Skills/931/name
+Staunch Attack Decree#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 大天使中村のサポートスキル
 味方全員の能力を３ターン上昇させる。
-> CONTEXT: Skills/932/description < UNTRANSLATED
-
+> CONTEXT: Skills/932/description
+One of Archangel Nakamura's support skills.
+Buffs the entire party for three turns.#Ron
 > END STRING
 
 > BEGIN STRING
 大天使の目利き
-> CONTEXT: Skills/932/name < UNTRANSLATED
-
+> CONTEXT: Skills/932/name
+Archangel's Judgment#Ron
 > END STRING
 
 > BEGIN STRING
 達に向けて、中村は激励の言葉を放った！
-> CONTEXT: Skills/932/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/932/message1
+'s party receives Nakamura's encouragement!#Ron
 > END STRING
 
 > BEGIN STRING
 大天使中村のサポートスキル
 味方全員を全回復し、ルカのＳＰを１回復させる。
-> CONTEXT: Skills/933/description < UNTRANSLATED
-
+> CONTEXT: Skills/933/description
+One of Archangel Nakamura's support skills.
+Heals entire party, and restores 1 SP to Luka.#Ron
 > END STRING
 
 > BEGIN STRING
 大天使の祝福
-> CONTEXT: Skills/933/name < UNTRANSLATED
-
+> CONTEXT: Skills/933/name
+Archangel's Blessing#Ron
 > END STRING
 
 > BEGIN STRING
 達に向けて、中村は祝福の言葉を放った！
-> CONTEXT: Skills/933/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/933/message1
+'s party receives Nakamura's blessing!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 大天使中村のサポートスキル
 ３ターンの間、敵の全能力を下げる
-> CONTEXT: Skills/934/description < UNTRANSLATED
-
+> CONTEXT: Skills/934/description
+One of Archangel Nakamura's support skills.
+Debuffs an enemy for three turns.#Ron
 > END STRING
 
 > BEGIN STRING
 大天使の一喝
-> CONTEXT: Skills/934/name < UNTRANSLATED
-
+> CONTEXT: Skills/934/name
+Archangel's Rebuke#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、中村は敵に向かって一喝した！
-> CONTEXT: Skills/934/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/934/message1
+ hears Nakamura give a powerful rebuke to the enemy!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 戦闘時に気力１００ptを、ＳＰ＋１として変換し
 勇者技や特技、スキルを使用できる。
-> CONTEXT: Skills/935/description < UNTRANSLATED
-
+> CONTEXT: Skills/935/description
+Converts 100 Vitality to 1 SP during battle to use for
+his hero skills and other abilities.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 技巧変換
-> CONTEXT: Skills/935/name < UNTRANSLATED
-
+> CONTEXT: Skills/935/name
+Technique Conversion#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11122,96 +11151,101 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 > BEGIN STRING
 \\C[13]【属性】物理　\\C[14]【威力】中×３
 \\C[0]特性：\\C[24]必中攻撃
-> CONTEXT: Skills/945/description < UNTRANSLATED
-
+> CONTEXT: Skills/945/description
+\\C[13]Type: Physical　\\C[14]Power: Medium x3
+\\C[0]Characteristic: \\C[24]Guaranteed to hit.#Ron
 > END STRING
 
 > BEGIN STRING
 はマスケットを放った！
-> CONTEXT: Skills/945/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/945/message1
+ hurls muskets!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 \\\>\\C[13]【属性】物理　\\C[14]【威力】小×5
 \\\>\\C[0]特性：\\C[24]次ターン、ルカより先に行動できる
-> CONTEXT: Skills/946/description < UNTRANSLATED
-
+> CONTEXT: Skills/946/description
+\\C[13]Type: Physical　\\C[14]Power: Low x5
+\\C[0]Characteristic: \\C[24]Will act before Luka next turn.#Ron
 > END STRING
 
 > BEGIN STRING
 フリントロック
-> CONTEXT: Skills/946/name < UNTRANSLATED
-
+> CONTEXT: Skills/946/name
+Flintlock#Ron
 > END STRING
 
 > BEGIN STRING
 はフリントロックを放った！
-> CONTEXT: Skills/946/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/946/message1
+ hurls flintlock rifles!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 はてつはうを放った！
-> CONTEXT: Skills/947/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/947/message1
+ hurls a tetsuhau bomb!#Ron
 > END STRING
 
 > BEGIN STRING
 \\\>\\C[13]【属性】物理　\\C[14]【威力】大×１
 \\\>\\C[0]特性：\\C[24]装備中、被ダメージが半減。
-> CONTEXT: Skills/948/description < UNTRANSLATED
-
+> CONTEXT: Skills/948/description
+\\C[13]Type: Physical　\\C[14]Power: High x1
+\\C[0]Characteristic: \\C[24]Halves damage taken while equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 カノン砲
-> CONTEXT: Skills/948/name < UNTRANSLATED
-
+> CONTEXT: Skills/948/name
+Cannon#Ron
 > END STRING
 
 > BEGIN STRING
 はカノン砲を放った！
-> CONTEXT: Skills/948/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/948/message1
+ hurls a cannon!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 \\\>\\C[13]【属性】無　\\C[14]【威力】大×２
 \\\>\\C[0]特性：\\C[24]装備中、被ダメージ増加
-> CONTEXT: Skills/949/description < UNTRANSLATED
-
+> CONTEXT: Skills/949/description
+\\C[13]Type: Null　\\C[14]Power: High x2
+\\C[0]Characteristic: \\C[24]Increases damage taken while equipped.#Ron
 > END STRING
 
 > BEGIN STRING
 手りゅう弾
-> CONTEXT: Skills/949/name < UNTRANSLATED
-
+> CONTEXT: Skills/949/name
+Hand Grenade#Ron
 > END STRING
 
 > BEGIN STRING
 は手りゅう弾を放った！
-> CONTEXT: Skills/949/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/949/message1
+ hurls two hand grenades!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 \\\>\\C[13]【属性】無　\\C[14]【威力】特大×３
 \\\>\\C[2]武器切り替えを一定回数行う事で使用可能になる。
-> CONTEXT: Skills/950/description < UNTRANSLATED
-
+> CONTEXT: Skills/950/description
+\\C[13]Type: Null　\\C[14]Power: Very High x3
+\\C[2]Can only equip after swapping a fixed number of times.#Ron
 > END STRING
 
 > BEGIN STRING
 ジャッジメント・デイ
-> CONTEXT: Skills/950/name < UNTRANSLATED
-
+> CONTEXT: Skills/950/name
+Judgment Day#Ron
 > END STRING
 
 > BEGIN STRING
 はジャッジメント・デイを放った！
-> CONTEXT: Skills/950/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/950/message1
+ unleashes Judgement Day!#Ron
 > END STRING
 
 > BEGIN STRING

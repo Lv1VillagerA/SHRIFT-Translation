@@ -100,11 +100,11 @@
 
 > BEGIN STRING
 ｸｩﾝ……
-> CONTEXT: CommonEvents_810/762/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Map459/events/5/pages/0/382/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Map465/events/29/pages/1/43/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Map469/events/3/pages/0/584/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_810/762/Dialogue/enemy37
+> CONTEXT: Map459/events/5/pages/0/382/Dialogue/enemy37
+> CONTEXT: Map465/events/29/pages/1/43/Dialogue/enemy37
+> CONTEXT: Map469/events/3/pages/0/584/Dialogue/enemy37
+*whimper*...#Ron
 > END STRING
 
 > BEGIN STRING
