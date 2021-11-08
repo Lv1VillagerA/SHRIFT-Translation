@@ -105,7 +105,7 @@ warm-up dance......#Strate
 I think I overestimated you, \\N[1]-kun~...
 
 I heard you had escaped Hecate, so I had high
-expectations for you, but...#Strate
+expectations, but...#Strate
 > END STRING
 
 > BEGIN STRING
