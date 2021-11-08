@@ -1,8 +1,8 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 こ、ここが……？
-> CONTEXT: Map470/events/1/pages/0/3/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/3/Dialogue/kazuya
+W-Where are we?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10,14 +10,17 @@
 そして、『ゲスト』のみんな……
 
 ようこそ、僕のお茶会に……
-> CONTEXT: Map470/events/1/pages/0/9/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map470/events/1/pages/0/9/Dialogue/enemy27
+You came, \\N[1].
+And so did all of the guests.
 
+Welcome all, to my Tea Party.#Ron
 > END STRING
 
 > BEGIN STRING
 彼が……\\C[2]『マッドハッター』\\C[0]…？
-> CONTEXT: Map470/events/1/pages/0/19/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/19/Dialogue/ruka_fc1
+That's... \\C[2]Mad Hatter\\C[2]...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -25,8 +28,11 @@
 
 本当は、もっと豪華なものを用意したかったんだけど
 隠密性を重視した結果、無駄な装飾を省いたんだ。
-> CONTEXT: Map470/events/1/pages/0/23/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/23/Dialogue/enemy27
+My apologies for providing such a modest
+welcome... I did plan on preparing something
+more lavish, but I had to cut back on pointless
+decorations to be a bit more discrete.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -34,16 +40,22 @@
 敵の襲来なんかで邪魔が入られたら、困るからね。
 
 これから話すことは、とても重要なことだから……
-> CONTEXT: Map470/events/1/pages/0/28/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/28/Dialogue/enemy27
+After all, it would be quite a nuisance to have
+an enemy attack interrupt our conversation. And
+we can't have that when what we have to talk
+about is so very important.#Ron
 > END STRING
 
 > BEGIN STRING
 約束通り、全員連れてきたよ。
 
 だけど……あまりゆっくりもしていられないみたい。
-> CONTEXT: Map470/events/1/pages/0/36/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map470/events/1/pages/0/36/Dialogue/sirousagi_fc1
+I've brought everyone as promised.
 
+But it looks like you don't have that much time
+to hash everything out.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -51,8 +63,11 @@
 行く先々でアバドーンの刺客になった相手と遭遇した。
 
 アイツは、明らかにボクたちの行動を読んでいる。
-> CONTEXT: Map470/events/1/pages/0/40/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/40/Dialogue/sirousagi_fc1
+The barrier in that other world is already
+shattered, and we ran into Abaddon's assassins
+everywhere we went. Clearly, he's able to read
+our every action.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -60,8 +75,11 @@
 この場所が見つかるのも、時間の問題だと思うよ。
 
 急いだ方がいいね
-> CONTEXT: Map470/events/1/pages/0/45/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/45/Dialogue/sirousagi_fc1
+For some reason, there didn't seem to be any
+indication of him pursuing us in Marion-kun's
+world, but it's only a matter of time before he
+finds this place. You should get this done quick.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -69,8 +87,10 @@
 
 僕も、そこまで無駄に時間をかけるつもりはない。
 彼らが知りたいであろう事だけを、伝えるつもりだよ。
-> CONTEXT: Map470/events/1/pages/0/50/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/50/Dialogue/enemy27
+I know, I don't intend on squandering our time
+here. I only plan on informing them of what they
+want to know.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -78,22 +98,26 @@
 
 座ってお茶でも飲みながら
 順を追って説明していこうじゃないか………
-> CONTEXT: Map470/events/1/pages/0/55/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/55/Dialogue/enemy27
+You've all gone through the effort of coming here
+from each of your worlds. Take a seat,
+enjoy a fresh cup of tea, and I'll explain it
+all, piece by piece...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ち、チェシャ……
-> CONTEXT: Map470/events/1/pages/0/61/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/61/Dialogue/kazuya
+C-Cheshire...#Ron
 > END STRING
 
 > BEGIN STRING
 ………嬉しいよ。
 
 キミはまだ、ボクをそう呼んでくれるんだね……
-> CONTEXT: Map470/events/1/pages/0/68/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/68/Dialogue/enemy29
+It makes me happy to hear you call me by that
+name...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -101,8 +125,10 @@
 ボクを『マッドハッター』でいさせて欲しいんだ。
 
 『チェシャ』は、キミの思い出の中に居させて欲しい。
-> CONTEXT: Map470/events/1/pages/0/72/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/72/Dialogue/enemy29
+But this one time, I'd like you to let me be
+"Mad Hatter". I want you to keep your memory of
+"Cheshire" deep inside.
 > END STRING
 
 > BEGIN STRING
@@ -110,16 +136,21 @@
 だから、今だけは……
 
 お願いできるかい？\\N[1]くん。
-> CONTEXT: Map470/events/1/pages/0/77/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map470/events/1/pages/0/77/Dialogue/enemy29
+I took that form so I'd be pleasing to you.
 
+So just once, can I ask this of you,
+\\N[1]-kun?#Ron
 > END STRING
 
 > BEGIN STRING
 あやつが、『マッドハッター』……
 
 我々を呼んだ張本人というわけだな…
-> CONTEXT: Map470/events/1/pages/0/97/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map470/events/1/pages/0/97/Dialogue/alice_fc5
+That's Mad Hatter...
 
+So that's the culprit behind us being summoned.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -127,8 +158,11 @@
 少なくとも、禍々しい感じはしないね。
 
 むしろ、優しそうな感じがする……
-> CONTEXT: Map470/events/1/pages/0/101/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map470/events/1/pages/0/101/Dialogue/enemy15
+That demon has quite a peculiar atmosphere about
+her, but it's not sinister.
 
+In fact, she actually seems quite nice.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -136,8 +170,10 @@
 \\N[1]と声が同じように思えるのだが…
 
 ヤツはどういう魔物なのだ…？
-> CONTEXT: Map470/events/1/pages/0/106/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/106/Dialogue/enemy35
+In fact, it seems both \\N[1] and her have
+rather similar voices.... Just what kind of
+monster is she exactly?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -145,8 +181,11 @@
 魔物か悪魔かどうかも怪しいわよ……
 
 そもそも、アイツって生命体なの……？
-> CONTEXT: Map470/events/1/pages/0/111/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/111/Dialogue/enemy38
+No... my summoner is throwing a bunch of errors.
+It's hard to tell whether she's even a monster
+or a demon... Is... Is she even a living being in
+the first place...?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -154,28 +193,35 @@
 立ち話もなんだし、とりあえずみんな座らない？
 
 せっかくのお茶会なんだからさ。
-> CONTEXT: Map470/events/1/pages/0/116/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/116/Dialogue/sirousagi_fc1
+Now now, why don't we all have a seat instead of
+standing around chatting? We've come all this way
+for a tea party, after all.#Ron
 > END STRING
 
 > BEGIN STRING
 いろいろと積もる話もあるだろうけど……
 
 せっかくの紅茶が冷めちゃうよ。
-> CONTEXT: Map470/events/1/pages/0/121/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/121/Dialogue/sirousagi_fc1
+I know there are a lot of things we've got to
+talk about, but the tea's going to go cold at
+this rate.#Ron
 > END STRING
 
 > BEGIN STRING
 そうだな……一方的に疑問を投げかけても埒があかん。
 
 とりあえずは皆席に着き、話を聞こうではないか。
-> CONTEXT: Map470/events/1/pages/0/125/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/125/Dialogue/alice_fc5
+You're right, nothing will get settled if we
+just one-sidedly throw around questions. Let's
+all take our seats and listen to what she has to
+say.#Ron
 > END STRING
 
 > BEGIN STRING
 これまでのデータをセーブしますか？
-> CONTEXT: Map470/events/1/pages/0/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map470/events/1/pages/0/197/Dialogue
+Save up to this point?#Ron
 > END STRING

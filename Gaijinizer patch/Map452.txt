@@ -149,8 +149,9 @@ attacking humans.#RonIffyWording
 この私に見つかった以上ね…！
 > CONTEXT: Map452/events/1/pages/0/82/Dialogue/enemy37
 All the humans of this world are the playthings
-of demonkind, and you, \\N[1], are no
-exception. Not now that I've found you! ♡#Ron
+of demonkind, and you, \\N[1], are no exception.
+
+Not now that I've found you! ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -684,7 +685,7 @@ for that!#Ron
 > CONTEXT: Map452/events/1/pages/0/538/Dialogue/sirousagi_fc1
 Hellhounds are known as the so-called hunting
 dogs of the Demon Realm. Some famous ones are
-Cerberus, Orthros, and Hairy Jack.#Ron
+Cerberus, Orthrus, and Hairy Jack.#Ron
 > END STRING
 
 > BEGIN STRING

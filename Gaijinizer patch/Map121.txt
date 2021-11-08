@@ -289,7 +289,7 @@ chatty...#Ron
 > CONTEXT: Map121/events/5/pages/1/81/Dialogue/enemy12
 I told you, remember? I just imitated those two
 from the waterway. Usually, humans approach us
-out out of curiosity...#RonIffy
+out of curiosity...#RonIffy
 > END STRING
 
 > BEGIN STRING

@@ -1,8 +1,9 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 羽衣のようなものが脱ぎ捨てられている……
-> CONTEXT: Map488/events/4/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map488/events/4/pages/0/0/Dialogue
+Something that looks like an angel's raiment has been
+taken off and discarded here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10,21 +11,25 @@
 
 原形はほとんど留めていないが
 \\C[10]マリオンが装備している物と同一に見える……\\C[0]
-> CONTEXT: Map488/events/5/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map488/events/5/pages/0/0/Dialogue
+A tattered Seraphim Pouch. While it doesn't have much of
+its original form, what's there \\C[10]looks identical to the
+one that Marion carries around\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]『あり得たかもしない並行世界』、か…
 
 \\C[0]奴らしい扱い方だな……
-> CONTEXT: Map488/events/5/pages/0/7/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map488/events/5/pages/0/7/Dialogue/enemy35
+\\C[2]A parallel world of what could be...\\C[0]
 
+It's certainly how they operate...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ？？？？＝永遠の監獄＝
-> CONTEXT: Map488/display_name < UNTRANSLATED
-> CONTEXT: MapInfos/488/name < UNTRANSLATED
-
+> CONTEXT: Map488/display_name
+> CONTEXT: MapInfos/488/name
+???? = Eternal Prison =#Ron
 > END STRING

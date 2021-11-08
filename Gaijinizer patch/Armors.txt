@@ -976,54 +976,58 @@ Cloth Clothes#StrateUnsure
 マリオン斎藤の祖父、斎藤義則が身に付けていたとされる胸甲。
 マリオンに合わせて、限りなく薄い装甲になっている
 > CONTEXT: Armors/99/description < UNTRANSLATED
-
+A breastplate worn by Saitou Marion's grandfather,
+Yoshinori. The armor itself is very light to suit Marion.#RonIffYWording
 > END STRING
 
 > BEGIN STRING
 聖騎士の胸甲
-> CONTEXT: Armors/99/name < UNTRANSLATED
-
+> CONTEXT: Armors/99/name
+Holy Knight Breastplate#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[11][マリオン専用]\\C[0]先代の愛用していた全身を覆う銀の鎧。
 抵：＋８０％　ダウンしても３０％の確率で即復活できる
-> CONTEXT: Armors/100/description < UNTRANSLATED
-
+> CONTEXT: Armors/100/description
+\\C[11][Marion Only] \\C[0]Silver armor cherished by Marion's forefathers.
+Will: +80%, 30% instant revive chance when downed.#Ron
 > END STRING
 
 > BEGIN STRING
 聖騎士の銀胸甲
-> CONTEXT: Armors/100/name < UNTRANSLATED
-
+> CONTEXT: Armors/100/name
+Silver Knightly Breastplate#Ron
 > END STRING
 
 > BEGIN STRING
 マリオンの世界に自生している赤リンゴ
 \\C[5]マリオンの回復スキルの対象が味方全体になる。
 > CONTEXT: Armors/101/description
-
+A red apple native to Marion's world.
+\\C[5]Enables Marion to use his heal skill on the entire party.#Ron
 > END STRING
 
 > BEGIN STRING
 赤リンゴ
 > CONTEXT: Armors/101/name
-> CONTEXT: Skills/728/name < UNTRANSLATED
-
+> CONTEXT: Skills/728/name
+Red Apple#Triketos
 > END STRING
 
 > BEGIN STRING
 マリオンの世界に自生している緑リンゴ
 \\C[5]マリオンの武器の攻撃力が３０％増加する。
-> CONTEXT: Armors/102/description < UNTRANSLATED
-
+> CONTEXT: Armors/102/description
+A green apple native to Marion's world.
+\\C[5]Increases Marion's Attack by 30%.#Ron
 > END STRING
 
 > BEGIN STRING
 緑リンゴ
 > CONTEXT: Armors/102/name
-> CONTEXT: Skills/724/name < UNTRANSLATED
-
+> CONTEXT: Skills/724/name
+Green Apple#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1042,55 +1046,59 @@ Cloth Clothes#StrateUnsure
 > BEGIN STRING
 \\C[2]【共闘者用】\\C[0]かつての洋館の主だったナード男爵の騎士鎧。
 抵：＋３０％　ターン終了時、味方全体の体力を８００回復する。
-> CONTEXT: Armors/104/description < UNTRANSLATED
-
+> CONTEXT: Armors/104/description
+Armor belonging to the former owners of the mansion.
+Will: +30%, Restores party's stamina by 800 each turn.#Ron
 > END STRING
 
 > BEGIN STRING
 ナード男爵の胸鎧
-> CONTEXT: Armors/104/name < UNTRANSLATED
-
+> CONTEXT: Armors/104/name
+Baron Nerd's Chestplate#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]【共闘者用】\\C[0]戦闘用に改良された鋼鉄の鎧。
 抵：＋２５％
-> CONTEXT: Armors/105/description < UNTRANSLATED
-
+> CONTEXT: Armors/105/description
+Steel armor that's been reinforced for battle.
+Will: +25%#Ron
 > END STRING
 
 > BEGIN STRING
 アサルトメイル
-> CONTEXT: Armors/105/name < UNTRANSLATED
-
+> CONTEXT: Armors/105/name
+Assault Mail#Ron
 > END STRING
 
 > BEGIN STRING
 マリオンの世界に自生している兎リンゴ
 毎ターン\\C[5]ルカのＳＰを＋１、\\N[1]の気力を１００回復する。
-> CONTEXT: Armors/106/description < UNTRANSLATED
-
+> CONTEXT: Armors/106/description
+A rabbit apple native to Marion's world. \\C[5]Every turn
+restores 1 SP to Luka, and 100 Vit to \\N[1].#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 兎リンゴ
-> CONTEXT: Armors/106/name < UNTRANSLATED
-> CONTEXT: Skills/722/name < UNTRANSLATED
-> CONTEXT: States/251/name < UNTRANSLATED
-
+> CONTEXT: Armors/106/name
+> CONTEXT: Skills/722/name
+> CONTEXT: States/251/name
+Rabbit Apple#Triketos
 > END STRING
 
 > BEGIN STRING
 \\C[2]【共闘者用】\\C[0]魔素を含んだ魔法の鎧。
 抵：＋５０％
-> CONTEXT: Armors/107/description < UNTRANSLATED
-
+> CONTEXT: Armors/107/description
+Magically infused armor.
+Will: +50%#Ron
 > END STRING
 
 > BEGIN STRING
 グランドメイル
-> CONTEXT: Armors/107/name < UNTRANSLATED
-
+> CONTEXT: Armors/107/name
+Grand Mail#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1109,40 +1117,43 @@ Cloth Clothes#StrateUnsure
 > BEGIN STRING
 \\C[2]【共闘者用】\\C[0]凶暴な魔獣の魂が封じられている。
 攻撃力＋２００
-> CONTEXT: Armors/109/description < UNTRANSLATED
-
+> CONTEXT: Armors/109/description
+Contains the sealed soul of a ferocious beast.
+Attack: +200#Ron
 > END STRING
 
 > BEGIN STRING
 猛攻のイヤリング
-> CONTEXT: Armors/109/name < UNTRANSLATED
-
+> CONTEXT: Armors/109/name
+Vicious Earring#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]【共闘者用】\\C[0]穏やかな性格の水獣の涙から生成された
 抵抗＋１５％
-> CONTEXT: Armors/110/description < UNTRANSLATED
-
+> CONTEXT: Armors/110/description
+Made from the tears of a placid water beast.
+Will: +15%#Ron
 > END STRING
 
 > BEGIN STRING
 癒やしのイヤリング
-> CONTEXT: Armors/110/name < UNTRANSLATED
-
+> CONTEXT: Armors/110/name
+Healing Earring#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]【共闘者用】\\C[0]太古の岩龍の鱗より作られた。
 全てのダメージ軽減＋１０％
-> CONTEXT: Armors/111/description < UNTRANSLATED
-
+> CONTEXT: Armors/111/description
+Made from the scales of an ancient stone dragon.
+Reduces all damage by 10%.#Ron
 > END STRING
 
 > BEGIN STRING
 強固のイヤリング
 > CONTEXT: Armors/111/name < UNTRANSLATED
-
+Solid Earring#Ron
 > END STRING
 
 > BEGIN STRING

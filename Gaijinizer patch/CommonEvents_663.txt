@@ -508,8 +508,8 @@ match for "corruption"?#DL
 
 > BEGIN STRING
 あ、そうだ。
-> CONTEXT: CommonEvents_663/680/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_663/680/Dialogue/enemy29
+Oh, right.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -517,8 +517,11 @@ match for "corruption"?#DL
 ああは言ったけど…
 
 \\C[10]『フェラ』の敗北シーン、ほんとは見たいでしょ？
-> CONTEXT: CommonEvents_663/682/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_663/682/Dialogue/enemy29
+Back in that forest, I did say you wouldn't meet
+me again, but...
+\\C[10]You really want to see my [Blowjob] loss
+scene, don't you?#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -526,26 +529,29 @@ match for "corruption"?#DL
 『フェラ』の搾精、今からでも追加してあげるけど……
 
 どうする？
-> CONTEXT: CommonEvents_663/689/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: CommonEvents_663/689/Dialogue/enemy29
+If you'd like, I could add it to the list
+right now...
 
+What do you think?#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 欲しい
-> CONTEXT: CommonEvents_663/694/Choice/0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_663/694/Choice/0
+I want it#Strate
 > END STRING
 
 > BEGIN STRING
 欲しくない
-> CONTEXT: CommonEvents_663/694/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_663/694/Choice/1
+I don't want it#Strate
 > END STRING
 
 > BEGIN STRING
 おっけー♪
-> CONTEXT: CommonEvents_663/697/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_663/697/Dialogue/enemy29
+Okaaay♪#Strate
 > END STRING
 
 > BEGIN STRING
@@ -553,8 +559,11 @@ match for "corruption"?#DL
 
 え…わざわざこのシーン見直してるぐらいだから
 断られるとは思わなかったな…
-> CONTEXT: CommonEvents_663/702/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: CommonEvents_663/702/Dialogue/enemy29
+Oh, really?
 
+Huh... I didn't think you'd say no after I went
+through all this trouble to revise this scene...#Strate
 > END STRING
 
 > BEGIN STRING

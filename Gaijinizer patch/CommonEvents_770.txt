@@ -342,24 +342,33 @@ support.#Ron
 ハイラミアの子供になってしまったのね……
 
 あなたが幸せなら、それもいいかもしれないけど……
-> CONTEXT: CommonEvents_770/261/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/261/Dialogue/other5
+So you became High Lamia's little boy...
 
+If it makes you happy, then maybe that's not so
+bad.#Ron
 > END STRING
 
 > BEGIN STRING
 やはり、あなたはママが恋しいの……？
 
 大学時代も、何度も私の事をお母さんって言い間違えて…
-> CONTEXT: CommonEvents_770/266/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/266/Dialogue/other5
+You really do miss your mommy, don't you?
 
+You accidentally called me "mom" a number of
+times even when you were in university.#Ron
 > END STRING
 
 > BEGIN STRING
 やめて！！
 
 サラッと僕の過去の恥ずかしい失敗を暴露しないで！！
-> CONTEXT: CommonEvents_770/270/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_770/270/Dialogue/kazuya
+Stop it!!
 
+Don't casually expose all my embarrassing
+slip-ups like that!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -367,8 +376,11 @@ support.#Ron
 しかも、かなりの大ダメージを３回連続で撃ってくる。
 
 ルカの『シルフ』や『ウンディーネ』は必須ね。
-> CONTEXT: CommonEvents_770/275/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/275/Dialogue/other5
+\\C[2]High Lamia uses primarily magic-based attacks.
+She'll often come at you with bursts of three
+high-damaging attacks. Using Luka to summon
+Slyph and Undine is essential.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -376,8 +388,14 @@ support.#Ron
 こちらが与えるダメージの底上げも出来るわ。
 
 \\C[0]必殺技でなくても、物理攻撃ならば十分なはず……
-> CONTEXT: CommonEvents_770/280/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/280/Dialogue/other5
+\\C[2]Making use of Marion's Vicious Attack Apple will
+also allow you to raise your overall damage.
 
+
+\\C[0]Even if you don't use any powerful killer moves
+against her, just chipping away at her with
+physical damage should be more than enough.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -385,8 +403,11 @@ support.#Ron
 
 \\C[2]大天使中村の回復サポートを毎ターン使う事で
 ルカやマリオンも攻撃に専念してしまうという事も出来る…
-> CONTEXT: CommonEvents_770/285/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/285/Dialogue/other5
+And this might be somewhat of a grind for him,
+\\C[2]but by using Archangel Nakamura's recovery
+support skill every turn, you can keep Luka and
+Marion focused on attacking.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -394,16 +415,22 @@ support.#Ron
 
 猛攻に耐えられるかどうかは、\\C[2]きっとギリギリよ。
 あまり推奨できる方法ではないわ……
-> CONTEXT: CommonEvents_770/290/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/290/Dialogue/other5
+But be careful... This isn't a method I can
+recommend since \\C[2]Luka and Marion will just barely
+be able to stay in the fight, and might easily go
+down if you're unlucky.#Ron
 > END STRING
 
 > BEGIN STRING
 ただ、中村の回復サポートはルカのＳＰも回復させる…
 
 \\C[2]多少のＳＰ消費の無茶は出来るようになるはずだわ……
-> CONTEXT: CommonEvents_770/295/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/295/Dialogue/other5
+However, Nakamura's recovery support skill also
+recovers some of Luka's SP, \\C[2]which should give you
+the option of being more loose with his SP usage
+during the battle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -411,8 +438,10 @@ support.#Ron
 ハイスラッグ娘の繁殖相手になってしまったのね……
 
 今のあなたなら、それも幸せなのかもしれないけど……
-> CONTEXT: CommonEvents_770/307/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/307/Dialogue/other5
+So you became High Slug Girl's reproductive
+partner. The way you are now, that might actually
+be something you're happy about...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -420,16 +449,21 @@ support.#Ron
 貴族系の悪魔に態度を弱くする傾向があるわね……
 
 もしかして……高貴な雰囲気に弱いのかしら？
-> CONTEXT: CommonEvents_770/312/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/312/Dialogue/other5
+Just like with Iron Maiden, you seem to have a
+thing for high-class demons. Is it their
+aristocratic demeanor that really does it for
+you?#Ron
 > END STRING
 
 > BEGIN STRING
 う～ん……
 
 なにも言い返せない……
-> CONTEXT: CommonEvents_770/317/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_770/317/Dialogue/kazuya
+Hmmm...
 
+I don't have a comeback for that...Ron
 > END STRING
 
 > BEGIN STRING
@@ -437,8 +471,13 @@ support.#Ron
 回数や状態異常が怖いから、受けるより流す方が楽よ。
 
 『夜深のサポートスキル』を活用するといいわ。
-> CONTEXT: CommonEvents_770/322/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/322/Dialogue/other5
+High Slug Girl \\C[2]focuses heavily on physical
+attacks, but since she has multiple attacks and
+inflicts statuses on you, you're best to avoid
+getting hit rather than trading blows.
+\\C[2]Yami's support skill is very useful in that
+regard.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -446,8 +485,11 @@ support.#Ron
 \\C[2]ルカのノームを召喚しておくと良いわ。
 
 ただ、『ゲラヴトゥリア』だけは雷属性な事に注意してね。
-> CONTEXT: CommonEvents_770/327/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/327/Dialogue/other5
+Of course, her counterattacks will be aimed at
+you so \\C[2]having Luka summon Gnome is a good idea.
+But be especially careful of her lightning-based
+Kerav Tria attack.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -455,8 +497,11 @@ support.#Ron
 
 \\C[2]夜深のサポートスキルが発動できるようであれば
 それだけで大ダメージを与えられるはず。
-> CONTEXT: CommonEvents_770/332/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/332/Dialogue/other5
+You should evade whenever it looks like she's
+about to use her special move, \\C[2]but if you can
+activate Yami's counter support skill, it's also
+a chance to deal a lot of damage to her\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -464,8 +509,11 @@ support.#Ron
 
 ルカの「壊斧・大山鳴動」が使えるようなチャンスがあれば
 一斉逆転のダメージを与えられるでしょうね……
-> CONTEXT: CommonEvents_770/337/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/337/Dialogue/other5
+\\C[2]Lightning damage is effective \\C[0]against High Slug
+Girl, so if you can use Luka's Earth Rumbling
+Decapitation, you'll do a whole lot of damage
+all at once.#Ron
 > END STRING
 
 > BEGIN STRING

@@ -8,19 +8,19 @@
 > BEGIN STRING
 \\I[914]【精霊シルフ】　　　　\\C[3]ＳＰ－２en(v[223] \>= 2) 
 > CONTEXT: CommonEvents_714/1/Choice/1
-\\I[914][Sylph] \\C[3]2 SPen(v[223] \>= 2)#Ron 
+\\I[914][Sylph] \R[1]\\C[3]2 SPen(v[223] \>= 2)#Ron 
 > END STRING
 
 > BEGIN STRING
 \\I[1057]【精霊ノーム】　　　　\\C[3]ＳＰ－２en(v[223] \>= 2) 
 > CONTEXT: CommonEvents_714/1/Choice/2
-\\I[1057][Gnome] \\C[3]2 SPen(v[223] \>= 2)#Ron 
+\\I[1057][Gnome] \R[1]\\C[3]2 SPen(v[223] \>= 2)#Ron 
 > END STRING
 
 > BEGIN STRING
 \\I[901]【精霊ウンディーネ】　\\C[3]ＳＰ－２en(v[223] \>= 2) 
 > CONTEXT: CommonEvents_714/1/Choice/3
-\\I[901][Undine] \\C[3]2 SPen(v[223] \>= 2)#Ron
+\\I[901][Undine] \R[1]\\C[3]2 SPen(v[223] \>= 2)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -77,13 +77,13 @@ Take the flow into my heart!#Ron
 > BEGIN STRING
 \\I[898]【精霊サラマンダー】　\\C[3]ＳＰ－３en(v[223] \>= 3) 
 > CONTEXT: CommonEvents_714/106/Choice/0
-\\I[898][Salamander] \\C[3]3 SPen(v[223] \>= 3)#Ron
+\\I[898][Salamander] \R[1]\\C[3]3 SPen(v[223] \>= 3)#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[1216]【瞑想】　　　　　　　\\C[1]ＳＰ　０en(v[237] == 0) 
 > CONTEXT: CommonEvents_714/106/Choice/1
-\\I[1216][Meditate] \\C[1]0 SPen(v[237] == 0)#Ron 
+\\I[1216][Meditate] \R[1]\\C[1]0 SPen(v[237] == 0)#Ron 
 > END STRING
 
 > BEGIN STRING

@@ -341,8 +341,8 @@ Support#Ron
 
 > BEGIN STRING
 勇者技・特技
-> CONTEXT: System/skill_types/35 < UNTRANSLATED
-
+> CONTEXT: System/skill_types/35
+Hero Skills#Ron
 > END STRING
 
 > BEGIN STRING

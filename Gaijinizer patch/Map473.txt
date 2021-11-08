@@ -3,16 +3,18 @@
 こ、これは………
 
 \\C[10]アバドーンの『虫食い』か……！？
-> CONTEXT: Map473/events/1/pages/0/10/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map473/events/1/pages/0/10/Dialogue/enemy35
+A-Are these holes... made by Abaddon?!#Ron
 > END STRING
 
 > BEGIN STRING
 嘘でしょ…？
 
 ここが唯一の安全地帯だったのに…
-> CONTEXT: Map473/events/1/pages/0/14/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map473/events/1/pages/0/14/Dialogue/sirousagi_fc1
+No way...
 
+This was our only safe area...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,16 +22,20 @@
 ここの空間は修復できない……
 
 ボクだけの力じゃ……
-> CONTEXT: Map473/events/1/pages/0/18/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map473/events/1/pages/0/18/Dialogue/sirousagi_fc1
+There won't be a way to fix this if Mad Hatter
+doesn't have any of his power. Mine alone won't
+be enough...#Ron
 > END STRING
 
 > BEGIN STRING
 ちょっと……『唯一の安全地帯』って……！！？
 
 それじゃあ、私たちは打つ手ナシって事…！？
-> CONTEXT: Map473/events/1/pages/0/23/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map473/events/1/pages/0/23/Dialogue/enemy38
+Wait, "the only safe area"?!!
 
+You mean there's nothing we can do now?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -37,22 +43,29 @@
 
 いつまでぼーっとしてるの！！！
 早く覚醒して！！！！覚醒！！！！
-> CONTEXT: Map473/events/1/pages/0/38/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map473/events/1/pages/0/38/Dialogue/sirousagi_fc1
+Hey!!!
 
+How long are you gonna stare into space?!!
+Wake up, already!!! Wake up!!#Ron
 > END STRING
 
 > BEGIN STRING
 こーんなか弱いウサギに、タダ働きしろっていうの！？
 
 早く修復に手を貸してよ！！！
-> CONTEXT: Map473/events/1/pages/0/43/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map473/events/1/pages/0/43/Dialogue/sirousagi_fc1
+Do you plan on making this weak lil' bunny do all
+the work?! Hurry up and give us a hand to fix all
+this!!#Ron
 > END STRING
 
 > BEGIN STRING
 え…！？ぼ、僕！？
 
 い、一体何を…！？
-> CONTEXT: Map473/events/1/pages/0/48/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map473/events/1/pages/0/48/Dialogue/kazuya
+Huh?! M-Me?!
 
+B-But how on earth do I...?!#Ron
 > END STRING
