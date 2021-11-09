@@ -562,8 +562,8 @@ Okaaay♪#Strate
 > CONTEXT: CommonEvents_663/702/Dialogue/enemy29
 Oh, really?
 
-Huh... I didn't think you'd say no after I went
-through all this trouble to revise this scene...#Strate
+Huh... I didn't think you'd say no after going
+through all this trouble to rewatch this scene...#Strate
 > END STRING
 
 > BEGIN STRING
