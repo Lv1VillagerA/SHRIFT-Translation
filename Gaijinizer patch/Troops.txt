@@ -18742,46 +18742,54 @@ Fusion\\C[0]! Behold!#Ron
 ふふ……会えてうれしいわ、\\N[1]…♡
 
 今日はどんな方法で搾って欲しいのかしら…？♡
-> CONTEXT: Troops/410/pages/0/14/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Troops/410/pages/0/14/Dialogue/highslag_fc1
+Fufu... I'm happy to see you, \\N[1]... ♡
 
+How would you like to be squeezed today? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ブラックドッグは、駆け寄ってきて
 
 \\N[1]に身体を擦り付けてきた……
-> CONTEXT: Troops/411/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/411/pages/0/11/Dialogue
+Black Dog runs up to \\N[1] and starts rubbing herself
+on his body...#Ron
 > END STRING
 
 > BEGIN STRING
 よ、よしよし……
 
 僕も会いたかったよ……
-> CONTEXT: Troops/411/pages/0/15/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/411/pages/0/15/Dialogue/kazuya
+T-There's a good girl...
 
+I wanted to see you, too...#Ron
 > END STRING
 
 > BEGIN STRING
 ……なんか、ヘルハウンドだからっていうより……
 
 ホントにバーゲストの親類って分かりやすいな……
-> CONTEXT: Troops/411/pages/0/21/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Troops/411/pages/0/21/Dialogue/kazuya
+Maybe because you're a Hellhound, but it's
+really easy to tell you're related to Barghest...#Ron
 > END STRING
 
 > BEGIN STRING
 ワオンッ！！
-> CONTEXT: Troops/411/pages/0/25/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Troops/411/pages/0/25/Dialogue/enemy37
+Wan!!#Ron
 > END STRING
 
 > BEGIN STRING
 ちょっ……！ま、待って……！！
 
 きゅ、急すぎる…！！
-> CONTEXT: Troops/411/pages/0/56/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/411/pages/0/56/Dialogue/kazuya-0
+Hey! W-Wait!!
 
+T-This is too sudden!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18794,8 +18802,10 @@ Fusion\\C[0]! Behold!#Ron
 対象を確認……
 
 \\N[1]と認識……
-> CONTEXT: Troops/412/pages/0/14/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/412/pages/0/14/Dialogue/c_beast_fc1
+Target confirmed...
 
+\\N[1] confirmed...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18803,16 +18813,21 @@ Fusion\\C[0]! Behold!#Ron
 
 箱って感情や思念を込める道具だから
 ワンチャンあるかなって思ったけど……
-> CONTEXT: Troops/412/pages/0/18/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Troops/412/pages/0/18/Dialogue/kazuya
+S-So you've still got that same lifeless way of
+talking even in the box. Those boxes are a tool to
+put in your thoughts and feelings, so I thought
+maybe you might be a little different...#RonIffy
 > END STRING
 
 > BEGIN STRING
 でも、僕の事を覚えてくれてるみたいで嬉しいよ……
 
 あの時は……
-> CONTEXT: Troops/412/pages/0/23/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/412/pages/0/23/Dialogue/kazuya
+But I'm happy that it seems like you remember me.
 
+Back then I...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18820,8 +18835,11 @@ Fusion\\C[0]! Behold!#Ron
 
 彼女はどうやってこの「箱」を作ったのだろう…？
 見よう見まねとはいっていたが……
-> CONTEXT: Troops/412/pages/0/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/412/pages/0/83/Dialogue
+A Chimera Beast that indifferently provides sexual
+stimulation. I wonder how she was able to make that box?
+Someone said she learned how to do it by watching the
+others, but still...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18829,8 +18847,11 @@ Fusion\\C[0]! Behold!#Ron
 バーゲストは、どうやって彼女と意思疎通したのだろう……
 
 謎は深まるばかりだ……
-> CONTEXT: Troops/412/pages/0/88/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/412/pages/0/88/Dialogue
+And more importantly, how did she and Barghest manage to
+come to a mutual understanding?
 
+The mystery's only getting deeper...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18856,8 +18877,11 @@ Fusion\\C[0]! Behold!#Ron
 
 また会ったわね！\\N[1]！！
 私と遊びたいっていうの？
-> CONTEXT: Troops/414/pages/0/10/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/414/pages/0/10/Dialogue/enemy37
+Ahahahahahahaha!!
 
+We meet again, \\N[1]!!
+Do you want to play with me?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18865,8 +18889,11 @@ Fusion\\C[0]! Behold!#Ron
 
 アンタのことは、最初に見たときから
 徹底的にイジめてやりたいと思ってたのよ♡
-> CONTEXT: Troops/414/pages/0/15/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/414/pages/0/15/Dialogue/enemy37
+That's fine. ♡
 
+I've been wanting to toy with you from the moment
+I first saw you. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18874,22 +18901,28 @@ Fusion\\C[0]! Behold!#Ron
 
 このヴァシリカ様が、
 アンタの精気を根こそぎ吸い取ってやるわ！
-> CONTEXT: Troops/414/pages/0/20/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/414/pages/0/20/Dialogue/enemy37
+Now, hurry up and prostrate yourself before me!
 
+I, Vasilica-sama, will drain you dry!#Ron
 > END STRING
 
 > BEGIN STRING
 ………これじゃ、本人の言ってた
 
 「優しくしてくれる」は期待できなさそうだな…
-> CONTEXT: Troops/414/pages/0/26/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Troops/414/pages/0/26/Dialogue/kazuya
+Vasilica said she'd be gentle with me, but it
+doesn't look like I can really hope for that...#Ron
 > END STRING
 
 > BEGIN STRING
 いや、ある意味……
 
 これが彼女なりの人間に対しての優しさだったりして……
-> CONTEXT: Troops/414/pages/0/30/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/414/pages/0/30/Dialogue/kazuya
+Then again...
 
+This is her being gentle with a human in her own
+way...#Ron 
 > END STRING

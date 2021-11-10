@@ -11250,12 +11250,12 @@ Judgment Day#Ron
 
 > BEGIN STRING
 食らいつき
-> CONTEXT: Skills/953/name < UNTRANSLATED
-
+> CONTEXT: Skills/953/name
+Bite#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]に食らいついてきた！
-> CONTEXT: Skills/953/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/953/message1
+ bites at \\N[1]!#Ron
 > END STRING
