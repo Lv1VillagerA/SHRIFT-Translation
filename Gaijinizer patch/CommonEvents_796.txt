@@ -1,11 +1,11 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 うううっ……♡
-> CONTEXT: CommonEvents_796/2/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_798/2/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_799/1/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_801/3/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/2/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_798/2/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_799/1/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_801/3/Dialogue/kazuya-0
+Uuugh... ♡#Ron
 > END STRING
 
 > BEGIN STRING

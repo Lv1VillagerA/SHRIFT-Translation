@@ -432,50 +432,59 @@ in your favor...
 
 > BEGIN STRING
 \\N[1]くん！？
-> CONTEXT: Map468/events/48/pages/0/14/Dialogue/enemy30 < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/14/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map468/events/48/pages/0/14/Dialogue/enemy30
+> CONTEXT: Map541/events/48/pages/0/14/Dialogue/enemy30
+\\N[1]-kun?!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、他のメンバーと扉で分断させられてしまった！
-> CONTEXT: Map468/events/48/pages/0/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/48/pages/0/19/Dialogue
+> CONTEXT: Map541/events/48/pages/0/19/Dialogue
+The door shut behind \\N[1], cutting him off from the
+other party members!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]！！無事か！？
 
 待ってろ！すぐに出してやる！
-> CONTEXT: Map468/events/48/pages/0/24/Dialogue/alice_fc5 < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/24/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map468/events/48/pages/0/24/Dialogue/alice_fc5
+> CONTEXT: Map541/events/48/pages/0/24/Dialogue/alice_fc5
+\\N[1]!! Are you okay?!
 
+Wait there, we'll get this door open soon!#Ron
 > END STRING
 
 > BEGIN STRING
 だ…だめだ……動かない……
-> CONTEXT: Map468/events/48/pages/0/29/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/29/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map468/events/48/pages/0/29/Dialogue/ruka_fc1
+> CONTEXT: Map541/events/48/pages/0/29/Dialogue/ruka_fc1
+N-No good... It won't budge...#Ron
 > END STRING
 
 > BEGIN STRING
 な、なによこの扉……
 
 全員で持ち上げてもビクともしない…！
-> CONTEXT: Map468/events/48/pages/0/31/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/31/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map468/events/48/pages/0/31/Dialogue/enemy38
+> CONTEXT: Map541/events/48/pages/0/31/Dialogue/enemy38
+W-What's with this door?
 
+It won't move an inch even with all of us trying
+to lift it!#Ron
 > END STRING
 
 > BEGIN STRING
 瑞紀、これは普通の扉ではないぞ…！
 
 魔力の障壁とは違う……なんだこれは……！？
-> CONTEXT: Map468/events/48/pages/0/35/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/35/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map468/events/48/pages/0/35/Dialogue/enemy37
+> CONTEXT: Map541/events/48/pages/0/35/Dialogue/enemy37
+This is no ordinary door, Mizuki! It's different
+from normal magical obstacles!
 
+Just what's happening here?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -483,16 +492,19 @@ in your favor...
 
 この世界の『管理者』権限でもなければ、干渉できない…
 一体どんな魔物の仕業なんだよ……これ……
-> CONTEXT: Map468/events/48/pages/0/39/Dialogue/sirousagi_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/39/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map468/events/48/pages/0/39/Dialogue/sirousagi_fc1
+> CONTEXT: Map541/events/48/pages/0/39/Dialogue/sirousagi_fc1
+It's more than just not normal... only the
+Administrator of this world would have the power
+to move it. Just what kind of monster could do
+something like this?#Ron
 > END STRING
 
 > BEGIN STRING
 み、みんな……！
-> CONTEXT: Map468/events/48/pages/0/44/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/44/Dialogue/kazuya-c < UNTRANSLATED
-
+> CONTEXT: Map468/events/48/pages/0/44/Dialogue/kazuya-c
+> CONTEXT: Map541/events/48/pages/0/44/Dialogue/kazuya-c
+E-Everyone!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -500,50 +512,59 @@ in your favor...
 
 こちらで扉を開けるのは無理そうだ……
 そちらになにか、抜け穴のようなものはあるか！？
-> CONTEXT: Map468/events/48/pages/0/46/Dialogue/alice_fc5 < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/46/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map468/events/48/pages/0/46/Dialogue/alice_fc5
+> CONTEXT: Map541/events/48/pages/0/46/Dialogue/alice_fc5
+How's everything on your side, \\N[1]?!
+It looks like it's not going to be possible for
+us to open it. Is there a hole or some other way
+to escape you can see?!#Ron
 > END STRING
 
 > BEGIN STRING
 ぬ、抜け穴……？
-> CONTEXT: Map468/events/48/pages/0/51/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/51/Dialogue/kazuya-c < UNTRANSLATED
-
+> CONTEXT: Map468/events/48/pages/0/51/Dialogue/kazuya-c
+> CONTEXT: Map541/events/48/pages/0/51/Dialogue/kazuya-c
+H-Hole...?#Ron
 > END STRING
 
 > BEGIN STRING
 奥にあるのは……ベッド……？
 
 こんな場所に……誰か住んでるの……？
-> CONTEXT: Map468/events/48/pages/0/58/Dialogue/kazuya-b < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/58/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map468/events/48/pages/0/58/Dialogue/kazuya-b
+> CONTEXT: Map541/events/48/pages/0/58/Dialogue/kazuya-b
+In the back there's... a bed?
 
+Is there someone living in a place like this?#Ron
 > END STRING
 
 > BEGIN STRING
 それ以外には……なにもない……
 
 暗い……こわいよ……
-> CONTEXT: Map468/events/48/pages/0/62/Dialogue/kazuya-b < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/62/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map468/events/48/pages/0/62/Dialogue/kazuya-b
+> CONTEXT: Map541/events/48/pages/0/62/Dialogue/kazuya-b
+Other than that... there's nothing.
 
+It's dark... I'm scared...#Ron
 > END STRING
 
 > BEGIN STRING
 だ、だれ……？
-> CONTEXT: Map468/events/48/pages/0/86/Dialogue/kazuya-c < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/86/Dialogue/kazuya-c < UNTRANSLATED
-
+> CONTEXT: Map468/events/48/pages/0/86/Dialogue/kazuya-c
+> CONTEXT: Map541/events/48/pages/0/86/Dialogue/kazuya-c
+W-Who are you?#Ron
 > END STRING
 
 > BEGIN STRING
 …………っ！！
 
 なんだこの気配は…！！？
-> CONTEXT: Map468/events/48/pages/0/88/Dialogue/alice_fc5 < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/88/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map468/events/48/pages/0/88/Dialogue/alice_fc5
+> CONTEXT: Map541/events/48/pages/0/88/Dialogue/alice_fc5
+......!!
 
+What's that presence?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -551,9 +572,12 @@ in your favor...
 
 \\C[2]この館の当主が長年封印してたっていう
 \\C[10]『ヴァンパイア』\\C[2]の気配……！？
-> CONTEXT: Map468/events/48/pages/0/92/Dialogue/sirousagi_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/92/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map468/events/48/pages/0/92/Dialogue/sirousagi_fc1
+> CONTEXT: Map541/events/48/pages/0/92/Dialogue/sirousagi_fc1
+That's.. don't tell me... \\C[2]that's a \\C[10]vampire's
+\\C[2]presence. They not the ones who were sealed
+away long ago by the one who owned this mansion,
+are they?!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -561,9 +585,15 @@ in your favor...
 \\C[10]『介入』\\C[0]並の\\C[2]改変能力\\C[0]を得てしまった怪物…
 
 天魔共同の総力戦で、辛うじて封印に成功したっていう…！
-> CONTEXT: Map468/events/48/pages/0/97/Dialogue/sirousagi_fc1 < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/97/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map468/events/48/pages/0/97/Dialogue/sirousagi_fcl
+> CONTEXT: Map541/events/48/pages/0/97/Dialogue/sirousagi_fc1
+When the Monster Lord created monsters, he created
+vampires to be its representative with \\C[2]alteration
+powers\\C[0] on par with that of \\C[10]Interveners\\C[0].
 
+It took the combined power of demons and angels
+working together, and even that barely sealed
+them away!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -571,25 +601,30 @@ in your favor...
 
 そやつに近付かれてはダメだ！！
 すぐに距離を取れ！！
-> CONTEXT: Map468/events/48/pages/0/102/Dialogue/alice_fc5 < UNTRANSLATED
-> CONTEXT: Map541/events/48/pages/0/102/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map468/events/48/pages/0/102/Dialogue/alice_fc5
+> CONTEXT: Map541/events/48/pages/0/102/Dialogue/alice_fc5
+Run, \\N[1]!!
 
+Don't let her get close to you!!
+Get away from her, quickly!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ヴァンパイアに捕まってしまった……
-> CONTEXT: Map468/events/49/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map541/events/49/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map468/events/49/pages/1/2/Dialogue
+> CONTEXT: Map541/events/49/pages/1/2/Dialogue
+\\N[1] was caught by the vampire.#Ron
 > END STRING
 
 > BEGIN STRING
 や、やめて……はなして…！
 
 怖いことしないで……！
-> CONTEXT: Map468/events/49/pages/1/4/Dialogue/kazuya-b < UNTRANSLATED
-> CONTEXT: Map541/events/49/pages/1/4/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map468/events/49/pages/1/4/Dialogue/kazuya-b
+> CONTEXT: Map541/events/49/pages/1/4/Dialogue/kazuya-b
+S-Stop it... let me go!
 
+Don't hurt me!#Ron
 > END STRING
 
 > BEGIN STRING

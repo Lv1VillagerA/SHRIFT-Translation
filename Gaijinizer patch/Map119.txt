@@ -113,7 +113,7 @@ Clear corruptionif(v[49] \>= 100)#Ron
 > CONTEXT: Map119/events/5/pages/0/250/Dialogue/enemy10
 Aaah, I'd rather not...
 
-Well alright, but in exchange I get to instil
+Well alright, but in exchange I get to instill
 plenty of fear into you, okay?#Ron
 > END STRING
 
@@ -532,8 +532,8 @@ in my belly and can be used immediately.#Ron
 > CONTEXT: Map119/events/5/pages/1/151/Dialogue/enemy10
 The thread tangling around my prey expands and
 contracts from external temperature, and makes
-makes repeated fine movements, continuously
-titillating my opponent.#RonIffyWording
+repeated fine movements, continuously titillating
+my opponent.#RonIffyWording
 > END STRING
 
 > BEGIN STRING

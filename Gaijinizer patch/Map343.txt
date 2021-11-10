@@ -579,7 +579,7 @@ She's been defeated and had her power split off.
 She knows she will never fulfill her desires no
 matter how much she rails against the cage she's
 found herself in.
-So why does is she trying to crawl out into the
+So why is she trying to crawl out into the
 human realm?#RonLocalization
 > END STRING
 
@@ -647,8 +647,8 @@ she'd read about in human picture books long ago.#Ron
 彼女の心の底には、それが未練として残っています
 > CONTEXT: Map343/events/8/pages/0/227/Dialogue/other1
 \\C[2]There was discord with her childlike heart that
-adored humankind. And that discord still remains as
-regret lingering deep within her.#Ron
+adored humankind. And that discord still remains
+as regret lingering deep within her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -811,16 +811,20 @@ are able...#Ron
 ただ死を待つのみだった少女の泣き声……
 
 それに応える、偽りの母と、救済の女王……
-> CONTEXT: Map343/events/9/pages/1/1/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map343/events/9/pages/1/1/Dialogue/other1
+The cry of a girl simply awaiting death......
 
+Answered by a pretend mother, and a savior
+queen......#Strate
 > END STRING
 
 > BEGIN STRING
 あなたには、あの両親を失った少女にとって
 
 どんな結末が、一番幸せだったと思いますか？
-> CONTEXT: Map343/events/9/pages/1/5/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/9/pages/1/5/Dialogue/other1
+In your opinion, which end would have given this
+girl who lost her parents the most happiness?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -828,8 +832,11 @@ are able...#Ron
 
 マザーラビットの胸で死ぬことでしょうか
 クイーンの胎で、魂を快楽で溶かされることでしょうか
-> CONTEXT: Map343/events/9/pages/1/9/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/9/pages/1/9/Dialogue/other1
+Being rescued by you and then dying to other
+factors? Dying while held against Mother Rabbit's
+chest? Or having her soul melt in pleasure inside
+the Queen's womb?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -837,8 +844,10 @@ are able...#Ron
 
 『どんな最期が幸せか』などという問いは、
 実際に行き着いた本人しか分からないものです。
-> CONTEXT: Map343/events/9/pages/1/14/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/9/pages/1/14/Dialogue/other1
+......Well, I do not know the answer. Only a
+person who has actually reached such an end would
+be able to answer that question.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -846,8 +855,11 @@ are able...#Ron
 
 クイーンの胎内でモドキに生まれ変わることこそが
 自分たちの『救済』だと信じる人たちです。
-> CONTEXT: Map343/events/9/pages/1/19/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/9/pages/1/19/Dialogue/other1
+In that world, there was a group called "Mother
+Demon". They believed that being reborn as a
+Harpy Spawn through the womb of the Queen was
+their "salvation".#Strate
 > END STRING
 
 > BEGIN STRING
@@ -855,8 +867,11 @@ are able...#Ron
 一見自由に見えて、なかなか危ういものですね、
 
 もちろん、彼らを非難しているわけではありませんよ
-> CONTEXT: Map343/events/9/pages/1/24/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/9/pages/1/24/Dialogue/other1
+The fact that an "answer" for everything does not
+exist may seem liberating at first glance, but it
+can be quite a dangerous thing.
+Of course, I don't blame them.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -864,6 +879,9 @@ are able...#Ron
 誰かの『狂気』となりえること………
 
 ゆめゆめ、忘れることのないように……
-> CONTEXT: Map343/events/9/pages/1/29/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map343/events/9/pages/1/29/Dialogue/other1
+What is "faith" to you can be "insanity" to
+someone else......
 
+Do not ever forget that......#Strate
 > END STRING

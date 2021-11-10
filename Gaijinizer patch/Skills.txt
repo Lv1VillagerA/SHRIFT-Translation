@@ -6066,7 +6066,7 @@ Seed-Squeezing Hold#afrgPRStrateRevision
 > BEGIN STRING
 ずぶずぶと喰われるように\\N[1]は犯されていく…
 > CONTEXT: Skills/470/message2
-\\N[1] is being fucked so as to be said to be sopping wet ...#MTLed
+He's being violated in order to bring it deeper inside...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -7980,7 +7980,7 @@ Virtue: Ayashi Ayaka#MTLed
 > BEGIN STRING
 柔らかいおっぱいの壁が、\\N[1]をギュウギュウと圧迫する…
 > CONTEXT: Skills/668/message2
-A wall of soft breasts squeeze down around him.#Ron
+A wall of soft boobs squeezes down around him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7992,7 +7992,7 @@ Magic Fly's Embrace#Ron
 > BEGIN STRING
 は\\N[1]を自身の下半身でぐるぐる巻きにした！
 > CONTEXT: Skills/668/message1
- wraps \\N[1] up in her lower half!#Ron
+ has her lower half wrapped around \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8016,20 +8016,20 @@ Instinctive Thrusting#afrg
 
 > BEGIN STRING
 \\N[1]の精気が、みるみるうちに吸い上げられてく……
-> CONTEXT: Skills/672/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/672/message2
+\\N[1]'s energy is drained from him in a flash...#Ron
 > END STRING
 
 > BEGIN STRING
 ドレインマント
-> CONTEXT: Skills/672/name < UNTRANSLATED
-
+> CONTEXT: Skills/672/name
+Draining Cloak#Ron
 > END STRING
 
 > BEGIN STRING
 は\\n[1]をマントで完全に覆い尽くした！
-> CONTEXT: Skills/672/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/672/message1
+ completely covers \\n[1] with her cloak!#Ron
 > END STRING
 
 > BEGIN STRING
