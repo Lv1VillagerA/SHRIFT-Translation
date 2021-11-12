@@ -5,11 +5,10 @@
 介入自体の観測は珍しくないが、こんな例は極希だ。
 ましてや、介入元の魔力を使うなんて……
 > CONTEXT: Map497/events/1/pages/0/5/Dialogue/hyakki
-You created a miracle with the \\C[10]Intervention
-Medium\\C[0].　I've observed plenty of
-interventions, but this is an incredibly rare
-example of one.
-Especially one using Intervention source magic.#RonIffy
+You created a miracle through the \\C[10]Intervention
+Medium\\C[0]. I've seen a lot of them, but this
+is a special one. It's using Intervention magic
+with unrestricted access...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -19,7 +18,7 @@ Especially one using Intervention source magic.#RonIffy
 > CONTEXT: Map497/events/1/pages/0/10/Dialogue/hyakki
 That's why I was sure this time.
 
-Sure that if I followed you, that you'd
+I was sure that if I followed you, that you'd
 eventually lead me to him...#Ron
 > END STRING
 
@@ -29,10 +28,9 @@ eventually lead me to him...#Ron
 
 だから、しばらくアンタのマイルームで厄介になるのさ
 > CONTEXT: Map497/events/1/pages/0/14/Dialogue/hyakki
-And that you'd also get curious about the Twins
-who have been keeping tabs on you the same way I
-have. That's why I'll be making myself at home in
-My Room for a while.#RonIffy
+And I'm curious about those twins who've also
+been keeping tabs on you... So, I'll be making
+myself at home in My Room for a while.#RonIffy
 > END STRING
 
 > BEGIN STRING

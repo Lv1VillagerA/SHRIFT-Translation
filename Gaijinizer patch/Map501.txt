@@ -75,9 +75,9 @@ glue...#Ron
 
 どう対応したらいいか分かんなくて……
 > CONTEXT: Map501/events/4/pages/0/51/Dialogue/other8
-Just like Jack, I don't have any kids or relatives
-so I don't really know how to deal with this kind
-of thing...#Ron
+Just like Jack, I don't have any kids or
+relatives, so I don't really know how to deal
+with these kinds of things...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -86,7 +86,7 @@ of thing...#Ron
 公園ルートはやめて、１ブロック先の路地へ迂回する。
 だいぶ遠回りになるぞ。
 > CONTEXT: Map501/events/4/pages/0/56/Dialogue/other8
-......Well just get in the car for now.
+......Well, just get in the car for now.
 We're going to go around the park by using an
 alley a block away, but it'll be quite the
 detour.#Ron
@@ -108,10 +108,10 @@ Was there some kind of problem?#Ron
 
 避難した市民もいる、密集した公園のド真ん中でだ。
 > CONTEXT: Map501/events/4/pages/0/66/Dialogue/other8
-No idea. But apparently a whole squad went missing
-in the park. They were crowded together in the
-middle of the park with a bunch of evacuated
-civilians as well.#RonIffy
+No idea. But apparently, a whole squad went
+missing in the park. They were crowded together
+in the dead center of it with a bunch of evacuated
+civilians as well, and just... vanished.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -145,8 +145,8 @@ nothing happens to her.#Ron
 > CONTEXT: Map501/events/4/pages/0/86/Dialogue/other8
 Captain Toshiaki...
 
-There was \\C[2]some youngster who defeated that Harpy
-Spawn Queen\\C[0]...#RonIffy
+I wonder who that youngster was that \\C[2]defeated
+that Harpy Spawn Queen\\C[0]...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -211,9 +211,9 @@ R-Right...
 
 > BEGIN STRING
 ｼｭﾙﾙﾙﾙﾙﾙﾙ……
-> CONTEXT: Map501/events/4/pages/0/135/Dialogue/other8 < UNTRANSLATED
-> CONTEXT: Map501/events/4/pages/0/156/Dialogue/other8 < UNTRANSLATED
-#CheckLater
+> CONTEXT: Map501/events/4/pages/0/135/Dialogue/other8
+> CONTEXT: Map501/events/4/pages/0/156/Dialogue/other8
+sssshhrrr...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING

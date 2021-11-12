@@ -1035,7 +1035,7 @@ Green Apple#Triketos
 抵：＋１５０％　必殺技に必要な武器切り替えが２回になる。
 > CONTEXT: Armors/103/description < UNTRANSLATED
 \\C[11][Marion Only] \\C[0]Gold armor cherished by Marion's forefathers.
-Will: +150%, can use ultimate technique after swapping only twice.
+Will: +150%, can use ultimate technique after swapping only twice.#Ron
 > END STRING
 
 > BEGIN STRING

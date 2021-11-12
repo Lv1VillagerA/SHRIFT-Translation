@@ -17,7 +17,7 @@ Losing to a vanpire is pathetic...#Ron
 > CONTEXT: CommonEvents_770/16/Dialogue/enemy35
 Though Vanpires tend to focus on magic for their
 attacks, they're also more than capable of using
-physical elemental attacks, making them quite a
+physical ones as well, making them quite a
 nuisance to fight.
 \\C[2]Therefore, your first course of action should
 be to try mitigating the damage you receive as

@@ -265,9 +265,9 @@ Ugh... Ugh...#Ron
 マリオンと同じくらいの背格好だ……
 > CONTEXT: Map498/events/2/pages/0/173/Dialogue
 The girl slumped on the ground in front of us was
-definitely Vasilica, but \\C[2]her height and appearance were
-both clearly changed into a form much younger. Her stature
-was now about the same as Marion's\\C[0]...#RonIffyWording
+definitely Vasilica. But now, \\C[2]her size and
+appearance had changed into a form much younger,
+around the same size as Marion\\C[0]...#RonIffyWording
 > END STRING
 
 > BEGIN STRING

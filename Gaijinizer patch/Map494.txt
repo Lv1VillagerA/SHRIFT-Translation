@@ -59,10 +59,10 @@ you're going to live to see the wedding...#Ron
 過去に起きた事例と、別次元への空間歪曲の法則性に
 私の知っている出来事とかなりの共通点がある……
 > CONTEXT: Map494/events/4/pages/0/53/Dialogue/hyakki
-This is definitely it. The natural principles of
-these alternate dimension spacetime distortions
-in the past have a lot in common with the ones
-I know about.#RonIffy
+...This is definitely it. There's similarities
+here to the spatial distortion I saw so long
+ago... and how it involves other dimensions.
+It even matches the laws and rules governing them.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -101,10 +101,10 @@ someday.#Ron
 
 『前の世界』だと普通に経験値だったから……！
 > CONTEXT: Map494/events/4/pages/0/101/Dialogue/hyakki
-Ah, now I've done it!!
+Ah... now I've done it!!
 
-I kicked the alien to death because that's what
-I normally did in the previous world.#CheckLater
+I instinctively kicked it to death because I did
+it so many times in previous world lines...#Ron
 > END STRING
 
 > BEGIN STRING
