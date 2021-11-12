@@ -203,6 +203,6 @@
 
 > BEGIN STRING
 多元宇宙～第６層～
-> CONTEXT: Map499/display_name < UNTRANSLATED
-
+> CONTEXT: Map499/display_name
+Multiverse - Sixth Layer#Ron
 > END STRING

@@ -3,8 +3,10 @@
 ＊「随分と熱心にデータベースを漁ってるようだが……
 
 　　奴らに対して、何か有効な手段が見つかったのか？」
-> CONTEXT: Map494/events/4/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map494/events/4/pages/0/12/Dialogue
+* 「You're rather enthusiastically looking through the
+    database. Have you found something useful for
+    dealing with them?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,8 +14,11 @@
 
 あの融通の利かない上官が死んだのは
 まさに怪我の功名っていうやつだ……
-> CONTEXT: Map494/events/4/pages/0/17/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map494/events/4/pages/0/17/Dialogue/hyakki
+Something like that.
 
+That inflexible superior officer kicking the
+bucket was a real lucky break...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -21,8 +26,11 @@
 
 もう少ししたら、その手段を引き出してやるよ
 隣の部屋でコーヒーでも飲んで待ってな♪
-> CONTEXT: Map494/events/4/pages/0/22/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map494/events/4/pages/0/22/Dialogue/hyakki
+You want to give that alien the surprise of its
+life too, don't you? Just give me a little longer
+and I'll find a way. You just go wait in the next
+room and have a coffee or something. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,16 +38,19 @@
 
 　　無事に地球に帰れたら、俺とフィアンセの結婚式
 　　絶対に出席してくれよな！！」
-> CONTEXT: Map494/events/4/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map494/events/4/pages/0/28/Dialogue
+* 「Understood, I'm relying on you, Hyakki!
+    If we make it back to Earth safely, you've
+    gotta attend me and my fiance's wedding!!」#Ron
 > END STRING
 
 > BEGIN STRING
 ………ま、出席したくても
 
 アンタはどうやっても死ぬんだけどね……
-> CONTEXT: Map494/events/4/pages/0/47/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map494/events/4/pages/0/47/Dialogue/hyakki
+Well, even if I wanted to attend it's not like
+you're going to live to see the wedding...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -47,8 +58,11 @@
 
 過去に起きた事例と、別次元への空間歪曲の法則性に
 私の知っている出来事とかなりの共通点がある……
-> CONTEXT: Map494/events/4/pages/0/53/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map494/events/4/pages/0/53/Dialogue/hyakki
+...This is definitely it. There's similarities
+here to the spatial distortion I saw so long
+ago... and how it involves other dimensions.
+It even matches the laws and rules governing them.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -56,8 +70,11 @@
 
 悪魔が様々な人間界に干渉することとは別なのか…
 とても興味深いね……
-> CONTEXT: Map494/events/4/pages/0/58/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map494/events/4/pages/0/58/Dialogue/hyakki
+These are "Interposition"... \\C[10]Intervention\\C[0]?
 
+It's different to how demons interfere with the
+various human realms, how very interesting...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,14 +82,17 @@
 あの\\C[10]黒い帽子の悪魔\\C[0]と同一だ……
 
 待ってな……いつか必ず追いついてやる……
-> CONTEXT: Map494/events/4/pages/0/63/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map494/events/4/pages/0/63/Dialogue/hyakki
+And these observed values... I'm sure of it.
+They're the same as that \\C[10]black-hatted demon\\C[0].
+Just you wait, I'll definitely catch up to you
+someday.#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{うるさいっ！！！！
-> CONTEXT: Map494/events/4/pages/0/98/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Map494/events/4/pages/0/98/Dialogue/hyakki2
+\\{\\{Get the hell out!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -80,8 +100,11 @@
 エイリアン蹴り殺しちゃった……！！
 
 『前の世界』だと普通に経験値だったから……！
-> CONTEXT: Map494/events/4/pages/0/101/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map494/events/4/pages/0/101/Dialogue/hyakki
+Ah... now I've done it!!
 
+I instinctively kicked it to death because I did
+it so many times in previous world lines...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -89,8 +112,11 @@
 
 今まで
 『ちょっと非力な勝ち気のメカニック』を演じてたのに…
-> CONTEXT: Map494/events/4/pages/0/106/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map494/events/4/pages/0/106/Dialogue/hyakki
+W-W-W-W-What do I do?
 
+I've been pretending to be powerless this whole
+time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -98,12 +124,15 @@
 
 最後まで付き合ってやるか……
 いい観測データが取れるかもしれないしネ……
-> CONTEXT: Map494/events/4/pages/0/113/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map494/events/4/pages/0/113/Dialogue/hyakki
+Well, the crew will end up dying anyway, I guess
+I'll hang out with them until the end. I might
+even be able to get some good observation data
+while I'm at it.#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？？＝第３スペースシップ＝
-> CONTEXT: Map494/display_name < UNTRANSLATED
-
+> CONTEXT: Map494/display_name
+???? = Spaceship Three =#Ron
 > END STRING

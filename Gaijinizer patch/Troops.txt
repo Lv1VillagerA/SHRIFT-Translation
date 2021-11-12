@@ -17559,53 +17559,64 @@ Would you like to read it again?#Ron
 さぁ……いくわよ…！！
 
 アンタたちに耐えられるかしらね…！？
-> CONTEXT: Troops/364/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/3/4/Dialogue/enemy37
+> CONTEXT: Troops/388/pages/3/4/Dialogue/enemy37
+> CONTEXT: Troops/393/pages/3/4/Dialogue/enemy37
+Alright, here I go!!
 
+Let's see if you can withstand this!!#Ron
 > END STRING
 
 > BEGIN STRING
 ヴァシリカは禍々しい電撃を放ち始めた…… 
 
 \\C[2]とても回避できる雰囲気ではない……
-> CONTEXT: Troops/364/pages/3/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/364/pages/4/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/388/pages/3/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/388/pages/4/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/393/pages/3/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/393/pages/4/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/364/pages/3/8/Dialogue
+> CONTEXT: Troops/364/pages/4/8/Dialogue
+> CONTEXT: Troops/388/pages/3/8/Dialogue
+> CONTEXT: Troops/388/pages/4/8/Dialogue
+> CONTEXT: Troops/393/pages/3/8/Dialogue
+> CONTEXT: Troops/393/pages/4/8/Dialogue
+Vasilica has started emitting ominous-looking
+electricity...
 
+\\C[2]It doesn't look like it can be evaded...#Ron
 > END STRING
 
 > BEGIN STRING
 くっ……！！
 
 いい加減に、倒れなさい…！！！
-> CONTEXT: Troops/364/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/4/4/Dialogue/enemy38
+> CONTEXT: Troops/388/pages/4/4/Dialogue/enemy38
+> CONTEXT: Troops/393/pages/4/4/Dialogue/enemy38
+Kgh!!
 
+Hurry up and go down already!!#Ron
 > END STRING
 
 > BEGIN STRING
 う、嘘……！！
 
 私が負けるはずが……！
-> CONTEXT: Troops/364/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/5/0/Dialogue/enemy38
+> CONTEXT: Troops/388/pages/5/0/Dialogue/enemy38
+> CONTEXT: Troops/393/pages/5/0/Dialogue/enemy38
+I-It can't be...!!
 
+There's no way I could've lost...!#Ron
 > END STRING
 
 > BEGIN STRING
 い、いや……！！
 
 \\C[10]世界融解\\C[0]の力が……消える……！？
-> CONTEXT: Troops/364/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/5/4/Dialogue/enemy38
+> CONTEXT: Troops/388/pages/5/4/Dialogue/enemy38
+> CONTEXT: Troops/393/pages/5/4/Dialogue/enemy38
+N-No!!
 
+My \\C[10]World Fusion \\C[0]power... it's disappearing...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18531,9 +18542,9 @@ Fusion\\C[0]! Behold!#Ron
 
 > BEGIN STRING
 ヴァシリカは姿勢を元に戻した…
-> CONTEXT: Troops/388/pages/0/33/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/393/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/388/pages/0/33/Dialogue
+> CONTEXT: Troops/393/pages/0/33/Dialogue
+Vasilica has returned to her normal stance...#Ron
 > END STRING
 
 > BEGIN STRING

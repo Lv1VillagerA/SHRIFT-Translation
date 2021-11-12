@@ -5555,14 +5555,14 @@ Splash Fleuret#RonIffy
 
 > BEGIN STRING
 ダーク・メディション
-> CONTEXT: Skills/423/name < UNTRANSLATED
-
+> CONTEXT: Skills/423/name
+Dark Medition#Ron
 > END STRING
 
 > BEGIN STRING
 はダーク・メディションを放った！
-> CONTEXT: Skills/423/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/423/message1
+ unleashes Dark Medition!#Ron
 > END STRING
 
 > BEGIN STRING
