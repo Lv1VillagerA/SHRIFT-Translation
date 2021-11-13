@@ -3,8 +3,10 @@
 待ってたわよ、\\N[1]……
 
 そして我が宿敵、マリオン…！！
-> CONTEXT: Map498/events/2/pages/0/20/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/20/Dialogue/enemy38
+I've been waiting for you, \\N[1]...
 
+And for you as well Marion, my arch-nemesis!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,16 +14,21 @@
 
 アバドーンに約束を守ってもらうために…
 アンタたちには犠牲になってもらうわ！！
-> CONTEXT: Map498/events/2/pages/0/24/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/24/Dialogue/enemy38
+I won't allow you to interfere any further...
 
+You must all be sacrificed in order for Abaddon
+to keep his promise!!#Ron
 > END STRING
 
 > BEGIN STRING
 最初に出会ったときも言っていたが……
 
 どうも、貴様とマリオンは因縁ある関係のようだな
-> CONTEXT: Map498/events/2/pages/0/31/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/31/Dialogue/alice_fc5
+I said this when we met the first time, but it
+really does seem like you and Marion have some
+kind of connection.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,8 +36,11 @@
 
 \\C[2]コイツの祖先に、私の種族は全員殺されたのよ……
 私を除いた、全員がね！
-> CONTEXT: Map498/events/2/pages/0/37/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/37/Dialogue/enemy38
+We have no such thing...
 
+\\C[2]His forefathers killed my entire clan. Everyone
+but me, that is!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,8 +48,11 @@
 
 彼はかつて、私の祝福を受け
 天界の裏切り者であるルシファーの討伐を行った…。
-> CONTEXT: Map498/events/2/pages/0/43/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/43/Dialogue/enemy35
+Marion's ancestor... \\C[2]the Holy Knight Saitou\\C[0]...
 
+He once accepted my blessings and went out to
+subjugate the traitor of heaven, Lucifer...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -47,8 +60,11 @@
 
 どんな世界にも居るものだな。
 バリエーションが豊富だ……。
-> CONTEXT: Map498/events/2/pages/0/48/Dialogue/enemy36 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/48/Dialogue/enemy36
+What's this? Me again?
 
+I suppose I am in every world with all manner of
+variations.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -56,8 +72,11 @@
 様々な魔物の討伐が成されていたが……
 
 彼女の種族は確かにそれに含まれていたな。
-> CONTEXT: Map498/events/2/pages/0/53/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/53/Dialogue/enemy35
+Around that time, a number of different monster
+races were defeated by the Holy Knight Saitou...
 
+And that did certainly include her clan.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,8 +84,11 @@
 そのスカした顔が、アイツにそっくりなのよ！
 
 孫だって聞いたときはやっぱりって思ったわ！！
-> CONTEXT: Map498/events/2/pages/0/61/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/61/Dialogue/enemy38
+That face!! That pretentious face of yours is
+just like his! When I heard you were his
+descendant it only confirmed what I could already
+tell just by looking!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -74,8 +96,11 @@
 
 そのキモい天使もろとも、今日こそ滅ぼしてやるわ！
 この\\C[10]世界融解\\C[0]の力でね…！！
-> CONTEXT: Map498/events/2/pages/0/66/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/66/Dialogue/enemy38
+Prepare yourself!!
 
+Today's the day I destroy both you and that gross
+angel with the power of the \\C[10]World Fusion\\C[0]!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -83,16 +108,22 @@
 その際の元凶であるオクタエル討伐を成したではないか。
 
 何故そこまで固執する？
-> CONTEXT: Map498/events/2/pages/0/72/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/72/Dialogue/enemy35
+But did you and Marion not both work together
+once to defeat Octael, the ringleader behind
+the recent troubles in our world? Why are you
+going this far for a grudge?#RonLocalization
 > END STRING
 
 > BEGIN STRING
 お前が憎んでいるのは、マリオン自身なのか？
 
 それとも、過去の因縁なのか？
-> CONTEXT: Map498/events/2/pages/0/77/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/77/Dialogue/enemy35
+Is it Marion himself that you hate so much?
 
+Or is it the connection to the past he's linked
+to that you hate?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -100,8 +131,15 @@
 
 アイツの攻撃でフラついてた私たちを
 ジャイアントスイングでぶん投げるなんて前代未聞よ！！
-> CONTEXT: Map498/events/2/pages/0/82/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/82/Dialogue/enemy38
+We didn't work together!! That was just you
+picking us up and hurling us at Octael to chase
+after her!!
 
+You grabbed us while we were still reeling from
+her attack and did a giant swing throw to try
+and make us deal with her! I've never seen
+something so insane before!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -109,16 +147,21 @@
 あわよくば奪おうと思って、あの場で機会を窺ってたら…
 
 アイツが私の住処をぶっ壊そうとしたから止めただけよ！
-> CONTEXT: Map498/events/2/pages/0/87/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/87/Dialogue/enemy38
+I was just waiting for the right chance to take
+the angel orb that Baphomet said she'd stolen. I
+only stopped that plan because Octael tried to
+destroy my home.#Ron
 > END STRING
 
 > BEGIN STRING
 では、投げられた後、マリオンを抱え上げ
 
 オクタエルに共に立ち向かった事はどう説明するのだ…？
-> CONTEXT: Map498/events/2/pages/0/92/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/92/Dialogue/enemy35
+Then how do you explain flying with Marion in your
+arms to stop her after I'd thrown the both of
+you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -126,8 +169,11 @@
 アイツに一泡吹かせられると思っただけ！
 
 全然協力とか、そういうのじゃないんだから！！
-> CONTEXT: Map498/events/2/pages/0/96/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/96/Dialogue/enemy38
+That wasn't me working together with him at all!!
 
+I just thought it'd throw a wrench in her plans
+if I helped Marion steady his aim!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -135,30 +181,37 @@
 
 あれは成り行きよ！成り行き！
 崩壊するあの場所に、放っておくわけにもいかないでしょ！
-> CONTEXT: Map498/events/2/pages/0/101/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/101/Dialogue/enemy38
+Certainly I did carry him back to his own land,
+but it just kind of worked out that way!
+I couldn't just leave him there when everything
+was collapsing!#Ron
 > END STRING
 
 > BEGIN STRING
 ほぉう……？
 
 随分と世話焼きな事だな……？
-> CONTEXT: Map498/events/2/pages/0/108/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/108/Dialogue/alice_fc5
+Hmm?
 
+You're quite the little busybody, aren't you?#Ron
 > END STRING
 
 > BEGIN STRING
 "EX4　ヴァシリカ"
-> CONTEXT: Map498/events/2/pages/0/115/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/115/InlineScript/2:1
+"EX4　Vasilica"#Ron
 > END STRING
 
 > BEGIN STRING
 違うって言ってるでしょ！！やめなさい！！！
 
 そんな『ツンデレだな』みたいな目で見るのは！！！
-> CONTEXT: Map498/events/2/pages/0/119/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/119/Dialogue/enemy38
+Stop it!! I told you it's not like that!!
 
+Don't look at me like I'm some kind of tsundere!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -166,16 +219,19 @@
 
 その辺の誤解も含めて、消えなさい…！！
 全員この空間の藻屑となるのよ！！
-> CONTEXT: Map498/events/2/pages/0/125/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/125/Dialogue/enemy38
+Aaaaah!! This has turned into a real pain!!
 
+I'll erase those misunderstandings along with you
+all!! I'll turn you all into dust!!#Ron
 > END STRING
 
 > BEGIN STRING
 あーあー
 
 怒らせちゃった……
-> CONTEXT: Map498/events/2/pages/0/131/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/131/Dialogue/enemy38
+Oh dear... We've made her mad...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -183,20 +239,23 @@
 
 \\C[2]油断すれば命はないぞ！
 気を引き締めて迎え撃つのだ！！
-> CONTEXT: Map498/events/2/pages/0/135/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/135/Dialogue/enemy37
+Her \\C[10]World Fusion \\C[0]power is no joke...
 
+\\C[2]It'll be the end of you if you let your guard
+down! Stay alert when engaging her!!#Ron
 > END STRING
 
 > BEGIN STRING
 来るぞ……！！！
-> CONTEXT: Map498/events/2/pages/0/140/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/140/Dialogue/kazuya
+Here she comes!!!#Ron
 > END STRING
 
 > BEGIN STRING
 うっ……うっ……
-> CONTEXT: Map498/events/2/pages/0/168/Dialogue/コラボ^ヴァソ < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/168/Dialogue/コラボ^ヴァソ
+Ugh... Ugh...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -204,8 +263,11 @@
 
 だが、\\C[2]背や容姿が明らかに幼くなっている……
 マリオンと同じくらいの背格好だ……
-> CONTEXT: Map498/events/2/pages/0/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/173/Dialogue
+The girl slumped on the ground in front of us was
+definitely Vasilica. But now, \\C[2]her size and
+appearance had changed into a form much younger,
+around the same size as Marion\\C[0]...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -213,8 +275,11 @@
 
 \\C[10]世界融解\\C[0]の力で、図体だけではなく
 背格好も\\N[1]を襲いやすくしていたか……
-> CONTEXT: Map498/events/2/pages/0/180/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/180/Dialogue/enemy35
+This is \\C[2]her original form\\C[0]...
+Her \\C[10]World Fusion \\C[0]power had changed not just her
+frame but also her physique, perhaps to make it
+easier for her to attack us...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -222,16 +287,21 @@
 こっちの姿も、小さくて可愛いね！
 
 お人形さんみたい♪
-> CONTEXT: Map498/events/2/pages/0/185/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/185/Dialogue/enemy15
+She was cute before, but now she's tiny as well
+as cute!
 
+She's like a little dolly. ♪#Ron
 > END STRING
 
 > BEGIN STRING
 や、やめろ……！！頭を撫でるな！！
 
 優しく撫でるなぁ……！！
-> CONTEXT: Map498/events/2/pages/0/191/Dialogue/コラボ^ヴァソ < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/191/Dialogue/コラボ^ヴァソ
+S-Stop it!! Don't pat my head!!
 
+Stop gently stroking me!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -239,8 +309,11 @@
 
 あの姿だからこそ、\\N[1]の前でも
 強キャラ感が出せてたのに……！！
-> CONTEXT: Map498/events/2/pages/0/195/Dialogue/コラボ^ヴァソ < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/195/Dialogue/コラボ^ヴァソ
+Uugh, this is so humiliating and pathetic!!
+That form was specifically meant to convey how
+much of a strong character I am in front of
+\\N[1]!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -248,32 +321,38 @@
 
 この仕打ちは、絶対に忘れないわよ…！
 次に会った時を楽しみにしていることね！！
-> CONTEXT: Map498/events/2/pages/0/200/Dialogue/コラボ^ヴァソ < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/200/Dialogue/コラボ^ヴァソ
+You'll pay for this, Marion!!
 
+I won't ever forget!! You can look forward to my
+revenge next time we meet!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ヴァシリカは、涙を必死に堪えながら、奥へ姿を消した……
-> CONTEXT: Map498/events/2/pages/0/212/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/212/Dialogue
+Vasilica's form disappeared deep into the multiverse space,
+desperately trying to hold back tears...#Ron
 > END STRING
 
 > BEGIN STRING
 それ、毎回やらないとダメなの…？
-> CONTEXT: Map498/events/2/pages/0/238/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map498/events/2/pages/0/238/Dialogue/ruka_fc1
+Do you have to do that every single time?#Ron
 > END STRING
 
 > BEGIN STRING
 彼なりの儀式のようなものだ。
 
 気にしないでいい。
-> CONTEXT: Map498/events/2/pages/0/240/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map498/events/2/pages/0/240/Dialogue/enemy35
+It's kind of like a ritual for him.
 
+Don't worry about it.#Ron
 > END STRING
 
 > BEGIN STRING
 多元宇宙～第５層～
-> CONTEXT: Map498/display_name < UNTRANSLATED
-
+> CONTEXT: Map498/display_name
+Multiverse - Fifth Layer#Ron
 > END STRING

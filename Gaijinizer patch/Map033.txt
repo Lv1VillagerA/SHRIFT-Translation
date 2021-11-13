@@ -16,7 +16,7 @@ Piece of Bloody Paper#Triketos
 > CONTEXT: Map033/events/3/pages/1/10/Dialogue
 > CONTEXT: Map279/events/3/pages/0/10/Dialogue
 This has all gone downhill quickly and I forgot
-to leave a shell to commit sucide..... I shouldn't
+to leave a shell to commit suicide..... I shouldn't
 have left my pistol in the communication room.#Triketos
 > END STRING
 
