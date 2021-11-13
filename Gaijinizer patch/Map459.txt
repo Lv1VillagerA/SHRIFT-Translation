@@ -14,6 +14,7 @@
 　　　　陵辱フェーズ、再開……」
 > CONTEXT: Map459/events/5/pages/0/15/Dialogue
 ???- 「Repeat erection confirmed...
+
        Restarting rape phase...」#Amaboye/iffy
 > END STRING
 
@@ -23,6 +24,7 @@
 　　　は、はなしてぇ……♡こわれるぅ…！♡」
 > CONTEXT: Map459/events/5/pages/0/19/Dialogue
 Student- 「Aaaahiii...!　♡
+
            Let me go...♡ I'm breaking...!　♡」
 > END STRING
 
@@ -278,6 +280,7 @@ I didn't think things would be over with just one.#Amaboye
 自らの意志で迷い込んだってワケじゃない。
 > CONTEXT: Map459/events/5/pages/0/237/Dialogue/sirousagi_fc1
 But with this I'm certain:
+
 \\C[2]These Chimera Beasts were deliberately summoned
 by an assassin, they didn't wander in by chance.#Amaboye
 > END STRING
@@ -385,6 +388,7 @@ Hey! How have you been?!#Amaboye
 神社の方は大丈夫なの！？
 > CONTEXT: Map459/events/5/pages/0/341/Dialogue/enemy38
 Ya... Yami-chan...!?
+
 Why are you here?
 Is the shrine okay!?#Amaboye
 > END STRING
@@ -477,6 +481,7 @@ Orthrus!#Amaboye
 防具が喋った……！！？
 > CONTEXT: Map459/events/5/pages/0/384/Dialogue/ruka_fc1
 ...!
+
 Her leg guard just talked...!?#Amaboye
 > END STRING
 
@@ -487,6 +492,7 @@ Her leg guard just talked...!?#Amaboye
 私はもう慣れたけど……
 > CONTEXT: Map459/events/5/pages/0/388/Dialogue/enemy38
 Yeah... don't pay him any mind.
+
 He always acts like this after all...
 You get used to it.#Amaboye
 > END STRING

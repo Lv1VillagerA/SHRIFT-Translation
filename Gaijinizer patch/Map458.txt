@@ -16,7 +16,9 @@ chase us directly. That was unnerving...#Amaboye
 
 お尻打った……
 > CONTEXT: Map458/events/2/pages/0/14/Dialogue/ruka_fc1
-Owowow... I landed butt first...#Amaboye
+Owowow...
+
+I landed butt first...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -25,6 +27,7 @@ Owowow... I landed butt first...#Amaboye
 なんでいつの間に正面から抱きついてるの……？
 > CONTEXT: Map458/events/2/pages/0/19/Dialogue/kazuya-0
 Um... Yami-chan...
+
 When did you start hugging me from the front?#Amaboye
 > END STRING
 
@@ -116,6 +119,7 @@ world, too.#Amaboye
 \\N[1]-kun, let's check the situation outside
 this room! There may be people who failed to get
 away!
+
 As Sovereign, I can't let that happen!#Amaboye
 > END STRING
 
@@ -604,6 +608,7 @@ Not just \\N[1], we have to protect you too?#Amaboye
 色々やらなきゃいけないこともあるからね。
 > CONTEXT: Map458/events/9/pages/1/113/Dialogue/sirousagi_fc1
 Nah, I can't put you through that.
+
 I don't fight in combat, and I have other stuff
 to do.#Amaboye
 > END STRING
