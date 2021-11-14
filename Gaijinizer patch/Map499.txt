@@ -142,9 +142,10 @@ goal is?!!#Ron
 
 　新たな人類の材料探し……』\\C[0]ってところかな。
 > CONTEXT: Map499/events/7/pages/0/88/Dialogue/sirousagi_fc1
-You could say that \\C[10]Abaddon is searching for the
-materials for a new humanity among the chaotic
-world inside his stomach\\C[0]...#RonIffy
+You could say that \\C[10]Abaddon is ushering
+material into the World of Chaos inside him as
+he searches for a way to create a new
+humanity\\C[0]...#RonIffy
 > END STRING
 
 > BEGIN STRING
