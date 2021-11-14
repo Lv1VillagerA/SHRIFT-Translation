@@ -533,10 +533,10 @@ Vasilica#Ron
 
 > BEGIN STRING
 ウボ＝サスラ
-> CONTEXT: Enemies/384/name < UNTRANSLATED
-> CONTEXT: Enemies/385/name < UNTRANSLATED
-> CONTEXT: Enemies/397/name < UNTRANSLATED
-
+> CONTEXT: Enemies/384/name
+> CONTEXT: Enemies/385/name
+> CONTEXT: Enemies/397/name
+Ubbo-Sathla#Ron
 > END STRING
 
 > BEGIN STRING

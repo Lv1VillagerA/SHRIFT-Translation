@@ -28,15 +28,15 @@
 
 > BEGIN STRING
 \\N[1]は、ウボ＝サスラに敗北してしまった……
-> CONTEXT: CommonEvents_789/313/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_789/347/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_789/313/Dialogue
+> CONTEXT: CommonEvents_789/347/Dialogue
+\\N[1] has been defeated by Ubbo-Sathla...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ベルゼバブに敗北してしまった……
-> CONTEXT: CommonEvents_789/382/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_789/382/Dialogue
+\\N[1] has been defeated by the Beelzebub...#Ron
 > END STRING
 
 > BEGIN STRING

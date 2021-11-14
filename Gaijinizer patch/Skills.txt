@@ -10357,52 +10357,54 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 \\N[1]の傷が、徐々に癒やされていく…
-> CONTEXT: Skills/902/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/902/message2
+\\N[1]'s wounds slowly heal up...#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 抵抗力を４回に分けて回復する。分けている意図は不明
-> CONTEXT: Skills/902/description < UNTRANSLATED
-
+> CONTEXT: Skills/902/description
+One of the support skills of the Mysterious Masked Man (P).
+Possibly unintentionally shares his Willpower four times.#Ron
 > END STRING
 
 > BEGIN STRING
 キャツベ
-> CONTEXT: Skills/902/name < UNTRANSLATED
-
+> CONTEXT: Skills/902/name
+CABBAGE#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはキャツベを放った！
-> CONTEXT: Skills/902/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/902/message1
+ watches on as P-chan unleashes CABBAGE!#Ron
 > END STRING
 
 > BEGIN STRING
 両手に風と雷の魔法を込めながら、Ｐちゃんが疾走する…！
-> CONTEXT: Skills/903/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/903/message2
+P-chan dashes forward with wind and lightning in his hands!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 相手に風と雷属性のダメージを5回与える
-> CONTEXT: Skills/903/description < UNTRANSLATED
-
+> CONTEXT: Skills/903/description
+One of the support skills of the Mysterious Masked Man (P).
+Deals Wind and Lightning damage to an enemy five times.#Ron
 > END STRING
 
 > BEGIN STRING
 ナンディオン
-> CONTEXT: Skills/903/name < UNTRANSLATED
-
+> CONTEXT: Skills/903/name
+Nandion#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはナンディオンを放った！
-> CONTEXT: Skills/903/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/903/message1
+ watches on as P-chan unleashes Nandion!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10784,71 +10786,74 @@ Focus#Ron
 
 > BEGIN STRING
 闇でできた大きな手が、敵を執拗に襲う…！
-> CONTEXT: Skills/923/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/923/message2
+Huge hands made of darkness relentlessly attack the enemy!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 相手に闇属性の大ダメージを与え、相手の全能力を下げる。
 > CONTEXT: Skills/923/description < UNTRANSLATED
-
+One of the support skills of the Mysterious Masked Man (P).
+Deals heavy Darkness damage and debuffs the enemy.#Ron
 > END STRING
 
 > BEGIN STRING
 ギル・メギド
-> CONTEXT: Skills/923/name < UNTRANSLATED
-
+> CONTEXT: Skills/923/name
+Gil Megido#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはギル・メギドを放った！
-> CONTEXT: Skills/923/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/923/message1
+ watches on as P-chan unleashes Gil Megido!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 \\N[1]の全能力を３ターン大幅上昇させる
-> CONTEXT: Skills/924/description < UNTRANSLATED
-
+> CONTEXT: Skills/924/description
+One of the support skills of the Mysterious Masked Man (P).
+Heavily buffs all of \\N[1]'s abilities for three turns.#Ron
 > END STRING
 
 > BEGIN STRING
 ヒーロータイム
-> CONTEXT: Skills/924/name < UNTRANSLATED
-
+> CONTEXT: Skills/924/name
+Hero Time#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはヒーロータイムを放った！
-> CONTEXT: Skills/924/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/924/message1
+ watches on as P-chan unleashes Hero Time!#Ron
 > END STRING
 
 > BEGIN STRING
 デュアルブレードでの、目にもとまらぬ乱舞が相手を襲う…！
-> CONTEXT: Skills/925/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/925/message2
+His twin blades attack in a dance too quick to follow!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 相手に物理属性の８回ダメージを与える
-> CONTEXT: Skills/925/description < UNTRANSLATED
-
+> CONTEXT: Skills/925/description
+One of the support skills of the Mysterious Masked Man (P).
+Deals physical damage to an enemy eight times.#Ron
 > END STRING
 
 > BEGIN STRING
 ノヴァ・スラッシュ
-> CONTEXT: Skills/925/name < UNTRANSLATED
-
+> CONTEXT: Skills/925/name
+Nova Slash#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはノヴァ・スラッシュを放った！
-> CONTEXT: Skills/925/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/925/message1
+ watches on as P-chan unleashes Nova Slash!#Ron
 > END STRING
 
 > BEGIN STRING

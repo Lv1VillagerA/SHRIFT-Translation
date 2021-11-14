@@ -557,9 +557,11 @@ all at once.#Ron
 \\N[1]……
 
 ウボ＝サスラに負けてしまったのね……
-> CONTEXT: CommonEvents_770/350/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/393/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/350/Dialogue/other5
+> CONTEXT: CommonEvents_770/393/Dialogue/other5
+\\N[1]...
 
+So you lost to Ubbo-Sathla...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -567,9 +569,12 @@ all at once.#Ron
 
 あれはもう、別世界のあなたではない……
 完全に、別の生物なの……
-> CONTEXT: CommonEvents_770/354/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/397/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/354/Dialogue/other5
+> CONTEXT: CommonEvents_770/397/Dialogue/other5
+Perhaps you had some hesitation knowing her
+origin... but know that they aren't a version of
+you from another world... they're a completely
+different organism.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -577,18 +582,23 @@ all at once.#Ron
 
 一つの過酷な責務を背負った生命体として……
 「彼女たち」を葬ってあげて……
-> CONTEXT: CommonEvents_770/359/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/402/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/359/Dialogue/other5
+> CONTEXT: CommonEvents_770/402/Dialogue/other5
+So there's absolutely no need to hesitate when
+putting them out of their misery. Relieve these
+"girls" of the one onerous duty that's been
+placed upon them in this form.#RonIffy
 > END STRING
 
 > BEGIN STRING
 ウボ＝サスラは、\\C[2]火炎に弱いわ。
 
 アリスのサポートスキルや、マリオンのてつはうが有効ね
-> CONTEXT: CommonEvents_770/367/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/410/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/367/Dialogue/other5
+> CONTEXT: CommonEvents_770/410/Dialogue/other5
+Ubbo-Sathla are \\C[2]weak to fire, which makes Alice's
+support skills and Marion's Tetsuhau weapon
+effective against them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -596,9 +606,15 @@ all at once.#Ron
 \\C[2]ルカはサポート重視か、必殺技で攻めましょう。
 
 乱れ星は無属性だから、関係なく通るはずよ。
-> CONTEXT: CommonEvents_770/371/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/414/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/371/Dialogue/other5
+> CONTEXT: CommonEvents_770/414/Dialogue/other5
+They're quite resistant to physical damage, \\C[2]so
+Luka is best placed in a support role using his
+special skills.
 
+\\C[2]His Death Sword Chaos Star skill inflicts null
+damage, so it should pass through their
+resistance.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -606,26 +622,33 @@ all at once.#Ron
 \\C[2]『脱力ブレス』\\C[0]。
 
 これを受けると、サポートも受けられなくなってしまうわ。
-> CONTEXT: CommonEvents_770/376/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/419/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/376/Dialogue/other5
+> CONTEXT: CommonEvents_770/419/Dialogue/other5
+One attack in particular to watch out for is their
+\\C[2]Draining Breath\\C[0]. If you get hit with that,
+you may end up in a state where you can't even
+use your party's support skills.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]ヘルブレイクか、シルフストームで対策を取って
 
 あとは、ルカやマリオンの動向に注意を向けましょう。
-> CONTEXT: CommonEvents_770/381/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/424/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/381/Dialogue/other5
+> CONTEXT: CommonEvents_770/424/Dialogue/other5
+Put up Hell Break and Sylph Storm as
+countermeasures, and pay attention to how Luka
+and Marion are doing.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]……
 
 ベルゼバブに屈服してしまったのね………
-> CONTEXT: CommonEvents_770/436/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/436/Dialogue/other5
+\\N[1]...
 
+So you submitted to the Beelzebub...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -633,8 +656,11 @@ all at once.#Ron
 
 \\C[2]貴方一人で立ち向かうのは無謀よ……
 必ず『お助けヒーロー』の力を借りて。
-> CONTEXT: CommonEvents_770/441/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/441/Dialogue/other5
+She's a powerful enemy who's been strengthened by
+the effect of the \\C[10]World Fusion\\C[0]. \\C[2]It's far too
+reckless to fight her alone so be sure to make
+use of that helpful hero's powers\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -642,8 +668,10 @@ all at once.#Ron
 
 \\C[2]攻撃をサポートスキル任せにして、
 自身は防御に徹するのが最も安定した戦法になると思うわ。
-> CONTEXT: CommonEvents_770/446/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/446/Dialogue/other5
+All of his skills are powerful. \\C[2]The safest
+strategy is to leave damage-dealing to him while
+you focus on defending yourself\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -651,16 +679,21 @@ all at once.#Ron
 
 \\C[2]クールカームとシルフストームを使っておけば
 まず事故は起きないと思うわ。
-> CONTEXT: CommonEvents_770/451/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/451/Dialogue/other5
+That Beelzebub focuses heavily on breath and
+seduction attacks. \\C[2]You can avoid getting into
+too much trouble by putting up Cool Calm and
+Sylph Storm\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 魔法は、火炎攻撃しか使ってこないから
 
 \\C[2]粘液クリームの火炎無効が真価を発揮するでしょうね。
-> CONTEXT: CommonEvents_770/456/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/456/Dialogue/other5
+The only magic she'll use against you is
+fire-based, so equipping Mucus Cream for its fire
+nullification properties may be useful.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -668,8 +701,11 @@ all at once.#Ron
 
 放っておくと、『男堕としの乳首攻め』をされてしまって
 一気に体勢を崩されてしまうわ。
-> CONTEXT: CommonEvents_770/460/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/460/Dialogue/other5
+Something else to watch out for is her nipple
+attack. \\C[2]If you don't throw it off, she may end
+up using Feminizing Nipple Assault on you which
+will knock your stamina out in one hit.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -677,24 +713,34 @@ all at once.#Ron
 
 \\C[0]ハートマークのアイコンだから、ついつい頬を殴りがちだけど
 \\C[2]鎮静剤とかでは治らないデバフだから注意が必要よ……
-> CONTEXT: CommonEvents_770/465/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/465/Dialogue/other5
+\\C[2]Use Shake Off if you get a debuff from her nipple
+attack. Because the icon looks like a heart, be
+sure you don't unconsciously use "Punch Face" to
+clear it.
+\\C[2]You should also note that the Painkillers item
+won't clear the debuff, either...#Ron
 > END STRING
 
 > BEGIN STRING
 ………？
 
 どうしたの？\\N[1]……
-> CONTEXT: CommonEvents_770/473/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/473/Dialogue/other5
+......?
 
+What's the matter?#Ron
 > END STRING
 
 > BEGIN STRING
 いや……その……
 
 やっぱり元ネタに比べて、マイルドだなぁって……
-> CONTEXT: CommonEvents_770/477/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_770/477/Dialogue/kazuya
+No... it's just...
 
+These evaluations are a lot less harsh than the
+ones you're parodying...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -702,8 +748,10 @@ all at once.#Ron
 絶対皮肉の一つでも出てくるよ……
 
 例の女神様だったら………
-> CONTEXT: CommonEvents_770/481/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/481/Dialogue/kazuya
+If this were a certain goddess, I'd be getting
+chewed out with snarky remarks about the nipple
+thing...#RonIffyLocalization
 > END STRING
 
 > BEGIN STRING
@@ -711,15 +759,19 @@ all at once.#Ron
 
 やっぱり貴方は、蔑まれるのが好きなのね……
 それならば、私も……
-> CONTEXT: CommonEvents_770/487/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/487/Dialogue/other5
+Is that right?
 
+You really do like being talked down to, don't
+you? In that case...#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{いやごめん！冗談！
 僕が悪かった！
-> CONTEXT: CommonEvents_770/492/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/492/Dialogue/kazuya
+\\{\\{I'm sorry, just a joke!
+My bad!#Ron
 > END STRING
 
 > BEGIN STRING
