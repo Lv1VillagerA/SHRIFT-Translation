@@ -589,7 +589,7 @@ Mmmmph... ♡♡#Ron
 力を込めれば、むにむにと優しく返ってくる弾力……
 > CONTEXT: CommonEvents_440/591/Dialogue 
 Her skin possesses qualities that are unique to demons,
-being incredibly soft yet still elastic enough to grntly
+being incredibly soft yet still elastic enough to gently
 bounce back into shape after being squeezed.#RonIffyWording
 > END STRING
 
@@ -965,7 +965,7 @@ But she's different.#Ron
 絶妙なタイミングで、僕に射精を促す…
 > CONTEXT: CommonEvents_440/979/Dialogue 
 She gently whispers in my ear with love, making me
-shoot it all in to her at just the right moment...#RonIffyWording
+shoot it all into her at just the right moment...#RonIffyWording
 > END STRING
 
 > BEGIN STRING

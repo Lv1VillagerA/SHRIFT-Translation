@@ -125,7 +125,7 @@ I'll heal you... ♡#Ron
 > BEGIN STRING
 心蝕を消す（アナオン）if(v[37] \>= 2) 
 > CONTEXT: Map062/events/5/pages/0/257/Choice/0
-Clear corruption (Anaon)if(v[37] \>= 2#Strate
+Clear corruption (Anaon)if(v[37] \>= 2)#Strate
 > END STRING
 
 > BEGIN STRING

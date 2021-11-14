@@ -673,14 +673,15 @@ Mythril Sword#Ron
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]ゴルド地方の伝説に残る騎士が所持していたという剣
 \\C[6]全ての属性の被ダメージが少し減少
-> CONTEXT: Weapons/124/description < UNTRANSLATED
-
+> CONTEXT: Weapons/124/description
+\\C[11][Luka Only] \\C[0]A sword supposedly belonging to a legendary
+knight of the Gold Region. \\C[6]Slightly reduces element damage.#Ron
 > END STRING
 
 > BEGIN STRING
 アロンダイト
-> CONTEXT: Weapons/124/name < UNTRANSLATED
-
+> CONTEXT: Weapons/124/name
+Arondite#Ron
 > END STRING
 
 > BEGIN STRING
@@ -714,38 +715,41 @@ Prism Clad Steel#Ron
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]戦う料理人が用いたとされる包丁の稀少品
 \\C[6]会心率＋30％
-> CONTEXT: Weapons/127/description < UNTRANSLATED
-
+> CONTEXT: Weapons/127/description
+\\C[11][Luka Only] \\C[0]Rare kitchen knife wielded by chefs in battle.
+\\C[6]Crit Rate: +30%#Ron
 > END STRING
 
 > BEGIN STRING
 鬼神包丁
-> CONTEXT: Weapons/127/name < UNTRANSLATED
-
+> CONTEXT: Weapons/127/name
+Oni Spirit Knife#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]魔導の力を高めたウィザードロッドの特注品
 \\C[6]精霊召喚の持続ターン増加＆アリスのサポートスキルの威力上昇
 > CONTEXT: Weapons/128/description < UNTRANSLATED
-
+\\C[11][Luka Only] \\C[0]A specially-made, black-magic enhancing
+wizard's rod. \\C[6]Buffs Alice, increases Spirit summon duration.#Ron
 > END STRING
 
 > BEGIN STRING
 グランウィザード
-> CONTEXT: Weapons/128/name < UNTRANSLATED
-
+> CONTEXT: Weapons/128/name
+Grand Wizard#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]卓越した硬度を誇る竜の鱗で造られたレイピア
 \\C[6]通常攻撃が２回攻撃になる
-> CONTEXT: Weapons/129/description < UNTRANSLATED
-
+> CONTEXT: Weapons/129/description
+\\C[11][Luka Only] \\C[0]A dragon-scale rapier boasting unrivaled
+toughness. \\C[6]Normal attacks now hit twice.#Ron
 > END STRING
 
 > BEGIN STRING
 竜鱗のレイピア
-> CONTEXT: Weapons/129/name < UNTRANSLATED
-
+> CONTEXT: Weapons/129/name
+Dragon Scale Rapier#Ron
 > END STRING

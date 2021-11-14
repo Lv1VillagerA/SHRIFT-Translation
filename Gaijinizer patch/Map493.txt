@@ -3,85 +3,105 @@
 お前が………
 
 お前が村を襲った張本人かい！！
-> CONTEXT: Map493/events/4/pages/0/20/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Map493/events/4/pages/0/20/Dialogue/hyakki2
+You...
 
+Are you the one who attacked the village?!!#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？『百鬼………
 
 　　　　一族のひとり……』
-> CONTEXT: Map493/events/4/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map493/events/4/pages/0/28/Dialogue
+??? 「Hyakki...
 
+      A member of the tribe...」#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？『だがお前は、リストに無い………
 
 　　　　消去しない……』
-> CONTEXT: Map493/events/4/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map493/events/4/pages/0/32/Dialogue
+??? 「But you aren't on the list...
 
+      I won't eliminate you...」#Ron
 > END STRING
 
 > BEGIN STRING
 待ちな……！！
 
 こんな事して、ただで済むと思ってるのかい！！！
-> CONTEXT: Map493/events/4/pages/0/40/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Map493/events/4/pages/0/40/Dialogue/hyakki2
+Hold it!!
 
+Do you really think you can do all this and walk
+away?!!#Ron
 > END STRING
 
 > BEGIN STRING
 『消去』ってのはどういう意味だ！！
 
 お前……村の皆を、どこへやった！！
-> CONTEXT: Map493/events/4/pages/0/44/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Map493/events/4/pages/0/44/Dialogue/hyakki2
+What do you mean by eliminate?!!
 
+What did you do with all the villagers?!!#Ron
 > END STRING
 
 > BEGIN STRING
 ＊「ぅ…………」
-> CONTEXT: Map493/events/4/pages/0/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map493/events/4/pages/0/48/Dialogue
+* 「ugh...」#Ron
 > END STRING
 
 > BEGIN STRING
 蓮鬼……！？
 
 待ってな、今助けに……！！
-> CONTEXT: Map493/events/4/pages/0/53/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Map493/events/4/pages/0/53/Dialogue/hyakki2
+Rengi?!
 
+Wait right there, I'll come save you!!#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？『消去………』
-> CONTEXT: Map493/events/4/pages/0/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map493/events/4/pages/0/57/Dialogue
+??? 「Eliminate...」#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？『百鬼……お前はリストにない……
 
 　　　　お前は消去しない……』
-> CONTEXT: Map493/events/4/pages/0/69/Dialogue < UNTRANSLATED
-> CONTEXT: Map493/events/4/pages/0/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map493/events/4/pages/0/69/Dialogue
+> CONTEXT: Map493/events/4/pages/0/101/Dialogue
+??? 「Hyakki, you aren't on the list...
 
+      I won't eliminate you...」#Ron
 > END STRING
 
 > BEGIN STRING
 …………！！！！
 
 貴様…！！蓮鬼に何をした！！！！！
-> CONTEXT: Map493/events/4/pages/0/73/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Map493/events/4/pages/0/73/Dialogue/hyakki2
+......!!!
 
+You bastard!!
+What did you do to her?!!!#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？『任務完了………
 
 　　　　消失する』
-> CONTEXT: Map493/events/4/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map493/events/4/pages/0/105/Dialogue
+??? 「Mission complete...
 
+      Disappearing.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -89,20 +109,26 @@
 クソッくそっクソッ……！！！
 
 蓮鬼……みんな……！！！
-> CONTEXT: Map493/events/4/pages/0/116/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Map493/events/4/pages/0/116/Dialogue/hyakki2
+Fuck!!
 
+Fuck fuck fuck!!!
+Rengi... everyone...!!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]大きな黒い帽子の悪魔\\C[0]……！！忘れないよ………
 
 地の果てまで追いかけて……必ず殺してやる……！！！
-> CONTEXT: Map493/events/4/pages/0/121/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Map493/events/4/pages/0/121/Dialogue/hyakki2
+Whoever you were with that big, black, hat...
+I'll never forget this...
+I'll follow you to the ends of the Earth and
+kill you!!!#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？？＝鬼の住む村＝
-> CONTEXT: Map493/display_name < UNTRANSLATED
-
+> CONTEXT: Map493/display_name
+???? = Oni Village =#Ron
 > END STRING

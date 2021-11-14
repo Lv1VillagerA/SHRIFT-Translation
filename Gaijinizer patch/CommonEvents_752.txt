@@ -1,8 +1,8 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 マリオンは、敵の攻撃を避けた！
-> CONTEXT: CommonEvents_752/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_752/16/Dialogue
+Marion evaded the enemy attack!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13,6 +13,6 @@ Marion has fallen to his knees!#Ron
 
 > BEGIN STRING
 だが、マリオンはすぐさま体勢を立て直した！
-> CONTEXT: CommonEvents_752/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_752/67/Dialogue
+But he got straight back on his feet!#Ron
 > END STRING

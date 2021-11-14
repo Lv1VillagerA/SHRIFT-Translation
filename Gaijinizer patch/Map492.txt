@@ -3,8 +3,10 @@
 ＊「姉さん、行かないでよ
 
 　　村に残って、父さんの手伝いをしようよ」
-> CONTEXT: Map492/events/4/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map492/events/4/pages/0/11/Dialogue
+* 「Don't go, onee-san.
 
+    Stay here and help dad.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,8 +14,10 @@
 
 家のことなら、アンタや姉貴で充分だろ。
 アタシが居る必要なんてないよ。
-> CONTEXT: Map492/events/4/pages/0/18/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map492/events/4/pages/0/18/Dialogue/hyakki
+What're you talking about? You and onee-sama
+will be more than enough to help around the
+house. There's no need for me to be there.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -21,8 +25,10 @@
 いろんな場所を旅して回る方が好きなのさ
 
 はぐれ者は、ちゃっちゃと退散するよ。
-> CONTEXT: Map492/events/4/pages/0/23/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map492/events/4/pages/0/23/Dialogue/hyakki
+Besides, I'd much rather be traveling around all
+sorts of different places than doing research in
+the house. Outcasts move on super quick.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,8 +36,11 @@
 
 　　でも、東の海の先にある国の話、すごく楽しかったわ
 　　またお土産話を聞かせてちょうだい、お姉さま」
-> CONTEXT: Map492/events/4/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map492/events/4/pages/0/28/Dialogue
+* 「Again with that...
+    But your story about the country beyond the eastern
+    sea was super fun. Please make sure you come back
+    with more stories of your travels.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -39,12 +48,15 @@
 
 今度この場所に帰ってくるときは
 とっておきの話をひっさげて帰ってきてあげるよ
-> CONTEXT: Map492/events/4/pages/0/33/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map492/events/4/pages/0/33/Dialogue/hyakki
+Leave it to me. ♪
 
+Next time I come home I'll bring back some
+stories that'll knock yer socks off.#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？？＝村はずれの道＝
-> CONTEXT: Map492/display_name < UNTRANSLATED
-
+> CONTEXT: Map492/display_name
+???? = Distant Village Road =#Ron
 > END STRING

@@ -1,150 +1,173 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 うううっ……♡
-> CONTEXT: CommonEvents_796/2/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_798/2/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_799/1/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_801/3/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/2/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_798/2/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_799/1/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_801/3/Dialogue/kazuya-0
+Uuugh... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 対象の戦意喪失を確認……
 
 陵辱フェーズ、開始……
-> CONTEXT: CommonEvents_796/4/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_796/4/Dialogue/c_beast_fc1
+Confirmation that the target has lost his will to
+fight...
 
+Initiating sexual assault phase...#Ron
 > END STRING
 
 > BEGIN STRING
 キメラビーストは、倒れた僕の元へ近付いてくると
 
 ゆっくりと前脚で、僕の股間をまさぐり始めた……
-> CONTEXT: CommonEvents_796/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/8/Dialogue
+Chimera Beast walked up to me where I'd fallen and began
+groping my crotch with her front legs...#Ron
 > END STRING
 
 > BEGIN STRING
 ……………が、その手の動きが
 
 一瞬ピタッと止まる………
-> CONTEXT: CommonEvents_796/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/13/Dialogue
+But then her movements stopped instantly...#Ron
 > END STRING
 
 > BEGIN STRING
 そして、その虚無を見つめるような眼光で
 
 僕の顔をじっと見つめ始めた……
-> CONTEXT: CommonEvents_796/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/17/Dialogue
+And she began intently staring at my face with eyes that
+seemed like they were staring into the void...#Ron
 > END STRING
 
 > BEGIN STRING
 …………対象の、\\C[2]特殊性癖\\C[0]の兆候を検知。
 
 フェーズ内容変更……プランＢ、開始……
-> CONTEXT: CommonEvents_796/22/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_796/22/Dialogue/c_beast_fc1
+Detected signs of unique fetishes in the target.
 
+Altering phase...
+Initiating plan B...#Ron
 > END STRING
 
 > BEGIN STRING
 ぷ……「プランＢ」…？
-> CONTEXT: CommonEvents_796/26/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/26/Dialogue/kazuya-0
+P-Plan B...?#Ron
 > END STRING
 
 > BEGIN STRING
 んんんっーーーー！♡
-> CONTEXT: CommonEvents_796/49/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: CommonEvents_801/36/Dialogue/kazuya-10 < UNTRANSLATED
-> CONTEXT: CommonEvents_816/25/Dialogue/kazuya-10 < UNTRANSLATED
-> CONTEXT: Troops/412/pages/0/51/Dialogue/kazuya-5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/49/Dialogue/kazuya-5
+> CONTEXT: CommonEvents_801/36/Dialogue/kazuya-10
+> CONTEXT: CommonEvents_816/25/Dialogue/kazuya-10
+> CONTEXT: Troops/412/pages/0/51/Dialogue/kazuya-5
+Mmmmmph! ♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、キメラビーストに強引に犯されてしまった！
-> CONTEXT: CommonEvents_796/51/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/412/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/51/Dialogue
+> CONTEXT: Troops/412/pages/0/53/Dialogue
+\\N[1] is being forcibly raped by Chimera Beast!#Ron
 > END STRING
 
 > BEGIN STRING
 心拍数上昇……呼吸数増加…性的興奮を検知……
 
 陵辱フェーズを続行……
-> CONTEXT: CommonEvents_796/53/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/412/pages/0/55/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_796/53/Dialogue/c_beast_fc1
+> CONTEXT: Troops/412/pages/0/55/Dialogue/c_beast_fc1
+Heart rate and breathing have both increased...
+Detecting sexual arousal from the target...
 
+Resuming sexual assault phase...#Ron
 > END STRING
 
 > BEGIN STRING
 んんっっ…！♡
-> CONTEXT: CommonEvents_796/79/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: CommonEvents_801/62/Dialogue/kazuya-10 < UNTRANSLATED
-> CONTEXT: CommonEvents_816/51/Dialogue/kazuya-10 < UNTRANSLATED
-> CONTEXT: Troops/412/pages/0/81/Dialogue/kazuya-5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/79/Dialogue/kazuya-5
+> CONTEXT: CommonEvents_801/62/Dialogue/kazuya-10
+> CONTEXT: CommonEvents_816/51/Dialogue/kazuya-10
+> CONTEXT: Troops/412/pages/0/81/Dialogue/kazuya-5
+Mmmmph! ♡#Ron
 > END STRING
 
 > BEGIN STRING
 射精の兆候を確認……
 
 膣刺激、最終フェーズ……
-> CONTEXT: CommonEvents_796/84/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: CommonEvents_797/63/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_796/84/Dialogue/c_beast_fc1
+> CONTEXT: CommonEvents_797/63/Dialogue/c_beast_fc1
+Signs of impending ejaculation confirmed...
 
+Moving vaginal stimulation to final phase...#Ron
 > END STRING
 
 > BEGIN STRING
 んんんっーーーーーーーーーー！！！！♡♡♡
 
 んんんんんんんんんんんんんっ！！♡♡♡
-> CONTEXT: CommonEvents_796/96/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: CommonEvents_797/76/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: CommonEvents_801/85/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_796/96/Dialogue/kazuya-5
+> CONTEXT: CommonEvents_797/76/Dialogue/kazuya-5
+> CONTEXT: CommonEvents_801/85/Dialogue/kazuya-10
+Mmmmmmmmmmmmph!!! ♡♡♡
 
+MMMMMMMMMMMMMMMMPHH!!! ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 射精を確認、精液量８ｃｃ……
 
 うち成分１５％の魔素を検出……
-> CONTEXT: CommonEvents_796/133/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_796/133/Dialogue/c_beast_fc1
+Ejaculation confirmed... Semen quantity: 8cc...
 
+Semen composition confirmed to be 15% magic
+essence...#Ron
 > END STRING
 
 > BEGIN STRING
 『魂溶融』現象と推測……
 
 吸精を続行……
-> CONTEXT: CommonEvents_796/137/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_796/137/Dialogue/c_beast_fc1
+"Soul fusion" may be possible cause...
 
+Resuming energy drain...#Ron
 > END STRING
 
 > BEGIN STRING
 対象の性的興奮、および再勃起の兆候を確認……
 
 吸精フェーズを更に効率化……
-> CONTEXT: CommonEvents_796/141/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_796/141/Dialogue/c_beast_fc1
+Target's sexual arousal and continued erection
+confirmed...
 
+Further optimizing energy drain phase...#Ron
 > END STRING
 
 > BEGIN STRING
 んんんんんんんんんんんんっっ…！♡
-> CONTEXT: CommonEvents_796/167/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: CommonEvents_801/161/Dialogue/kazuya-10 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/167/Dialogue/kazuya-5
+> CONTEXT: CommonEvents_801/161/Dialogue/kazuya-10
+Mmmmmmmmmmmmmmmmmmmph! ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ………ーーーーーーーっ！！♡♡
-> CONTEXT: CommonEvents_796/279/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: CommonEvents_797/243/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: CommonEvents_810/428/Dialogue/kazuya-10 < UNTRANSLATED
-> CONTEXT: CommonEvents_810/569/Dialogue/kazuya-5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/279/Dialogue/kazuya-5
+> CONTEXT: CommonEvents_797/243/Dialogue/kazuya-5
+> CONTEXT: CommonEvents_810/428/Dialogue/kazuya-10
+> CONTEXT: CommonEvents_810/569/Dialogue/kazuya-5
+Ggh...........................!! ♡♡
 > END STRING
 
 > BEGIN STRING
@@ -152,62 +175,81 @@
 
 精液量、合計１００ｃｃ……
 うち魔力溶解率１６．７％………
-> CONTEXT: CommonEvents_796/294/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_796/294/Dialogue/c_beast_fc1
+Confirmed repeated ejaculations from target...
 
+Combined semen quantity of 100cc.
+Magic composition of 16.7%...#Ron
 > END STRING
 
 > BEGIN STRING
 ………対象の血流と呼吸低下を確認。
 
 失神と判断……
-> CONTEXT: CommonEvents_796/302/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_796/302/Dialogue/c_beast_fc1
+Confirmed target's blood flow and breathing have
+degraded.
 
+Loss of consciousness imminent...#Ron
 > END STRING
 
 > BEGIN STRING
 意識回復まで、快感刺激を継続……
 
 精子生成を促進中………
-> CONTEXT: CommonEvents_796/306/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_796/306/Dialogue/c_beast_fc1
+Continuing pleasure stimulation until the target's
+consciousness returns...
 
+Facilitating sperm production...#Ron
 > END STRING
 
 > BEGIN STRING
 薄れゆく意識の中……僕は悟った……
 
 僕はもう、彼女からは逃れられないと……
-> CONTEXT: CommonEvents_796/313/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_796/313/Dialogue
+As my consciousness faded... I realized...
 
+There was no escaping from her...#Ron
 > END STRING
 
 > BEGIN STRING
 淡々と続く、効率的な快楽攻め……
 
 そこには愛情や労りなど、微塵も感じられない……
-> CONTEXT: CommonEvents_796/317/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/317/Dialogue
+She will clinically and efficiently continue her pleasure
+attacks. She doesn't feel even an ounce of love or
+sympathy for me...#Ron
 > END STRING
 
 > BEGIN STRING
 だが、僕の身体は、それから逃れる事を拒絶する……
 
 この快楽を、それを分かってなお求めてしまっている……
-> CONTEXT: CommonEvents_796/321/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_796/321/Dialogue
+But my body refuses to escape from this...
 
+Even though I know better... I can't stop myself from
+seeking more of this pleasure...#Ron
 > END STRING
 
 > BEGIN STRING
 身体に柔らかく押し付けられる、複乳の感触……
 
 そして、頭を覆う唾液まみれの複数の舌……
-> CONTEXT: CommonEvents_796/325/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/325/Dialogue
+The soft feeling of her multiple breasts that my body is
+clinging to... And her multiple saliva-covered tongues
+that are wrapped all around my head...#Ron
 > END STRING
 
 > BEGIN STRING
 このまま命が尽きるまで……
 
 きっと僕は、彼女の与える快楽に依存するのだろう……
-> CONTEXT: CommonEvents_796/329/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_796/329/Dialogue
+I'll probably depend on the pleasure she gives me like this
+until I take my last breath...#Ron
 > END STRING
