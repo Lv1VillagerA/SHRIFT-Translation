@@ -226,25 +226,29 @@ be the best way to attack.#Ron
 キメラビーストに搾られてしまったのね……
 
 あなたが今後、通常の方法で射精できるか心配だわ……
-> CONTEXT: CommonEvents_770/150/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/184/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/150/Dialogue/other5
+> CONTEXT: CommonEvents_770/184/Dialogue/other5
+So you were squeezed dry by a Chimera Beast...
 
+I'm worried about whether this will affect your
+ability to ejaculate by normal means.#Ron
 > END STRING
 
 > BEGIN STRING
 ……………私にも、触手や舌が複数生えていれば
 
 そっち方面でも満足させられるようになるかしらね…？
-> CONTEXT: CommonEvents_770/155/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/189/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/155/Dialogue/other5
+> CONTEXT: CommonEvents_770/189/Dialogue/other5
+Would I be more to your satisfaction if I grew
+some tentacles and a few more tongues?#Ron
 > END STRING
 
 > BEGIN STRING
 やめようね？
-> CONTEXT: CommonEvents_770/159/Dialogue/kazuya < UNTRANSLATED
-> CONTEXT: CommonEvents_770/193/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/159/Dialogue/kazuya
+> CONTEXT: CommonEvents_770/193/Dialogue/kazuya
+Let's not go down that path, okay?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -252,9 +256,12 @@ be the best way to attack.#Ron
 ブラックドッグのように物理中心だけど、精神攻撃も多いの。
 
 だから、クールカームをかけておくと安心して攻撃できるわ。
-> CONTEXT: CommonEvents_770/161/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/195/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/161/Dialogue/other5
+> CONTEXT: CommonEvents_770/195/Dialogue/other5
+\\C[2]Like Black Dog, Chimera Beast focuses heavily on
+physical attacks, though she also uses a lot of
+mental attacks. Applying Cool Calm will let you
+attack without worrying about that aspect.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -262,9 +269,12 @@ be the best way to attack.#Ron
 
 ルカの使える『ノーム』を召喚しておくと
 ダメージを微々たるものにすることができるの。
-> CONTEXT: CommonEvents_770/166/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/200/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/166/Dialogue/other5
+> CONTEXT: CommonEvents_770/200/Dialogue/other5
+Another dangerous part of her fight is her
+\\C[2]"Overrun" skill that damages the entire party.
+Having Luka summon Gnome will significantly
+mitigate the damage from that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -272,9 +282,12 @@ be the best way to attack.#Ron
 
 アリスのサポートスキルでダメージソースを任せて
 まずは補助で予防策を貼っておくのが堅実だと思うわ。
-> CONTEXT: CommonEvents_770/171/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/205/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/171/Dialogue/other5
+> CONTEXT: CommonEvents_770/205/Dialogue/other5
+Chimera Beast is \\C[2]weak to wind magic, so using
+Alice's support skills to damage her is a good
+tactic. Just make sure you put up defensive
+measures beforehand.#Ron
 > END STRING
 
 > BEGIN STRING
