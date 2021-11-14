@@ -229,7 +229,7 @@ me. ♡#Ron
 > CONTEXT: CommonEvents_801/348/Dialogue/enemy37
 Let's enjoy ourselves to the fullest. ♡
 
-The young is still very young, after all... ♡♡#Ron
+The night is still very young, after all... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING

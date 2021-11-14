@@ -17462,7 +17462,7 @@ Movement... disabled...#Ron
 > CONTEXT: Troops/380/pages/4/33/Dialogue
 > CONTEXT: Troops/381/pages/3/33/Dialogue
 > CONTEXT: Troops/386/pages/3/32/Dialogue
-Chimera Beast disappeared to nothing without a trace.
+Chimera Beast disappeared into nothing without a trace.
 
 Her material form appears to have vanished.#Ron
 > END STRING

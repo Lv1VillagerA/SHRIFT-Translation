@@ -5,7 +5,7 @@
 > CONTEXT: CommonEvents_789/142/Dialogue
 > CONTEXT: Troops/362/pages/0/17/Dialogue
 > CONTEXT: Troops/387/pages/0/18/Dialogue
-\\N[1] has been defeated by Chimera Beast...#Ron
+\\N[1] has been defeated by the Chimera Beast...#Ron
 > END STRING
 
 > BEGIN STRING

@@ -16,7 +16,7 @@ That makes mommy very happy. ♡#Ron
 
 誰にも邪魔されない、二人っきりの空間に…♡
 > CONTEXT: CommonEvents_800/8/Dialogue/enemy39
-It's dangerous here so let's go somewhere else. ♡
+It's dangerous here, so let's go somewhere else. ♡
 
 A place where it'll be just the two of us, with
 no one around to interfere... ♡#Ron
@@ -50,7 +50,7 @@ Both he and High Lamia disappeared into the darkness...#Ron
 
 この二人の行方は、誰にも分からない……
 > CONTEXT: CommonEvents_800/32/Dialogue
-And ever since, neither of them have ever been seen
+And ever since, neither of them were seen ever
 again...#RonLocalization
 > END STRING
 
