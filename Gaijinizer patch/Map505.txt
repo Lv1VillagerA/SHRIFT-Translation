@@ -114,7 +114,7 @@ be entirely wrong...#Ron
 \\C[2]アイツらは\\C[10]何も見てない、何も感じてない。
 ただただ淡々と、機械のように相手を喰って吸収する……
 > CONTEXT: Map505/events/5/pages/0/59/Dialogue/other8
-Aliens come to invade our world...
+Aliens coming to invade our world...
 
 \\C[2]They \\C[10]can't see, they can't feel. They just
 emotionlessly and robotically devour and absorb\\C[0].#Ron
@@ -294,7 +294,7 @@ Naoki, grab the kid and I'll cover you.#Ron
 ｼｭﾙﾙﾙﾙﾙﾙﾙﾙ……
 > CONTEXT: Map505/events/5/pages/0/207/Dialogue/other8
 > CONTEXT: Map505/events/5/pages/0/224/Dialogue/other8
-#CheckLater
+sssshhrrr...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -304,7 +304,7 @@ Naoki, grab the kid and I'll cover you.#Ron
 > CONTEXT: Map505/events/5/pages/0/213/Dialogue/enemy4
 It's okay...
 
-I'd give an arm and a leg for my little boy...#CheckLater
+I'd give an arm and a leg for my little boy...#Ron
 > END STRING
 
 > BEGIN STRING

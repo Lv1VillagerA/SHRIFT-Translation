@@ -75,9 +75,9 @@ We won't lose if we all combine our power!#Ron
 その個の合計能力以上の力を発揮する……
 > CONTEXT: Map500/events/2/pages/0/47/Dialogue/beelzebub_fc1
 Yes, that "solidarity" is a nuisance...
-By supporting each other and working together in
-your separate roles, you demonstrate far more
-power as a combined unit...#RonIffyWording
+By supporting each other and using each of
+your own strengths, you demonstrate far more
+power then you ever could by yourselves...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -172,8 +172,8 @@ What do you mean we've been cut off?!#Ron
 > CONTEXT: Map500/events/2/pages/0/96/Dialogue/enemy34
 Multi-dimensional barriers work by \\C[2]creating a
 completely different space in the exact same
-dimension by generating the same space in the
-same place over and over.#DL
+dimension as another. They do it by generating
+the same space in the same place over and over.#DL/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -264,7 +264,7 @@ How mean of you to treat us like "extras"...#Ron
 \\C[2]他二人が他メンバーの足止めをしている間に
 \\N[1]くんを無力化させる作戦\\C[0]だったようだね…
 > CONTEXT: Map500/events/2/pages/0/145/Dialogue/enemy34
-So your  plan was \\C[2]to incapacitate \\N[1]-kun
+So your plan was \\C[2]to incapacitate \\N[1]-kun
 while the others are busy holding off the other
 two\\C[0]...#Ron
 > END STRING
@@ -441,8 +441,8 @@ No, I mean... I've got to do something!!#Ron
 \\C[2]おそらく今回の状況は、それの数十倍に不利なのは明らかだ…
 > CONTEXT: Map500/events/2/pages/0/228/Dialogue
 Can I really win against this powerful opponent
-in front of me? \\C[2]It's obvious that my situation is
-much worse than when I fought High Slug...#RonIffy
+in front of me? \\C[2]It's obvious that this situation
+is much worse than when I fought High Slug...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -550,7 +550,7 @@ Fight alone#Ron
 > BEGIN STRING
 に…\\}にゃうぅ\\}誰か助けてにゃう……
 > CONTEXT: Map500/events/2/pages/0/279/Dialogue/kazuya-a
-M-\\}Meow\\}... someone save meow...#Ron
+M-\\}Meow\\}... someone save meeeow...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -587,7 +587,7 @@ Cry so hard it echos all through this space!!#Ron
 誰か助けてニャウー！！
 > CONTEXT: Map500/events/2/pages/0/297/Dialogue/kazuya-d
 \\{\\{Meooow!
-Somebody save meooow!!#Ron
+Somebody save meeeooow!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -625,7 +625,7 @@ Has the situation made you that desperate?#Ron
 If you're going to die either way, I may as well
 let you die in pleasure. ♡
 
-Now, hop into chest... ♡#Ron
+Now, hop into my chest... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -671,9 +671,9 @@ single shadow standing there...#Ron
 さっきの合言葉をいうと、次元関係なく現れる謎の男……
 > CONTEXT: Map500/events/2/pages/0/347/Dialogue/enemy34
 He's the Mysterious Masked Man (P)...
-People call him P-chan. If you say that phrase,
-he'll appear to help regardless of what dimension
-you're in.#RonIffyWording
+If you say that phrase, he'll come to your rescue,
+no matter what dimension you may find yourself in.
+People call him P-chan for short.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -920,9 +920,9 @@ He didn't do anything weird did he?#Ron
 
 あれでも\\C[2]一つの宇宙を救った英雄\\C[0]という話だ。
 > CONTEXT: Map500/events/2/pages/0/537/Dialogue/enemy34
-He gallantly appeared, and then when everything
-was over, he disappeared like the wind. It's the
-story of \\C[2]a hero who saved the universe\\C[0].#RonIffy
+He gallantly appears, and then disappears like the
+wind when it's all over. It's the age-old story of
+\\C[2]heroes who save the universe\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -974,9 +974,9 @@ And the \\C[10]Old One\\C[0].#Ron
 だから、アバドーンを阻止できれば、それで終わりだ。
 > CONTEXT: Map500/events/2/pages/0/566/Dialogue/other8
 The Old One \\C[2]has to finish the creation of his
-void world inside Abaddon, or he won't be able to
-materialize. So we'll be able to end this if we
-can stop Abaddon.#RonIffy
+world of nothingness inside Abaddon, or he won't
+be able to materialize. So, we'll be able to end
+this if we can stop Abaddon.#RonIffy
 > END STRING
 
 > BEGIN STRING

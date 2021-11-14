@@ -10364,7 +10364,7 @@ Noblesse Oblige#Ron
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 抵抗力を４回に分けて回復する。分けている意図は不明
-> CONTEXT: Skills/902/description < UNTRANSLATED
+> CONTEXT: Skills/902/description
 One of the support skills of the Mysterious Masked Man (P).
 Possibly unintentionally shares his Willpower four times.#Ron
 > END STRING
@@ -10372,13 +10372,13 @@ Possibly unintentionally shares his Willpower four times.#Ron
 > BEGIN STRING
 キャツベ
 > CONTEXT: Skills/902/name
-Kyatsube#CheckLater
+CABBAGE#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはキャツベを放った！
 > CONTEXT: Skills/902/message1
- watches on as P-chan unleashes Kyatsube!#Ron
+ watches on as P-chan unleashes CABBAGE!#Ron
 > END STRING
 
 > BEGIN STRING

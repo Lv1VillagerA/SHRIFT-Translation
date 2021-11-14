@@ -568,7 +568,8 @@ resistance.#Ron
 > CONTEXT: CommonEvents_770/419/Dialogue/other5
 One attack in particular to watch out for is their
 \\C[2]Draining Breath\\C[0]. If you get hit with that,
-you may not be able to even get support.#RonIffy
+you may end up in a state where you can't even
+use your party's support skills.#Ron
 > END STRING
 
 > BEGIN STRING

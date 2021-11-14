@@ -3,7 +3,7 @@
 ｼｭﾙﾙﾙﾙﾙ……
 > CONTEXT: Map499/events/7/pages/0/25/Dialogue/other8
 > CONTEXT: Map499/events/7/pages/0/129/Dialogue/other8
-#CheckLater
+sssshhrrr...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -120,9 +120,10 @@ victims.#Ron
 \\C[2]ヤツは、\\C[10]虐殺の世界線\\C[2]を拠点にして
 今から『選定』を始める気なんだ……！
 > CONTEXT: Map499/events/7/pages/0/78/Dialogue/other8
-Now that the \\C[4]Official Timeline \\C[0]is gone, we don't
-have any time to lose. \\C[2]He's going to begin the
-"Selection" inside the \\C[10]Genocide world line\\C[0]!#RonIffy
+Now that the \\C[4]Official Timeline \\C[0]is gone, we
+don't have any time to lose. \\C[2]He's going to begin
+the "Selection" using the \\C[10]Genocide \\C[0]timeline
+as a base!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -164,9 +165,10 @@ it would be a vague thing with no meaning.#RonIffy
 
 \\C[2]新人類を生成する上で、必要な『材料』を……
 > CONTEXT: Map499/events/7/pages/0/99/Dialogue/other8
-Separate from Abaddon, they collect souls, magic,
-and flesh. \\C[2]All the indispensable raw materials
-needed to create a new kind of humanity...#Ron
+They are separate beings from Abaddon, collecting
+souls, magic, and flesh... 
+\\C[2]All the indispensable raw materials needed to
+create a new kind of humanity...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -209,9 +211,10 @@ scattered throughout the world?!#Ron
 
 \\C[10]その世界線で『コンテニュー』した回数も含まれてるから…
 > CONTEXT: Map499/events/7/pages/0/119/Dialogue/sirousagi_fc1
-Including all the times that world line was
-"continued", probably a lot more than we can
-count.#RonIffy
+If I counted all the times that world line was
+reset, "reloaded"... 
+
+\\C[10]I would have lost track very quickly.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -219,8 +222,8 @@ count.#RonIffy
 
 アイツにとってはただの傀儡要素なのさ
 > CONTEXT: Map499/events/7/pages/0/123/Dialogue/sirousagi_fc1
-Even the Intervener's special \\C[10]never-say-die
-attitude \\C[0]is nothing but a tool for him.#Ron
+Even the Intervener's special \\C[10]determination\\C[0]
+to never give up is nothing but a tool for him.#Ron
 > END STRING
 
 > BEGIN STRING

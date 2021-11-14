@@ -14,8 +14,8 @@
 > CONTEXT: Map502/events/1/pages/0/6/Dialogue
 Those two believers are getting on nicely. At first they
 were simply following orders and were quite reluctant about
-the whole thing, but it seems they've now gotten quite used
-to one another and have started opening up.#Ron
+the whole thing... but now it seems they've now gotten quite
+used to one another and have begun opening up.#Ron
 > END STRING
 
 > BEGIN STRING
