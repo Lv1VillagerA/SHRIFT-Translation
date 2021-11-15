@@ -72,8 +72,8 @@ life in the shelter.#Ron
 
 \\N[1]にぃが、本当に生きていた世界なんだよ。
 > CONTEXT: Map509/events/4/pages/0/41/Dialogue/enemy39
-\\C[2]It was the \\C[10]timeline where your mother lived
-on\\C[2] that was the timeline you actually lived.#Ron
+\\C[2]The \\C[10]timeline where your mother survived \\C[2]was
+the timeline in which you were originally from.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -123,9 +123,9 @@ conducted...#Ron
 
 \\C[2]僕の母さんの存在を消し去ったのか…！？
 > CONTEXT: Map509/events/4/pages/0/64/Dialogue/kazuya
-Are you saying \\C[10]Mad Hatter used his Intervention
-authority \\C[2]to erase my mother from existence for
-that reason?!#RonIffyWording
+...Are you saying \\C[10]Mad Hatter used his
+Intervention authority? \\C[2]To erase my mother from
+existence just to clear up some loose ends?!#RonIffyWording
 > END STRING
 
 > BEGIN STRING

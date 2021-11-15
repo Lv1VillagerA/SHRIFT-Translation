@@ -17,9 +17,11 @@ can co-exist...#Ron
 こんなちっぽけな空間じゃなくて、一つの世界を創造できる。
 > CONTEXT: Map510/events/4/pages/0/7/Dialogue/enemy39
 \\C[2]I can create any world you desire, Onii-chan.
-Once I've finished consuming worlds and the \\C[10]void
-world \\C[0]is complete, I can create an entire
-world, not just a tiny space like this.#RonIffyWording
+Once I've finished consuming worlds and the \\C[10]
+world of nothingness \\C[0]is complete...
+
+I can create an entire world just for us, and
+not a tiny space like this.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -120,7 +122,7 @@ but a fake.#Ron
 I understand the idea behind what you're trying
 to do here...
 
-But I can't be \\C[2]the only one \\C[0]to go with you.#RonIffy
+But I \\C[2]can't leave everyone behind...\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING

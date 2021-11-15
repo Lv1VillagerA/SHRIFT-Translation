@@ -394,6 +394,5 @@ property of us and our master for all eternity.#Ron
 > BEGIN STRING
 「「私たちの、本当の姿……」」
 > CONTEXT: Map507/events/1/pages/0/232/Dialogue
-「Our true form...」
-「Our true form...」#CheckLater
+「「Our true form...」」#Ron/Triketos
 > END STRING

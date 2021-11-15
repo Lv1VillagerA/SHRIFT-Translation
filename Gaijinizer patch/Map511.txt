@@ -88,9 +88,9 @@ choices were not erased.#Ron
 上位存在は、\\C[10]マッドハッターという『介入』\\C[0]を使って
 大昔から、こんなことを続けていた……
 > CONTEXT: Map511/events/6/pages/0/60/Dialogue/enemy39
-The higher powers use the \\C[10]Intervention called Mad
-Hatter \\C[0]to alter timelines to suit themselves. And
-they've been doing it for a very long time now...#RonIffy
+The higher powers "fix" the timeline to their own
+whims and benefit. They've been doing it for
+a long time with the Intervention "Mad Hatter"...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -99,10 +99,10 @@ they've been doing it for a very long time now...#RonIffy
 この理不尽な鎖に、あの世界たちは縛られているんだ。
 \\C[2]上位存在は、人を消す命令を下せるっていうのに……
 > CONTEXT: Map511/events/6/pages/0/65/Dialogue/enemy39
-In order to ensure that \\C[2]the higher powers could
-give the order to erase people\\C[0], they bound all
-worlds with the unreasonable restriction that \\C[10]only
-humans living in the same world could change fate\\C[0].#RonIffy
+"Only the people who belong to this world
+can change their fate."
+All worlds are bound by those chains, but the
+higher ups can just remove anyone who misbehaves.#RonIffy
 > END STRING
 
 > BEGIN STRING

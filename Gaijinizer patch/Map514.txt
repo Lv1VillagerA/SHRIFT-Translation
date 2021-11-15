@@ -17,7 +17,7 @@ I've still got lots I can do...#Ron
 \\C[2]私が協力するから、この世界には手を出さないって
 アイツ『約束』してくれたのに…！！
 > CONTEXT: Map514/events/4/pages/0/43/Dialogue/コラボ^ヴァソ
-W-Why?! This isn't what we agreed!!
+W-Why?! This isn't what we agreed upon!!
 
 \\C[2]You said you wouldn't touch my world if I helped
 you! You made a promise!!#Ron

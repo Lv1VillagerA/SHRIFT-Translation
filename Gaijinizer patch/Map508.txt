@@ -166,7 +166,7 @@ room again even though we didn't take anything.#Ron
 > CONTEXT: Map508/events/6/pages/0/146/Dialogue
 * 「You're sneaking into his room again?
     You two shouldn't be doing that kind of thing anymore.
-    You're both in year five of school, it's time you
+    You're both in your fifth year of school, it's time you
     both stopped being so attached to your brother...」#Ron
 > END STRING
 
@@ -184,7 +184,7 @@ room again even though we didn't take anything.#Ron
 
 分かってる。
 > CONTEXT: Map508/events/6/pages/0/155/Dialogue/enemy39
-Yes mother.
+Yes, Mother.
 
 Understood.#Ron
 > END STRING
@@ -311,9 +311,10 @@ you alone into this space\\C[0].#Ron
 
 私たちの話を聞いてからでも、遅くはないはずだよ……
 > CONTEXT: Map508/events/6/pages/0/224/Dialogue/enemy39
-\\C[2]It shouldn't be too late for you to find out who
-really ruined your life after you hear what we
-have to say.#RonIffyWording
+\\C[2]It shouldn't be too late for us to tell you
+who really ruined our onii-chan's life, right?
+
+Just listen to what we have to say...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
