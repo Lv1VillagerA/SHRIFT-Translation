@@ -139,8 +139,11 @@ to happen.#RonIffy
 \\C[2]今回の騒動に、ヘカーテは関われなかった…\\C[0]
 
 『そういう世界』になってるんだよ、今はね…
-> CONTEXT: Map363/events/1/pages/0/85/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map363/events/1/pages/0/85/Dialogue/hyakki
+\\C[2]Hecate wasn't involved in this mess this
+time...\\C[0]
 
+It's "that" kind of world now, huh...#StrateUnsure
 > END STRING
 
 > BEGIN STRING

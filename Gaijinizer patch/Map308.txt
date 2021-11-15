@@ -49,7 +49,7 @@ How did she recover so well?#Amaboye/Triketos
 
 相手に求められたら、拒めないもんだとばかり……
 > CONTEXT: Map308/events/5/pages/0/27/Dialogue/other2 
-I thought that since Mother Rabbit was a ​demon
+I thought that since Mother Rabbit was a demon
 that always accepts others, you had no way
 to refuse a request...#Amaboye
 > END STRING
@@ -105,7 +105,7 @@ The timing and situation were surprisingly lucky.#Amaboye
 あの鉄格子に鍵をかけられる可能性だってあったわけだしな…
 > CONTEXT: Map308/events/5/pages/0/53/Dialogue/other1 
 If they were there like they were in \\N[1]'s
-world, I might even have been locked out...#Amaboye
+world, they might have locked the door...#Amaboye/StrateRevision
 > END STRING
 
 > BEGIN STRING
@@ -126,9 +126,9 @@ stick around. Let's head out.#Amaboye
  お前が、この世界のユウマにでも見つかったら
  まーた話がややこしくなっちまうからな……
 > CONTEXT: Map308/events/5/pages/0/65/Dialogue/other1 
-Since you're an "intervening" body... an outsider...
-getting found by the Yuuma of this world could
-cause unwanted complications...#Amaboye/Triketos
+Since you're an "intervening" body...
+An outsider... getting found by the Yuuma of this
+world could cause unwanted complications...#Amaboye/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -362,7 +362,7 @@ Queen, she was likely told something like this...#Amaboye
 "Even if you can comfort them, you're not
 doing anything to help the souls themselves...
 
-"Can you even call that salvation?"#Amaboye
+Can you even call that salvation?"#Amaboye
 > END STRING
 
 > BEGIN STRING

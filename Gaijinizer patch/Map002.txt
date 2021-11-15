@@ -2522,8 +2522,8 @@ Black Dog if(s[692])#Ron
 
 > BEGIN STRING
 ベルゼバブ if(s[698])
-> CONTEXT: Map002/events/1/pages/0/2827/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2827/Choice/3
+Beelzebubs if(s[698])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2639,94 +2639,102 @@ Do you want to view this scene?#Ron
 
 > BEGIN STRING
 "ヒント：単独のキメラビーストに負ける"
-> CONTEXT: Map002/events/1/pages/0/2977/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2977/InlineScript/2:1
+"Hint: Lose to a single Chimera Beast"
 > END STRING
 
 > BEGIN STRING
 単独 en(s[696])
-> CONTEXT: Map002/events/1/pages/0/2991/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2991/Choice/0
+Solo en(s[696])#Ron
 > END STRING
 
 > BEGIN STRING
 集団 en(s[697])
-> CONTEXT: Map002/events/1/pages/0/2991/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2991/Choice/1
+Group en(s[697])#Ron
 > END STRING
 
 > BEGIN STRING
 【キメラビースト】：単独搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2995/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2995/Dialogue
+[Chimera Beast]: Solo Squeezing
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【キメラビースト】：集団搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3013/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3013/Dialogue
+[Chimera Beast]: Group Squeezing
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：３人いるときに負ける"
-> CONTEXT: Map002/events/1/pages/0/3038/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3038/InlineScript/2:1
+"Hint: Lose when fighting all three."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：赤個体と単独で戦うときに負ける"
-> CONTEXT: Map002/events/1/pages/0/3046/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3046/InlineScript/2:1
+"Hint: Lose when fighting just the red one."#Ron
 > END STRING
 
 > BEGIN STRING
 ３人 en(s[699])
-> CONTEXT: Map002/events/1/pages/0/3052/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3052/Choice/0
+All Three en(s[699])#Ron
 > END STRING
 
 > BEGIN STRING
 赤単独 en(s[700])
-> CONTEXT: Map002/events/1/pages/0/3052/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3052/Choice/1
+Just Red en(s[700])#Ron
 > END STRING
 
 > BEGIN STRING
 【ベルゼバブ】：集団搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3056/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3056/Dialogue
+[Beelzebubs]: Group Squeezing
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【ベルゼバブ】：単独搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3074/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3074/Dialogue
+[Beelzebubs]: Solo Squeezing
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 ハイラミア if(s[761])
-> CONTEXT: Map002/events/1/pages/0/3095/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3095/Choice/0
+High Lamia if(s[761])#Ron
 > END STRING
 
 > BEGIN STRING
 ヴァンパイア if(s[767])
-> CONTEXT: Map002/events/1/pages/0/3095/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3095/Choice/1
+Vampire if(s[767])#Ron
 > END STRING
 
 > BEGIN STRING
 ヴァシリカ if(s[764])
-> CONTEXT: Map002/events/1/pages/0/3095/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3095/Choice/2
+Vasilica if(s[764])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2737,60 +2745,66 @@ Do you want to view this scene?#Ron
 
 > BEGIN STRING
 "ヒント：追いかけっこで捕まる"
-> CONTEXT: Map002/events/1/pages/0/3101/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/3164/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/3196/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/3229/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/3264/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3101/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/3164/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/3196/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/3229/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/3264/InlineScript/2:1
+"Hint: Be caught when chased."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：通常ボス戦闘時に負ける"
-> CONTEXT: Map002/events/1/pages/0/3109/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3109/InlineScript/2:1
+"Hint: Lose during normal boss fight."#Ron
 > END STRING
 
 > BEGIN STRING
 子供あやし en(s[762])
-> CONTEXT: Map002/events/1/pages/0/3115/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3115/Choice/0
+Child Charmeren(s[762])#RonLocalization
 > END STRING
 
 > BEGIN STRING
 大人あやし en(s[763])
-> CONTEXT: Map002/events/1/pages/0/3115/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3115/Choice/1
+Adult Charmeren(s[763])#RonLocalization
 > END STRING
 
 > BEGIN STRING
 【ハイラミア】：子供あやし
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3119/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3119/Dialogue
+[High Lamia]: Child Charmer
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【ハイラミア】：大人あやし
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3139/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3139/Dialogue
+[High Lamia]: Adult Charmer
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 眷属化
-> CONTEXT: Map002/events/1/pages/0/3168/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3168/Choice/0
+Manservant#Ron
 > END STRING
 
 > BEGIN STRING
 【ヴァンパイア】：眷属化
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3172/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3172/Dialogue
+[Vampire]: Manservant
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2805,8 +2819,10 @@ Milking#Dargoth
 【ヴァソ】：搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3205/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3205/Dialogue
+[Vanmpire]: Milking
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING

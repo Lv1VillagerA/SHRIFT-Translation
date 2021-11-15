@@ -33,7 +33,7 @@ Continue preparing#Amaboye
 おそらく、戦闘力だけならかなりの強敵だから
 準備は怠らないようにね。
 > CONTEXT: Map303/events/6/pages/0/0/Dialogue/hyakki 
-The Beetle Harpy Queen is just ahead.
+The Harpy Spawn Queen is just ahead.
 
 Its raw fighting strength is formidable,
 so don't skimp on preparation.#Amaboye

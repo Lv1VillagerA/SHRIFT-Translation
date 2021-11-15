@@ -5555,14 +5555,14 @@ Splash Fleuret#RonIffy
 
 > BEGIN STRING
 ダーク・メディション
-> CONTEXT: Skills/423/name < UNTRANSLATED
-
+> CONTEXT: Skills/423/name
+Dark Medition#Ron
 > END STRING
 
 > BEGIN STRING
 はダーク・メディションを放った！
-> CONTEXT: Skills/423/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/423/message1
+ unleashes Dark Medition!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6066,7 +6066,7 @@ Seed-Squeezing Hold#afrgPRStrateRevision
 > BEGIN STRING
 ずぶずぶと喰われるように\\N[1]は犯されていく…
 > CONTEXT: Skills/470/message2
-\\N[1] is being fucked so as to be said to be sopping wet ...#MTLed
+He's being violated in order to bring it deeper inside...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -7716,20 +7716,20 @@ Snake Glare#afrg
 
 > BEGIN STRING
 \\N[1]の衣服が煙を立てている……
-> CONTEXT: Skills/632/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/632/message2
+Smoke is coming off his clothes...#Ron
 > END STRING
 
 > BEGIN STRING
 溶解液
-> CONTEXT: Skills/632/name < UNTRANSLATED
-
+> CONTEXT: Skills/632/name
+Dissolving Liquid#Ron
 > END STRING
 
 > BEGIN STRING
 は溶解液を\\N[1]の身体に浴びせてきた！！
-> CONTEXT: Skills/632/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/632/message1
+ douses \\N[1] in Dissolving Liquid!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7754,9 +7754,9 @@ Did you want to see what would happen?#Ron
 
 > BEGIN STRING
 は禍々しい光線を放ってきた！！
-> CONTEXT: Skills/633/message1 < UNTRANSLATED
-> CONTEXT: Skills/634/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/633/message1
+> CONTEXT: Skills/634/message1
+ unleashes beams of sinister light!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7866,25 +7866,25 @@ Raid Scissor#afrg
 > BEGIN STRING
 妖しく蠢く膣内の触手が、\\N[1]の口内に入ってくる…
 > CONTEXT: Skills/650/message2
-Tentacles squirm in it, then crawl into \\N[1]'s mouth!#afrg
+Its lewdly squirming tentacles crawl into his mouth!#afrg/Ron
 > END STRING
 
 > BEGIN STRING
 イラマンニリングス
 > CONTEXT: Skills/650/name
-Ira Manni Rings#afrg
+Forced Cunnilingus#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]の頭を押さえつけ、膣で口を塞いだ！
 > CONTEXT: Skills/650/message1
- grabs \\N[1]'s head, covering his mouth with her vagina!#afrg
+ pushes herself down, forcing his mouth on her vagina!#afrg/Ron
 > END STRING
 
 > BEGIN STRING
 ブラシのような触手が絡みつき、精気がジュルジュルと吸い上げられていく…
 > CONTEXT: Skills/652/message2
-Brush-like tentacles coil around, slupring up his energy...#afrg
+Brush-like tentacles coil around, slurping up his energy...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -7943,14 +7943,14 @@ Sweet Boy#Ron
 
 > BEGIN STRING
 母蛇の慈愛遊戯
-> CONTEXT: Skills/663/name < UNTRANSLATED
-
+> CONTEXT: Skills/663/name
+Mother Snake's Affectionate Play#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]のペニスを包み込むように締め付けた
-> CONTEXT: Skills/663/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/663/message1
+ tightens around \\N[1]'s penis as if wrapping around it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7979,20 +7979,20 @@ Virtue: Ayashi Ayaka#MTLed
 
 > BEGIN STRING
 柔らかいおっぱいの壁が、\\N[1]をギュウギュウと圧迫する…
-> CONTEXT: Skills/668/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/668/message2
+A wall of soft boobs squeezes down around him.#Ron
 > END STRING
 
 > BEGIN STRING
 魔蠅の抱擁
-> CONTEXT: Skills/668/name < UNTRANSLATED
-
+> CONTEXT: Skills/668/name
+Magic Fly's Embrace#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]を自身の下半身でぐるぐる巻きにした！
-> CONTEXT: Skills/668/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/668/message1
+ has her lower half wrapped around \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8016,20 +8016,20 @@ Instinctive Thrusting#afrg
 
 > BEGIN STRING
 \\N[1]の精気が、みるみるうちに吸い上げられてく……
-> CONTEXT: Skills/672/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/672/message2
+\\N[1]'s energy is drained from him in a flash...#Ron
 > END STRING
 
 > BEGIN STRING
 ドレインマント
-> CONTEXT: Skills/672/name < UNTRANSLATED
-
+> CONTEXT: Skills/672/name
+Draining Cloak#Ron
 > END STRING
 
 > BEGIN STRING
 は\\n[1]をマントで完全に覆い尽くした！
-> CONTEXT: Skills/672/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/672/message1
+ completely covers \\n[1] with her cloak!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8153,20 +8153,20 @@ Energy Sucking Tail#afrg
 
 > BEGIN STRING
 いやらしい音を立てながら、精気がどんどんと吸い取られていく…
-> CONTEXT: Skills/691/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/691/message2
+The tails make lewd noises as they sap his energy...#Ron
 > END STRING
 
 > BEGIN STRING
 テイルドレイン
-> CONTEXT: Skills/691/name < UNTRANSLATED
-
+> CONTEXT: Skills/691/name
+Tail Drain#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]の手足を尻尾に取り込んだ！
-> CONTEXT: Skills/691/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/691/message1
+s have sucked \\N[1]'s limbs into their tails...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10357,52 +10357,54 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 \\N[1]の傷が、徐々に癒やされていく…
-> CONTEXT: Skills/902/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/902/message2
+\\N[1]'s wounds slowly heal up...#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 抵抗力を４回に分けて回復する。分けている意図は不明
-> CONTEXT: Skills/902/description < UNTRANSLATED
-
+> CONTEXT: Skills/902/description
+One of the support skills of the Mysterious Masked Man (P).
+Possibly unintentionally shares his Willpower four times.#Ron
 > END STRING
 
 > BEGIN STRING
 キャツベ
-> CONTEXT: Skills/902/name < UNTRANSLATED
-
+> CONTEXT: Skills/902/name
+CABBAGE#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはキャツベを放った！
-> CONTEXT: Skills/902/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/902/message1
+ watches on as P-chan unleashes CABBAGE!#Ron
 > END STRING
 
 > BEGIN STRING
 両手に風と雷の魔法を込めながら、Ｐちゃんが疾走する…！
-> CONTEXT: Skills/903/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/903/message2
+P-chan dashes forward with wind and lightning in his hands!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 相手に風と雷属性のダメージを5回与える
-> CONTEXT: Skills/903/description < UNTRANSLATED
-
+> CONTEXT: Skills/903/description
+One of the support skills of the Mysterious Masked Man (P).
+Deals Wind and Lightning damage to an enemy five times.#Ron
 > END STRING
 
 > BEGIN STRING
 ナンディオン
-> CONTEXT: Skills/903/name < UNTRANSLATED
-
+> CONTEXT: Skills/903/name
+Nandion#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはナンディオンを放った！
-> CONTEXT: Skills/903/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/903/message1
+ watches on as P-chan unleashes Nandion!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10784,71 +10786,74 @@ Focus#Ron
 
 > BEGIN STRING
 闇でできた大きな手が、敵を執拗に襲う…！
-> CONTEXT: Skills/923/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/923/message2
+Huge hands made of darkness relentlessly attack the enemy!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 相手に闇属性の大ダメージを与え、相手の全能力を下げる。
 > CONTEXT: Skills/923/description < UNTRANSLATED
-
+One of the support skills of the Mysterious Masked Man (P).
+Deals heavy Darkness damage and debuffs the enemy.#Ron
 > END STRING
 
 > BEGIN STRING
 ギル・メギド
-> CONTEXT: Skills/923/name < UNTRANSLATED
-
+> CONTEXT: Skills/923/name
+Gil Megido#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはギル・メギドを放った！
-> CONTEXT: Skills/923/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/923/message1
+ watches on as P-chan unleashes Gil Megido!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 \\N[1]の全能力を３ターン大幅上昇させる
-> CONTEXT: Skills/924/description < UNTRANSLATED
-
+> CONTEXT: Skills/924/description
+One of the support skills of the Mysterious Masked Man (P).
+Heavily buffs all of \\N[1]'s abilities for three turns.#Ron
 > END STRING
 
 > BEGIN STRING
 ヒーロータイム
-> CONTEXT: Skills/924/name < UNTRANSLATED
-
+> CONTEXT: Skills/924/name
+Hero Time#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはヒーロータイムを放った！
-> CONTEXT: Skills/924/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/924/message1
+ watches on as P-chan unleashes Hero Time!#Ron
 > END STRING
 
 > BEGIN STRING
 デュアルブレードでの、目にもとまらぬ乱舞が相手を襲う…！
-> CONTEXT: Skills/925/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/925/message2
+His twin blades attack in a dance too quick to follow!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 相手に物理属性の８回ダメージを与える
-> CONTEXT: Skills/925/description < UNTRANSLATED
-
+> CONTEXT: Skills/925/description
+One of the support skills of the Mysterious Masked Man (P).
+Deals physical damage to an enemy eight times.#Ron
 > END STRING
 
 > BEGIN STRING
 ノヴァ・スラッシュ
-> CONTEXT: Skills/925/name < UNTRANSLATED
-
+> CONTEXT: Skills/925/name
+Nova Slash#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはノヴァ・スラッシュを放った！
-> CONTEXT: Skills/925/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/925/message1
+ watches on as P-chan unleashes Nova Slash!#Ron
 > END STRING
 
 > BEGIN STRING

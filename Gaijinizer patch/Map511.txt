@@ -4,8 +4,11 @@
 \\C[2]少なからず情が湧いてきていたんだよ。
 
 お母さんは、本当の『親』になろうとしていた
-> CONTEXT: Map511/events/6/pages/0/16/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map511/events/6/pages/0/16/Dialogue/enemy39
+\\C[2]She felt no small amount of love for you both as
+her son, and as a link to her deceased husband.
 
+She really was trying to be a mother.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13,8 +16,11 @@
 
 女手一つで自分を育ててくれる母親を支えようと
 学生なりに努力をしていた……
-> CONTEXT: Map511/events/6/pages/0/21/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/21/Dialogue/enemy39
+You also felt the same way as you grew older.
+You worked hard as a student, wanting to one day
+be able to support the mother who had raised you
+by herself.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -22,8 +28,11 @@
 心優しい性格に育たないでしょ？
 
 \\C[10]オールドワン\\C[0]も、誤算だったと思うなぁ
-> CONTEXT: Map511/events/6/pages/0/26/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/26/Dialogue/enemy39
+I mean, you wouldn't have done that if you hadn't
+been raised to be so kind-hearted. I think even
+the \\C[10]Old One \\C[0]made a miscalculation on that
+part.#RonIffyLocalization
 > END STRING
 
 > BEGIN STRING
@@ -31,8 +40,11 @@
 自分の思惑とはかけ離れた育て方をしている……
 
 \\C[10]だから私に、儀式の結果を改変させたんだろうね。
-> CONTEXT: Map511/events/6/pages/0/31/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/31/Dialogue/enemy39
+\\C[2]Your mother, who was supposed to be a faithful
+servant of the Old One, was raising you in a way
+that deviated significantly from its plans. \\C[10]That's
+why it had me alter the outcome of the ceremony.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -40,8 +52,11 @@
 
 \\C[2]だって、生け贄にするには、もうお兄ちゃんは
 俗世を知りすぎていたんだもの。
-> CONTEXT: Map511/events/6/pages/0/39/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/39/Dialogue/enemy39
+\\C[2]As the intended sacrifice had become far too
+knowledgeable about the wider world\\C[0], the chances
+of the ceremony being successfully carried out
+had become vanishingly small.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -49,8 +64,10 @@
 お兄ちゃんのお母さんを消した……
 
 万が一の危険性のためだけに……
-> CONTEXT: Map511/events/6/pages/0/49/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/49/Dialogue/enemy39
+But \\C[10]Mad Hatter \\C[0]still erased your mother
+regardless. Just to smother an incredibly tiny
+risk.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -58,8 +75,11 @@
 
 \\C[2]躯を創り出したり、可能性の選択肢を消されないように
 先手を打つことが出来たんだけどね
-> CONTEXT: Map511/events/6/pages/0/54/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/54/Dialogue/enemy39
+But, thanks to his attention being elsewhere, we
+were \\C[2]able to take the initiative, such as when we
+unleashed Mukuro and ensured certain possible
+choices were not erased.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -67,8 +87,10 @@
 
 上位存在は、\\C[10]マッドハッターという『介入』\\C[0]を使って
 大昔から、こんなことを続けていた……
-> CONTEXT: Map511/events/6/pages/0/60/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/60/Dialogue/enemy39
+The higher powers "fix" the timeline to their own
+whims and benefit. They've been doing it for
+a long time with the Intervention "Mad Hatter"...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -76,14 +98,17 @@
 
 この理不尽な鎖に、あの世界たちは縛られているんだ。
 \\C[2]上位存在は、人を消す命令を下せるっていうのに……
-> CONTEXT: Map511/events/6/pages/0/65/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/65/Dialogue/enemy39
+"Only the people who belong to this world
+can change their fate."
+All worlds are bound by those chains, but the
+higher ups can just remove anyone who misbehaves.#RonIffy
 > END STRING
 
 > BEGIN STRING
 ……なにが言いたい。
-> CONTEXT: Map511/events/6/pages/0/72/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/72/Dialogue/kazuya
+What are you trying to say?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -91,8 +116,12 @@
 \\C[6]オールドワン\\C[0]の命令を受けて世界を一つにする\\C[10]私たち\\C[0]……
 
 ………なにが違うの？
-> CONTEXT: Map511/events/6/pages/0/74/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/74/Dialogue/enemy39
+On one side you have \\C[10]Mad Hatter \\C[0]who revises
+history on the orders of the \\C[6]higher powers\\C[0]. On
+the other you have \\C[10]us \\C[0]who are merging all of the
+worlds into one on the orders of the \\C[6]Old One\\C[0]...
+What do you think the difference is between us?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -100,8 +129,11 @@
 ましてや世界を喰らうことを強制されているわけでもない…
 
 \\C[6]オールドワン\\C[0]に同調して、世界を一つにしようとしている。
-> CONTEXT: Map511/events/6/pages/0/79/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/79/Dialogue/enemy39
+We're not being manipulated, and neither are we
+being forced to devour worlds. We're actually
+working to merge all the worlds because we
+sympathize with the \\C[6]Old One\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -109,8 +141,11 @@
 
 自分の世界に、もしアイツらの\\C[10]介入\\C[0]がなければ
 もしかしたら、悪魔と戦争なんて起きなかったかもしれない。
-> CONTEXT: Map511/events/6/pages/0/84/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map511/events/6/pages/0/84/Dialogue/enemy39
+I mean, isn't it frustrating, \\N[1]-nii?
 
+That demon war might never have happened in your
+world if it weren't for their \\C[10]Interventions\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -118,6 +153,10 @@
 \\C[10]『介入』なんてなくても、人は自分で運命を決められる。
 
 \\C[0]そこには、\\C[6]上位存在\\C[0]の目なんて届かない。
-> CONTEXT: Map511/events/6/pages/0/89/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map511/events/6/pages/0/89/Dialogue/enemy39
+That's why we're creating a world where fate isn't
+set in stone, where \\C[10]Intervention \\C[0]doesn't exist,
+and people have the power to make their own
+destiny.
+A world where the \\C[6]higher powers \\C[0]have no reach.#Ron
 > END STRING
