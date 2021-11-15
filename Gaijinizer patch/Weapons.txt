@@ -687,27 +687,29 @@ Arondite#Ron
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]古代文明の遺産「虹」で造られた美しい剣
 \\C[6]ターン終了時のＳＰ回復量＋１
-> CONTEXT: Weapons/125/description < UNTRANSLATED
-
+> CONTEXT: Weapons/125/description
+\\C[11][Luka Only] \\C[0]A beautiful sword made of rainbow from an
+ancient civilization. \\C[6]Recovers an additional SP per turn.#Ron
 > END STRING
 
 > BEGIN STRING
 プリズムソード
-> CONTEXT: Weapons/125/name < UNTRANSLATED
-
+> CONTEXT: Weapons/125/name
+Prism Sword#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]プリズムソードに魔力を宿したカスタム剣
 \\C[6]ターン終了時のＳＰ回復量＋１
-> CONTEXT: Weapons/126/description < UNTRANSLATED
-
+> CONTEXT: Weapons/126/description
+\\C[11][Luka Only] \\C[0]Created by infusing magic power into a
+Prism Sword. \\C[6]Recovers an additional SP per turn.#Ron
 > END STRING
 
 > BEGIN STRING
 プリズムクラッド
-> CONTEXT: Weapons/126/name < UNTRANSLATED
-
+> CONTEXT: Weapons/126/name
+Prism Clad Steel#Ron
 > END STRING
 
 > BEGIN STRING

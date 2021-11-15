@@ -3,8 +3,11 @@
 それは……
 
 \\C[2]レミエルが殺した人間は……\\C[10]『一人だった』\\C[2]ということ
-> CONTEXT: Map509/events/4/pages/0/3/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map509/events/4/pages/0/3/Dialogue/enemy39
+That was...
 
+\\C[2]There was \\C[10]only one human \\C[2]Remiel killed by
+that fateful day...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,8 +15,9 @@
 \\C[2]レミエルの破邪の刃から生き残っていたんだよ。
 
 \\C[0]そしてそのまま、近隣の農家に助けられる……
-> CONTEXT: Map509/events/4/pages/0/9/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map509/events/4/pages/0/9/Dialogue/enemy39
+Though she suffered grievous wounds, your mother
+managed to survive Remiel's evil-smiting blade.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -21,8 +25,11 @@
 
 儀式のために刻まれた、身体じゅうの魔術刺青が
 破魔の効果を打ち消したんだろうね。
-> CONTEXT: Map509/events/4/pages/0/14/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map509/events/4/pages/0/14/Dialogue/enemy39
+Most likely, the tattoos scrawled all over her
+body, as well as the natural resistance to magic
+she was born with, had the effect of nullifying
+the exorcism effect of the sword.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,8 +37,11 @@
 
 \\C[2]レミエルによって孤児院に預けられたお兄ちゃんを見つけて
 数年後に引き取り、母子暮らしを始める
-> CONTEXT: Map509/events/4/pages/0/20/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map509/events/4/pages/0/20/Dialogue/enemy39
+After her wounds healed, \\C[2]your mother found the
+orphanage that Remiel had taken you to, and a
+few years later you left that place and began
+living with her as mother and child.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -39,8 +49,11 @@
 入る学校も、大学もユウマと一緒で、今の世界線と同じ……
 
 でも大きく違うのは、\\C[10]お母さんが生きていたこと
-> CONTEXT: Map509/events/4/pages/0/25/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map509/events/4/pages/0/25/Dialogue/enemy39
+You still met Yuuma at the orphanage, and the fact
+that you both went to the same schools and the
+same university was also unchanged. The big
+difference was the fact that your \\C[10]mother lived\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -48,16 +61,19 @@
 
 \\N[1]にぃの\\C[2]『本当の世界線』\\C[0]は、
 単にシェルターで命を落とすだけの違いじゃないの
-> CONTEXT: Map509/events/4/pages/0/35/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map509/events/4/pages/0/35/Dialogue/enemy39
+In other words... the big change in your \\C[2]actual
+timeline \\C[0]wasn't only that you didn't lose your
+life in the shelter.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]『母親が生きている世界線』\\C[2]こそが
 
 \\N[1]にぃが、本当に生きていた世界なんだよ。
-> CONTEXT: Map509/events/4/pages/0/41/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map509/events/4/pages/0/41/Dialogue/enemy39
+\\C[2]The \\C[10]timeline where your mother survived \\C[2]was
+the timeline in which you were originally from.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,8 +81,10 @@
 \\C[2]儀式を再び始めることに執着していた……
 
 お兄ちゃんには黙って、邪教団の人とも会っていたみたい。
-> CONTEXT: Map509/events/4/pages/0/45/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map509/events/4/pages/0/45/Dialogue/enemy39
+Your mother became obsessed with \\C[2]retrying the
+ceremony once again. It seems she started meeting
+with members of that cult without telling you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -74,40 +92,50 @@
 母親は志半ばで野望が潰えたことに絶望し、自ら命を絶つ…
 
 それが\\C[2]本来の、この世界の筋書きだった。
-> CONTEXT: Map509/events/4/pages/0/50/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map509/events/4/pages/0/50/Dialogue/enemy39
+But you ended up dying in the shelter, and your
+mother was so wracked with despair at having her
+ambitions crushed that she took her own life.
+\\C[2]*That* is the outline of the original timeline\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 だけど、その事実は\\C[10]『介入』\\C[0]でねじ曲げられた。
 
 \\C[2]\\N[1]お兄ちゃんの、ある出来事のために……
-> CONTEXT: Map509/events/4/pages/0/55/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map509/events/4/pages/0/55/Dialogue/enemy39
+But \\C[2]because of certain events surrounding you\\C[0],
+that reality was distorted by \\C[10]Intervention\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]……僕が『生き延びる』から……
 
 その儀式が行われる可能性が高くなる……
-> CONTEXT: Map509/events/4/pages/0/60/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map509/events/4/pages/0/60/Dialogue/kazuya
+\\C[2]And the timeline where I survived had an
+increased chance of that ceremony being
+conducted...#Ron
 > END STRING
 
 > BEGIN STRING
 だから……\\C[10]マッドハッターの権限\\C[0]の力で……
 
 \\C[2]僕の母さんの存在を消し去ったのか…！？
-> CONTEXT: Map509/events/4/pages/0/64/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map509/events/4/pages/0/64/Dialogue/kazuya
+...Are you saying \\C[10]Mad Hatter used his
+Intervention authority? \\C[2]To erase my mother from
+existence just to clear up some loose ends?!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 そういうこと！
 
 \\C[2]百鬼の一族を消し去ったときと一緒だね！
-> CONTEXT: Map509/events/4/pages/0/68/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map509/events/4/pages/0/68/Dialogue/enemy39
+That's right!
 
+\\C[2]Just like when he erased Hyakki's tribe!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -115,6 +143,11 @@
 その\\C[6]上位存在\\C[0]の意向ではあるんだけど………
 
 \\C[2]\\N[1]にぃの唯一の肉親を、簡単に消し去っちゃったの！
-> CONTEXT: Map509/events/4/pages/0/72/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map509/events/4/pages/0/72/Dialogue/enemy39
+Though to be precise, it wasn't exactly Mad Hatter
+who was doing it. It was the will of the \\C[6]higher
+powers \\C[0]using him.
 
+\\C[2]Just like that, your one and only blood relative
+was erased from the face of the earth!#Ron
 > END STRING

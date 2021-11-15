@@ -41,6 +41,6 @@
 
 > BEGIN STRING
 \\N[1]は、アバドーンに敗北してしまった……
-> CONTEXT: CommonEvents_789/414/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_789/414/Dialogue
+\\N[1] has been defeated by Abaddon...#Ron
 > END STRING
