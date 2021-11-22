@@ -48,9 +48,9 @@ the power of Cheshire inside her...#Ron
 さっき百鬼が、ボクの力なら目覚めさせられるって言ったのは
 これが理由……
 > CONTEXT: Map528/events/7/pages/0/52/Dialogue/sirousagi_fc1
-In other words, I was being controlled remotely
-with her power. That's why Hyakki said I'd be
-able to wake him with the power I have...#RonIffy
+To put it another way, I had a remote link to
+Hyakki's power. That's why she said I'd be able
+to wake him with the power I have...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -145,7 +145,7 @@ I won't give \\V[40]-nii to you.#Ron
 
 起こしてしまうなんて、悪い人たちですね……
 > CONTEXT: Map528/events/7/pages/0/122/Dialogue/enemy39
-You people are awful for waking him up just as
+You people are horrible for waking him up just as
 he was getting to the good part of his dream.#Ron
 > END STRING
 
@@ -164,9 +164,10 @@ that's left is the \\C[10]utterly powerless you\\C[0].#Ron
 
 \\C[0]ちょっとぐらいなら、いい思いさせてあげてもいいかも？
 > CONTEXT: Map528/events/7/pages/0/130/Dialogue/enemy39
-\\C[10]Still, I'll praise you for bringing the last two
-possible threats to us, knowing there'd be no risk
-to you\\C[0]. So how about I do something nice for you?#RonIffy
+\\C[10]I have to congratulate you for bringing
+the remaining final loose ends to us, even though
+there was no risk to you.\\C[0] 
+Maybe I should give you a reward...?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -177,8 +178,8 @@ to you\\C[0]. So how about I do something nice for you?#RonIffy
 > CONTEXT: Map528/events/7/pages/0/135/Dialogue/enemy39
 Yes...
 
-I'll use you as material when we create all of
-Onii-chan's friends.#RonIffy
+\\C[2]I'll make sure to use you for materials
+when we create all of Onii-chan's friends.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -188,7 +189,7 @@ Onii-chan's friends.#RonIffy
 > CONTEXT: Map528/events/7/pages/0/140/Dialogue/enemy39
 \\C[2]I'll devour every single world.
 
-Including yours someday...#Ron
+Including yours, someday...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -221,7 +222,7 @@ Marion.#Ron
 
 オールドワンが部下を作るのに事欠かない……
 > CONTEXT: Map528/events/7/pages/0/160/Dialogue/enemy39
-Your \\C[10]never-give-up spirit \\C[0]has served us well
+Your \\C[10]determination \\C[0]has served us well
 in this world. It's given the Old One all it needs
 to create its minions.#Ron
 > END STRING
@@ -370,7 +371,7 @@ Girl? 「Jeez...
 > CONTEXT: Map528/events/7/pages/0/291/Dialogue
 Girl? 「But now we're even.
 
-        And it's time to pay back those trash.」#CheckLater
+        And it's time to pay back those trash.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -386,7 +387,7 @@ T-That voice... are you...?!!#Ron
 > CONTEXT: Map528/events/7/pages/0/312/Dialogue/enemy2
 Have you finally woken up, \\V[60]? ♪
 
-That was a hell of a pick-me-up, wasn't it?#CheckLater
+That was a hell of a pick-me-up, wasn't it?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -398,7 +399,7 @@ That was a hell of a pick-me-up, wasn't it?#CheckLater
 You've got your usual impudent look back, I
 suppose that means Abaddon's hypnosis wore off.
 
-\\C[10]You should be able to merge with him again now.#Ron
+\\C[10]You should be able to connect with him again.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -410,7 +411,7 @@ suppose that means Abaddon's hypnosis wore off.
 > BEGIN STRING
 "[SYSTEM]\\n介入対象者への介入を開始します"
 > CONTEXT: Map528/events/7/pages/0/339/InlineScript/1:6
-"[SYSTEM]\\nInitiating Intervention target's Intervention"#RonIffyWording
+"[SYSTEM]\\nInitiating Intervention connection with target..."#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -461,10 +462,10 @@ getting my hands on a \\C[10]fun toy\\C[0].#RonIffy
 
 でも……おかげで目が覚めた。
 > CONTEXT: Map528/events/7/pages/0/363/Dialogue/enemy2
-I let my guard down because I've been acting like
-a brat for so many years, and Hera gave me the
-scolding of my life for it. But thanks to that I
-finally opened my eyes.#RonIffy
+I let my guard down because I've played the role
+of a bratty girl for so many years, and Hera gave
+me the scolding of my life for it. But thanks to
+that, I finally opened my eyes.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -494,6 +495,7 @@ S-St......p...#Ron
 
 醜いバケモノのアバドーンちゃん…♡
 > CONTEXT: Map528/events/7/pages/0/428/Dialogue/enemy2
-That's it, that form suits you much better,
-horrifying monster Abaddon-chan... ♡#Ron
+There... that form suits you much better.
+
+You horrifying abomination, Abaddon-chan... ♡#Ron
 > END STRING

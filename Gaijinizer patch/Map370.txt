@@ -265,9 +265,9 @@ game is \\C[2]because I'm here\\C[0].#Ron
 チェシャを分離するときに、ここを使ったんだよ。
 > CONTEXT: Map370/events/1/pages/1/21/Dialogue/hyakki
 To tell you the truth, this isn't the first time
-I've come here. I used this place to stop
-\\V[40] when he went down the \\C[10]Genocide route\\C[0]
-after separating from Cheshire.#RonIffy
+I've come here. The second Cheshire was gone, I
+stepped in and used this place to stop \\V[40]
+after he went down the \\C[10]Genocide route\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -313,10 +313,10 @@ going back.#Ron
 たとえその存在を感じていなくても、常に意識してしまう。
 \\C[2]『これは本当に運命だったのか』\\C[0]って……
 > CONTEXT: Map370/events/1/pages/1/42/Dialogue/hyakki
-\\V[40] too, is a human who learned about the
-existence of Interventions. Even if he couldn't
-sense them, he'd always be aware of them,
-constantly wondering whether it's really fate.#RonIffy
+\\V[40] is another person who learned about the
+existence of Interventions. Even if he can't sense
+them, he'll always know that they're there, and
+wonder if his actions are really his own...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -325,9 +325,10 @@ constantly wondering whether it's really fate.#RonIffy
 だけど、\\V[40]の今後の苦悩を考えると、
 それも一つの選択かもしれない……
 > CONTEXT: Map370/events/1/pages/1/47/Dialogue/hyakki
-Though he's certainly being deceived, whether or
-not he suffers in the future may come down to a
-single choice you make...#RonIffy
+He's definitely being deceived right now.
+
+But whether or not he suffers depends on
+a single choice you could make...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -350,7 +351,7 @@ Do you still want to save him, knowing that?#Ron
 > CONTEXT: Map370/events/1/pages/1/57/Dialogue/hyakki
 \\C[10]If you believe that things are fine the way they
 are, then close this window. Do as the Twins
-asked and leave him be.
+asked and leave him be.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -449,9 +450,9 @@ to this one here.#Ron
 アタシの中の\\C[10]『介入能力』もチェシャのものだ
 きっと、上手く機能してくれるはずだ。
 > CONTEXT: Map370/events/1/pages/1/108/Dialogue/hyakki
-Though the \\C[10]Intervention power \\C[0]inside me isn't
-Cheshire's \\C[10]Intervention authority, it still
-belonged to her, and I'm sure I'll be able to make
+Though Cheshire's \\C[10]Intervention authority \\C[0]is gone
+along with her, I still have her \\C[10]Intervention
+power \\C[0]within me. I'm sure I'll be able to make
 good use of it.#RonIffy
 > END STRING
 

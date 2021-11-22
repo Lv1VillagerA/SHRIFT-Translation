@@ -36,9 +36,10 @@ his sister? ♪#RonIffyWording
 
 こんな空間、\\C[2]『理想の世界』\\C[0]とは程遠いわよ。
 > CONTEXT: Map529/events/8/pages/0/13/Dialogue/enemy2
-This space is far from an ideal world, with
-illusions that even I could pass through if
-I were made aware of my role.#DLCheckLater
+These illusions are so weak that even I can
+walk through them if I know what's happening.
+
+It's hardly a "perfect world".#DL
 > END STRING
 
 > BEGIN STRING
@@ -53,10 +54,10 @@ W-What is this?#Ron
 
 \\C[2]世界の残骸をより合わせただけの、ただの幻覚。
 > CONTEXT: Map529/events/8/pages/0/19/Dialogue/enemy2
-What you were seeing was not the "new world"
-created by this thing, \\C[2]but simply an illusion
-made from the combination of the ruins of the
-world.#Ron
+What you were seeing isn't a "new world"
+created by this thing... \\C[2]It's nothing more then
+an illusion made by combining scraps of devoured
+worlds together.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,12 +66,12 @@ world.#Ron
 
 まだまだ、そんな芸当が出来るほど世界は喰われてないわ。
 > CONTEXT: Map529/events/8/pages/0/24/Dialogue/enemy2
-I mean, it'd be strange \\C[10]for the Old One not to
-manifest \\C[0]if this thing were capable of creating
-even a small part of a space like that.
+I mean, wouldn't it be strange that \\C[10]the Old One
+hasn't manifested \\C[0]if it were capable of something
+like that?
 
-It hasn't devoured enough of the world to pull
-off a trick like that.#Ron
+It hasn't devoured enough worlds to have
+that much power, yet.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -125,10 +126,10 @@ for me...#Ron
 だから……返してもらう！
 僕の『幸せ』たちを！
 > CONTEXT: Map529/events/8/pages/0/51/Dialogue/kazuya
-\\C[4]That world \\C[0]is the only world for me!
+\\C[4]My world \\C[0]is the only world for me!
 
 So give it back!
-Give back our happiness!#Ron
+Give back my happiness!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -174,10 +175,10 @@ before I got here.#Ron
 
 \\N[1]に気をとられ過ぎちゃったんじゃないのぉ？
 > CONTEXT: Map529/events/8/pages/0/110/Dialogue/enemy2
-For all your scary talk of World Fusion and world
-turmoil, you failed at the final hurdle.
+For all your scary talk of World Fusion and Worlds
+of Chaos, you aren't very good at it.
 
-Looks like you got too distracted by \\N[1].#Ron
+Maybe you got a bit too distracted by \\N[1]~?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -198,9 +199,9 @@ can you do with just three humans and a demon?!#Ron
 お前たち全員、混沌に沈めてやる……！！
 覚悟しろ…！！！
 > CONTEXT: Map529/events/8/pages/0/122/Dialogue/enemy30
-I don't care about the new world anymore!!
+I don't care about my new world anymore!!
 
-I'll plunge all of you into the chaos!!
+I'll plunge all of you into chaos!!
 Prepare yourselves!!#Ron
 > END STRING
 
@@ -234,10 +235,10 @@ use \\C[24]"that power"\\C[0].#Ron
 アンタに一泡吹かせるために、この力を使うわ。
 ナメんじゃないわよ。
 > CONTEXT: Map529/events/8/pages/0/144/Dialogue/enemy40
-I never thought I'd take that form again...
+I never thought I'd take that form again... but
+I'll grace you with its presence, just once.
 
-But I'll use it if it means ruining your plans.
-I wouldn't take this lightly if I were you.#Ron
+You shouldn't have fucked with me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -730,7 +731,7 @@ I never had any interest in \\C[4]bonds \\C[0]or \\C[10]evil gods\\C[0].#Ron
 だから、\\C[4]こっち\\C[0]に肩入れするってだけさ。
 > CONTEXT: Map529/events/8/pages/0/498/Dialogue/enemy10
 But, \\C[10]the Interveners who chose Genocide had no
-potential\\C[0]. They forsook \\N[1] and threw
+potential\\C[0]. They discarded \\N[1] and threw
 away his potential. That's the only reason \\C[4]I\\C[0]
 gave you my support.#Ron
 > END STRING

@@ -10881,7 +10881,7 @@ Space and time are warping around her!!#Ron
 相手に万能の大ダメージを与え、全能力を下げる。
 > CONTEXT: Skills/927/description
 One of Hecatos Soteira's support skills.
-Hits an enemy with huge universal damage and debuffs them.#RonIffyWording
+Hits an enemy with huge Almighty damage and debuffs them.#Ron
 > END STRING
 
 > BEGIN STRING

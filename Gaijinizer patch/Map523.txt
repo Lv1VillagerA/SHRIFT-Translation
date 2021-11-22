@@ -49,10 +49,10 @@ here?#Ron
 \\C[2]私の創ったこの空間が、不完全な混沌世界だからこそ
 \\C[10]『アプリコマンド』\\C[2]で改変が出来る\\C[0]なんて、盲点だったな……
 > CONTEXT: Map523/events/6/pages/0/47/Dialogue/enemy39
-I see. \\C[2]I failed to account for the fact that the
-incomplete world turmoil would allow you to change
-the \\C[10]application commands \\C[2]in this space I
-created.#RonIffyWording
+I see. \\C[2]I failed to account for the fact that
+this incomplete World of Chaos would let you use
+\\C[10]application commands \\C[2]to change the
+space I created.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -60,7 +60,7 @@ created.#RonIffyWording
 
 百鬼ちゃんの身体、\\C[10]存在自体が消えかかってるじゃん。
 > CONTEXT: Map523/events/6/pages/0/69/Dialogue/enemy39
-But you can only use that rationale so many times.
+But you can only do that so many times.
 
 Look, your body itself \\C[10]has started to disappear\\C[0].#Ron
 > END STRING
@@ -117,9 +117,9 @@ to come with us?!#Ron
 道案内、しっかり頼んだよ…！！！
 > CONTEXT: Map523/events/6/pages/0/101/Dialogue/hyakki2
 Once you've got him awake, we've got no choice
-but to pin our hopes on the one who's been using
-the Interventions all this time! I'm relying on
-you to guide them to \\V[40]!!!#RonIffyWording
+but to pin our hopes on the one who's been in
+charge of the Interventions all this time!
+I'm relying on you to guide them to \\V[40]!!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING

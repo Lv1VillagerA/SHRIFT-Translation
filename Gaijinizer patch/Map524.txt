@@ -9,7 +9,7 @@
 Everyone is standing there with smiles on their faces,
 singlemindedly repeating \\V[40]'s name...
 Their bodies don't even so much as twitch, making them
-look almost like dolls...
+look almost like dolls...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,10 +20,10 @@ look almost like dolls...
 > CONTEXT: Map524/events/4/pages/0/33/Dialogue/sirousagi_fc1
 > CONTEXT: Map524/events/22/pages/0/33/Dialogue/sirousagi_fc1
 > CONTEXT: Map524/events/23/pages/0/33/Dialogue/sirousagi_fc1
-They're life forms that just repeat the same word
-over and over. \\C[2]The Twins recreated only their
-voices and appearance to help convince
-\\V[40].#RonIffyWording
+The Twins recreated \\V[40]'s loved ones to
+help convince him, but only used their voices and
+appearances. It's like they're NPCs, only capable
+of repeating the same lines over and over...#Ron
 > END STRING
 
 > BEGIN STRING
