@@ -550,8 +550,8 @@ Hell Locust Abaddon#Ron
 
 > BEGIN STRING
 双子になりたかったもの
-> CONTEXT: Enemies/390/name < UNTRANSLATED
-
+> CONTEXT: Enemies/390/name
+The Would-Be Twins#Ron
 > END STRING
 
 > BEGIN STRING

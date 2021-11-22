@@ -4,16 +4,20 @@
 
 もともとそういうのに慣れてるボクならともかく
 普通の悪魔が、ここまでの権限を使うなんて……
-> CONTEXT: Map523/events/6/pages/0/25/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map523/events/6/pages/0/25/Dialogue/sirousagi_fc1
+You're pushing yourself too hard, Hyakki-chan.
+It'd be hard enough on someone like me who's used
+to it, but for a normal demon to push themselves
+to the limit like that...#Ron
 > END STRING
 
 > BEGIN STRING
 このままじゃ\\V[40]くんを救う前に
 
 \\C[2]百鬼ちゃんの身体が消滅してしまう……
-> CONTEXT: Map523/events/6/pages/0/30/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map523/events/6/pages/0/30/Dialogue/sirousagi_fc1
+At this rate, \\C[2]you'll end up destroying your own
+body before you can save \\V[40]-kun...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -21,16 +25,22 @@
 
 でもこのチャンスを逃せば、もう２度と助けられない……
 今更退けないよ…！！
-> CONTEXT: Map523/events/6/pages/0/35/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Map523/events/6/pages/0/35/Dialogue/hyakki2
+I told you I'd be pulling out all the stops,
+didn't I? If we let this chance to save him slip
+through our fingers, there won't be a second one.
+We can't quit now!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 それにこの身は、１度\\V[40]に救われたんだ…
 
 ここで命を賭けないで、どうするっていうんだ…！
-> CONTEXT: Map523/events/6/pages/0/40/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Map523/events/6/pages/0/40/Dialogue/hyakki2
+Besides, \\V[40] once saved my life...
 
+So how can I not put it on the line to save his
+here?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,16 +48,21 @@
 
 \\C[2]私の創ったこの空間が、不完全な混沌世界だからこそ
 \\C[10]『アプリコマンド』\\C[2]で改変が出来る\\C[0]なんて、盲点だったな……
-> CONTEXT: Map523/events/6/pages/0/47/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map523/events/6/pages/0/47/Dialogue/enemy39
+I see. \\C[2]I failed to account for the fact that
+this incomplete World of Chaos would let you use
+\\C[10]application commands \\C[2]to change the
+space I created.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 でも、そんな道理が何度も使えるはずないよね～
 
 百鬼ちゃんの身体、\\C[10]存在自体が消えかかってるじゃん。
-> CONTEXT: Map523/events/6/pages/0/69/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map523/events/6/pages/0/69/Dialogue/enemy39
+But you can only do that so many times.
 
+Look, your body itself \\C[10]has started to disappear\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -55,16 +70,21 @@
 
 大人しく、混沌に呑まれてしまえ
 お前たちも、この世界の一部になるんだ。
-> CONTEXT: Map523/events/6/pages/0/74/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map523/events/6/pages/0/74/Dialogue/enemy39
+Your vain struggle ends here.
 
+Be good and let yourself be swallowed up by the
+chaos, become part of this world.#Ron
 > END STRING
 
 > BEGIN STRING
 ……行きな、２人とも。
 
 ここは、私が引き受けるよ。
-> CONTEXT: Map523/events/6/pages/0/86/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Map523/events/6/pages/0/86/Dialogue/hyakki2
+Make a break for it, you two.
 
+I'll take them on here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -72,8 +92,11 @@
 
 \\C[10]チェシャの介入権限を持っているのは君だけなんだ！
 \\C[0]君がやられちゃってどうするんだよ！！
-> CONTEXT: Map523/events/6/pages/0/91/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map523/events/6/pages/0/91/Dialogue/sirousagi_fc1
+Hold on, have you forgotten about your own plan?
+\\C[10]You're the only one with Cheshire's Intervention
+authority\\C[0]. What're we supposed to do if you
+go down?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +104,10 @@
 お前の能力でも十分なはずだ！白兎！
 
 \\C[0]なんのためにアンタをここまで連れてきたと思ってるんだい！
-> CONTEXT: Map523/events/6/pages/0/96/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Map523/events/6/pages/0/96/Dialogue/hyakki2
+Your power should be enough to wake up
+\\V[40]! Why else do you think I wanted you
+to come with us?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,8 +115,11 @@
 あとは、今まで\\C[10]介入\\C[0]してきたコイツに賭けるしかない…！
 
 道案内、しっかり頼んだよ…！！！
-> CONTEXT: Map523/events/6/pages/0/101/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Map523/events/6/pages/0/101/Dialogue/hyakki2
+Once you've got him awake, we've got no choice
+but to pin our hopes on the one who's been in
+charge of the Interventions all this time!
+I'm relying on you to guide them to \\V[40]!!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -99,8 +127,11 @@
 
 アハハッ、バレちゃしょうがないか
 アタシはアンタの『覚悟』に応えただけだよ
-> CONTEXT: Map523/events/6/pages/0/112/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map523/events/6/pages/0/112/Dialogue/hyakki
+You wanna know if I planned this from the start?
 
+Ahaha, guess I'm busted. I've just been responding
+to the "determination" I could feel from ya.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -108,8 +139,11 @@
 
 \\C[2]アタシらの中じゃ\\V[40]との付き合いは
 アンタが一番長いはずだ。
-> CONTEXT: Map523/events/6/pages/0/117/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map523/events/6/pages/0/117/Dialogue/hyakki
+I'm sure your voice will reach him...
 
+\\C[2]Out of all of us, you've spent the most time with
+\\V[40].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -117,29 +151,38 @@
 
 \\C[2]アンタがここまでやって来て得たものは
 なにもマイルームで表されるものだけが全てじゃない
-> CONTEXT: Map523/events/6/pages/0/122/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map523/events/6/pages/0/122/Dialogue/hyakki
+Believe in the \\C[4]bond \\C[0]you've built up with him...
 
+\\C[2]What you've built with him on the way to get
+here is more than what's shown to you in My Room.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]『どんな状況になっても、諦めない』\\C[0]
 
 それがアンタのモットーじゃなかったのかい？
-> CONTEXT: Map523/events/6/pages/0/127/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map523/events/6/pages/0/127/Dialogue/hyakki
+\\C[10]Don't give up no matter what happens\\C[0].
 
+Wasn't that your motto?#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ、行きな……
 
 きっと\\V[40]も、アンタが来るのを待ってる。
-> CONTEXT: Map523/events/6/pages/0/131/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map523/events/6/pages/0/131/Dialogue/hyakki
+Now go...
 
+I'm sure even \\V[40]'s up there waiting for
+you.#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{いけえっ！！！！
 \\}\\}\\V[40]を、救えええっ！！！！
-> CONTEXT: Map523/events/6/pages/0/166/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Map523/events/6/pages/0/166/Dialogue/hyakki2
+\\{\\{Now goooo!!!
+\\}\\}Save \\V[40]!!!!#Ron
 > END STRING

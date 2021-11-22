@@ -10859,77 +10859,81 @@ Nova Slash#Ron
 > BEGIN STRING
 ソテイラ・ヘカトスのサポートスキル
 相手に火炎の超特大ダメージを与える
-> CONTEXT: Skills/926/description < UNTRANSLATED
-
+> CONTEXT: Skills/926/description
+One of Hecatos Soteira's support skills.
+Inflicts incredibly high fire damage.#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、ヘカトスはサイガ・アグニを放った！
-> CONTEXT: Skills/926/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/926/message1
+ hears Psiga Agony being unleashed from behind!#Ron
 > END STRING
 
 > BEGIN STRING
 彼女を中心に、時空そのものが歪んでいく…！！
-> CONTEXT: Skills/927/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/927/message2
+Space and time are warping around her!!#Ron
 > END STRING
 
 > BEGIN STRING
 ソテイラ・ヘカトスのサポートスキル
 相手に万能の大ダメージを与え、全能力を下げる。
-> CONTEXT: Skills/927/description < UNTRANSLATED
-
+> CONTEXT: Skills/927/description
+One of Hecatos Soteira's support skills.
+Hits an enemy with huge Almighty damage and debuffs them.#Ron
 > END STRING
 
 > BEGIN STRING
 満月の女王
-> CONTEXT: Skills/927/name < UNTRANSLATED
-
+> CONTEXT: Skills/927/name
+Full Moon Queen#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 の傍らで、ヘカトスはその大きな鎌を回転させた！
-> CONTEXT: Skills/927/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/927/message1
+ sees Hecatos start spinning her huge scythes!#Ron
 > END STRING
 
 > BEGIN STRING
 ソテイラ・ヘカトスのサポートスキル
 味方全員の能力を大幅に強化する。
-> CONTEXT: Skills/928/description < UNTRANSLATED
-
+> CONTEXT: Skills/928/description
+One of Hecatos Soteira's support skills.
+Significantly buffs all of the party's abilities.#Ron
 > END STRING
 
 > BEGIN STRING
 魔女帝の号令
-> CONTEXT: Skills/928/name < UNTRANSLATED
-
+> CONTEXT: Skills/928/name
+Witch Empress' Order#RonIffy
 > END STRING
 
 > BEGIN STRING
 達に向けて、ヘカトスは号令を放った！
-> CONTEXT: Skills/928/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/928/message1
+'s party receives buffs from Hecatos!#Ron
 > END STRING
 
 > BEGIN STRING
 ソテイラ・ヘカトスのサポートスキル
 味方全員を全回復する。性欲も0にする。
-> CONTEXT: Skills/929/description < UNTRANSLATED
-
+> CONTEXT: Skills/929/description
+One of Hecatos Soteira's support skills.
+Heals the entire party and removes all lust.#Ron
 > END STRING
 
 > BEGIN STRING
 魔女帝の祝福
-> CONTEXT: Skills/929/name < UNTRANSLATED
-
+> CONTEXT: Skills/929/name
+Witch Empress' Blessing#Ron
 > END STRING
 
 > BEGIN STRING
 達に向けて、ヘカトスは祝福の呪文を放った！
-> CONTEXT: Skills/929/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/929/message1
+'s party receives a blessing from Hecatos!#Ron
 > END STRING
 
 > BEGIN STRING
