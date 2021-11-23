@@ -1,6 +1,6 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 海上ステーション
-> CONTEXT: Map495/display_name < UNTRANSLATED
-
+> CONTEXT: Map495/display_name
+Sea Station#Ron
 > END STRING

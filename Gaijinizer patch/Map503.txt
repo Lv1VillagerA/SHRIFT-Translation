@@ -1,24 +1,29 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 女「………あのぬいぐるみは何」
-> CONTEXT: Map503/events/4/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/12/Dialogue
+Woman 「What's that stuffed animal?」#Ron
 > END STRING
 
 > BEGIN STRING
 男「前から欲しがってただろ……あの子……
 
 　それに、今年はほら……『儀式』がある…」
-> CONTEXT: Map503/events/4/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/15/Dialogue
+Man 「The child... he looked like he's been wanting one
+      for a while now. And the ceremony's this year, as
+      well...」#Ron
 > END STRING
 
 > BEGIN STRING
 男「少しぐらい、最期に望みを叶えてあげてもいいだろ……
 
 　　どうせ、身も心も、邪神様に捧げてしまうんだから……」
-> CONTEXT: Map503/events/4/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/19/Dialogue
+Man 「So I thought there wouldn't be any harm in giving
+      him something he wanted before the end. He's going
+      to end up giving both his body and mind over to our
+      Lord anyway...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -26,14 +31,17 @@
 
 　　あの子が『生』に未練を残したら、儀式に支障をきたすわ。
 　　あまり余計なことをしないでちょうだい」
-> CONTEXT: Map503/events/4/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/24/Dialogue
+Woman 「That's all the more reason not to. If that child
+        has any lingering attachments, it may interfere
+        with the ceremony. Please don't do anything
+        you don't need to.」#Ron
 > END STRING
 
 > BEGIN STRING
 男「だ、だが………」
-> CONTEXT: Map503/events/4/pages/0/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/29/Dialogue
+Man 「B.But...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -41,8 +49,10 @@
 
 　　初めから、儀式の『器』として育てるために
 　　５年間もあの子の母親を演じてきた…！」
-> CONTEXT: Map503/events/4/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/34/Dialogue
+Woman 「It's been five years!! Five years of playing at
+        being that child's mother, raising him from the
+        start to be a vessel for this ceremony!」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -50,8 +60,11 @@
 
 　　名前も付けずに、あの子が笑いかけても
 　　情が移らないように、必死に無表情を貫き通した…！」
-> CONTEXT: Map503/events/4/pages/0/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/39/Dialogue
+Woman 「I carried him inside me! Experienced the pain
+        of giving birth to him! I didn't give him a name,
+        I couldn't show any emotion even when he laughed
+        or cried!」#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -59,8 +72,11 @@
 
 　　契約の印であるこの銀髪も……
 　　全身に刻まれた呪印も、全て邪神様のため！」
-> CONTEXT: Map503/events/4/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/44/Dialogue
+Woman 「I've given everything to our Lord! This silver
+        hair as proof of my pledge, the magic
+        inscriptions carved into my whole body... I did
+        it all for our Lord!」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -68,16 +84,20 @@
 
 　　あの子がもし、邪神様に選ばれなかったら……
 　　私は……どうすればいいの………」
-> CONTEXT: Map503/events/4/pages/0/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/49/Dialogue
+Woman 「This ceremony must absolutely not fail! What am I
+        supposed to do if that child isn't chosen by our
+        Lord?」#Ron
 > END STRING
 
 > BEGIN STRING
 男「すまない……
 
 　　君も……辛かったんだな……」
-> CONTEXT: Map503/events/4/pages/0/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map503/events/4/pages/0/56/Dialogue
+Man 「I'm sorry...
 
+      You're hurting too...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -85,8 +105,11 @@
 　　儀式当日は、どこか静かなところで二人っきりでいよう
 
 　　神官様にも私から頼んでみるよ。」
-> CONTEXT: Map503/events/4/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/60/Dialogue
+Man 「If it's okay with you, why don't we both go
+      somewhere quiet on the day of the ceremony, just
+      the two of us? I'll go ask the priest for
+      permission.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -94,18 +117,19 @@
 　　失われる瞬間を見るのは辛いだろう
 
 　　たとえそれが、邪神様のためであっても……」
-> CONTEXT: Map503/events/4/pages/0/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/65/Dialogue
+Man 「Even if it's for the sake of our Lord, losing a
+      child must be incredibly hard on even you.」#Ron
 > END STRING
 
 > BEGIN STRING
 女「あなた……」
-> CONTEXT: Map503/events/4/pages/0/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map503/events/4/pages/0/70/Dialogue
+Woman 「Honey...」#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？？＝民家＝
-> CONTEXT: Map503/display_name < UNTRANSLATED
-
+> CONTEXT: Map503/display_name
+???? = Private House =#Ron
 > END STRING

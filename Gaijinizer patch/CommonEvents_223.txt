@@ -91,10 +91,10 @@ so stay cool and move quickly!#Ron
 本番でもないのに、エボニーちゃんの準備運動のダンスで
 こんなにアッサリ出しちゃうなんて……
 > CONTEXT: CommonEvents_223/194/Dialogue/enemy6
-Ah, ah, I'm sorry...Even though it's not a
-production, in the dance of the preparatory
-movement of Ebony -chan. I'm going to come out
-with such ass ......#MTLed
+Ah-ah, how pathetic...
+Even though we weren't even doing a real
+performance, you came so easily to Ebony-chan's
+warm-up dance......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -102,15 +102,16 @@ with such ass ......#MTLed
 
 ヘカーテから逃げ切ったっていうから、期待してたんだけど…
 > CONTEXT: CommonEvents_223/199/Dialogue/enemy6
-I bought too much about \\N[1]-kun ...
-I was hoping to get out of Hecate, so I expected
-it ...#MTLed
+I think I overestimated you, \\N[1]-kun~...
+
+I heard you had escaped Hecate, so I had high
+expectations, but...#Strate
 > END STRING
 
 > BEGIN STRING
 うっ……っ…！！
 > CONTEXT: CommonEvents_223/203/Dialogue/kazuya-0
-ugh............! !#MTLed
+Uu... gh...!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -118,8 +119,8 @@ ugh............! !#MTLed
 
 こんな無様な姿を見せてしまっている状況……
 > CONTEXT: CommonEvents_223/205/Dialogue
-Betrayed while being disappointed by such a small child,
-The situation which has shown such a strange figure ...#MTLed
+I'm showing such an unsightly appearance as this little
+kid berates me with eyes full of disappointment...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -127,9 +128,9 @@ The situation which has shown such a strange figure ...#MTLed
 
 そんな無力な自分に、自然と涙があふれ出てくる……
 > CONTEXT: CommonEvents_223/209/Dialogue
-But I lost to the kind pleasures of Ebony and I can't
-struggle anymore. Such helplessness, nature and tears are
-overflowing ...#MTLed
+But I lost to Ebony's gentle pleasure and can no longer
+resist. I naturally burst into tears at this utter
+helplessness......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -137,9 +138,10 @@ overflowing ...#MTLed
 
 カメラ回ってないから、つい本音が出ちゃって……。
 > CONTEXT: CommonEvents_223/213/Dialogue/enemy6
-Oh my bad, my bad!!I was not going to make you
-cry. I didn't turn the camera, so I heard a real
-sound ....#MTLed
+Oh, sorry, sorry!! I didn't mean to make you cry.
+
+Since the camera wasn't rolling, I accidentally
+let my thoughts out...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -148,14 +150,16 @@ sound ....#MTLed
 そんな惨めな\\N[1]くんに、エボニーちゃんがダンスを
 いーーーーっぱい教えてくれるよ♡
 > CONTEXT: CommonEvents_223/217/Dialogue/enemy6
-But at ease♪. Ebony -chan dances to such
-miserable \\N[1]. I will tell you#MTLed
+But don't worry♪
+
+Ebony-chan will teach this miserable \\N[1]-kun
+loooooooots about dancing♡#Strate
 > END STRING
 
 > BEGIN STRING
 文字通り……死ぬまでね…♡
 > CONTEXT: CommonEvents_223/228/Dialogue/enemy6
-Literally...until you die...♡#MTLed
+Literally... until you die... ♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -164,9 +168,10 @@ Literally...until you die...♡#MTLed
 
 僕へのエボニーによるダンスレッスンは続く………
 > CONTEXT: CommonEvents_223/328/Dialogue
-The spotlight goes off one by one...Even if Nina's figure
-has disappeared...The dance lessons by me to me continue
-.....#MTLed
+The spotlights turn off one by one...
+Even Nina's figure disappears into the darkness...
+
+My dance lesson with Ebony continues......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -174,6 +179,6 @@ has disappeared...The dance lessons by me to me continue
 
 僕の意識は暗闇へと溶けていくのだった……
 > CONTEXT: CommonEvents_223/333/Dialogue
-While feeling her skin soft and comfortable
-My consciousness was melting into the dark ...#MTLed
+As I felt her soft and comfortable skin, my consciousness
+faded into the darkness......#Strate
 > END STRING

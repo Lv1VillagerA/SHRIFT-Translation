@@ -4,62 +4,75 @@
 
 とうとう観念してくれたのね、\\N[1]ちゃん♡
 ママ、とっても嬉しいわ♡
-> CONTEXT: CommonEvents_800/3/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/3/Dialogue/enemy39
+Ufufu... ♡
 
+So you've finally given up, \\N[1]-chan. ♡
+That makes mommy very happy. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 この場所は危ないから、別の場所に行きましょう♡
 
 誰にも邪魔されない、二人っきりの空間に…♡
-> CONTEXT: CommonEvents_800/8/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/8/Dialogue/enemy39
+It's dangerous here, so let's go somewhere else. ♡
 
+A place where it'll be just the two of us, with
+no one around to interfere... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、みるみるうちに
 
 ハイラミアの蛇体でぐるぐる巻きにされていく……
-> CONTEXT: CommonEvents_800/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/18/Dialogue
+\\N[1] is wrapped up in High Lamia's snake body in
+the blink of an eye...#Ron
 > END STRING
 
 > BEGIN STRING
 そして……
-> CONTEXT: CommonEvents_800/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/22/Dialogue
+And then...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ハイラミアと共に
 
 暗闇の中へと消えていった……
-> CONTEXT: CommonEvents_800/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/28/Dialogue
+Both he and High Lamia disappeared into the darkness...#Ron
 > END STRING
 
 > BEGIN STRING
 それ以降、
 
 この二人の行方は、誰にも分からない……
-> CONTEXT: CommonEvents_800/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/32/Dialogue
+And ever since, neither of them were seen ever
+again...#RonLocalization
 > END STRING
 
 > BEGIN STRING
 んっ……♡
 
 んんっ……♡
-> CONTEXT: CommonEvents_800/71/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/71/Dialogue/kazuya-10
+Mmph... ♡
 
+Mmmmph... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 やっと大人しくなってくれたわね…♡
 
 私の締めつけ、とっても気持ち良いでしょう…？
-> CONTEXT: CommonEvents_800/75/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/75/Dialogue/enemy39
+You've gotten so obedient now... ♡
 
+Doesn't it feel amazing when I constrict around
+you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -67,8 +80,11 @@
 
 貴方みたいな、大きなボウヤでも
 余裕で包み込めちゃうのよ……♡
-> CONTEXT: CommonEvents_800/79/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/79/Dialogue/enemy39
+I can use the \\C[10]World Fusion \\C[0]power to change the
+length of my snake body at will, which means I'm
+more than able to wrap up even a big boy like
+you... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -76,8 +92,10 @@
 
 どうやら\\N[1]ちゃん、そのままの姿でも
 甘え癖があるみたいね…♡
-> CONTEXT: CommonEvents_800/84/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/84/Dialogue/enemy39
+To be honest, I would've liked to change you into
+your child form... but it seems that even at your
+current size I can't help but dote on you... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -85,22 +103,28 @@
 大人にだって、甘えたいときはあるものね……
 
 ママにだったら、存分に甘えていいのよ…♡
-> CONTEXT: CommonEvents_800/93/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/93/Dialogue/enemy39
+Even adults have times when they want someone to
+spoil them, huh... 
 
+You can be my spoiled little boy all you want. ♡#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ここにはもう、私たち以外誰もいない……♡
 
 心ゆくまで愉しみましょうね、\\N[1]ちゃん…♡
-> CONTEXT: CommonEvents_800/98/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/98/Dialogue/enemy39
+There's no one here but us... ♡
 
+So let's enjoy ourselves to the fullest,
+\\N[1]-chan... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 んんんんんっ……！♡
-> CONTEXT: CommonEvents_800/103/Dialogue/kazuya-10 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/103/Dialogue/kazuya-10
+Mmmmmmph...! ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -108,8 +132,10 @@
 
 緩い締め付けで出しちゃうなんて、いけないボウヤね…♡
 そんなに気持ちよかったのかしら？
-> CONTEXT: CommonEvents_800/139/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/139/Dialogue/enemy39
+Oh my, leaking out already? What a naughty boy
+you are letting it out when you're being squeezed
+so gently. Did it really feel that good? ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -117,44 +143,56 @@
 この空間には、私とボウヤ以外、誰もいない……
 
 なにも気にせず、思いっきりママの中に出していいの♡
-> CONTEXT: CommonEvents_800/144/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/144/Dialogue/enemy39
+But that's okay, it's just us in here... ♡
 
+Don't worry about a thing, focus on letting it
+all out inside mommy. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 その全身に、私の愛を感じて…♡
 
 いっぱい愛を確かめ合いましょう、\\N[1]ちゃん…♡
-> CONTEXT: CommonEvents_800/149/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/149/Dialogue/enemy39
+Feel my love with your whole body. ♡
 
+Let's reaffirm our love for one another,
+\\N[1]-chan... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 んっ♡んんんっ……♡
-> CONTEXT: CommonEvents_800/160/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/160/Dialogue/kazuya-10
+Mmph... ♡
 
+Mmmmmph... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 一ヶ月後………
-> CONTEXT: CommonEvents_800/206/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/206/Dialogue
+One month later...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、蕩けた表情で
 
 無心にハイラミアのおっぱいを吸っている……
-> CONTEXT: CommonEvents_800/227/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/227/Dialogue
+\\N[1] is innocently suckling on High Lamia's breasts
+with a bewitched look in his eyes...#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ……\\N[1]ちゃん……♡
 
 今日も沢山おっぱいを飲んで、元気に過ごしましょうね♡
-> CONTEXT: CommonEvents_800/270/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/270/Dialogue/enemy39
+Now then \\N[1]-chan... ♡
 
+Be sure to drink plenty from my breasts, and let's
+spend another energetic day together. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -162,16 +200,21 @@
 人間の老化も、ほとんど影響が出ないようにできる……
 
 貴方はなにも気にせず、ずっとママに甘えてていいのよ…♡
-> CONTEXT: CommonEvents_800/274/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/274/Dialogue/enemy39
+With my magic, I can make it so you'll never get
+sick or feel the effects of old age. So don't
+worry about a thing, you just let mommy spoil
+you. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 んっ……
 
 んっ……
-> CONTEXT: CommonEvents_800/279/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/279/Dialogue/kazuya-10
+Mmph...
 
+Mmph...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -179,8 +222,11 @@
 
 あなたは多分、小さいときに何かの理由で
 思う存分、お母さんに甘えられなかったんじゃないかって…
-> CONTEXT: CommonEvents_800/284/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_800/284/Dialogue/enemy39
+I felt it when we first met. I could sense that
+for some reason, you probably never had love and
+affection from your mother when you were a
+child...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -188,14 +234,19 @@
 
 ボウヤはいつだって、ママに甘えたいときに甘えればいいの…
 私が永遠に、あなたを受け止めていてあげる……
-> CONTEXT: CommonEvents_800/289/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/289/Dialogue/enemy39
+It doesn't matter what age they are, boys should
+be coddled when they want to be coddled...
 
+I'll accept you here for all eternity.#Ron
 > END STRING
 
 > BEGIN STRING
 お互いに、ずっと幸せでいましょうね…♡
 
 \\N[1]ちゃん…♡♡
-> CONTEXT: CommonEvents_800/295/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_800/295/Dialogue/enemy39
+Let's both be happy together, forever... ♡
 
+\\N[1]-chan... ♡♡#Ron
 > END STRING

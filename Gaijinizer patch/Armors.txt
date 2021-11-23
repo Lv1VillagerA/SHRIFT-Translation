@@ -1034,13 +1034,14 @@ Green Apple#Triketos
 \\C[11][マリオン専用]\\C[0]先代の愛用していた全身を覆う金の鎧。
 抵：＋１５０％　必殺技に必要な武器切り替えが２回になる。
 > CONTEXT: Armors/103/description < UNTRANSLATED
-
+\\C[11][Marion Only] \\C[0]Gold armor cherished by Marion's forefathers.
+Will: +150%, can use ultimate technique after swapping only twice.#Ron
 > END STRING
 
 > BEGIN STRING
 聖騎士の金胸甲
-> CONTEXT: Armors/103/name < UNTRANSLATED
-
+> CONTEXT: Armors/103/name
+Gold Knightly Breastplate#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1104,14 +1105,15 @@ Grand Mail#Ron
 > BEGIN STRING
 \\C[2]【共闘者用】\\C[0]グランドメイルの最高級品。
 抵：＋８０％
-> CONTEXT: Armors/108/description < UNTRANSLATED
-
+> CONTEXT: Armors/108/description
+A superior version of the Grand Mail.
+Will: +80%#Ron
 > END STRING
 
 > BEGIN STRING
 ワイズマン
-> CONTEXT: Armors/108/name < UNTRANSLATED
-
+> CONTEXT: Armors/108/name
+Wise Man#Ron
 > END STRING
 
 > BEGIN STRING

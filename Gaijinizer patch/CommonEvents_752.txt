@@ -13,6 +13,6 @@ Marion has fallen to his knees!#Ron
 
 > BEGIN STRING
 だが、マリオンはすぐさま体勢を立て直した！
-> CONTEXT: CommonEvents_752/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_752/67/Dialogue
+But he got straight back on his feet!#Ron
 > END STRING

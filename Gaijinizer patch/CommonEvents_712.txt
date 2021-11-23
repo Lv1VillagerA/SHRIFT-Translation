@@ -1,14 +1,14 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 ルカはダウンしている……
-> CONTEXT: CommonEvents_712/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/10/Dialogue
+Luka is down...#Ron
 > END STRING
 
 > BEGIN STRING
 ルカは体勢を立て直した！
-> CONTEXT: CommonEvents_712/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/24/Dialogue
+Luka is back on his feet!#Ron
 > END STRING
 
 > BEGIN STRING

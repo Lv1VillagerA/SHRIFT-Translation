@@ -1,67 +1,77 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 ただいまー………
-> CONTEXT: Map517/events/6/pages/0/6/Dialogue/kazuya < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/6/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/0/6/Dialogue/kazuya
+> CONTEXT: Map540/events/6/pages/0/6/Dialogue/kazuya
+I'm home......#Ron
 > END STRING
 
 > BEGIN STRING
 ふふ、おかえり！\\V[40]にぃ！
-> CONTEXT: Map517/events/6/pages/0/11/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/11/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/0/11/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/11/Dialogue/enemy39
+Fufu, welcome home, \\V[40]-nii!#Ron
 > END STRING
 
 > BEGIN STRING
 み、翠！
 
 また僕の部屋に勝手に入って…！
-> CONTEXT: Map517/events/6/pages/0/13/Dialogue/kazuya < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/13/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/13/Dialogue/kazuya
+> CONTEXT: Map540/events/6/pages/0/13/Dialogue/kazuya
+M-Midori?!
 
+Why're you in my room again?!#Ron
 > END STRING
 
 > BEGIN STRING
 お兄ちゃんの部屋には、ちゃんと鍵があるじゃん。
 
 入って欲しくなかったら、こうやってかければいいのに…
-> CONTEXT: Map517/events/6/pages/0/19/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/19/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/19/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/19/Dialogue/enemy39
+It's not like you don't have a lock on your door.
 
+You could just use it if you really didn't want
+us coming in...#Ron
 > END STRING
 
 > BEGIN STRING
 かけないって事は、入っていいって事だよね？
 
 私たちと一緒に遊びたいって事だもんね？
-> CONTEXT: Map517/events/6/pages/0/23/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/23/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/0/23/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/23/Dialogue/enemy39
+Not locking it is basically the same as inviting
+us to come in, right? Like you're saying you want
+to play together, right?#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]にぃ！一緒にゲームやろ！
 
 こないだ発売されたヤツ、協力プレイできるんだよね？
-> CONTEXT: Map517/events/6/pages/0/27/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/27/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/27/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/27/Dialogue/enemy39
+Let's play a game together!
 
+That one that came out the other day has co-op,
+doesn't it?#Ron
 > END STRING
 
 > BEGIN STRING
 きょ……『協力』……？
-> CONTEXT: Map517/events/6/pages/0/31/Dialogue/kazuya < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/31/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/0/31/Dialogue/kazuya
+> CONTEXT: Map540/events/6/pages/0/31/Dialogue/kazuya
+C-Co-op?#Ron
 > END STRING
 
 > BEGIN STRING
 うっ……！！？
-> CONTEXT: Map517/events/6/pages/0/35/Dialogue/kazuya-b < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/35/Dialogue/kazuya-b < UNTRANSLATED
-> CONTEXT: Troops/241/pages/2/52/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/0/35/Dialogue/kazuya-b
+> CONTEXT: Map540/events/6/pages/0/35/Dialogue/kazuya-b
+> CONTEXT: Troops/241/pages/2/52/Dialogue/kazuya-0
+Uggh?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -69,36 +79,44 @@
 
 まだ、完全には馴染めてないんだね……
 この世界は、まだ不安定だから……
-> CONTEXT: Map517/events/6/pages/0/38/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/38/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/38/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/38/Dialogue/enemy39
+............
 
+This world's still unstable because he hasn't
+fully warmed up to it yet...#Ron
 > END STRING
 
 > BEGIN STRING
 大丈夫だよ！\\N[1]にぃは疲れてるだけ
 
 お外では色々あったもんね。
-> CONTEXT: Map517/events/6/pages/0/43/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/43/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/0/43/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/43/Dialogue/enemy39
+It's fine! \\N[1]-nii's just tired 'cause
+he went through a lot of stuff outside.#Ron
 > END STRING
 
 > BEGIN STRING
 そうだ！私たちが元気になるおまじないしてあげる！
 
 きっとすぐに外の事なんて忘れちゃうよ！
-> CONTEXT: Map517/events/6/pages/0/47/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/47/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/0/47/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/47/Dialogue/enemy39
+I know, we'll use a special charm to give you lots
+of energy! I'm sure it'll make you forget all
+about everything outside!#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ、早く服を脱いで。
 
 お兄ちゃんが一番喜んでくれること、やってあげる
-> CONTEXT: Map517/events/6/pages/0/51/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/51/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/51/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/51/Dialogue/enemy39
+Alright then, take your clothes off.
 
+We'll do the thing you love the most.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -106,18 +124,24 @@
 
 あ、藍……翠…
 ダメだよ、こんな………
-> CONTEXT: Map517/events/6/pages/0/65/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/65/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/65/Dialogue/kazuya-0
+> CONTEXT: Map540/events/6/pages/0/65/Dialogue/kazuya-0
+A-Aaah...
 
+A-Ai... Midori...
+You shouldn't do this kind of thing...#Ron
 > END STRING
 
 > BEGIN STRING
 なんでぇ？？？いいじゃん♪
 
 兄妹だったら、こんな遊び、当たり前だよ？
-> CONTEXT: Map517/events/6/pages/0/70/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/70/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/70/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/70/Dialogue/enemy39
+Why not?! It's fine. ♪
 
+This kind of play is normal for brothers and
+sisters.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -125,88 +149,112 @@
 
 本当はこうして欲しかったんでしょ？
 ヘンタイお兄ちゃん……
-> CONTEXT: Map517/events/6/pages/0/74/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/74/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/74/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/74/Dialogue/enemy39
+This rigid erection is telling us that you were
+actually hoping this would happen.
 
+Pervert Onii-chan...#Ron
 > END STRING
 
 > BEGIN STRING
 今日も徹底的にイジめてあげるからね……
 
 今日は１０回イかないと、止めてあげないから。
-> CONTEXT: Map517/events/6/pages/0/79/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/79/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/79/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/79/Dialogue/enemy39
+We'll thoroughly toy with you again today...
 
+And we won't stop until we've made you cum ten
+times.#Ron
 > END STRING
 
 > BEGIN STRING
 そ、そんなっ……
 
 ああああっ…♡♡
-> CONTEXT: Map517/events/6/pages/0/83/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/83/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/83/Dialogue/kazuya-0
+> CONTEXT: Map540/events/6/pages/0/83/Dialogue/kazuya-0
+N-No way...
 
+Aaaaaah... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 今日は入念に可愛がってあげるね……♡
 
 さっきみたいに、何かの拍子で思い出さないように……
-> CONTEXT: Map517/events/6/pages/0/87/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/87/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/87/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/87/Dialogue/enemy39
+We'll dote on every little part of you today... ♡
 
+We'll make sure you can't possibly remember
+anything like you did just before...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]にぃは、私たちと一緒に暮らすの。
 
 なーにも考えず、ただただ平和な日々を……
-> CONTEXT: Map517/events/6/pages/0/91/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/91/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/91/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/91/Dialogue/enemy39
+You live with us now, \\N[1]-nii.
 
+Don't think about anything, just enjoy your
+peaceful new life...#Ron
 > END STRING
 
 > BEGIN STRING
 まだ世界は完成していないけど、もうすぐだよ……
 
 もうすぐ、お兄ちゃんの理想の世界ができあがる。
-> CONTEXT: Map517/events/6/pages/0/115/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/115/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/0/115/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/115/Dialogue/enemy39
+The world still isn't finished yet, but it won't
+be long now. We'll soon be able to create your
+ideal world.#Ron
 > END STRING
 
 > BEGIN STRING
 そしたら、こうやって毎日
 
 みんなで愉しい日々を過ごそうね……
-> CONTEXT: Map517/events/6/pages/0/119/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/119/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/0/119/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/119/Dialogue/enemy39
+When that happens, let's spend every day with
+everyone having fun like this...#Ron
 > END STRING
 
 > BEGIN STRING
 えへへ……♡
 
 \\N[1]にぃ、だーいすきっ♡
-> CONTEXT: Map517/events/6/pages/0/143/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map540/events/6/pages/0/143/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/0/143/Dialogue/enemy39
+> CONTEXT: Map540/events/6/pages/0/143/Dialogue/enemy39
+Ehehe... ♡
 
+We love you so much, \\N[1]-nii... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]……お前の覗き癖には呆れちゃうな
 
 『介入者』
-> CONTEXT: Map517/events/6/pages/1/3/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/1/3/Dialogue/enemy39
+\\C[10]Intervener...
 
+We've had enough of your peeping fetish...
 > END STRING
 
 > BEGIN STRING
 \\C[10]私たちと\\V[40]のこと、昨日も見てたでしょ！
 
 えっち！！
-> CONTEXT: Map517/events/6/pages/1/7/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/1/7/Dialogue/enemy39
+\\C[10]You were watching us with \\V[40]
+yesterday too, weren't you?
 
+Perv!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -214,16 +262,21 @@
 
 お前は確かに\\V[40]であり
 お兄ちゃんの分身のようなものでもある……
-> CONTEXT: Map517/events/6/pages/1/12/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/1/12/Dialogue/enemy39
+We'd like to thank you.
 
+You've certainly been like some kind of
+\\V[40] alter ego for Onii-chan.#Ron
 > END STRING
 
 > BEGIN STRING
 でも、私が欲しいのはお兄ちゃんだけ……
 
 \\C[10]お前は要らない
-> CONTEXT: Map517/events/6/pages/1/17/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/1/17/Dialogue/enemy39
+But the one we want is just Onii-chan...
 
+\\C[10]We don't need you\\C[0].
 > END STRING
 
 > BEGIN STRING
@@ -231,8 +284,10 @@
 
 私は、お前の世界も喰いに行くから！
 そう遠くないうちに、また会えるよ！
-> CONTEXT: Map517/events/6/pages/1/22/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/1/22/Dialogue/enemy39
+But won't worry! We'll come to eat your world
+as well! So it won't be long until we can meet
+again!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -240,8 +295,11 @@
 まったく別の生き物になってるけどね
 
 アハハッ♪
-> CONTEXT: Map517/events/6/pages/1/27/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/1/27/Dialogue/enemy39
+Though you'll be a completely different creature
+when that happens.
 
+Ahaha. ♪#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -249,28 +307,34 @@
 それが、お兄ちゃんのためにもなる……
 
 分かるでしょう？
-> CONTEXT: Map517/events/6/pages/1/32/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/1/32/Dialogue/enemy39
+We want you to leave us be. That's for Onii-chan's
+sake as well.
 
+You understand, don't you?#Ron
 > END STRING
 
 > BEGIN STRING
 お前に出来ること……
 
 \\C[10]それは、この画面を閉じて、永遠に起動しないことです。
-> CONTEXT: Map517/events/6/pages/1/37/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/1/37/Dialogue/enemy39
+All you can do now is \\C[10]close the window and never
+start the game up ever again.#Ron
 > END STRING
 
 > BEGIN STRING
 さようなら………
 
 もう2度と会うことはないでしょうね。
-> CONTEXT: Map517/events/6/pages/1/41/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map517/events/6/pages/1/41/Dialogue/enemy39
+Goodbye.
 
+We'll probably never meet again.#Ron
 > END STRING
 
 > BEGIN STRING
 ばいば～い♪
-> CONTEXT: Map517/events/6/pages/1/45/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map517/events/6/pages/1/45/Dialogue/enemy39
+Bye-bye. ♪#Ron
 > END STRING

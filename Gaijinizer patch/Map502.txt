@@ -2,8 +2,8 @@
 > BEGIN STRING
 
 　　　　　　　　教祖への報告書
-> CONTEXT: Map502/events/1/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map502/events/1/pages/0/2/Dialogue
+　　　　　　　　Report to the Founder#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11,8 +11,11 @@
 
 最初は命令に従うまま、互いに嫌々ながらでしたが
 今では互いのことを話す程度に打ち解けているようです。
-> CONTEXT: Map502/events/1/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map502/events/1/pages/0/6/Dialogue
+Those two believers are getting on nicely. At first they
+were simply following orders and were quite reluctant about
+the whole thing... but now it seems they've now gotten quite
+used to one another and have begun opening up.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,8 +23,10 @@
 
 彼らが創るその『器』の出来は、
 おそらく教祖様もご納得いただけるものになると確信しています
-> CONTEXT: Map502/events/1/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map502/events/1/pages/0/12/Dialogue
+Though they're both human with no latent magic of their
+own, I'm confident that even you will be quite satisfied
+with the quality of the "vessel" they'll create.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,8 +34,11 @@
 
 忠誠心も十分で、計画の途中で逃げ出すということは
 万が一にもあり得ないでしょう。
-> CONTEXT: Map502/events/1/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map502/events/1/pages/0/18/Dialogue
+The female in particular has superb potential. She's also
+utterly loyal, and even in the worst case, there's no
+possibility of her trying to escape in the middle of the
+plan.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,12 +46,15 @@
 
 今しばらく、お待ちいただけますよう……
 　　　　　　　　　　　　　　　　　　　　　　　　　ゴルド・F
-> CONTEXT: Map502/events/1/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map502/events/1/pages/0/24/Dialogue
+Please be patient, I'll have good news for you by the
+time I write my next report.
 
+                                Gold F.#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？？＝幹部私室＝
-> CONTEXT: Map502/display_name < UNTRANSLATED
-
+> CONTEXT: Map502/display_name
+???? = Executive's Private Room =#Ron
 > END STRING

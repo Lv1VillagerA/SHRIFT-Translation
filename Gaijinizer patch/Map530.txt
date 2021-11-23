@@ -1,9 +1,9 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 "途中セーブ完了！"
-> CONTEXT: Map530/events/7/pages/0/1/InlineScript/1:12 < UNTRANSLATED
-> CONTEXT: Map535/events/7/pages/0/1/InlineScript/1:12 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/1/InlineScript/1:12
+> CONTEXT: Map535/events/7/pages/0/1/InlineScript/1:12
+"Checkpoint saved!"#Ron
 > END STRING
 
 > BEGIN STRING
