@@ -523,7 +523,7 @@ The power to send you all back to hell...!!!#Ron
 > CONTEXT: Map066/events/16/pages/1/63/Dialogue/kazuya-3
 Now disappear...!!
 
-Get out of my sight... and get out out of this
+Get out of my sight... and get out of this
 world!!#Ron
 > END STRING
 
