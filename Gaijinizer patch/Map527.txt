@@ -3,8 +3,10 @@
 ………いた！！
 
 アバドーンのヤツ、こんな所に隠してたんだ！
-> CONTEXT: Map527/events/7/pages/0/15/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map527/events/7/pages/0/15/Dialogue/sirousagi_fc1
+He's here!!
 
+So this is where that Abaddon was hiding him!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,6 +14,9 @@
 
 そうすれば、\\V[40]くんのチェシャの印を使って
 ボクが\\C[2]ルカくんやマリオンくんを呼べる…！！
-> CONTEXT: Map527/events/7/pages/0/19/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map527/events/7/pages/0/19/Dialogue/sirousagi_fc1
+Let's quickly get him out of this room and bring
+him to his senses! If we can do that, I can use
+the mark Cheshire put on the back of his hand \\C[2]to
+call Luka-kun and Marion-kun\\C[0]!!#Ron
 > END STRING

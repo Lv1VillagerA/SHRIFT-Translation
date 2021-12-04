@@ -69,9 +69,9 @@ Not understand...#afrg
 
 ハヤク　コウビ…シタイ
 > CONTEXT: Map215/events/5/pages/0/202/Dialogue/enemy16
-Is person thing.
+Instead...
 
-Want mate now...#afrg
+Want mate now.#afrg/StrateRevision
 > END STRING
 
 > BEGIN STRING
@@ -118,9 +118,8 @@ Clear corruption (Harpy)if(v[35] \>= 2)#Triketos
 
 って感じの視線が痛い……）
 > CONTEXT: Map215/events/5/pages/0/262/Dialogue/kazuya-a 
-("Wow, this guy has lost again?"
-
-It hurts my eyes at me ...)#GT
+(She's giving me that "Wow, this guy lost again?"
+look... it's kinda hurtful...)#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -129,10 +128,10 @@ It hurts my eyes at me ...)#GT
 
 ワタシ　ヨリ　スキカ！？
 > CONTEXT: Map215/events/5/pages/0/270/Dialogue/enemy16 
-Gaa! ! \\N[1]!
-Anna Kahan Shin Nyatsu Sukika! ?
+Gaah!! \\N[1]!
+You like other girl lower body!?
 
-I Yori Sukika! ?#GT
+You like more than mine!?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -141,10 +140,10 @@ I Yori Sukika! ?#GT
  \\N[1]、チイサイノヨリ
  スイカミタイ　デカイノ　スキカ！？
 > CONTEXT: Map215/events/5/pages/0/275/Dialogue/enemy16 
-Soletomo Oppika! ?
+Or her boobs!?
 
-\\N[1], Chii Sai No Yori
-Watermelon Mitai Decaino Skika! ?#GT
+\\N[1], you like huge watermelon tits more
+than small tits!?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -153,10 +152,10 @@ Watermelon Mitai Decaino Skika! ?#GT
 
 このまま挑んじゃうと、また負けちゃうから…………
 > CONTEXT: Map215/events/5/pages/0/281/Dialogue/kazuya 
-Oh, calm down ... Camzotz ...
-Apart from Beetle Harpy who likes it...
-
-If you try as it is, you will lose again.........#GT
+C-calm down, Camazotz...
+It's not that I like the Harpy Spawn more...
+It's just that if I challenge them like this,
+I'll end up losing again......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -164,9 +163,9 @@ If you try as it is, you will lose again.........#GT
 
 心蝕を消してほしいって頼んでるんだよ……
 > CONTEXT: Map215/events/5/pages/0/286/Dialogue/kazuya 
-Besides, just because I do not want to lose next,
-
-I'm asking you to get rid of my caries ...#GT
+Besides, I'm asking you to erase my corruption
+precisely because I don't want to lose to them
+again......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -174,15 +173,15 @@ I'm asking you to get rid of my caries ...#GT
 
 …………-モット　コッチコイ
 > CONTEXT: Map215/events/5/pages/0/291/Dialogue/enemy16 
-......... Wakatta, Shikatanai.
+... Got it, no choice.
 
-............- Motto Kochkoi#GT
+...... Come closer.#Strate
 > END STRING
 
 > BEGIN STRING
 ………………ツギハ　マケルナヨ
 > CONTEXT: Map215/events/5/pages/0/295/Dialogue/enemy16 
-............ Tsugiha Makernayo#GT
+...... No lose next time.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -191,8 +190,8 @@ I'm asking you to get rid of my caries ...#GT
 ハーピーモドキの心蝕は軽減されたようだ……。
 > CONTEXT: Map215/events/5/pages/0/302/Dialogue 
 By spending some intimate time with her,
-the Beetle Harpy's mind corruption has
-been reduced....#Triketos
+the Harpy Spawn's mind corruption has
+been reduced......#Triketos
 > END STRING
 
 > BEGIN STRING

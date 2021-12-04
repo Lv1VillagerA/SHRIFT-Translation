@@ -42,32 +42,40 @@
 
 > BEGIN STRING
 ぐううっ……！！
-> CONTEXT: Map453/events/2/pages/0/25/Dialogue/kazuya < UNTRANSLATED
-> CONTEXT: Map530/events/7/pages/0/571/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map453/events/2/pages/0/25/Dialogue/kazuya
+> CONTEXT: Map530/events/7/pages/0/571/Dialogue/kazuya
+Guuugh!!#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ……\\|
 
 ゆっくりと意識を集中させて、\\|\\N[1]\\|\\|\\^
-> CONTEXT: Map453/events/2/pages/0/40/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map453/events/2/pages/0/40/Dialogue/other8
+Now...\\|
 
+Slowly focus your mind, \\|\\N[1]\\|\\|\\^#Ron
 > END STRING
 
 > BEGIN STRING
 今のキミなら、その力を制御できるはず\\|
 
 その強い意志で、君の願いを叶えるんだ。\\|\\|\\|\\^
-> CONTEXT: Map453/events/2/pages/0/44/Dialogue/other8 < UNTRANSLATED
-> CONTEXT: Map530/events/7/pages/0/594/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map453/events/2/pages/0/44/Dialogue/other8
+> CONTEXT: Map530/events/7/pages/0/594/Dialogue/enemy29
+You should be able to control that power.\\|
 
+You can use that strong will of yours to make
+your wishes come true.\\|\\|\\|\\^#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]世界を救うために、世界を壊す……\\|\\|
 
 今こそキミ自身が『世界の破壊者』になる時だ…！！！\\|\\|\\|\\|\\^
-> CONTEXT: Map453/events/2/pages/0/55/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map453/events/2/pages/0/55/Dialogue/other8
+\\C[10]Destroy the world to save your own...\\|\\|
 
+Now is the time for you to become the "Destroyer
+of Worlds"!!!\\|\\|\\|\\|\\^#Ron
 > END STRING

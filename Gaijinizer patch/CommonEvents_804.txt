@@ -3,48 +3,61 @@
 \\N[1]は、抱きしめられたまま
 
 ハイラミアの蛇体でぐるぐる巻きにされていく……
-> CONTEXT: CommonEvents_804/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_804/7/Dialogue
+\\N[1] is being held tight in High Lamia's embrace as
+her snake body wraps itself around him.#Ron
 > END STRING
 
 > BEGIN STRING
 安心して、\\N[1]ちゃん…♡
 
 今からとーっても気持ちいいことをしてあげる…♡
-> CONTEXT: CommonEvents_804/12/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_804/12/Dialogue/enemy39
+Don't you worry about a thing,
+\\N[1]-chan... ♡
 
+I'm going to make you feel reeeally good. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 これからのことは、ママに全部任せて……♡
 
 怖いことはしないって、約束してあげる…♡
-> CONTEXT: CommonEvents_804/16/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_804/16/Dialogue/enemy39
+You just leave everything to mama... ♡
 
+I promise I won't do anything scary. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あうぅ……♡
 
 まま……♡まま……♡
-> CONTEXT: CommonEvents_804/54/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_804/54/Dialogue/kazuya-c
+Aaau... ♡
 
+Mama... ♡
+Mama... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ふふふ……なぁに？\\N[1]ちゃん…♡
 
 締め付けがすこし苦しかったかしら？
-> CONTEXT: CommonEvents_804/58/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_804/58/Dialogue/enemy39
+Fufu... what is it, \\N[1]-chan? ♡
 
+Have I wrapped you up a little too tight?#Ron
 > END STRING
 
 > BEGIN STRING
 大丈夫……食べたりしないわ……♡
 
 \\N[1]ちゃんは、私の大事なボウヤなんですもの♡
-> CONTEXT: CommonEvents_804/62/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_804/62/Dialogue/enemy39
+It's okay, mama won't eat you or anything. ♡
 
+You're my special little boy, after all. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -52,16 +65,21 @@
 
 手……やめてぇ……♡
 ぼく………なんだか……へんなきぶん……
-> CONTEXT: CommonEvents_804/73/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_804/73/Dialogue/kazuya-c
+It's not that... mama... ♡
 
+Stop... with your hands... ♡
+They're making me... feel weird...#Ron
 > END STRING
 
 > BEGIN STRING
 でちゃうよぅ……おしっこ……♡
 
 がまんできないぃ……♡♡
-> CONTEXT: CommonEvents_804/78/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_804/78/Dialogue/kazuya-c
+I'm... gonna pee... ♡
 
+I can't hold it in... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -69,40 +87,51 @@
 それはボウヤも、ママも気持ちよくなれるものなの♡
 
 オシッコじゃないわ…♡
-> CONTEXT: CommonEvents_804/82/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_804/82/Dialogue/enemy39
+It's okay, that's not wee. ♡
 
+That's something that comes out when mama and her
+little boy feel good. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ママに身体を預けて、思いっきり出しちゃいなさい…♡
 
 ママがしっかり受け止めてあげる♡
-> CONTEXT: CommonEvents_804/87/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_804/87/Dialogue/enemy39
+Leave your body to mama, and let it all out. ♡
 
+Mama will accept it all. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あああぁぁぁぁぁ……♡♡
 
 だめ……ぼく……げんかいぃ…！♡
-> CONTEXT: CommonEvents_804/96/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_804/96/Dialogue/kazuya-c
+Aaaaaaaah... ♡♡
 
+I can't... I'm... at my limit! ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あぁぁぁ………♡
 
 うあああ…………ぁ………♡
-> CONTEXT: CommonEvents_804/140/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_804/140/Dialogue/kazuya-c
+Aaaah... ♡
 
+Uaaaah... aah... ♡ #Ron
 > END STRING
 
 > BEGIN STRING
 ふふふ……ほぉら、言ったとおりだったでしょう？
 
 気持ちよくて、ママもボウヤも幸せになれる…♡
-> CONTEXT: CommonEvents_804/144/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_804/144/Dialogue/enemy39
+Fufufu... See? Didn't I tell you?
 
+We're both happy feeling so good together. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -110,22 +139,28 @@
 ぜーんぶママに任せてくれていいのよ……♡
 
 いっぱい幸せな気持ちにしてあげるわ……♡
-> CONTEXT: CommonEvents_804/148/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_804/148/Dialogue/enemy39
+You can just leave everything to mama from now
+on. ♡
 
+I'll make you feel super happy and good. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、眠るように気絶してしまった………
-> CONTEXT: CommonEvents_804/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_804/161/Dialogue
+\\N[1] passed out as if falling asleep...#Ron
 > END STRING
 
 > BEGIN STRING
 あら………もう力尽きちゃったのね……
 
 ちょっと急に可愛がり過ぎちゃったかしら……
-> CONTEXT: CommonEvents_804/163/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_804/163/Dialogue/enemy39
+Oh my, are you already spent?
 
+I might have gone a little overboard with my
+affections.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -133,8 +168,11 @@
 
 子供に戻っても、その射精量は同じ……
 そのうえに初体験と同じ快感の衝撃に襲われるんだから……
-> CONTEXT: CommonEvents_804/167/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_804/167/Dialogue/enemy39
+Well, it can't be helped I suppose. The pleasure
+of his first time will have been quite a shock to
+the system, and in this form his semen quantity
+will be that of a child's as well.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -142,14 +180,19 @@
 
 これから、ずーーーーーっとママと一緒に遊びましょうねぇ…
 \\N[1]ちゃん…♡♡
-> CONTEXT: CommonEvents_804/173/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_804/173/Dialogue/enemy39
+He looks so cute when he's sleeping. ♡
 
+From here on, let's play together forever my
+little \\N[1]-chan. ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 あなたはもう、私のカワイイかわいいボウヤ…
 
 絶対に独りになんかさせないわ……
-> CONTEXT: CommonEvents_804/178/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_804/178/Dialogue/enemy39
+You're my cute little boy now.
 
+I'll never let you be alone again.#Ron
 > END STRING

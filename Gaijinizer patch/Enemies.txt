@@ -493,7 +493,7 @@ Chimera Beast#Ron
 > CONTEXT: Enemies/361/name
 > CONTEXT: Enemies/362/name
 > CONTEXT: Enemies/363/name
-Abyss Abaddon#Ron
+Abyssal Abaddon#Ron
 > END STRING
 
 > BEGIN STRING
@@ -533,25 +533,25 @@ Vasilica#Ron
 
 > BEGIN STRING
 ウボ＝サスラ
-> CONTEXT: Enemies/384/name < UNTRANSLATED
-> CONTEXT: Enemies/385/name < UNTRANSLATED
-> CONTEXT: Enemies/397/name < UNTRANSLATED
-
+> CONTEXT: Enemies/384/name
+> CONTEXT: Enemies/385/name
+> CONTEXT: Enemies/397/name
+Ubbo-Sathla#Ron
 > END STRING
 
 > BEGIN STRING
 奈落蟲アバドーン
-> CONTEXT: Enemies/387/name < UNTRANSLATED
-> CONTEXT: Enemies/388/name < UNTRANSLATED
-> CONTEXT: Enemies/389/name < UNTRANSLATED
-> CONTEXT: Enemies/399/name < UNTRANSLATED
-
+> CONTEXT: Enemies/387/name
+> CONTEXT: Enemies/388/name
+> CONTEXT: Enemies/389/name
+> CONTEXT: Enemies/399/name
+Hell Locust Abaddon#Ron
 > END STRING
 
 > BEGIN STRING
 双子になりたかったもの
-> CONTEXT: Enemies/390/name < UNTRANSLATED
-
+> CONTEXT: Enemies/390/name
+The Would-Be Twins#Ron
 > END STRING
 
 > BEGIN STRING

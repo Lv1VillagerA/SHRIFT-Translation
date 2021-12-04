@@ -7663,7 +7663,7 @@ unconsciously let out cries of pain...#Ron
 > CONTEXT: Troops/214/pages/1/48/Dialogue/enemy14
 You've got quite a brave look in your eyes...
 
-Did something happen after we met to instil you
+Did something happen after we met to instill you
 with so much courage?#RonLocalization
 > END STRING
 
@@ -16635,9 +16635,9 @@ recorded. ♪#Ron
 
 それでも、ボクのフェラをやめて欲しいの？
 > CONTEXT: Troops/334/pages/3/97/Dialogue/enemy29
-What do you do?
+What will you do?
 
-Do you still want me to stop sucking your dick?#DL
+Do you still want me to stop sucking your dick?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -17435,70 +17435,72 @@ Would you like to read it again?#Ron
 
 > BEGIN STRING
 キメラビーストが現れた！
-> CONTEXT: Troops/360/pages/1/4/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/361/pages/1/3/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/386/pages/1/6/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/412/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/360/pages/1/4/Dialogue
+> CONTEXT: Troops/361/pages/1/3/Dialogue
+> CONTEXT: Troops/386/pages/1/6/Dialogue
+> CONTEXT: Troops/412/pages/0/10/Dialogue
+Chimera Beast appeared!#Ron
 > END STRING
 
 > BEGIN STRING
 行動……不能……
-> CONTEXT: Troops/360/pages/3/1/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/380/pages/3/2/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/380/pages/4/2/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/381/pages/3/2/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/386/pages/3/1/Dialogue/c_beast_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/360/pages/3/1/Dialogue/c_beast_fc1
+> CONTEXT: Troops/380/pages/3/2/Dialogue/c_beast_fc1
+> CONTEXT: Troops/380/pages/4/2/Dialogue/c_beast_fc1
+> CONTEXT: Troops/381/pages/3/2/Dialogue/c_beast_fc1
+> CONTEXT: Troops/386/pages/3/1/Dialogue/c_beast_fc1
+Movement... disabled...#Ron
 > END STRING
 
 > BEGIN STRING
 キメラビーストは跡形も無く消え去った。
 
 実体が消滅したようだ。
-> CONTEXT: Troops/360/pages/3/32/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/361/pages/3/32/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/380/pages/3/33/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/380/pages/4/33/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/381/pages/3/33/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/386/pages/3/32/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/360/pages/3/32/Dialogue
+> CONTEXT: Troops/361/pages/3/32/Dialogue
+> CONTEXT: Troops/380/pages/3/33/Dialogue
+> CONTEXT: Troops/380/pages/4/33/Dialogue
+> CONTEXT: Troops/381/pages/3/33/Dialogue
+> CONTEXT: Troops/386/pages/3/32/Dialogue
+Chimera Beast disappeared into nothing without a trace.
 
+Her material form appears to have vanished.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]たちは勝利した！
-> CONTEXT: Troops/360/pages/3/38/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/3/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/4/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/5/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/6/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/7/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/8/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/380/pages/3/39/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/380/pages/4/39/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/381/pages/3/39/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/383/pages/3/38/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/3/21/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/4/21/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/5/21/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/6/21/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/7/21/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/384/pages/8/21/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/386/pages/3/38/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/3/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/4/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/5/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/6/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/7/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/8/23/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/389/pages/3/35/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/3/21/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/4/21/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/5/21/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/6/21/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/7/21/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/8/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/360/pages/3/38/Dialogue
+> CONTEXT: Troops/362/pages/3/23/Dialogue
+> CONTEXT: Troops/362/pages/4/23/Dialogue
+> CONTEXT: Troops/362/pages/5/23/Dialogue
+> CONTEXT: Troops/362/pages/6/23/Dialogue
+> CONTEXT: Troops/362/pages/7/23/Dialogue
+> CONTEXT: Troops/362/pages/8/23/Dialogue
+> CONTEXT: Troops/380/pages/3/39/Dialogue
+> CONTEXT: Troops/380/pages/4/39/Dialogue
+> CONTEXT: Troops/381/pages/3/39/Dialogue
+> CONTEXT: Troops/383/pages/3/38/Dialogue
+> CONTEXT: Troops/384/pages/3/21/Dialogue
+> CONTEXT: Troops/384/pages/4/21/Dialogue
+> CONTEXT: Troops/384/pages/5/21/Dialogue
+> CONTEXT: Troops/384/pages/6/21/Dialogue
+> CONTEXT: Troops/384/pages/7/21/Dialogue
+> CONTEXT: Troops/384/pages/8/21/Dialogue
+> CONTEXT: Troops/386/pages/3/38/Dialogue
+> CONTEXT: Troops/387/pages/3/23/Dialogue
+> CONTEXT: Troops/387/pages/4/23/Dialogue
+> CONTEXT: Troops/387/pages/5/23/Dialogue
+> CONTEXT: Troops/387/pages/6/23/Dialogue
+> CONTEXT: Troops/387/pages/7/23/Dialogue
+> CONTEXT: Troops/387/pages/8/23/Dialogue
+> CONTEXT: Troops/389/pages/3/35/Dialogue
+> CONTEXT: Troops/390/pages/3/21/Dialogue
+> CONTEXT: Troops/390/pages/4/21/Dialogue
+> CONTEXT: Troops/390/pages/5/21/Dialogue
+> CONTEXT: Troops/390/pages/6/21/Dialogue
+> CONTEXT: Troops/390/pages/7/21/Dialogue
+> CONTEXT: Troops/390/pages/8/21/Dialogue
+\\N[1]'s party won!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17517,36 +17519,38 @@ Would you like to read it again?#Ron
 状況不利……
 
 撤退……
-> CONTEXT: Troops/362/pages/3/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/4/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/5/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/6/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/7/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/8/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/3/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/4/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/5/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/6/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/7/8/Dialogue/c_beast_fc1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/8/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/3/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/362/pages/4/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/362/pages/5/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/362/pages/6/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/362/pages/7/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/362/pages/8/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/3/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/4/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/5/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/6/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/7/8/Dialogue/c_beast_fc1
+> CONTEXT: Troops/387/pages/8/8/Dialogue/c_beast_fc1
+Situation unfavorable...
 
+Withdrawing...#Ron
 > END STRING
 
 > BEGIN STRING
 キメラビーストたちは散り散りに退いていった……
-> CONTEXT: Troops/362/pages/3/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/4/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/5/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/6/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/7/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/8/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/3/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/4/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/5/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/6/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/7/20/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/8/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/362/pages/3/20/Dialogue
+> CONTEXT: Troops/362/pages/4/20/Dialogue
+> CONTEXT: Troops/362/pages/5/20/Dialogue
+> CONTEXT: Troops/362/pages/6/20/Dialogue
+> CONTEXT: Troops/362/pages/7/20/Dialogue
+> CONTEXT: Troops/362/pages/8/20/Dialogue
+> CONTEXT: Troops/387/pages/3/20/Dialogue
+> CONTEXT: Troops/387/pages/4/20/Dialogue
+> CONTEXT: Troops/387/pages/5/20/Dialogue
+> CONTEXT: Troops/387/pages/6/20/Dialogue
+> CONTEXT: Troops/387/pages/7/20/Dialogue
+> CONTEXT: Troops/387/pages/8/20/Dialogue
+The group of Chimera Beasts scatter and retreat...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17559,53 +17563,64 @@ Would you like to read it again?#Ron
 さぁ……いくわよ…！！
 
 アンタたちに耐えられるかしらね…！？
-> CONTEXT: Troops/364/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/3/4/Dialogue/enemy37
+> CONTEXT: Troops/388/pages/3/4/Dialogue/enemy37
+> CONTEXT: Troops/393/pages/3/4/Dialogue/enemy37
+Alright, here I go!!
 
+Let's see if you can withstand this!!#Ron
 > END STRING
 
 > BEGIN STRING
 ヴァシリカは禍々しい電撃を放ち始めた…… 
 
 \\C[2]とても回避できる雰囲気ではない……
-> CONTEXT: Troops/364/pages/3/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/364/pages/4/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/388/pages/3/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/388/pages/4/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/393/pages/3/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/393/pages/4/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/364/pages/3/8/Dialogue
+> CONTEXT: Troops/364/pages/4/8/Dialogue
+> CONTEXT: Troops/388/pages/3/8/Dialogue
+> CONTEXT: Troops/388/pages/4/8/Dialogue
+> CONTEXT: Troops/393/pages/3/8/Dialogue
+> CONTEXT: Troops/393/pages/4/8/Dialogue
+Vasilica has started emitting ominous-looking
+electricity...
 
+\\C[2]It doesn't look like it can be evaded...#Ron
 > END STRING
 
 > BEGIN STRING
 くっ……！！
 
 いい加減に、倒れなさい…！！！
-> CONTEXT: Troops/364/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/4/4/Dialogue/enemy38
+> CONTEXT: Troops/388/pages/4/4/Dialogue/enemy38
+> CONTEXT: Troops/393/pages/4/4/Dialogue/enemy38
+Kgh!!
 
+Hurry up and go down already!!#Ron
 > END STRING
 
 > BEGIN STRING
 う、嘘……！！
 
 私が負けるはずが……！
-> CONTEXT: Troops/364/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/5/0/Dialogue/enemy38
+> CONTEXT: Troops/388/pages/5/0/Dialogue/enemy38
+> CONTEXT: Troops/393/pages/5/0/Dialogue/enemy38
+I-It can't be...!!
 
+There's no way I could've lost...!#Ron
 > END STRING
 
 > BEGIN STRING
 い、いや……！！
 
 \\C[10]世界融解\\C[0]の力が……消える……！？
-> CONTEXT: Troops/364/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/388/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
-> CONTEXT: Troops/393/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/364/pages/5/4/Dialogue/enemy38
+> CONTEXT: Troops/388/pages/5/4/Dialogue/enemy38
+> CONTEXT: Troops/393/pages/5/4/Dialogue/enemy38
+N-No!!
 
+My \\C[10]World Fusion \\C[0]power... it's disappearing...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17628,16 +17643,18 @@ Would you like to read it again?#Ron
 
 > BEGIN STRING
 アバドン
-> CONTEXT: Troops/370/name < UNTRANSLATED
-
+> CONTEXT: Troops/370/name
+Abaddon#Ron
 > END STRING
 
 > BEGIN STRING
 い、意識が…！！
 
 引っ張られる……！！
-> CONTEXT: Troops/370/pages/1/45/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/1/45/Dialogue/ruka_fc1
+My consciousness!!
 
+It's being pulled in!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17645,8 +17662,11 @@ Would you like to read it again?#Ron
 
 \\C[2]サマエルの『世界を破壊する衝動』を
 キミたちが\\N[1]くんと共有して抑えてるんだ！！
-> CONTEXT: Troops/370/pages/1/49/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/1/49/Dialogue/enemy29
+Endure it, you two!!
 
+\\C[2]You're both holding back Samael's world-destroying
+impulses with \\N[1]-kun!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17654,8 +17674,10 @@ Would you like to read it again?#Ron
 \\N[1]くんは自身のコントロールを失ってしまう！！
 
 本当の意味での\\C[10]全ての破壊者\\C[2]になってしまうんだ！！
-> CONTEXT: Troops/370/pages/1/54/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/1/54/Dialogue/enemy29
+\\C[2]He'll lose control if either of you lose
+consciousness!! That'll turn him into a destroyer
+of \\C[10]literally everything\\C[0]!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17663,36 +17685,42 @@ Would you like to read it again?#Ron
 思った以上に、精神を集中しないとダメだ……
 
 \\C[2]攻撃は、\\N[1]に任せるしかないか……！
-> CONTEXT: Troops/370/pages/1/59/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/1/59/Dialogue/ruka_fc1
+Kgh... focusing my mind is a lot more important
+than I thought I'd be. \\C[2]We'll have to leave all
+the fighting to \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
 なぁにがサマえルだぁぁぁぁぁ
 
 まだぐっでやるう”ううううぅぅぅ
-> CONTEXT: Troops/370/pages/3/5/Dialogue/enemy40 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/5/Dialogue/enemy40
+WHAT ARE YOU, SAMAAAAAAAEL...
 
+I'LL DEVOUR YOOOOOOOOOOOU...#Ron
 > END STRING
 
 > BEGIN STRING
 ごりごりにがみぐだいでえええええ
 
 とりこんでやるう"う"う"う"う"""う"
-> CONTEXT: Troops/370/pages/3/9/Dialogue/enemy40 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/9/Dialogue/enemy40
+I'LL CRUSH YOU IN MY JAAAAWS...
 
+GET IN MY MOUUUU\\X[15]UUUUTH\\X[0]...#Ron
 > END STRING
 
 > BEGIN STRING
 させないっ！！！！！！
-> CONTEXT: Troops/370/pages/3/14/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/3/14/Dialogue/enemy30
+Oh no you don't!!!#Ron
 > END STRING
 
 > BEGIN STRING
 ごああああああああああああああああああああ
-> CONTEXT: Troops/370/pages/3/26/Dialogue/enemy40 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/3/26/Dialogue/enemy40
+GOAAAAAAAAAAAAAAARGH...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17700,57 +17728,73 @@ Would you like to read it again?#Ron
 もう少しでアバドーンの懐に入り込めるよ！！
 
 がんばって！！！！！
-> CONTEXT: Troops/370/pages/3/28/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/28/Dialogue/enemy15
+You're almost there, \\N[1]-kun!!
 
+Keep fighting!! You can do it!!!!#Ron
 > END STRING
 
 > BEGIN STRING
 きっとキミなら、みんなを救える！！
 
 自信を持って！！！がんばって！！！
-> CONTEXT: Troops/370/pages/3/33/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/33/Dialogue/enemy15
+You'll definitely save everyone!!
 
+I believe in you!! Do your best!!#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ………
 
 私もとっておきの攻撃、いくよっ！！！
-> CONTEXT: Troops/370/pages/3/38/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/38/Dialogue/enemy30
+Now then...
 
+Time for me to use my own trump card, here I go!!#Ron
 > END STRING
 
 > BEGIN STRING
 アバドーンは大きく息を吸い込んでいる……
 
 \\C[2]何か仕掛けてくる気だ……！
-> CONTEXT: Troops/370/pages/3/57/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/370/pages/4/10/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/57/Dialogue
+> CONTEXT: Troops/370/pages/4/10/Dialogue
+Abaddon takes a deep breath...
 
+\\C[2]It looks like he's about to do something!#Ron
 > END STRING
 
 > BEGIN STRING
 やれやれ………
 
 また\\C[2]この銃\\C[0]のお世話になる日が来るとはね……
-> CONTEXT: Troops/370/pages/3/65/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/65/Dialogue/enemy38
+Good grief...
 
+I didn't think the day would come again when I'd
+have to rely on \\C[2]this gun\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]『メギドフレイム』\\C[0]………
 
 魔女帝リリスを倒す足がかりとなった武器……
-> CONTEXT: Troops/370/pages/3/69/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/69/Dialogue/enemy37
+\\C[2]Megido Flame\\C[0]...
 
+The weapon you used as a stepping stone to defeat
+the Witch Empress Lilith...#Ron
 > END STRING
 
 > BEGIN STRING
 ミズキ、ソレ使ウト、死ヌホドヨワル
 
 マタ、魔界洛ニオチルカ？
-> CONTEXT: Troops/370/pages/3/73/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/73/Dialogue/enemy37
+YOU USE THAT, YOU GET DEATHLY WEAK...
 
+YOU GONNA FALL INTO DEMON REALM CAPITAL AGAIN?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17758,92 +17802,114 @@ Would you like to read it again?#Ron
 
 その代わり、アンタたちにも全力で働いてもらうから！！
 準備はいい、２人とも！？
-> CONTEXT: Troops/370/pages/3/77/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/77/Dialogue/enemy38
+No way, I'll control it.
 
+But I'll need you two to put your full power into
+this for me!! Are you ready?!#Ron
 > END STRING
 
 > BEGIN STRING
 無論だ。
 
 我らが力、存分に振るえ！ミズキ！！
-> CONTEXT: Troops/370/pages/3/82/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/82/Dialogue/enemy37
+Of course.
 
+Wield our power to the fullest, Mizuki!!#Ron
 > END STRING
 
 > BEGIN STRING
 ヤット、出番！！
 
 アオオオオオオオオンン！！！！！！！！！
-> CONTEXT: Troops/370/pages/3/86/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/86/Dialogue/enemy37
+FINALLY OUR TURN!!
 
+AWOOOOOOOOOOOOOOOOON!!!!#Ron
 > END STRING
 
 > BEGIN STRING
 もらった！！！！！！！！！！
 
 これでも喰らえっ！！！
-> CONTEXT: Troops/370/pages/3/96/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/96/Dialogue/enemy38
+It's ready!!
 
+Eat this!!!!!#Ron
 > END STRING
 
 > BEGIN STRING
 きさまらああああああああああああああ
 
 じゃばをずらばあああああああああああああ
-> CONTEXT: Troops/370/pages/3/111/Dialogue/enemy40 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/111/Dialogue/enemy40
+YOU WOOOOOOOOOOOOORMS...
 
+STAY OUT OF MY WAAAAAAAAAAAAAY...#Ron
 > END STRING
 
 > BEGIN STRING
 我のこの肉体は、飾りではないぞ。
 
 貴様の攻撃を受け止め、反撃することくらいは容易い……
-> CONTEXT: Troops/370/pages/3/123/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/123/Dialogue/enemy35
+My physique isn't just for show...
 
+Taking your attack and striking back will be
+child's play.#Ron
 > END STRING
 
 > BEGIN STRING
 天使長たるこの中村の体技
 
 しかとその身に刻め！！
-> CONTEXT: Troops/370/pages/3/127/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/3/127/Dialogue/enemy35
+I, Chief Angel Nakamura, will thoroughly etch the
+proof of my martial prowess upon your body!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 おお………\\C[2]聖騎士サイトウ…！！
 
 子孫マリオンの意志に呼応し、英霊として現れ出でたか！！
-> CONTEXT: Troops/370/pages/3/146/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/146/Dialogue/enemy35
+Oooh, \\C[2]it's the Holy Knight Saitou!!
 
+Have you appeared as a heroic spirit in response
+to the determination of your descendant, Marion?!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 あああああああああああああああぁぁぁぁぁ！！！
-> CONTEXT: Troops/370/pages/3/156/Dialogue/enemy40 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/3/156/Dialogue/enemy40
+AAAAAAAAAAAAAAAAAaaaah!!!#Ron
 > END STRING
 
 > BEGIN STRING
 ………ッ！！！
-> CONTEXT: Troops/370/pages/3/159/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/370/pages/3/159/Dialogue/ruka_fc1
+...Gh!!!#Ron
 > END STRING
 
 > BEGIN STRING
 させるか！！！！！！！！！
 
 これでも喰らえ！！！
-> CONTEXT: Troops/370/pages/3/164/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/164/Dialogue/alice_fc6
+Not on my watch!!!!
 
+Take this!!#Ron
 > END STRING
 
 > BEGIN STRING
 精霊のみんな、お願いだ……！
 
 僕の代わりに、\\N[1]を……！
-> CONTEXT: Troops/370/pages/3/176/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Troops/370/pages/3/176/Dialogue/ruka_fc1
+Spirits, hear my call!
 
+Give \\N[1] your blessings instead of me!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18622,9 +18688,9 @@ Fusion\\C[0]! Behold!#Ron
 
 > BEGIN STRING
 ヴァシリカは姿勢を元に戻した…
-> CONTEXT: Troops/388/pages/0/33/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/393/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/388/pages/0/33/Dialogue
+> CONTEXT: Troops/393/pages/0/33/Dialogue
+Vasilica has returned to her normal stance...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18635,8 +18701,8 @@ Fusion\\C[0]! Behold!#Ron
 
 > BEGIN STRING
 ウボ＝サスラは消滅した……
-> CONTEXT: Troops/389/pages/3/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/389/pages/3/31/Dialogue
+Ubbo-Sathla was destroyed...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18647,19 +18713,19 @@ Fusion\\C[0]! Behold!#Ron
 
 > BEGIN STRING
 ウボ＝サスラは跡形もなく消えていった……
-> CONTEXT: Troops/390/pages/3/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/4/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/5/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/6/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/7/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/390/pages/8/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/390/pages/3/18/Dialogue
+> CONTEXT: Troops/390/pages/4/18/Dialogue
+> CONTEXT: Troops/390/pages/5/18/Dialogue
+> CONTEXT: Troops/390/pages/6/18/Dialogue
+> CONTEXT: Troops/390/pages/7/18/Dialogue
+> CONTEXT: Troops/390/pages/8/18/Dialogue
+The group of Ubbo-Sathla disappeared without a trace...#Ron
 > END STRING
 
 > BEGIN STRING
 ベルゼバブ（Ｐ付き）
-> CONTEXT: Troops/391/name < UNTRANSLATED
-
+> CONTEXT: Troops/391/name
+Beelzebub (With P)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18667,22 +18733,26 @@ Fusion\\C[0]! Behold!#Ron
 
 強くなったはずの私が……\\N[1]はともかく……
 こんなふざけた人間なんかに……
-> CONTEXT: Troops/391/pages/2/0/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: Troops/391/pages/2/0/Dialogue/beelzebub_fc2
+B-But how... With all this power I should be able
+to deal with \\N[1], let alone a man as silly
+as that...#Ron
 > END STRING
 
 > BEGIN STRING
 ベルゼバブ（Ｐ無）
-> CONTEXT: Troops/392/name < UNTRANSLATED
-
+> CONTEXT: Troops/392/name
+Beelzebub (Without P)#Ron
 > END STRING
 
 > BEGIN STRING
 な、なぜ……私が負けるの…？
 
 \\N[1]………
-> CONTEXT: Troops/392/pages/2/0/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: Troops/392/pages/2/0/Dialogue/beelzebub_fc2
+H-How did I lose...?
 
+\\N[1]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18697,9 +18767,12 @@ Fusion\\C[0]! Behold!#Ron
 アバドーンは禍々しい電撃を放ち始めた…… 
 
 \\C[2]とても回避できる雰囲気ではない……
-> CONTEXT: Troops/395/pages/3/4/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/395/pages/4/4/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/395/pages/3/4/Dialogue
+> CONTEXT: Troops/395/pages/4/4/Dialogue
+Abaddon has started to unleash a sinister electrical
+attack.
 
+\\C[2]It doesn't look like it's avoidable\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18710,16 +18783,18 @@ Fusion\\C[0]! Behold!#Ron
 
 > BEGIN STRING
 ああああああっ……♡♡
-> CONTEXT: Troops/397/pages/0/17/Dialogue/kazuya-c < UNTRANSLATED
-
+> CONTEXT: Troops/397/pages/0/17/Dialogue/kazuya-c
+Aaaaaaah... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 おねえちゃんは、首元に何度もかみついた……
 
 ううん、「吸い付いた」…？
-> CONTEXT: Troops/397/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/397/pages/0/49/Dialogue
+The lady bit down on my neck over and over...
 
+No wait, she sucked on it?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18727,46 +18802,51 @@ Fusion\\C[0]! Behold!#Ron
 
 まるでボクが……おねえちゃんのものだって
 「しるし」を付けているように……
-> CONTEXT: Troops/397/pages/0/54/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/397/pages/0/54/Dialogue
+Over... and over...
 
+Almost like... she was marking me as hers...#Ron
 > END STRING
 
 > BEGIN STRING
 そしてボクは……
 
 おねえちゃんの「しもべ」になった……
-> CONTEXT: Troops/397/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/397/pages/0/62/Dialogue
+And then I became her "servant"...#Ron
 > END STRING
 
 > BEGIN STRING
 おねえちゃんのマントの中で……
 
 とても気持ちよくねむる………
-> CONTEXT: Troops/397/pages/0/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/397/pages/0/176/Dialogue
+It feels so good sleeping inside her cloak...#Ron
 > END STRING
 
 > BEGIN STRING
 ぼくがぎゅっと抱きしめると……
 
 おねえちゃんも、ぎゅってしてくれる……
-> CONTEXT: Troops/397/pages/0/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/397/pages/0/180/Dialogue
+When I squeeze her tight, she holds me tightly to her as
+well.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 大事なことを……忘れてるきがするけど………
 
 ぼくはいま……とってもしあわせ……
-> CONTEXT: Troops/397/pages/0/184/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/397/pages/0/184/Dialogue
+It feels like I'm... forgetting something important...
 
+But... I'm so happy now...#Ron
 > END STRING
 
 > BEGIN STRING
 ……とっても…………しあわせ……
-> CONTEXT: Troops/397/pages/0/188/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/397/pages/0/188/Dialogue
+So very... happy...#Ron
 > END STRING
 
 > BEGIN STRING
