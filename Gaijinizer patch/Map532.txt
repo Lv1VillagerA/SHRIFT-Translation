@@ -3,16 +3,18 @@
 少女「みんなは……？
 
 　　　こわいオバケや、お姉ちゃんたちは……？」
-> CONTEXT: Map532/events/27/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map532/events/27/pages/0/15/Dialogue
+Girl 「Where did the monsters and those ladies go?」#Ron
 > END STRING
 
 > BEGIN STRING
 大丈夫だよ、もう安心だ。
 
 怖いのはオジさんたちがぜーんぶ追い払ったからな？
-> CONTEXT: Map532/events/27/pages/0/19/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map532/events/27/pages/0/19/Dialogue/other8
+It's okay, you're safe now.
 
+Me and this guy drove them all away.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,8 +22,11 @@
 
 どういうわけか、俺らが無事だって確認すると
 みんなどっか行っちまったのさ。
-> CONTEXT: Map532/events/27/pages/0/23/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map532/events/27/pages/0/23/Dialogue/other8
+Those demon girls are safe, too.
 
+They went off somewhere for some reason after
+making sure we were okay.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,8 +34,10 @@
 どういうことだ…？
 
 あそこまできて、全部ただの幻覚、って事はないだろうが…
-> CONTEXT: Map532/events/27/pages/0/32/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map532/events/27/pages/0/32/Dialogue/other8
+Forget the monsters, even those strange holes
+have gone. What happened? Don't tell me all this
+was just one big hallucination...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,8 +45,10 @@
 
 俺らを攻撃すらせず、立ち去っていくとはな……
 戦争中だというのに、おかしな連中だ。
-> CONTEXT: Map532/events/27/pages/0/37/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map532/events/27/pages/0/37/Dialogue/other8
+And those demon bastards... they left without even
+attacking us. What a strange bunch acting like
+that when we're in the middle of a war.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -47,8 +56,10 @@
 争わずに済むなら、それに越したことはないっすよ。
 
 ユウマ隊長も、口癖みたいに言ってるでしょ。
-> CONTEXT: Map532/events/27/pages/0/45/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map532/events/27/pages/0/45/Dialogue/other8
+Hey, don't get your panties in a bunch. It's
+like Captain Yuuma's always saying, them leaving
+without a fight is the best possible outcome.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -56,8 +67,11 @@
 
 もし縁があるようなら、俺もああいう子たちと
 お近づきになりたいもんっすねぇ
-> CONTEXT: Map532/events/27/pages/0/50/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map532/events/27/pages/0/50/Dialogue/other8
+And come on... they were pretty hot.
 
+I wouldn't mind getting cozy with those girls if
+I ever get the chance.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,14 +79,20 @@
 
 ……行くぞ。ここから港までは徒歩だ。
 まだ安心はできんからな。
-> CONTEXT: Map532/events/27/pages/0/55/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map532/events/27/pages/0/55/Dialogue/other8
+Hmph, you've got weird taste.
 
+Come on, we'll head to the harbor on foot.
+We've still got to secure her safety.#Ron
 > END STRING
 
 > BEGIN STRING
 お前は引き続き、そのガキをちゃんと守っていろ。
 
 今度は、悪魔の手を借りんでもいいようにしたいもんだ…
-> CONTEXT: Map532/events/27/pages/0/60/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map532/events/27/pages/0/60/Dialogue/other8
+You keep protecting the kid.
 
+I hope we don't have to rely on demon help
+this time.#Ron
 > END STRING

@@ -7958,7 +7958,7 @@ Mother Snake's Affectionate Play#Ron
 > CONTEXT: Skills/665/message2
 > CONTEXT: Skills/666/message2
 > CONTEXT: Skills/667/message2
-Like his spirit, all \\N[1]'s abilities are sucked away...#afrg
+His abilities are sucked out along with his energy...#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -7966,7 +7966,7 @@ Like his spirit, all \\N[1]'s abilities are sucked away...#afrg
 > CONTEXT: Skills/665/name
 > CONTEXT: Skills/666/name
 > CONTEXT: Skills/667/name
-Virtue: Ayashi Ayaka#MTLed
+Exquisite Skill: Bewitching Spirit#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7974,7 +7974,7 @@ Virtue: Ayashi Ayaka#MTLed
 > CONTEXT: Skills/665/message1
 > CONTEXT: Skills/666/message1
 > CONTEXT: Skills/667/message1
- hugs \\N[1] while patting his head...#afrg - incorrect?
+ is held by Daji as she gently strokes his head...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8718,22 +8718,22 @@ It's over.#Triketos
 
 > BEGIN STRING
 遐ｴ貊
-> CONTEXT: Skills/753/name < UNTRANSLATED
-> CONTEXT: Skills/942/name < UNTRANSLATED
-
+> CONTEXT: Skills/753/name
+> CONTEXT: Skills/942/name
+\\X[50]Destruction#Ron
 > END STRING
 
 > BEGIN STRING
 は、混沌のエネルギーを爆発させた！
-> CONTEXT: Skills/753/message1 < UNTRANSLATED
-> CONTEXT: Skills/942/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/753/message1
+> CONTEXT: Skills/942/message1
+ detonates chaos energy!#Ron
 > END STRING
 
 > BEGIN STRING
 地獄の業火のような炎の渦が、アバドーンに襲いかかる！
-> CONTEXT: Skills/755/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/755/message2
+A vortex of hellfire flies toward Abaddon!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8750,14 +8750,14 @@ Deals high physical damage to an opponent.#Ron
 
 > BEGIN STRING
 鬼炎翔龍
-> CONTEXT: Skills/755/name < UNTRANSLATED
-
+> CONTEXT: Skills/755/name
+Oni's Soaring Dragon Flame#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、夜深は鬼炎翔龍を放った！
-> CONTEXT: Skills/755/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/755/message1
+ watches on as Yami unleashes Oni's Soaring Dragon Flame!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8902,20 +8902,20 @@ Special accident battles can occur against this monster.#Strate
 
 > BEGIN STRING
 神の怒りの炎が、アバドーンの身体を貫く！
-> CONTEXT: Skills/766/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/766/message2
+Godly flames of wrath pierce through Abaddon's body!#Ron
 > END STRING
 
 > BEGIN STRING
 メギドファイア
-> CONTEXT: Skills/766/name < UNTRANSLATED
-
+> CONTEXT: Skills/766/name
+Megido Fire#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、ミズキはメギドフレイムを放った
-> CONTEXT: Skills/766/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/766/message1
+ watches on as Mizuki unleashes Megido Fire!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9152,32 +9152,32 @@ Great physical damage to a single enemy.#MTLed
 
 > BEGIN STRING
 紅蓮の火炎が、アバドーンを包み込む…！！
-> CONTEXT: Skills/788/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/788/message2
+Abaddon is engulfed in crimson flames!!#Ron
 > END STRING
 
 > BEGIN STRING
 ヘルハウンド・グロリア
-> CONTEXT: Skills/788/name < UNTRANSLATED
-
+> CONTEXT: Skills/788/name
+Hellhound's Gloria#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、ミズキはオルトロスの連撃を浴びせた
-> CONTEXT: Skills/788/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/788/message1
+ watches Mizuki rain down repeated attacks with Orthrus!#Ron
 > END STRING
 
 > BEGIN STRING
 氷の塊が、アバドーンを包み込み、粉砕する！
-> CONTEXT: Skills/790/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/790/message2
+A mass of ice wraps around Abaddon and pulverizes him!#Ron
 > END STRING
 
 > BEGIN STRING
 ヘルハウンド・グラシア
-> CONTEXT: Skills/790/name < UNTRANSLATED
-
+> CONTEXT: Skills/790/name
+Hellhound's Glacier#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -9673,7 +9673,7 @@ Giddy pleasure swirls through his whole body!!#Ron
 > BEGIN STRING
 吟味の舌技
 > CONTEXT: Skills/837/name
-Probing Tongue Technique#RonLocalisation
+Probing Tongue Technique#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -9762,8 +9762,8 @@ Demon Queen's Play#Ron
 
 > BEGIN STRING
 その天使の力を纏った槍は、アバドーンを貫く！
-> CONTEXT: Skills/855/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/855/message2
+Filled with boundless angelic power, it pierces Abaddon!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9779,14 +9779,14 @@ Deals heavy fire damage to an enemy.#Ron
 
 > BEGIN STRING
 オタク・キャノン
-> CONTEXT: Skills/855/name < UNTRANSLATED
-
+> CONTEXT: Skills/855/name
+Otaku Cannon#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、聖騎士サイトウは槍を投擲した！！
-> CONTEXT: Skills/855/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/855/message1
+ watches on as the Holy Knight Saitou hurls his spear!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10292,7 +10292,7 @@ Sovereign's Insight#Ron
 > BEGIN STRING
 を守るために、夜深は意識を集中した！
 > CONTEXT: Skills/898/message1
-'s defense in mind, Yami centers herself.#RonLocalisation
+'s defense in mind, Yami centers herself.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -10422,7 +10422,7 @@ Prominence#Ron
 > BEGIN STRING
 の傍らで、アリスはプロミネンスを放った！
 > CONTEXT: Skills/905/message1
- hears Alice cast Prominence!#RonLocalisationIffy
+ hears Alice cast Prominence!#RonLocalizationIffy
 > END STRING
 
 > BEGIN STRING
@@ -10449,7 +10449,7 @@ Ice Age#Ron
 > BEGIN STRING
 の傍らで、アリスはアイスエイジを放った！
 > CONTEXT: Skills/906/message1
- hears Alice cast Ice Age!#RonLocalisationIffy
+ hears Alice cast Ice Age!#RonLocalizationIffy
 > END STRING
 
 > BEGIN STRING
@@ -10475,7 +10475,7 @@ Lightning#Ron
 > BEGIN STRING
 の傍らで、アリスはライトニングを放った！
 > CONTEXT: Skills/907/message1
- hears Alice cast Lightning!#RonLocalisation
+ hears Alice cast Lightning!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -10501,7 +10501,7 @@ Delta Aero#Ron
 > BEGIN STRING
 の傍らで、アリスはデルタエアロを放った！
 > CONTEXT: Skills/908/message1
- hears Alice cast Delta Aero!#RonLocalisationIffy
+ hears Alice cast Delta Aero!#RonLocalizationIffy
 > END STRING
 
 > BEGIN STRING
@@ -11044,87 +11044,92 @@ Technique Conversion#Ron
 
 > BEGIN STRING
 全ての者への鎮魂歌
-> CONTEXT: Skills/936/name < UNTRANSLATED
-
+> CONTEXT: Skills/936/name
+Universal Requiem#Ron
 > END STRING
 
 > BEGIN STRING
 は全ての者への鎮魂歌を放った！
-> CONTEXT: Skills/936/message1 < UNTRANSLATED
-> CONTEXT: Skills/937/message1 < UNTRANSLATED
+> CONTEXT: Skills/936/message1
+ unleashes Universal Requiem!#Ron
+> END STRING
 
+> BEGIN STRING
+は全ての者への鎮魂歌を放った！
+> CONTEXT: Skills/937/message1
+ puts up his shield to defend himself!#Ron
 > END STRING
 
 > BEGIN STRING
 相手の攻撃を防ぐ体勢をとる
-> CONTEXT: Skills/937/description < UNTRANSLATED
-
+> CONTEXT: Skills/937/description
+Braces for an enemy's attack.#Ron
 > END STRING
 
 > BEGIN STRING
 盾
-> CONTEXT: Skills/937/name < UNTRANSLATED
-
+> CONTEXT: Skills/937/name
+Shield#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]の全身に力がみなぎる…！
-> CONTEXT: Skills/938/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/938/message2
+\\N[1]'s whole body fills with power!#Ron
 > END STRING
 
 > BEGIN STRING
 四大精霊の加護
-> CONTEXT: Skills/938/name < UNTRANSLATED
-
+> CONTEXT: Skills/938/name
+Protection of The Four Spirits#Ron
 > END STRING
 
 > BEGIN STRING
 に向かって、ルカは精霊たちを喚びだした！
-> CONTEXT: Skills/938/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/938/message1
+ hears Luka invoke the Spirits!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]の前方に、すさまじい魔力が展開される…！！
-> CONTEXT: Skills/939/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/939/message2
+Tremendous magic envelops the area in front of him!!#Ron
 > END STRING
 
 > BEGIN STRING
 魔王の暴虐
-> CONTEXT: Skills/939/name < UNTRANSLATED
-
+> CONTEXT: Skills/939/name
+Monster Lord's Tyranny#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、アリスは魔王の暴虐を放った！
-> CONTEXT: Skills/939/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/939/message1
+ watches on as Alice unleashes Monster Lord's Tyranny!#Ron
 > END STRING
 
 > BEGIN STRING
 その逞しい巨漢から繰り出される打撃が、アバドーンに襲いかかる！
 > CONTEXT: Skills/940/message2 < UNTRANSLATED
-
+The burly giant lunges at Abaddon with his attack!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 胴回し回転蹴り
-> CONTEXT: Skills/940/name < UNTRANSLATED
-
+> CONTEXT: Skills/940/name
+Full Body Roundhouse#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、中村は胴回し回転蹴りを放った
-> CONTEXT: Skills/940/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/940/message1
+ watches Nakamura perform a full body roundhouse kick!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 \\C[10]僕と君がここまで来られた理由
-> CONTEXT: Skills/941/description < UNTRANSLATED
-
+> CONTEXT: Skills/941/description
+\\C[10]The reason you and I could come this far.#Ron
 > END STRING
 
 > BEGIN STRING

@@ -3,22 +3,28 @@
 うそでしょ……！？\\|
 
 \\C[2]サマエルの力を自分で制御してる…！！？
-> CONTEXT: CommonEvents_737/22/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: CommonEvents_737/22/Dialogue/enemy29
+There's no way!!\\|
 
+\\C[2]He's actually controlling Samael's power himself!#Ron
 > END STRING
 
 > BEGIN STRING
 これが\\C[10]特異点……
 
 『運命を変える力』……！？
-> CONTEXT: CommonEvents_737/26/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: CommonEvents_737/26/Dialogue/enemy29
+This is the \\C[10]Singularity...
 
+The power to change fate!!#Ron
 > END STRING
 
 > BEGIN STRING
 ああああああああああああああああああああああ！！！！
 
 あああああああああ！！！！！！！！！！
-> CONTEXT: CommonEvents_737/82/Dialogue/enemy40 < UNTRANSLATED
+> CONTEXT: CommonEvents_737/82/Dialogue/enemy40
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!!!
 
+AAAAAAAAAAAAAAAAH!!!!!!!!!!#Ron
 > END STRING

@@ -1,22 +1,25 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 \\{\\{\\N[1]くん！！！
-> CONTEXT: CommonEvents_730/75/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_730/75/Dialogue/enemy29
+\\{\\{\\N[1]-kun!!!#Ron
 > END STRING
 
 > BEGIN STRING
 …………………普通の……なら、………かもしれませんが
 
 あいにく、私たちは彼の…………ですから………
-> CONTEXT: CommonEvents_730/82/Dialogue/enemy40 < UNTRANSLATED
+> CONTEXT: CommonEvents_730/82/Dialogue/enemy40
+......... under normal conditions...... could...
 
+Unfortunately, because...... we...... his.....#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]彼が、私たちに示してくれたこと……
 
 私たちは、彼から何を学びましたか……？
-> CONTEXT: CommonEvents_730/87/Dialogue/enemy40 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_730/87/Dialogue/enemy40
+\\C[10]And we've learned a thing or two from all the
+things he's shown us.#RonLocalization
 > END STRING

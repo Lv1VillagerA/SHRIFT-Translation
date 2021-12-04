@@ -8,16 +8,18 @@
 
 > BEGIN STRING
 か、帰ってこれ…た…？
-> CONTEXT: Map530/events/7/pages/0/10/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/10/Dialogue/ruka_fc1
+A-Are we... back?#Ron
 > END STRING
 
 > BEGIN STRING
 一応、アバドーンの外には出たって感じかな……
 
 まだ多元宇宙の空間だけど……
-> CONTEXT: Map530/events/7/pages/0/12/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/12/Dialogue/enemy29
+It feels like we're out of Abaddon now at the
+very least. We're still in the multiverse space,
+though.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -25,8 +27,11 @@
 
 やっぱり五体満足って快適だわー
 三つ編みで動くのはもうコリゴリだよ。
-> CONTEXT: Map530/events/7/pages/0/16/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/16/Dialogue/enemy29
+Aah, but still, I haven't felt this refreshed
+in a long time. It really does feel great to be
+in peak physical form. I was getting sick of
+having to use my braids to move. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -34,16 +39,20 @@
 結局、一緒に連れてこられちゃったわね……
 
 萎えちゃったから帰るわ
-> CONTEXT: Map530/events/7/pages/0/25/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/25/Dialogue/enemy2
+Haah... So you ended up bringing me with you...
 
+I'm bored now, I'm going home.#Ron
 > END STRING
 
 > BEGIN STRING
 アバドーンをぶっ潰すの、後はあんたらに任せるわよ。
 
 今度はしくじらないようにね。
-> CONTEXT: Map530/events/7/pages/0/30/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/30/Dialogue/enemy2
+I'll leave the Abaddon beat-down to you guys.
 
+Try not to mess up this time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -51,32 +60,43 @@
 
 キミは……僕に復讐をするときに
 なぜ\\C[24]あの力\\C[0]で僕を襲わなかったんだ？
-> CONTEXT: Map530/events/7/pages/0/44/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/44/Dialogue/kazuya
+Can I ask you something before you go?
 
+Why didn't you use \\C[24]that power \\C[0]when you were
+trying to get your revenge on me?#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]あんな力があるなら、わざわざオールドワンに加担せずとも
 
 僕を始末することぐらい、簡単だったはずじゃ……
-> CONTEXT: Map530/events/7/pages/0/49/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/49/Dialogue/kazuya
+\\C[2]You wouldn't have had to turn to the Old One for
+help if you'd used it. 
 
+It would have been easy to deal with me.#Ron
 > END STRING
 
 > BEGIN STRING
 はぁ……それ説明しなきゃダメ？
 
 まぁいいわ、ついでだから教えてあげる。
-> CONTEXT: Map530/events/7/pages/0/54/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/54/Dialogue/enemy2
+Haah... Do I really have to explain myself?
 
+Well whatever, I might as well while I'm here.#Ron
 > END STRING
 
 > BEGIN STRING
 あの姿は、\\C[2]以前の私の姿なの。
 
 魔界の情勢や抗争に関わってた、権力を誇示してた頃の姿。
-> CONTEXT: Map530/events/7/pages/0/58/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/58/Dialogue/enemy2
+What you saw back there was my \\C[2]previous form.
 
+It's the one I took to flaunt my power during
+times of strife and discord in the Demon Realm.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -84,8 +104,11 @@
 一つ戦争が勃発すれば、領地の一部も荒れ果てる。
 
 私は、そういうのに嫌気がさしたのよ。
-> CONTEXT: Map530/events/7/pages/0/62/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/62/Dialogue/enemy2
+I was sick of parts of my territory being
+devastated because of wars breaking out over the
+death of a subordinates trying to show off their
+power to one another.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -93,8 +116,11 @@
 
 \\C[2]私にとって\\C[24]あの姿\\C[2]は二度と戻りたくない姿だった。
 人間への復讐で使うなんてもってのほかよ。
-> CONTEXT: Map530/events/7/pages/0/67/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/67/Dialogue/enemy2
+That's why I put everything I had into \\C[24]that form\\C[0].
+\\C[2]I never wanted to change back into it that ever again.
+It'd be absurd to use it just to get revenge on a
+human.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -102,8 +128,11 @@
 
 今思えば、
 アンタは最初から全力で消すべきだったのかもしれないわ。
-> CONTEXT: Map530/events/7/pages/0/72/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/72/Dialogue/enemy2
+Though in hindsight, this was showing off in its
+own way as well. Thinking about it now, maybe
+I should have used my full power from the start
+to destroy *you*.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -111,24 +140,31 @@
 可愛くないでしょ、あんなの。
 
 気に入ってんのよね、この姿。
-> CONTEXT: Map530/events/7/pages/0/80/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/80/Dialogue/enemy2
+Besides, that form isn't nearly as cute.
 
+I like this one much more.#Ron
 > END STRING
 
 > BEGIN STRING
 人間を相手にするなら、この姿で十分……
 
 ガキだから甘い顔するヤツも大勢居るしね…♡
-> CONTEXT: Map530/events/7/pages/0/85/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/85/Dialogue/enemy2
+It's also much better when I'm spending time with
+humans. There are lots of guys out there who
+can't help but fawn over me because I look like a
+little brat. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あ？なにジロジロ見てんのよ、クソネコ。
 
 何か文句でもあるわけ？
-> CONTEXT: Map530/events/7/pages/0/95/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/95/Dialogue/enemy2
+Huh? What're you staring at, you shitty cat?
 
+You got something to say to me?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -136,8 +172,10 @@
 
 \\C[2]ヘカーテはどうやって\\N[1]くんの場所を
 特定したんだろうなーって。
-> CONTEXT: Map530/events/7/pages/0/99/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/99/Dialogue/enemy29
+Well, it's just a question since you saved me
+and all. \\C[2]How did you manage to pinpoint
+\\N[1]-kun's location?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -145,30 +183,37 @@
 
 \\N[1]くんの場所が分かれば、
 必然的に分かる、っていうのは理解できるんだけど……
-> CONTEXT: Map530/events/7/pages/0/104/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/104/Dialogue/enemy29
+I know that Luka-kun and Marion-kun are connected
+to me by that mark, so they knew where
+\\N[1]-kun was the moment I did...#Ron
 > END STRING
 
 > BEGIN STRING
 …………ははーん？
 
 そういうことか……♡
-> CONTEXT: Map530/events/7/pages/0/111/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/111/Dialogue/enemy29
+Ooooh...
 
+That's how you knew... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]『マイルームで表されるものが全てじゃない』\\C[0]……
 
 その執拗な執念を考えると、納得だね……♪
-> CONTEXT: Map530/events/7/pages/0/115/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/115/Dialogue/enemy29
+\\C[2]Not everyone in My Room is shown as such\\C[0]...
 
+It makes sense when you consider how obsessed
+with him you've been... ♪#Ron
 > END STRING
 
 > BEGIN STRING
 ああ、なるほど……
-> CONTEXT: Map530/events/7/pages/0/119/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/119/Dialogue/ruka_fc1
+Ah, I see...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -176,8 +221,10 @@
 
 知らないわよ！コイツの居場所が分かった理由なんて！！
 なんとなく見つけただけよ！！
-> CONTEXT: Map530/events/7/pages/0/126/Dialogue/enemy3 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/126/Dialogue/enemy3
+Hah?! What kind of stupid conclusions are you
+jumping to?! I have no idea why I knew where he
+was!! I just somehow managed to find him!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -185,8 +232,11 @@
 
 なんなら今度会ったら消し炭にしてやるんだから！
 二度と私の前に現れるんじゃないわよ！！
-> CONTEXT: Map530/events/7/pages/0/131/Dialogue/enemy3 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/131/Dialogue/enemy3
+Me and this guy aren't like that!!
 
+I'll burn you to a crisp the next time I see you!
+Don't ever show your face in front of me again!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -194,16 +244,21 @@
 わかってるよ……ヘカーテ……
 
 助けてくれてありがとう……
-> CONTEXT: Map530/events/7/pages/0/137/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/137/Dialogue/kazuya
+R-Right...
 
+Got it, Hecate...
+Thanks for saving me...#Ron
 > END STRING
 
 > BEGIN STRING
 ぜんっぜん分かってない！！
 
 アンタ、また私のこと見くびってるんじゃないでしょうね！
-> CONTEXT: Map530/events/7/pages/0/143/Dialogue/enemy3 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/143/Dialogue/enemy3
+You don't get it at all!!
 
+You're making fun of me again!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -211,28 +266,33 @@
 
 帰る！！！
 二度とツラ見せるんじゃないわよ！！！
-> CONTEXT: Map530/events/7/pages/0/147/Dialogue/enemy3 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/147/Dialogue/enemy3
+Aaah, I'm so mad right now!!!
 
+I'm going home!!!
+You'd better hope we don't meet again!!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ………素直になれないって、大変だね。
-> CONTEXT: Map530/events/7/pages/0/182/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/182/Dialogue/ruka_fc1
+The ones who can't be honest are such a handful.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん！！
-> CONTEXT: Map530/events/7/pages/0/256/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/256/Dialogue/enemy30
+\\N[1]-kun!!#Ron
 > END STRING
 
 > BEGIN STRING
 みんな！
 
 無事だったんだね！
-> CONTEXT: Map530/events/7/pages/0/261/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/261/Dialogue/ruka_fc1
+You guys!
 
+Are you alright?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -240,8 +300,11 @@
 
 戦闘中、いきなりお前たちの姿が消えてしまうわ
 いきなり目の前のアバドーンは暴れ出すわで、大変だったぞ！
-> CONTEXT: Map530/events/7/pages/0/266/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/266/Dialogue/alice_fc5
+That's what we should be asking, you idiot!!
+You guys suddenly disappeared in the middle of
+the battle, and then Abaddon started going nuts!
+It was crazy!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -249,54 +312,65 @@
 もしかしたら……と思ってしまっていたが……
 
 ３人とも無事で何よりだ……
-> CONTEXT: Map530/events/7/pages/0/271/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/271/Dialogue/enemy35
+We thought the worst might have happened when
+Abaddon's World Fusion power strengthened all at
+once. I'm glad the three of you are unhurt.#Ron
 > END STRING
 
 > BEGIN STRING
 サッキノ　魔王　カオ真っ赤
 
 油断シテ　パンツ　マルミエ
-> CONTEXT: Map530/events/7/pages/0/276/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/276/Dialogue/enemy37
+THAT DEMON KING'S FACE BRIGHT RED...
 
+SHE GOT CARELESS, SAW HER PANTIES...#Ron
 > END STRING
 
 > BEGIN STRING
 ………オルトロス
-> CONTEXT: Map530/events/7/pages/0/280/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/280/Dialogue/enemy37
+Orthrus...#Ron
 > END STRING
 
 > BEGIN STRING
 ｸﾞﾙﾙ……
 
 シャベリタイ……
-> CONTEXT: Map530/events/7/pages/0/282/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/282/Dialogue/enemy37
+Grrr...
 
+WANTED TO TALK...#Ron
 > END STRING
 
 > BEGIN STRING
 ……それで？
 
 アバドーンは、どうなったの？
-> CONTEXT: Map530/events/7/pages/0/286/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/286/Dialogue/enemy38
+So what happened with Abaddon?#Ron
 > END STRING
 
 > BEGIN STRING
 ああ………あぁぁぁぁ………
 
 ふぅぇ………しジュ………
-> CONTEXT: Map530/events/7/pages/0/307/Dialogue/enemy40 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/307/Dialogue/enemy40
+AAAH... AAaaaaah...
 
+Fuuugh... Jeegh...#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんだあの姿は……
 
 もはや原形を留めておらんではないか……！
-> CONTEXT: Map530/events/7/pages/0/311/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/311/Dialogue/alice_fc5
+W-What's that?!
 
+Has he lost the ability to maintain his base
+form?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -304,8 +378,9 @@
 アバドーンの魔力そのものが、かなり乱れている……
 
 いったい、ヤツの身になにが…！？
-> CONTEXT: Map530/events/7/pages/0/315/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/315/Dialogue/enemy35
+It's not just his form... his magic itself is
+also running wild. What on earth happened to him?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -313,8 +388,10 @@
 自分の存在を賭して……
 
 \\C[10]彼らの介入者の過ちをも背負って……
-> CONTEXT: Map530/events/7/pages/0/321/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/321/Dialogue/enemy29
+\\C[10]The ones who caused the Genocide timeline, who
+bear the mistakes of their Interveners\\C[0], decided
+risk their very existences by fighting him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -322,8 +399,13 @@
 
 \\C[10]その道を選んだ『介入者』の罪と一緒に
 アバドーンの身体をかき乱して、僕たちにチャンスを作ってる
-> CONTEXT: Map530/events/7/pages/0/326/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/326/Dialogue/enemy29
+Though they themselves weren't to blame, \\C[10]with
+tears in their eyes they bore the sins of the
+Interveners, and used that burden to throw
+Abaddon's body into disarray.
+\\C[10]In other words, they sacrificed themselves to
+buy us a chance.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -331,14 +413,17 @@
 
 アバドーンを倒したら、\\C[10]彼ら\\C[0]はどうなるんだ…！
 『世界を直す権限』とやらで、助けられるのか…！？
-> CONTEXT: Map530/events/7/pages/0/331/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/331/Dialogue/kazuya
+What will happen to them when we defeat Abaddon?!
 
+Can you use that "authority to fix the world" or
+whatever to save them?!#Ron
 > END STRING
 
 > BEGIN STRING
 ……………………………\\C[2]無理だよ。
-> CONTEXT: Map530/events/7/pages/0/337/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/337/Dialogue/enemy29
+......\\C[2]I'm afraid not.
 > END STRING
 
 > BEGIN STRING
@@ -346,16 +431,22 @@
 
 オールドワンに『ウボ＝サスラ』に変えられた彼らを
 元に戻すだけなら、可能なんだけどね……
-> CONTEXT: Map530/events/7/pages/0/339/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/339/Dialogue/enemy29
+Like I said during the Tea Party, \\C[2]that's an
+isolated world line. Though it'd be possible to
+change the ones turned into Ubbo-Sathlas by the
+Old One back to their normal selves.#Ron
 > END STRING
 
 > BEGIN STRING
 そして今、彼らは自ら、\\C[2]消滅する道\\C[0]を選んだ……
 
 だから………アバドーンを倒せば………
-> CONTEXT: Map530/events/7/pages/0/344/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/344/Dialogue/enemy29
+Also, their choice to destroy themselves was made
+of their own volition.
 
+So... even if we defeat Abaddon...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -363,8 +454,11 @@
 今のアバドーンは、僕たちを見失っている。
 
 \\C[2]このまま静かに近付けば、十分に勝機はある
-> CONTEXT: Map530/events/7/pages/0/357/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/357/Dialogue/enemy29
+But still... this is our chance.
+The way he is now, Abaddon's lost track of us.
+\\C[2]We'll have a decent chance at winning if we
+sneak up to him quietly\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -372,16 +466,21 @@
 一人残らず消滅してしまうだろうけど……
 
 ここで仕損じると、全てが無駄になってしまう……
-> CONTEXT: Map530/events/7/pages/0/362/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/362/Dialogue/enemy29
+While we fight him, those \\C[10]other versions of you\\C[0]
+will be destroying themselves inside his body.
+Everything they've done will have been for nothing
+if we mess up here.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]彼ら\\C[0]が命を犠牲にして作ってくれたチャンス……
 
 みすみす逃すわけにはいかないよ、\\N[1]くん。
-> CONTEXT: Map530/events/7/pages/0/367/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/367/Dialogue/enemy29
+This is a chance created through \\C[10]their \\C[0]sacrifice.
 
+We can't let this slip through our fingers.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -389,8 +488,11 @@
 \\C[2]犠牲になんかさせない。
 
 彼らも、助ける。
-> CONTEXT: Map530/events/7/pages/0/374/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/374/Dialogue/kazuya-b
+No...
+\\C[2]I won't let them sacrifice themselves.
 
+I'll save them too.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -398,8 +500,11 @@
 さっきの話、聞いてた！？
 
 そんな短時間でアバドーンを倒すことなんで無理だってば！
-> CONTEXT: Map530/events/7/pages/0/382/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/382/Dialogue/enemy29
+Hold on!! Didn't you hear what I said?!!
 
+There's no way we can destroy Abaddon in such a
+short space of time!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -407,8 +512,11 @@
 アバドーンは別に弱体化したってワケじゃないんだ！
 
 むしろ暴れ狂ってるから、正面からは挑めない！
-> CONTEXT: Map530/events/7/pages/0/387/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/387/Dialogue/enemy29
+Just because he's changed into that form doesn't
+mean that he's particularly weak now! In fact,
+we can't even take him head-on now that he's
+going berserk!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -416,8 +524,11 @@
 取り返しのつかないことになっちゃう！
 
 彼らどころか、キミたちの世界も危ういんだよ！？
-> CONTEXT: Map530/events/7/pages/0/392/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/392/Dialogue/enemy29
+Now only that, but if we mess up because we're
+too impatient, we might end up doing something
+we can't undo! All of your worlds are in much
+more danger than them!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -425,8 +536,11 @@
 
 彼らは、あんなところで消えたいなんて思ってない！
 たとえどんなに、自分に絶望していようとも……！
-> CONTEXT: Map530/events/7/pages/0/398/Dialogue/kazuya-b < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/398/Dialogue/kazuya-b
+They don't want to disappear in a place like that!
+They wouldn't think that way no matter how much
+despair they feel! I know that because they're
+"me"!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -434,16 +548,22 @@
 
 \\C[10]「自分のせいじゃない」と吐き捨てた介入者に代わって
 自分自身の犯した罪と……！
-> CONTEXT: Map530/events/7/pages/0/403/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/403/Dialogue/kazuya-b
+They're fighting...
 
+\\C[10]Fighting the sins they bear in place of the
+Interveners who abdicated all responsibility!#Ron
 > END STRING
 
 > BEGIN STRING
 頼む……！どんな方法でもいい……
 
 彼らを……あの僕たちを助ける方法はないのか…！？
-> CONTEXT: Map530/events/7/pages/0/408/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/408/Dialogue/kazuya-b
+Please! I don't care what it takes...
 
+Is there really no way to save them? No way at
+all?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -451,8 +571,11 @@
 
 あの時の彼の口ぶり……悲しそうっていうより……
 なんだかとても震えてた………
-> CONTEXT: Map530/events/7/pages/0/414/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/414/Dialogue/ruka_fc1
+I feel the same way.
 
+The way they talked... it wasn't sad...
+It sounded more like they were trembling...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -460,16 +583,21 @@
 \\C[2]すごく死ぬことを怖がってた気がしたんだ……\\C[0]
 
 さっきの\\N[1]の言葉で、確信が持てたよ。
-> CONTEXT: Map530/events/7/pages/0/419/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/419/Dialogue/ruka_fc1
+It didn't feel like regret or despair...
+\\C[2]But like they were terrified of dying\\C[0]...
 
+So I believe what \\N[1] said just now.#Ron
 > END STRING
 
 > BEGIN STRING
 だから、もしできるなら、僕もその方法を試したい。
 
 何か方法はないの？チェシャ……
-> CONTEXT: Map530/events/7/pages/0/424/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/424/Dialogue/ruka_fc1
+So if possible, I also want to try saving them...
 
+Isn't there something we can do, Cheshire?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -477,8 +605,11 @@
 \\C[2]方法が無いことはないよ。
 
 ボクがこの身体に戻った今なら、ね。
-> CONTEXT: Map530/events/7/pages/0/430/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/430/Dialogue/enemy29
+......
 
+\\C[2]Now that I have my body back, there's nothing I
+can't do.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -486,8 +617,11 @@
 
 \\C[2]３人の力が……いや、みんなの協力が必要不可欠だ……
 でもそれでも、失敗の可能性すらある……
-> CONTEXT: Map530/events/7/pages/0/435/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/435/Dialogue/enemy29
+But this'll come with a pretty big risk...
 
+\\C[2]We'll need absolutely everyone to pull this off.
+And it still might not work anyway.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -495,8 +629,11 @@
 
 \\N[1]くんに
 自分たちの世界の明日を任せる覚悟は出来てる？
-> CONTEXT: Map530/events/7/pages/0/440/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/440/Dialogue/enemy29
+Are all of you really okay with this? You're not
+going to have second thoughts? Are you all
+prepared to entrust the future of your worlds
+to \\N[1]-kun?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -504,8 +641,11 @@
 
 \\N[1]くんが危険な目に遭うのは怖いけど…
 それで\\N[1]くんが救われるっていうなら！
-> CONTEXT: Map530/events/7/pages/0/446/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/446/Dialogue/enemy15
+Of course I'll help!
 
+I'm scared of putting \\N[1]-kun in danger,
+but I'm okay with it if it means saving him!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -513,22 +653,28 @@
 
 こいつも一度言い出したら聞かんからな。
 とことん付き合ってやるか……
-> CONTEXT: Map530/events/7/pages/0/452/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/452/Dialogue/alice_fc5
+I won't object if Luka's prepared to say all that.
 
+He won't listen to anyone once he's set his mind
+on something. I'll follow you until the end.#Ron
 > END STRING
 
 > BEGIN STRING
 …………お前はどうだ？ミズキ……
-> CONTEXT: Map530/events/7/pages/0/457/Dialogue/enemy37 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/457/Dialogue/enemy37
+What will you do, Mizuki?#Ron
 > END STRING
 
 > BEGIN STRING
 この流れで、イヤとは言えないでしょうが……
 
 私は、弟が無事ならそれでいいのよ……
-> CONTEXT: Map530/events/7/pages/0/460/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/460/Dialogue/enemy38
+The way everyone's talking, there's no way I could
+say no.
 
+I'm fine with it if it means saving my brother.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -536,8 +682,11 @@
 イチかバチかに賭けてみるのも悪くないわ。
 
 全力でやってやろうじゃないの！
-> CONTEXT: Map530/events/7/pages/0/464/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/464/Dialogue/enemy38
+But if there's a world and a lot of people in it
+who can be saved as well, it's not a bad idea to
+put it all on a sink-or-swim plan. Let's give
+this everything we've got!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -545,46 +694,58 @@
 我が否定的なことを言っても聞かぬであろう。
 
 ならばそれに応え、我も悔いを残さず、全力で臨むだけだ。
-> CONTEXT: Map530/events/7/pages/0/472/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/472/Dialogue/enemy35
+Marion's also made up his mind. He wouldn't
+listen to me even if I disagreed...
+In that case, I'll listen to him by giving this
+everything I've got, with no regrets.#Ron
 > END STRING
 
 > BEGIN STRING
 みんな……
 
 ありがとう…！
-> CONTEXT: Map530/events/7/pages/0/482/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/482/Dialogue/kazuya
+Thank you... everyone!#Ron
 > END STRING
 
 > BEGIN STRING
 それじゃあ、準備はいいかい？\\N[1]くん。
 
 時間が無いから、作戦は一度しか言わないからね。
-> CONTEXT: Map530/events/7/pages/0/492/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/492/Dialogue/enemy29
+Well then, are you ready, \\N[1]-kun?
 
+We don't have much time, so I'll only go over
+the plan once.#Ron
 > END STRING
 
 > BEGIN STRING
 今のキミの身体は、いわゆる『アバター』だ。
 
 \\C[2]ボクが『脱出直前のキミ』を模して創り上げた肉体……
-> CONTEXT: Map530/events/7/pages/0/496/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/496/Dialogue/enemy29
+Your body right now is a so-called "avatar".
 
+\\C[2]It's one I created using your body from just
+before you escaped the town as a base.#Ron
 > END STRING
 
 > BEGIN STRING
 だから、キミの身体には\\C[2]『天使の魔力』\\C[0]が宿ってる。
 
 それを………今から\\C[10]『意図的に暴走させる』\\C[0]
-> CONTEXT: Map530/events/7/pages/0/500/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/500/Dialogue/enemy29
+That means your body still has the \\C[2]angelic magic
+\\C[0]inside it, so we'll make use of it...
 
+\\C[10]By intentionally making it go out of control.
 > END STRING
 
 > BEGIN STRING
 \\{\\{えっ！？
-> CONTEXT: Map530/events/7/pages/0/505/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/505/Dialogue/kazuya
+\\{\\{Huh?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -592,8 +753,11 @@
 キミは無差別に暴走して、アバドーンと同じ破壊者になる。
 
 でも、今は\\C[2]ルカくんとマリオンくんがいる
-> CONTEXT: Map530/events/7/pages/0/507/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/507/Dialogue/enemy29
+Naturally, that'll turn you into Samael, a
+rampaging, indiscriminate engine of destruction
+just like Abaddon. But we've got \\C[2]Luka-kun and
+Marion-kun with us now\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -601,8 +765,11 @@
 
 \\C[2]あれは『天使の魔力』で繋げているから
 キミが暴走しても、他の二人がその魔力を制御できる。
-> CONTEXT: Map530/events/7/pages/0/512/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/512/Dialogue/enemy29
+Remember that mark I put on your hands?
+\\C[2]Because that's linked to your angelic magic,
+those two will be able to control it even while
+you're rampaging.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -610,16 +777,20 @@
 
 \\C[0]それで完全に魔力に呑み込まれてしまう前に
 キミがアバドーンを倒せば、万事解決ってワケ。
-> CONTEXT: Map530/events/7/pages/0/517/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/517/Dialogue/enemy29
+Even say... \\C[2]pulling your "reins" back\\C[0]...
+Then all you have to do is defeat Abaddon before
+you completely lose yourself and everything will
+be neatly resolved.#Ron
 > END STRING
 
 > BEGIN STRING
 …………それで…
 
 \\C[2]僕が天使の魔力の暴走に耐えられる時間は…？
-> CONTEXT: Map530/events/7/pages/0/523/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/523/Dialogue/kazuya
+So... \\C[2]how long will I be able to endure the
+angelic magic going berserk?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -627,8 +798,11 @@
 
 大丈夫、以前キミが見たサマエルの暴走は不完全なもので
 \\C[2]今回のヤツの火力は桁が違う
-> CONTEXT: Map530/events/7/pages/0/527/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/527/Dialogue/enemy29
+Let's see... \\C[10]not for very long\\C[0].
+But don't worry, compared to the incomplete Samael
+you saw last time, \\C[2]this one's firepower will be
+on a completely different level\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -636,8 +810,11 @@
 \\C[2]ボクも他のみんなの火力サポートが出来るようになった
 
 どちらに転ぶにせよ、決着は短い時間で済むと思うよ。
-> CONTEXT: Map530/events/7/pages/0/532/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/532/Dialogue/enemy29
+And on top of that, thanks to being back in my
+own body, \\C[2]I can now use everyone else's attack
+support skills. However it turns out, I think
+this'll be over quick.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -645,8 +822,11 @@
 
 \\N[1]くんが戦っている間に、残り二人がやられても
 \\C[10]その時点で制御を失って、アウトだよ。
-> CONTEXT: Map530/events/7/pages/0/537/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map530/events/7/pages/0/537/Dialogue/enemy29
+\\C[2]But the scariest thing here is going to be
+the power of Samael's rampage. If the other two
+go down while you're fighting, \\C[10]they'll lose
+control of you, and it'll be all over\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -654,24 +834,32 @@
 ルカやマリオンがやられてもダメ……というわけだな。
 
 こちらの護衛は任せておけ。
-> CONTEXT: Map530/events/7/pages/0/542/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/542/Dialogue/alice_fc5
+So in other words, we can't let either Luka or
+Marion be defeated.
 
+You leave protecting them to us.#Ron
 > END STRING
 
 > BEGIN STRING
 我ら天使が務めである『人の守護』……
 
 今こそ、その真価を見せるときだ…！！
-> CONTEXT: Map530/events/7/pages/0/547/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/547/Dialogue/enemy35
+Our duty as angels is to protect humans...
 
+This will be where I demonstrate the true value
+of that duty!!#Ron
 > END STRING
 
 > BEGIN STRING
 チェシャ………始めてくれ。
 
 覚悟は……出来てる！
-> CONTEXT: Map530/events/7/pages/0/556/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/556/Dialogue/kazuya
+Cheshire... let's start.
 
+I'm... ready!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -679,38 +867,50 @@
 
 ちゃんと正気を保ってね……
 かなりキツいはずだから……
-> CONTEXT: Map530/events/7/pages/0/563/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/563/Dialogue/enemy29
+Here I go, \\N[1]-kun...
 
+Hold on to your sanity...
+This is going to be pretty rough...#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ……\\|
 
 ゆっくりと意識を集中させて、\\|\\N[1]くん\\|\\|\\^
-> CONTEXT: Map530/events/7/pages/0/590/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/590/Dialogue/enemy29
+Now...\\|
 
+Slowly focus your mind, \\|\\N[1]-kun...\\|\\|\\^
 > END STRING
 
 > BEGIN STRING
 \\N[1]……！！
 
 その姿は…！！？\\|\\|\\^
-> CONTEXT: Map530/events/7/pages/0/605/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/605/Dialogue/alice_fc5
+\\N[1]...!!
 
+What's that form?!!\\|\\|\\^#Ron
 > END STRING
 
 > BEGIN STRING
 ほう………これは興味深い\\|\\^
 
 \\C[2]サマエルの力を鎧として纏ったのか……\\|\\|\\^
-> CONTEXT: Map530/events/7/pages/0/609/Dialogue/enemy34 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/609/Dialogue/enemy34
+Hooh, how fascinating.\\|\\^
 
+\\C[2]Samael's power has coiled around him as armor.\\|\\|\\^#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]世界を救うために、アバドーンの世界を壊す……\\|\\|
 
 今こそキミ自身が『世界の破壊者』になる時だ…！！！\\|\\|\\|\\|\\^
-> CONTEXT: Map530/events/7/pages/0/614/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map530/events/7/pages/0/614/Dialogue/enemy29
+\\C[10]Destroy Abaddon's world to save your own...\\|\\|
 
+Now is the time for you to become the "Destroyer
+of Worlds"!!!\\|\\|\\|\\|\\^#Ron
 > END STRING

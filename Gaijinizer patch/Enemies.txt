@@ -493,7 +493,7 @@ Chimera Beast#Ron
 > CONTEXT: Enemies/361/name
 > CONTEXT: Enemies/362/name
 > CONTEXT: Enemies/363/name
-Abyss Abaddon#Ron
+Abyssal Abaddon#Ron
 > END STRING
 
 > BEGIN STRING
