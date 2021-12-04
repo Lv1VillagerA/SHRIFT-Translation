@@ -42,8 +42,7 @@ having to use my braids to move. ♪#Ron
 > CONTEXT: Map530/events/7/pages/0/25/Dialogue/enemy2
 Haah... So you ended up bringing me with you...
 
-I'm going home now that I've lost all my
-motivation.#Ron
+I'm bored now, I'm going home.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -74,8 +73,9 @@ trying to get your revenge on me?#Ron
 僕を始末することぐらい、簡単だったはずじゃ……
 > CONTEXT: Map530/events/7/pages/0/49/Dialogue/kazuya
 \\C[2]You wouldn't have had to turn to the Old One for
-help if you'd used it, and dealing with me
-would've been a cinch.#Ron
+help if you'd used it. 
+
+It would have been easy to deal with me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -131,8 +131,8 @@ human.#Ron
 > CONTEXT: Map530/events/7/pages/0/72/Dialogue/enemy2
 Though in hindsight, this was showing off in its
 own way as well. Thinking about it now, maybe
-you should have used your full power to destroy
-it.#CheckLater
+I should have used my full power from the start
+to destroy *you*.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -401,10 +401,11 @@ risk their very existences by fighting him.#Ron
 アバドーンの身体をかき乱して、僕たちにチャンスを作ってる
 > CONTEXT: Map530/events/7/pages/0/326/Dialogue/enemy29
 Though they themselves weren't to blame, \\C[10]with
-tears in their eyes they took the sins of the
-Interveners who had decided their path, and used
-them to throw Abaddon's body into disarray.
-They bought us a chance.#RonIffyWording
+tears in their eyes they bore the sins of the
+Interveners, and used that burden to throw
+Abaddon's body into disarray.
+\\C[10]In other words, they sacrificed themselves to
+buy us a chance.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -694,10 +695,10 @@ this everything we've got!#Ron
 
 ならばそれに応え、我も悔いを残さず、全力で臨むだけだ。
 > CONTEXT: Map530/events/7/pages/0/472/Dialogue/enemy35
-Marion's also made up his mind so he wouldn't
-listen to me even if I tried to oppose the idea.
-In which case I'll respond to that by giving this
-everything I've got with no regrets.#Ron
+Marion's also made up his mind. He wouldn't
+listen to me even if I disagreed...
+In that case, I'll listen to him by giving this
+everything I've got, with no regrets.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -801,7 +802,7 @@ angelic magic going berserk?#Ron
 Let's see... \\C[10]not for very long\\C[0].
 But don't worry, compared to the incomplete Samael
 you saw last time, \\C[2]this one's firepower will be
-only a completely different level\\C[0].#Ron
+on a completely different level\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING

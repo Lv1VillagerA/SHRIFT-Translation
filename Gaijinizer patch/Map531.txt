@@ -193,9 +193,9 @@ Mizuki-chan's world, too.#Ron
 なんとかお咎めなしにしてもらった。
 > CONTEXT: Map531/events/1/pages/0/127/Dialogue/enemy29
 It was a bit of work to get Hyakki back after her
-existence itself was almost negated, but
-considering the situation I managed to do it
-without getting harangued.#CheckLater
+existence itself was almost negated... but I
+managed to get it done without anyone asking
+too many questions.#Ron
 > END STRING
 
 > BEGIN STRING
