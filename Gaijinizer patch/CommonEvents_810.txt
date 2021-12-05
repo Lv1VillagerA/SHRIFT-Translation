@@ -33,16 +33,20 @@ sure you thoroughly understand from here on. ♡♡♡#RonLocalization
 ふふっ…♡\\N[1]ちゃん……
 
 ママは今とっても幸せよ……♡
-> CONTEXT: CommonEvents_810/449/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_810/449/Dialogue/enemy39
+Fufu... \\N[1]-chan... ♡
 
+Mommy's so happy right now... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]ちゃん……♡
 
 ママと一緒にいてくれる？
-> CONTEXT: CommonEvents_810/455/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_810/455/Dialogue/enemy39
+\\N[1]-chan... ♡
 
+Will you be together with mommy?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -50,16 +54,20 @@ sure you thoroughly understand from here on. ♡♡♡#RonLocalization
 
 \\N[1]ちゃんは
 自分の意志で、ここに来たんだものね…
-> CONTEXT: CommonEvents_810/484/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_810/484/Dialogue/enemy39
+I know...
 
+You've come here of your own free will...#Ron
 > END STRING
 
 > BEGIN STRING
 また、いつでもいらっしゃい……
 
 ママはいつでも待ってるわ……
-> CONTEXT: CommonEvents_810/489/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: CommonEvents_810/489/Dialogue/enemy39
+Come back any time...
 
+Mommy will be waiting...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -83,8 +91,10 @@ Chimera Beast looks unsure of whether or not to continue...#Ron
 認証、確認……
 
 吸精を継続……
-> CONTEXT: CommonEvents_810/601/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_810/601/Dialogue/c_beast_fc1
+Confirmation received...
 
+Continuing energy absorption...#RonLocalization
 > END STRING
 
 > BEGIN STRING
