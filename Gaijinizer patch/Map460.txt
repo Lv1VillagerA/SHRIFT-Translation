@@ -27,7 +27,7 @@
 > CONTEXT: Map460/events/23/pages/0/8/Dialogue
 *「I was attacked so vigorously, milked so much...
    I, I really thought I was going to die there...
-   It felt so good, I could pass away like that...#Amaboye
+   It felt so good, I could pass away like that...」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -58,7 +58,7 @@
 　　ご覧の通り、向こうには悪魔たちが待ち伏せしてる」
 > CONTEXT: Map460/events/2/pages/0/12/Dialogue
 *「Even if you wrap around to the other side, well,
-   you can see the demons lying there in wait.#Amaboye
+   you can see the demons lying there in wait.」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -68,7 +68,7 @@
 > CONTEXT: Map460/events/2/pages/0/16/Dialogue
 *「They haven't so much as twitched since I first saw them.
    They've likely been ordered to stand watch on these
-   corridors...#Amaboye
+   corridors...」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -111,7 +111,7 @@
 > CONTEXT: Map460/events/2/pages/2/0/Dialogue
 *「I heard that some of the students who were attacked had
    eggs laid into them. It seems they were saved right
-   before things finished, at least...#Amaboye
+   before things finished, at least...」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -122,7 +122,7 @@
 > CONTEXT: Map460/events/2/pages/2/5/Dialogue
 *「But while I've heard about being milked and losing your
    soul, I've never heard about being injected with eggs...
-   ...Are those really demons...?#Amaboye
+   ...Are those really demons...?」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -423,7 +423,7 @@ Do you want to continue?#Amaboye
 > CONTEXT: Map460/events/184/pages/0/0/Dialogue
 *「This is the infirmary.
 
-   We're prioritizing care to those with physical injuries.#Amaboye
+   We're prioritizing care to those with physical injuries.」#Amaboye
 > END STRING
 
 > BEGIN STRING

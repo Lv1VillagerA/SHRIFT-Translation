@@ -244,10 +244,10 @@ any assassin could summon countless allies...#Amaboye
 
 これは………
 > CONTEXT: Map459/events/5/pages/0/186/Dialogue/sirousagi_fc1
-Plus, the earlier chimera was of the advanced
-"Chimera Beast" model...
+Plus, what we saw just before was a superior
+type of Chimera, called a "Chimera Beast"...
 
-So there's a chance...#Amaboye/iffy
+And if that's the case...#Amaboye/RonLocalization
 > END STRING
 
 > BEGIN STRING
