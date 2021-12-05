@@ -6,7 +6,7 @@
 > CONTEXT: Map460/events/23/pages/0/0/Dialogue
 *「I was attacked by a demon, but someone saved me...
 
-  That was... Mizuki, right?」#Amaboye
+   That was... Mizuki, right?」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -16,7 +16,7 @@
 > CONTEXT: Map460/events/23/pages/0/4/Dialogue
 *「There are still many demons wandering about beyond here...
 
-  Be careful...」#Amaboye
+   Be careful...」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -26,8 +26,8 @@
 　　死ぬほど気持ちよかった………』
 > CONTEXT: Map460/events/23/pages/0/8/Dialogue
 *「I was attacked so vigorously, milked so much...
-  I, I really thought I was going to die there...
-  It felt so good I could die...」#Amaboye
+   I, I really thought I was going to die there...
+   It felt so good, I could pass away like that...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -37,9 +37,9 @@
 　　だが、その直後に防火シャッターが作動してしまってね…」
 > CONTEXT: Map460/events/2/pages/0/0/Dialogue
 *「The student who helped us out ran on ahead after some
-  demon that looked like their leader.
+   demon that looked like their leader.
   
-  But then the fire shutters activated...」#Amaboye
+   But then the fire shutters activated...」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -47,8 +47,9 @@
 
 　　あいにく、操作盤はシャッターの向こう側だ……」
 > CONTEXT: Map460/events/2/pages/0/5/Dialogue
-*「The control panel is fine, so you should be able to open
-  it, but sadly it's on the other side.」#Amaboye
+*「The control panel will still work to open it...
+
+   ...but sadly it's on the other side.」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -57,7 +58,7 @@
 　　ご覧の通り、向こうには悪魔たちが待ち伏せしてる」
 > CONTEXT: Map460/events/2/pages/0/12/Dialogue
 *「Even if you wrap around to the other side, well,
-  you can see the demons lying there in wait.#Amaboye
+   you can see the demons lying there in wait.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -66,8 +67,8 @@
 　　おそらく、命令されて通路を見張ってるんだろうな…」
 > CONTEXT: Map460/events/2/pages/0/16/Dialogue
 *「They haven't so much as twitched since I first saw them.
-  They've likely been ordered to stand watch on these
-  corridors...#Amaboye
+   They've likely been ordered to stand watch on these
+   corridors...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -76,7 +77,7 @@
 　　私はオススメしないよ…。」
 > CONTEXT: Map460/events/2/pages/0/23/Dialogue
 *「If you want to break through by force, I won't stop you,
-  but I can't recommend it personally.」#Amaboye
+   but I can't recommend it personally.」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -87,8 +88,8 @@
 > CONTEXT: Map460/events/2/pages/0/27/Dialogue < UNTRANSLATED
 *「Hm...
 
-  \\C[2]If there was some way to block their movement, there's
-  a chance you might be able to break through completely...\\C[0]」#Amaboye
+   \\C[2]If there was some way to block their movement, there's
+   a chance you might be able to break through completely...\\C[0]」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -98,8 +99,8 @@
 > CONTEXT: Map460/events/2/pages/1/0/Dialogue
 *「Oh right, the shutters!
 
-  With these, you might be able to reach the other side
-  safely.」#Amaboye
+   With these, you might be able to reach the other side
+   safely.」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -109,8 +110,8 @@
 　　間一髪、事が終わる前に助けられたらしいのだが……」
 > CONTEXT: Map460/events/2/pages/2/0/Dialogue
 *「I heard that some of the students who were attacked had
-  eggs laid into them. It seems they were saved right
-  before things finished, at least...#Amaboye
+   eggs laid into them. It seems they were saved right
+   before things finished, at least...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -120,8 +121,8 @@
 　　というか、あれは本当に悪魔なのか……？」
 > CONTEXT: Map460/events/2/pages/2/5/Dialogue
 *「But while I've heard about being milked and losing your
-  soul, I've never heard about being injected with eggs...
-  ...Are those really demons...?#Amaboye
+   soul, I've never heard about being injected with eggs...
+   ...Are those really demons...?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -261,7 +262,7 @@ Woof! Woof!#Amaboye
 > CONTEXT: Map460/events/55/pages/0/91/Dialogue/alice_fc5
 "I tried to help you out by gathering the
 batteries you'll need, but the panel's so small,
-I can't push it with my nose."#Amaboye
+I can't push it with my nose..."#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -270,10 +271,10 @@ I can't push it with my nose."#Amaboye
 
 　せっかく来たのだから撫でてもらおうと思った』だそうだ。
 > CONTEXT: Map460/events/55/pages/0/96/Dialogue/alice_fc5
-"I tried using my paw as well, but the liquid
-crystal touch panel didn't activate under my claw.
-Since I came all this way, I figured I might as
-well get you to pet me," it seems.#Amaboye
+"I tried using my paw as well, but the LCD touch
+panel didn't activate under my claw. And since I
+came all this way, I figured I might as well get
+you to pet me while I'm here", it seems.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -303,9 +304,10 @@ what she means.#Amaboye
 
 まったく不思議なものだ……。
 > CONTEXT: Map460/events/55/pages/0/110/Dialogue/alice_fc5
-Demons and monsters have different natures, but
-that point seems to be the same.
-What a strange connection...#Amaboye/iffy
+Though demons and monsters are different
+creatures, they have telepathy in common...
+
+What a strange coincidence...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -409,9 +411,9 @@ They're coming!#Amaboye
 > CONTEXT: Map460/events/171/pages/0/2/Dialogue
 > CONTEXT: Map465/events/49/pages/0/2/Dialogue
 > CONTEXT: Map465/events/50/pages/0/2/Dialogue
-You feel intense magical pressure from beyond
-here...
-Do you move forward?#Amaboye
+You feel intense magical pressure from beyond here...
+
+Do you want to continue?#Amaboye
 > END STRING
 
 > BEGIN STRING

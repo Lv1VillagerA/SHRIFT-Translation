@@ -60,7 +60,7 @@ Let the kid go!#Amaboye
 
 \\C[0]どうしてこんなところに…！！
 > CONTEXT: Map459/events/5/pages/0/47/Dialogue/ruka_fc1
-...\\C[2]Chimera Beast!?
+...\\C[2]a Chimera Beast!?
 
 \\C[0]Why is one here...!?#Amaboye
 > END STRING
@@ -176,9 +176,10 @@ He doesn't seem too weakened...#Amaboye
 
 魂も吸収されてないし、ひとまず安心だね！
 > CONTEXT: Map459/events/5/pages/0/154/Dialogue/enemy15
-His body's shaking like crazy, but it seems she
-just barely stopped at his energy, and his soul
-seems intact, so that's a relief!#Amaboye
+His body's shaking like crazy, but it seem she
+just barely stopped at taking his energy.
+
+His soul seems intact, so that's a relief!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -208,8 +209,10 @@ shelter him there.#Amaboye
 アバドーンってやつの刺客が
 まだ近くに潜んでいる可能性が高いし………
 > CONTEXT: Map459/events/5/pages/0/168/Dialogue/ruka_fc1
-That's true... Abaddon's assassins are probably
-lying in wait somewhere around here, too...#Amaboye
+That's true...
+
+Abaddon's assassins are probably lying in wait
+somewhere around here, as well...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -218,8 +221,8 @@ lying in wait somewhere around here, too...#Amaboye
 
 そこまで刺客の個体数はいないはずだ……
 > CONTEXT: Map459/events/5/pages/0/176/Dialogue/sirousagi_fc1
-...If we assume Abaddon is using \\C[2]"bonds"\\C[0] to
-summon assassins the same way I am, then he
+...If we assume Abaddon is using \\C[2]connections
+\\C[0]to summon assassins the same way I am, then he
 shouldn't have that many...#Amaboye
 > END STRING
 
@@ -230,7 +233,7 @@ shouldn't have that many...#Amaboye
 条件はあれど、どんな刺客でも、何体でも呼び込める……
 > CONTEXT: Map459/events/5/pages/0/181/Dialogue/sirousagi_fc1
 But if \\C[2]they're beasts brought along by the
-assassins\\C[0] like those Black Dogs, things are a
+assassins \\C[0]like those Black Dogs, things are a
 bit different... Under the right conditions,
 any assassin could summon countless allies...#Amaboye
 > END STRING
@@ -410,9 +413,9 @@ beating demons up like that!#Amaboye/iffy
 
 とっても広くて、走り回り甲斐がありそうな廊下だね！
 > CONTEXT: Map459/events/5/pages/0/351/Dialogue/enemy15
-It's my first time seeing or going inside a
-school, but these wide hallways seem great for
-running around in!#Amaboye
+It's my first time being inside a school like
+this, but these wide hallways seem great to run
+around in!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -421,9 +424,10 @@ running around in!#Amaboye
 
 今のこれはそういうことじゃなくて…
 > CONTEXT: Map459/events/5/pages/0/356/Dialogue/enemy38
-I mean... I did talk about running around in here,
-but that's a bit different from what I'm doing
-here...#Amaboye
+Ah, I mean...
+
+I did talk about running around in here, but
+that's not what I meant...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -431,7 +435,8 @@ here...#Amaboye
 
 また随分と派手な登場をしたが……
 > CONTEXT: Map459/events/5/pages/0/362/Dialogue/alice_fc5
-Oh, you two know eachother?
+Oh, you two know each other?
+
 That was a rather flashy entrance too...#Amaboye
 > END STRING
 
@@ -440,10 +445,10 @@ That was a rather flashy entrance too...#Amaboye
 
 　関係に矛盾はないし。そういうことにしておこうかな……）
 > CONTEXT: Map459/events/5/pages/0/366/Dialogue/sirousagi_fc1
-(\\C[2]In reality, they're actually from different
-worlds.\\C[0]
-That shouldn't affect their relationship, though,
-so we'll put that aside.#Amaboye
+(\\C[2]They seem to be from different worlds...\\C[0]
+
+ But they should get along fine, so I won't
+ bring it up.)#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -454,7 +459,7 @@ so we'll put that aside.#Amaboye
 > CONTEXT: Map459/events/5/pages/0/370/Dialogue/enemy37
 MIZUKI!!!
 
-THESE GUYS HAVE NONHUMANS MIXED IN
+THESE GUYS HAVE NONHUMANS MIXED IN!
 CAN I FIGHT THEM?#Amaboye
 > END STRING
 
@@ -503,8 +508,9 @@ You get used to it.#Amaboye
 自らの意志で、彼女の魔具となり守護の命を全うしている
 > CONTEXT: Map459/events/5/pages/0/393/Dialogue/enemy37
 We are demons who forged a contract with Mizuki.
+
 We became her tools of our own will, to protect
-others with our life.#Amaboye/iffy
+her with our lives.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -551,8 +557,9 @@ They're likely the cause of this disturbance.#Amaboye
 さっきから、『召喚器』のアラートが鳴りっぱなしよ……
 > CONTEXT: Map459/events/5/pages/0/414/Dialogue/enemy38
 ...I noticed that, too.
-My "summon vessel" has been blaring a warning
-for a while, too.#Amaboye/iffy
+
+My summoning device has been blaring a warning
+for a while as well.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -561,7 +568,8 @@ for a while, too.#Amaboye/iffy
 ……逃がすもんですか！！
 > CONTEXT: Map459/events/5/pages/0/430/Dialogue/enemy38
 Hold it right there!
-I won't let you get away!#Amaboye
+
+...I won't let you get away!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -570,6 +578,7 @@ I won't let you get away!#Amaboye
 まだ話は終わって……
 > CONTEXT: Map459/events/5/pages/0/454/Dialogue/alice_fc5
 Hey, wait!
+
 We haven't finished...#Amaboye
 > END STRING
 
@@ -586,7 +595,8 @@ She left...#Amaboye
 魔王をぶっ飛ばして、世界を救ったこともあるんだから！
 > CONTEXT: Map459/events/5/pages/0/460/Dialogue/enemy15
 This is Mizuki-chan, she'll be fine!
-She even went into the demon world once, and
+
+She even once went into the Demon Realm and
 beat up a demon lord there to save the world!#Amaboye
 > END STRING
 
@@ -605,16 +615,16 @@ earlier, it's not about whether she'll be safe.#Amaboye
 
 あんな背格好だけど、この当時は中学３年生だよ。
 > CONTEXT: Map459/events/5/pages/0/469/Dialogue/sirousagi_fc1
-From what I heard, she, "Takaoka Mizuki", is the
-\\C[2]smartphone summon vessel-wielding, superpowered
-Devil Summoner...
-And at the same time, a 3rd year in junior high.#Amaboye/iffy
+From what I heard, she is "Takaoka Mizuki",
+a powerful Devil Summoner who can summon
+demons from her smartphone... And though she
+doesn't look it, she's a 3rd year in middle school.#Amaboye
 > END STRING
 
 > BEGIN STRING
 チュウガク…？
 > CONTEXT: Map459/events/5/pages/0/474/Dialogue/ruka_fc1
-Junior... high...?#Amaboye
+Middle... school...?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -634,9 +644,10 @@ Anyways, she's really young.#Amaboye
 
 神話級の悪魔たちを、わらわらと従えてる。
 > CONTEXT: Map459/events/5/pages/0/481/Dialogue/sirousagi_fc1
-As for how "superpowered" she is, well, you got 
-to see that earlier, and like Yami-chan said, 
-she's even subjugating myth-tier demons.#Amaboye
+As for how powerful she is, well... you got to
+see evidence of that earlier. Like Yami-chan
+said, she's even able to control mythic level
+demons.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -645,10 +656,12 @@ she's even subjugating myth-tier demons.#Amaboye
 
 意思を持つ魔具とは、なかなかレアなモノ見たなぁ
 > CONTEXT: Map459/events/5/pages/0/486/Dialogue/sirousagi_fc1
-\\C[2]"Frozen Hail Cerberus" and "Crimson Lotus
-Orthrus".\\C[0] These 2 are her current primary
-attendants. It's not every day you get to see
-sentient magical tools like this...#Amaboye
+The \\C[2]"Hoarfrost Fists of Cerberus" \\C[0]and the
+\\C[2]"Crimson Lotus Legs of Orthrus" \\C[0]are her
+primary servants.
+
+It's not every day you get to see living magical
+tools like this...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -659,6 +672,7 @@ sentient magical tools like this...#Amaboye
 > CONTEXT: Map459/events/5/pages/0/496/Dialogue/sirousagi_fc1
 Oh, and I forgot to mention this, but she's our
 Guest here.
+
 Maybe we should hurry up and follow her?#Amaboye
 > END STRING
 
@@ -674,6 +688,7 @@ Oh, now you tell us!#Amaboye
 刺客とやらの分断の罠だった可能性もあるではないか！
 > CONTEXT: Map459/events/5/pages/0/504/Dialogue/alice_fc6
 You should have spoken up sooner, you idiot!
+
 That earlier presence might have been a ploy
 by those assassins to separate her from us!#Amaboye
 > END STRING
@@ -694,6 +709,7 @@ have gotten too far!#Amaboye
 くれぐれも気をつけてね！
 > CONTEXT: Map459/events/5/pages/0/528/Dialogue/enemy30
 \\N[1]-kun, go on ahead!
+
 I'll follow along after carrying this kid into
 the classroom! Make sure to stay safe!#Amaboye
 > END STRING
@@ -704,9 +720,10 @@ the classroom! Make sure to stay safe!#Amaboye
 夜深ちゃんを待っているにしては、神妙な面持ちだね。
 心ここに在らずって感じだ。
 > CONTEXT: Map459/events/5/pages/0/542/Dialogue/sirousagi_fc1
-...What's wrong? That's an unusual face to make
-if you're just waiting for Yami-chan to come back.
-As if your thoughts are somewhere else.#Amaboye
+...What's wrong?
+That's an unusual face to make if you're just
+waiting for Yami-chan to come back.
+It's as if you're thinking about something else...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -716,8 +733,9 @@ As if your thoughts are somewhere else.#Amaboye
 自分は彼女に会ったことがある』\\C[0]って
 > CONTEXT: Map459/events/5/pages/0/551/Dialogue/sirousagi_fc1
 You noticed, didn't you?
-Something like \\C[2]"Her appearance and age are totally
-different, but I've definitely met her before."\\C[0]#Amaboye
+You're probably thinking, "She seems younger and
+acts differently, but I swear I've seen her
+before..."#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -728,6 +746,7 @@ different, but I've definitely met her before."\\C[0]#Amaboye
 > CONTEXT: Map459/events/5/pages/0/556/Dialogue/sirousagi_fc1
 That M.O.W. woman who threw your and Reina's
 lives into disarray...
+
 \\C[2]As you guessed, they're the same person.#Amaboye
 > END STRING
 
@@ -748,6 +767,7 @@ you. Takaoka Mizuki is no exception.#Amaboye
 むしろキミと同じで、Ｍ.Ｏ.Ｗを壊滅するために動いている
 > CONTEXT: Map459/events/5/pages/0/567/Dialogue/sirousagi_fc1
 \\C[2]But the Mizuki of this world is your ally...
+
 She's even working against M.O.W., fighting to
 destroy it like you are.#Amaboye
 > END STRING
@@ -758,7 +778,7 @@ destroy it like you are.#Amaboye
 
 こっちと向こうじゃ、かなり境遇が違うみたいだ。
 > CONTEXT: Map459/events/5/pages/0/571/Dialogue/sirousagi_fc1
-It seems she has \\C[2]the ability to subjugate demons\\C[0]
+It seems she has \\C[2]the ability to summon demons\\C[0]
 in any world, but her upbringing here was very
 different.#Amaboye
 > END STRING
@@ -771,6 +791,7 @@ different.#Amaboye
 > CONTEXT: Map459/events/5/pages/0/576/Dialogue/sirousagi_fc1
 I'd like you to set aside your discomfort and
 work with her until we defeat Abaddon...
+
 Or rather, if you don't, we don't stand a chance.#Amaboye
 > END STRING
 
@@ -779,7 +800,8 @@ Or rather, if you don't, we don't stand a chance.#Amaboye
 
 言われなくても、分かってるさ……
 > CONTEXT: Map459/events/5/pages/0/581/Dialogue/kazuya
-...
+......
+
 I understand that without you telling me.#Amaboye
 > END STRING
 
@@ -788,9 +810,10 @@ I understand that without you telling me.#Amaboye
 
 そしてあの瑞紀は、共に戦うべき相手だ……
 > CONTEXT: Map459/events/5/pages/0/585/Dialogue/kazuya
-The bastard from my world is someone to defeat,
-while the Mizuki here is someone to fight
-side-by-side with.#Amaboye/iffy
+The version in my world is one I need to defeat...
+
+But the Mizuki here is someone I need to fight
+side-by-side with.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -798,6 +821,7 @@ side-by-side with.#Amaboye/iffy
 
 分かってるなら、いいんだけどね…。
 > CONTEXT: Map459/events/5/pages/0/589/Dialogue/sirousagi_fc1
-...
+......
+
 Well, as long as you understand...#Amaboye
 > END STRING

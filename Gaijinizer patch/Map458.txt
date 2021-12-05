@@ -72,8 +72,8 @@ seminaries and wizarding academies I saw, huh...#Amaboye
 > CONTEXT: Map458/events/2/pages/0/46/Dialogue/alice_fc5
 That being said, let alone people, I can't sense
 any life here at all.
-Tools and memoes are strewn over the floor too,
-is this usually such a messy place?#Amaboye
+Tools and paper are strewn over the floor too...
+Are these places usually so messy?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -183,10 +183,10 @@ Our only chance is with all the guests together...#Amaboye
 
 これはチェシャとボクも、完全に同意見だよ。
 > CONTEXT: Map458/events/2/pages/0/105/Dialogue/sirousagi_fc1
-This isn't some baseless fear or leeway, this is
+This isn't me worrying about nothing or just being
+overly cautious with the party size, this'll be
 the "bare minimum" for challenging that thing.
-
-I and Cheshire have the same opinion on this.#Amaboye/iffy
+Cheshire and I have the same opinion on this.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -400,8 +400,9 @@ Particularly in how you fight...#Amaboye
 ちょっとだけ身体が重いっていうか、
 うまく力が出せてないような気がする……
 > CONTEXT: Map458/events/9/pages/1/24/Dialogue/ruka_fc1
-Now that I think about it...
-my body feels a bit heavy?
+Now that I think about it... my body feels a bit
+heavy...
+
 Like I can't use my power that well...#Amaboye
 > END STRING
 
@@ -470,10 +471,9 @@ converting that into usable power for you.
 
 存分に暴れ回ってよ。
 > CONTEXT: Map458/events/9/pages/1/54/Dialogue/sirousagi_fc1
-The conversion process limits output a bit, but
-from what I saw earlier combat shouldn't be an
-issue.
-Go wild.#Amaboye
+The conversion process limits the output a bit,
+but from what I saw earlier, combat shouldn't be
+an issue. Go wild.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -620,7 +620,7 @@ to do.#Amaboye
 > CONTEXT: Map458/events/9/pages/1/118/Dialogue/sirousagi_fc1
 Well, basically I'll be going about as usual.
 
-You two and yami-chan, focus on protecting
+You two and Yami-chan, focus on protecting
 \\N[1]-kun.#Amaboye
 > END STRING
 
@@ -631,9 +631,9 @@ You two and yami-chan, focus on protecting
 \\C[0]人助けもいいけど、最優先の目的はそれだからね。
 > CONTEXT: Map458/events/9/pages/1/124/Dialogue/sirousagi_fc1
 For the time being, our goal is \\C[2]to find
-Cheshire's Tea Party guests.
-\\C[0]You can save people while you're at it, but
-this is our main objective.#Amaboye
+the guests for Cheshire's Tea Party.
+\\C[0]You can save people along the way, but
+that is our main objective.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -642,10 +642,10 @@ this is our main objective.#Amaboye
 \\C[0]早いところ全員揃えて
 チェシャのいるお茶会の会場に向かわないと……
 > CONTEXT: Map458/events/9/pages/1/129/Dialogue/sirousagi_fc1
-Counting this world, \\C[2]there are 2 "guests" left...
+Counting this world, \\C[2]there are two guests left...
 
 \\C[0]We need to quickly bring them together and head
-to Cheshire's Tea Party location.#Amaboye/iffy
+to Cheshire's Tea Party...#Amaboye
 > END STRING
 
 > BEGIN STRING
