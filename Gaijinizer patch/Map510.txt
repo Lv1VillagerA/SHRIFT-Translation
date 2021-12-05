@@ -3,8 +3,11 @@
 \\C[2]みんなが平和に生きている世界……
 
 誰も死なない世界……悪魔と人間が共存する世界……
-> CONTEXT: Map510/events/4/pages/0/3/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/3/Dialogue/enemy39
+\\C[2]A world where everyone lives in harmony.
 
+A world without death... where humans and demons
+can co-exist...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,8 +15,13 @@
 
 私が世界を喰らい尽くして、\\C[10]無の世界\\C[2]が完成した時には
 こんなちっぽけな空間じゃなくて、一つの世界を創造できる。
-> CONTEXT: Map510/events/4/pages/0/7/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/7/Dialogue/enemy39
+\\C[2]I can create any world you desire, Onii-chan.
+Once I've finished consuming worlds and the \\C[10]
+world of nothingness \\C[0]is complete...
 
+I can create an entire world just for us, and
+not a tiny space like this.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -21,16 +29,21 @@
 
 \\C[2]オールドワンの命令で世界を喰っているなら
 オールドワンのための世界を創るのが目的じゃないのか！？
-> CONTEXT: Map510/events/4/pages/0/13/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/13/Dialogue/kazuya
+But why? Why would you create a world for me?!!
+\\C[2]If you're devouring worlds on the orders of the
+Old One, wouldn't you be trying to create a world
+for *it* instead of me?!#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]私\\C[0]と\\C[10]マッドハッター\\C[0]は、決定的な違いがある。
 
 それは、\\C[6]相手\\C[0]の\\C[2]命令に背けるかどうか。
-> CONTEXT: Map510/events/4/pages/0/18/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/18/Dialogue/enemy39
+There's a fundamental difference between \\C[10]me \\C[0]and
+\\C[10]Mad Hatter\\C[0]. And that is \\C[2]our ability to disregard
+the orders we're given\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,8 +51,11 @@
 不要になったから、お兄ちゃんをあんな姿にしちゃうんだよ？
 
 \\C[2]あんなやつに、もうお兄ちゃんは渡さない
-> CONTEXT: Map510/events/4/pages/0/22/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/22/Dialogue/enemy39
+Just think about it...
+The moment it didn't need you anymore, it changed
+you into that Ubbo-Sathla form. \\C[2]We aren't about
+to hand you over to that kind of thing\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -47,44 +63,54 @@
 \\C[2]お兄ちゃんを永遠に独り占めしたい……
 
 \\C[0]私たちと一緒に、\\C[10]『介入のない世界』\\C[0]を創ろう？
-> CONTEXT: Map510/events/4/pages/0/27/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/27/Dialogue/enemy39
+I've turned strange just like Cheshire did.
+\\C[2]I want to have you all to myself...\\C[0]
+Let's make a world together, one without
+\\C[10]Interventions\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 なんでも創れる、なんでも思い通りになる。
 
 \\C[2]でも、\\N[1]にぃだけは、本物が欲しい。
-> CONTEXT: Map510/events/4/pages/0/33/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/33/Dialogue/enemy39
+We can make anything, change anything as we see
+fit. But we want the real \\N[1]-nii here
+with us.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]にぃ、一緒に幸せになろう？
 
 私たちと、そして\\N[1]にぃが愛する人たちと一緒に……
-> CONTEXT: Map510/events/4/pages/0/37/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/37/Dialogue/enemy39
+Let's be happy together.
 
+Together with us, and with the ones you love.#Ron
 > END STRING
 
 > BEGIN STRING
 アバドーンの世界を拒絶する
-> CONTEXT: Map510/events/4/pages/0/54/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/54/Choice/0
+Reject Abaddon's world#Ron
 > END STRING
 
 > BEGIN STRING
 アバドーンの世界を受け入れる
-> CONTEXT: Map510/events/4/pages/0/54/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/54/Choice/1
+Accept Abaddon's world#Ron
 > END STRING
 
 > BEGIN STRING
 …………ダメだ。
 
 お前が創る世界なんて、結局ニセモノだ。
-> CONTEXT: Map510/events/4/pages/0/57/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/57/Dialogue/kazuya-b
+I can't...
 
+This world you're going to create will be nothing
+but a fake.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -92,8 +118,11 @@
 こんな事をやっているっていうのは、十分伝わった。
 
 だけどそれでも、\\C[2]お前とだけは\\C[0]、一緒に行けない。
-> CONTEXT: Map510/events/4/pages/0/61/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/61/Dialogue/kazuya-b
+I understand the idea behind what you're trying
+to do here...
 
+But I \\C[2]can't leave everyone behind...\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -101,8 +130,11 @@
 
 例えどんなに辛くても……
 助けられない人が居ても……
-> CONTEXT: Map510/events/4/pages/0/66/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/66/Dialogue/kazuya-b
+My world... \\C[4]is the only one I have\\C[0]...
 
+No matter how hard things get...
+Or how many people I can't save...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -110,24 +142,31 @@
 
 きっと完璧じゃなくても、自分たちが居る世界を守ろうと
 必死でお前を倒そうとしている……
-> CONTEXT: Map510/events/4/pages/0/71/Dialogue/kazuya-b < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/71/Dialogue/kazuya-b
+And that's because everyone's there. They aren't
+perfect, but they're all desperately trying to
+protect the world they live in by defeating you.#Ron
 > END STRING
 
 > BEGIN STRING
 ルシィ、ニーナ、ティタノボア……そしてみんな……
 
 僕は\\C[9]キズナ\\C[0]で繋がっている、皆の元に帰るんだ…
-> CONTEXT: Map510/events/4/pages/0/76/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/76/Dialogue/kazuya-b
+Lucy, Nina, Titanoboa, along with everyone else...
 
+I'm connecting to them all by the \\C[9]bonds \\C[0]we share,
+and I'm going to go home to them.#Ron
 > END STRING
 
 > BEGIN STRING
 ……優しいね、お兄ちゃん。
 
 私はお兄ちゃん以外いらないのに……
-> CONTEXT: Map510/events/4/pages/0/83/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/83/Dialogue/enemy39
+You're so nice, Onii-chan.
 
+Even though we don't need anyone but you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -135,8 +174,11 @@
 
 \\C[0]あの悪魔たちとのキズナは、母さんよりも大事？
 両親やミカが死んだ事実を、本当に許容できるの？
-> CONTEXT: Map510/events/4/pages/0/87/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/87/Dialogue/enemy39
+\\C[2]But is that what you really want\\C[0]? Are the bonds
+with those demons more important than your mother?
+Can you really accept the death of Micah and your
+parents?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -144,8 +186,11 @@
 
 \\N[1]にぃがそう思ってしまっているのは
 \\C[10]介入者\\C[0]のせいだって。
-> CONTEXT: Map510/events/4/pages/0/92/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/92/Dialogue/enemy39
+I understand what's going on.
 
+It's the \\C[10]Intervener \\C[0]who's made you think that
+way.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -153,8 +198,10 @@
 
 \\C[10]介入者\\C[0]は、
 \\C[2]シェルターで目覚めるところからしか知らない
-> CONTEXT: Map510/events/4/pages/0/98/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/98/Dialogue/enemy39
+You've been alive for over 20 years, and yet the
+\\C[10]Intervener \\C[2]has only been with you since you woke
+up in the shelter.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -162,17 +209,21 @@
 あの悪魔たちのキズナへ贔屓目になるのは当然……
 
 \\C[10]お前は、私にとって邪魔な存在だ。
-> CONTEXT: Map510/events/4/pages/0/103/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/103/Dialogue/enemy39
+So it's no wonder that you've been made to think
+of the bonds with those demons in a positive
+light. \\C[10]You're nothing but a thorn in my side.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]出て行け！！！
 
 \\N[1]にぃから離れろ！！！
-> CONTEXT: Map510/events/4/pages/0/108/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map510/events/4/pages/0/136/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/108/Dialogue/enemy39
+> CONTEXT: Map510/events/4/pages/0/136/Dialogue/enemy39
+\\C[10]Get out!!!
 
+Get out of \\N[1]-nii!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -180,8 +231,11 @@
 \\N[1]お兄ちゃんは、私の世界を望んでいます。
 
 \\C[10]そしてあなたも賛同してくれた……
-> CONTEXT: Map510/events/4/pages/0/117/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/117/Dialogue/enemy39
+Did you hear that?
+\\N[1]-oniichan wants to live in my world.
 
+\\C[10]And you agreed to it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -189,8 +243,11 @@
 \\C[10]マッドハッター
 
 \\C[0]お兄ちゃんには、幸せになる権利があるのです。
-> CONTEXT: Map510/events/4/pages/0/122/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/122/Dialogue/enemy39
+It's about time you stopped meddling with his
+fate, \\C[10]Mad Hatter\\C[0].
 
+Onii-chan has the right to be happy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -198,16 +255,21 @@
 
 \\N[1]にぃは、今まで頑張ってきたんだもん！
 それくらい許されてトーゼンだよ！！
-> CONTEXT: Map510/events/4/pages/0/127/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/127/Dialogue/enemy39
+Life's a lot better when you can do fun stuff all
+the time, huh! \\N[1]-nii's been working so
+hard up till now, so it's only fair he gets to
+have at least that!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]もう、\\N[1]にぃは私たちのものだよ！！
 
 お前たちのものじゃない！！！
-> CONTEXT: Map510/events/4/pages/0/132/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/132/Dialogue/enemy39
+\\C[10]\\N[1]-nii belongs to us now!!
 
+He's not yours anymore!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -215,8 +277,11 @@
 
 \\C[10]お前なら、絶対に\\N[1]にぃに
 ついてきてるって思ったもん
-> CONTEXT: Map510/events/4/pages/0/170/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/170/Dialogue/enemy39
+I'm glad I noticed you earlier.
 
+\\C[10]Knowing you, I was sure you'd still be stuck
+to him\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -224,8 +289,11 @@
 
 \\C[0]わざわざ、お前の頭を喰いに行く必要がなくなった
 だってここは、私の腹の中だもの。
-> CONTEXT: Map510/events/4/pages/0/175/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map510/events/4/pages/0/175/Dialogue/enemy39
+You lost the moment you came here, \\C[10]Cheshire\\C[0].
+It means I don't have to bother actually eating
+the rest of you since you're now already inside
+my stomach.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -233,8 +301,11 @@
 
 \\C[10]こいつ\\C[0]が覗いてるって事は、お前もいる。
 単純なことだよね。
-> CONTEXT: Map510/events/4/pages/0/180/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/180/Dialogue/enemy39
+You're an \\C[10]Intervention Medium\\C[0]...
 
+So if you're here, then \\C[10]they \\C[0]can see into here
+as well.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -242,8 +313,11 @@
 
 そうすれば、こいつはもう\\C[10]介入できない\\C[0]
 本当の意味で、お兄ちゃんと二人っきりになれる。
-> CONTEXT: Map510/events/4/pages/0/204/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map510/events/4/pages/0/234/Dialogue/enemy39 < UNTRANSLATED
-> CONTEXT: Map510/events/4/pages/0/257/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map510/events/4/pages/0/204/Dialogue/enemy39
+> CONTEXT: Map510/events/4/pages/0/234/Dialogue/enemy39
+> CONTEXT: Map510/events/4/pages/0/257/Dialogue/enemy39
+We'll take all of your \\C[10]Intervention \\C[0]power.
 
+That'll stop them from being able to \\C[10]intervene\\C[0],
+and actually leave us alone with onii-chan.#Ron
 > END STRING

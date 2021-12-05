@@ -1,54 +1,64 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 ？？？「目を覚まして……」
-> CONTEXT: Map531/events/1/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map531/events/1/pages/0/16/Dialogue
+??? 「Wake up...」#Ron
 > END STRING
 
 > BEGIN STRING
 ちゃんと起きて……
 
 もう悪夢は……終わったから……
-> CONTEXT: Map531/events/1/pages/0/37/Dialogue/other7 < UNTRANSLATED
+> CONTEXT: Map531/events/1/pages/0/37/Dialogue/other7
+Make sure you wake up...
 
+Your nightmare... is over now...#Ron
 > END STRING
 
 > BEGIN STRING
 き……きみ……は……？
-> CONTEXT: Map531/events/1/pages/0/41/Dialogue/kazuya-d < UNTRANSLATED
-
+> CONTEXT: Map531/events/1/pages/0/41/Dialogue/kazuya-d
+W...Who... are you...?#Ron
 > END STRING
 
 > BEGIN STRING
 わたし、\\C[2]レイナ\\C[0]っていうの
 
 はじめまして……
-> CONTEXT: Map531/events/1/pages/0/43/Dialogue/other7 < UNTRANSLATED
+> CONTEXT: Map531/events/1/pages/0/43/Dialogue/other7
+I'm called \\C[2]Reina\\C[0]...
 
+Nice to meet you.#Ron
 > END STRING
 
 > BEGIN STRING
 あなたが泣いてる声がしたから………
 
 心配になって、見に来ちゃった。
-> CONTEXT: Map531/events/1/pages/0/47/Dialogue/other7 < UNTRANSLATED
+> CONTEXT: Map531/events/1/pages/0/47/Dialogue/other7
+I was worried because I heard you crying...
 
+So I came in to check on you.#Ron
 > END STRING
 
 > BEGIN STRING
 どうしたの？誰かにいじめられた？
 
 困ったことがあったら、私に言ってね？
-> CONTEXT: Map531/events/1/pages/0/51/Dialogue/other7 < UNTRANSLATED
+> CONTEXT: Map531/events/1/pages/0/51/Dialogue/other7
+Are you okay? No one's been bullying you?
 
+You can tell me if something's bothering you.#Ron
 > END STRING
 
 > BEGIN STRING
 悪夢………そうだ……
 
 僕は……ずっと……夢を見ていた……
-> CONTEXT: Map531/events/1/pages/0/57/Dialogue/kazuya-d < UNTRANSLATED
+> CONTEXT: Map531/events/1/pages/0/57/Dialogue/kazuya-d
+A nightmare... I see...
 
+It was... all... a long dream...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -56,8 +66,11 @@
 
 きみは………僕を恨んでいないのか……？
 償わなくちゃ………全部……
-> CONTEXT: Map531/events/1/pages/0/61/Dialogue/kazuya-d < UNTRANSLATED
+> CONTEXT: Map531/events/1/pages/0/61/Dialogue/kazuya-d
+No... the nightmare... isn't over...
 
+Don't you... resent me...?
+I have to atone... for everything...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,8 +78,11 @@
 
 私にも、手伝わせて？
 あなたの気が済む時まで、ずっとあなたの側にいるから…。
-> CONTEXT: Map531/events/1/pages/0/67/Dialogue/other7 < UNTRANSLATED
+> CONTEXT: Map531/events/1/pages/0/67/Dialogue/other7
+You don't have to bear everything alone...
 
+Let me help, okay?
+I'll stay by your side until you find peace.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -74,24 +90,30 @@
 
 でも、あなたなら………
 私の知っているあなたなら、きっとやり直せる……
-> CONTEXT: Map531/events/1/pages/0/72/Dialogue/other7 < UNTRANSLATED
-
+> CONTEXT: Map531/events/1/pages/0/72/Dialogue/other7
+It might take a long time... but knowing you...
+knowing the person you are... I'm sure you'll
+be able to start over.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 だから……悲しまないで……
 
 一緒に生きよう？
-> CONTEXT: Map531/events/1/pages/0/77/Dialogue/other7 < UNTRANSLATED
+> CONTEXT: Map531/events/1/pages/0/77/Dialogue/other7
+So don't be sad...
 
+Let's live on together...#Ron
 > END STRING
 
 > BEGIN STRING
 ……………彼は……
 
 この世界の僕は、やり直せるだろうか……？
-> CONTEXT: Map531/events/1/pages/0/87/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map531/events/1/pages/0/87/Dialogue/kazuya
+Can he... can this world's me...
 
+Really start over?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -99,8 +121,11 @@
 
 \\C[10]『その道に進んだ介入者』\\C[0]のせいとはいえ、
 彼自身が犯した人殺しの罪が消えるわけじゃない……
-> CONTEXT: Map531/events/1/pages/0/92/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map531/events/1/pages/0/92/Dialogue/enemy29
+This sounds harsh, but it might be hopeless...
+Though \\C[10]it was the fault of the Intervener who
+lead him down that path\\C[0], that doesn't absolve
+him of the sin of murder he committed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -108,16 +133,24 @@
 そのうえで、自分自身と向き合っていかなきゃならない……
 
 普通の生活さえ、きっととても長い年月がかかるだろう…
-> CONTEXT: Map531/events/1/pages/0/97/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map531/events/1/pages/0/97/Dialogue/enemy29
+From here he'll be taking whatever punishments he
+gets from the military and courts, getting
+psychiatric treatment, and having to come to grips
+with his own self.
+It'll probably take him a very long time before
+he can have anything approaching a normal life.#Ron
 > END STRING
 
 > BEGIN STRING
 でも………なんでだろうな……
 
 \\C[2]『きっと大丈夫』\\C[0]って、根拠のない確信がある……
-> CONTEXT: Map531/events/1/pages/0/105/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map531/events/1/pages/0/105/Dialogue/enemy29
+But though I don't have anything to base it on...
 
+It kind of feels like \\C[2]things will work out for
+him \\C[2]somehow...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -125,16 +158,20 @@
 
 キミにだったら、どんな不可能と思えることも出来てしまう…
 そんな気がするよ……
-> CONTEXT: Map531/events/1/pages/0/109/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map531/events/1/pages/0/109/Dialogue/enemy29
+I mean, he's \\N[1]-kun, after all.
 
+I get the feeling that nothing's impossible when
+it comes to you...#Ron
 > END STRING
 
 > BEGIN STRING
 そうだ、百鬼……！！
 
 ルシィや、ティタノボアやニーナたちは……！？
-> CONTEXT: Map531/events/1/pages/0/118/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map531/events/1/pages/0/118/Dialogue/kazuya
+Oh yeah, what about Hyakki, Lucy, Titanoboa,
+Nina, and the others...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -142,8 +179,11 @@
 
 \\C[2]アバドーンが倒されてから、真っ先に直したよ。
 ミズキちゃんの世界もね。
-> CONTEXT: Map531/events/1/pages/0/122/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map531/events/1/pages/0/122/Dialogue/enemy29
+Naturally, they're all safe and sound. \\C[2]With
+Abaddon defeated, they've all been restored to
+just before they were devoured. And that goes for
+Mizuki-chan's world, too.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -151,8 +191,11 @@
 
 今回の状況的に、仕方がなかったって事で
 なんとかお咎めなしにしてもらった。
-> CONTEXT: Map531/events/1/pages/0/127/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map531/events/1/pages/0/127/Dialogue/enemy29
+It was a bit of work to get Hyakki back after her
+existence itself was almost negated... but I
+managed to get it done without anyone asking
+too many questions.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -160,6 +203,9 @@
 
 ウボ＝サスラの侵攻も、犠牲になった命も含めて
 全て元通りに治まっているはずだよ。
-> CONTEXT: Map531/events/1/pages/0/132/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map531/events/1/pages/0/132/Dialogue/enemy29
+And by changing this timeline back to normal,
+the Ubbo-Sathla invasion and all the victims who
+lost their lives to it have been restored back
+to normal.#Ron
 > END STRING

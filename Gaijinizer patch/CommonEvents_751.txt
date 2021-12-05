@@ -18,8 +18,8 @@
 
 > BEGIN STRING
 ルカは膝をついた！
-> CONTEXT: CommonEvents_751/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_751/57/Dialogue
+Luka falls to his knees!#Ron
 > END STRING
 
 > BEGIN STRING

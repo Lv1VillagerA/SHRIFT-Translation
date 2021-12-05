@@ -5555,14 +5555,14 @@ Splash Fleuret#RonIffy
 
 > BEGIN STRING
 ダーク・メディション
-> CONTEXT: Skills/423/name < UNTRANSLATED
-
+> CONTEXT: Skills/423/name
+Dark Medition#Ron
 > END STRING
 
 > BEGIN STRING
 はダーク・メディションを放った！
-> CONTEXT: Skills/423/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/423/message1
+ unleashes Dark Medition!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7716,20 +7716,20 @@ Snake Glare#afrg
 
 > BEGIN STRING
 \\N[1]の衣服が煙を立てている……
-> CONTEXT: Skills/632/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/632/message2
+Smoke is coming off his clothes...#Ron
 > END STRING
 
 > BEGIN STRING
 溶解液
-> CONTEXT: Skills/632/name < UNTRANSLATED
-
+> CONTEXT: Skills/632/name
+Dissolving Liquid#Ron
 > END STRING
 
 > BEGIN STRING
 は溶解液を\\N[1]の身体に浴びせてきた！！
-> CONTEXT: Skills/632/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/632/message1
+ douses \\N[1] in Dissolving Liquid!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7754,9 +7754,9 @@ Did you want to see what would happen?#Ron
 
 > BEGIN STRING
 は禍々しい光線を放ってきた！！
-> CONTEXT: Skills/633/message1 < UNTRANSLATED
-> CONTEXT: Skills/634/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/633/message1
+> CONTEXT: Skills/634/message1
+ unleashes beams of sinister light!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7866,25 +7866,25 @@ Raid Scissor#afrg
 > BEGIN STRING
 妖しく蠢く膣内の触手が、\\N[1]の口内に入ってくる…
 > CONTEXT: Skills/650/message2
-Tentacles squirm in it, then crawl into \\N[1]'s mouth!#afrg
+Its lewdly squirming tentacles crawl into his mouth!#afrg/Ron
 > END STRING
 
 > BEGIN STRING
 イラマンニリングス
 > CONTEXT: Skills/650/name
-Ira Manni Rings#afrg
+Forced Cunnilingus#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]の頭を押さえつけ、膣で口を塞いだ！
 > CONTEXT: Skills/650/message1
- grabs \\N[1]'s head, covering his mouth with her vagina!#afrg
+ pushes herself down, forcing his mouth on her vagina!#afrg/Ron
 > END STRING
 
 > BEGIN STRING
 ブラシのような触手が絡みつき、精気がジュルジュルと吸い上げられていく…
 > CONTEXT: Skills/652/message2
-Brush-like tentacles coil around, slupring up his energy...#afrg
+Brush-like tentacles coil around, slurping up his energy...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -7943,14 +7943,14 @@ Sweet Boy#Ron
 
 > BEGIN STRING
 母蛇の慈愛遊戯
-> CONTEXT: Skills/663/name < UNTRANSLATED
-
+> CONTEXT: Skills/663/name
+Mother Snake's Affectionate Play#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]のペニスを包み込むように締め付けた
-> CONTEXT: Skills/663/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/663/message1
+ tightens around \\N[1]'s penis as if wrapping around it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7958,7 +7958,7 @@ Sweet Boy#Ron
 > CONTEXT: Skills/665/message2
 > CONTEXT: Skills/666/message2
 > CONTEXT: Skills/667/message2
-Like his spirit, all \\N[1]'s abilities are sucked away...#afrg
+His abilities are sucked out along with his energy...#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -7966,7 +7966,7 @@ Like his spirit, all \\N[1]'s abilities are sucked away...#afrg
 > CONTEXT: Skills/665/name
 > CONTEXT: Skills/666/name
 > CONTEXT: Skills/667/name
-Virtue: Ayashi Ayaka#MTLed
+Exquisite Skill: Bewitching Spirit#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7974,7 +7974,7 @@ Virtue: Ayashi Ayaka#MTLed
 > CONTEXT: Skills/665/message1
 > CONTEXT: Skills/666/message1
 > CONTEXT: Skills/667/message1
- hugs \\N[1] while patting his head...#afrg - incorrect?
+ is held by Daji as she gently strokes his head...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8153,20 +8153,20 @@ Melting Milky Hell Embrace#CheckLater
 
 > BEGIN STRING
 いやらしい音を立てながら、精気がどんどんと吸い取られていく…
-> CONTEXT: Skills/691/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/691/message2
+The tails make lewd noises as they sap his energy...#Ron
 > END STRING
 
 > BEGIN STRING
 テイルドレイン
-> CONTEXT: Skills/691/name < UNTRANSLATED
-
+> CONTEXT: Skills/691/name
+Tail Drain#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]の手足を尻尾に取り込んだ！
-> CONTEXT: Skills/691/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/691/message1
+s have sucked \\N[1]'s limbs into their tails...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8718,22 +8718,22 @@ It's over.#Triketos
 
 > BEGIN STRING
 遐ｴ貊
-> CONTEXT: Skills/753/name < UNTRANSLATED
-> CONTEXT: Skills/942/name < UNTRANSLATED
-
+> CONTEXT: Skills/753/name
+> CONTEXT: Skills/942/name
+\\X[50]Destruction#Ron
 > END STRING
 
 > BEGIN STRING
 は、混沌のエネルギーを爆発させた！
-> CONTEXT: Skills/753/message1 < UNTRANSLATED
-> CONTEXT: Skills/942/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/753/message1
+> CONTEXT: Skills/942/message1
+ detonates chaos energy!#Ron
 > END STRING
 
 > BEGIN STRING
 地獄の業火のような炎の渦が、アバドーンに襲いかかる！
-> CONTEXT: Skills/755/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/755/message2
+A vortex of hellfire flies toward Abaddon!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8750,14 +8750,14 @@ Deals high physical damage to an opponent.#Ron
 
 > BEGIN STRING
 鬼炎翔龍
-> CONTEXT: Skills/755/name < UNTRANSLATED
-
+> CONTEXT: Skills/755/name
+Oni's Soaring Dragon Flame#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、夜深は鬼炎翔龍を放った！
-> CONTEXT: Skills/755/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/755/message1
+ watches on as Yami unleashes Oni's Soaring Dragon Flame!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8902,20 +8902,20 @@ Special accident battles can occur against this monster.#Strate
 
 > BEGIN STRING
 神の怒りの炎が、アバドーンの身体を貫く！
-> CONTEXT: Skills/766/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/766/message2
+Godly flames of wrath pierce through Abaddon's body!#Ron
 > END STRING
 
 > BEGIN STRING
 メギドファイア
-> CONTEXT: Skills/766/name < UNTRANSLATED
-
+> CONTEXT: Skills/766/name
+Megido Fire#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、ミズキはメギドフレイムを放った
-> CONTEXT: Skills/766/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/766/message1
+ watches on as Mizuki unleashes Megido Fire!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9152,32 +9152,32 @@ Great physical damage to a single enemy.#MTLed
 
 > BEGIN STRING
 紅蓮の火炎が、アバドーンを包み込む…！！
-> CONTEXT: Skills/788/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/788/message2
+Abaddon is engulfed in crimson flames!!#Ron
 > END STRING
 
 > BEGIN STRING
 ヘルハウンド・グロリア
-> CONTEXT: Skills/788/name < UNTRANSLATED
-
+> CONTEXT: Skills/788/name
+Hellhound's Gloria#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、ミズキはオルトロスの連撃を浴びせた
-> CONTEXT: Skills/788/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/788/message1
+ watches Mizuki rain down repeated attacks with Orthrus!#Ron
 > END STRING
 
 > BEGIN STRING
 氷の塊が、アバドーンを包み込み、粉砕する！
-> CONTEXT: Skills/790/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/790/message2
+A mass of ice wraps around Abaddon and pulverizes him!#Ron
 > END STRING
 
 > BEGIN STRING
 ヘルハウンド・グラシア
-> CONTEXT: Skills/790/name < UNTRANSLATED
-
+> CONTEXT: Skills/790/name
+Hellhound's Glacier#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -9673,7 +9673,7 @@ Giddy pleasure swirls through his whole body!!#Ron
 > BEGIN STRING
 吟味の舌技
 > CONTEXT: Skills/837/name
-Probing Tongue Technique#RonLocalisation
+Probing Tongue Technique#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -9762,8 +9762,8 @@ Demon Queen's Play#Ron
 
 > BEGIN STRING
 その天使の力を纏った槍は、アバドーンを貫く！
-> CONTEXT: Skills/855/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/855/message2
+Filled with boundless angelic power, it pierces Abaddon!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9779,14 +9779,14 @@ Deals heavy fire damage to an enemy.#Ron
 
 > BEGIN STRING
 オタク・キャノン
-> CONTEXT: Skills/855/name < UNTRANSLATED
-
+> CONTEXT: Skills/855/name
+Otaku Cannon#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、聖騎士サイトウは槍を投擲した！！
-> CONTEXT: Skills/855/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/855/message1
+ watches on as the Holy Knight Saitou hurls his spear!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10292,7 +10292,7 @@ Sovereign's Insight#Ron
 > BEGIN STRING
 を守るために、夜深は意識を集中した！
 > CONTEXT: Skills/898/message1
-'s defense in mind, Yami centers herself.#RonLocalisation
+'s defense in mind, Yami centers herself.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -10357,52 +10357,54 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 \\N[1]の傷が、徐々に癒やされていく…
-> CONTEXT: Skills/902/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/902/message2
+\\N[1]'s wounds slowly heal up...#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 抵抗力を４回に分けて回復する。分けている意図は不明
-> CONTEXT: Skills/902/description < UNTRANSLATED
-
+> CONTEXT: Skills/902/description
+One of the support skills of the Mysterious Masked Man (P).
+Possibly unintentionally shares his Willpower four times.#Ron
 > END STRING
 
 > BEGIN STRING
 キャツベ
-> CONTEXT: Skills/902/name < UNTRANSLATED
-
+> CONTEXT: Skills/902/name
+CABBAGE#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはキャツベを放った！
-> CONTEXT: Skills/902/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/902/message1
+ watches on as P-chan unleashes CABBAGE!#Ron
 > END STRING
 
 > BEGIN STRING
 両手に風と雷の魔法を込めながら、Ｐちゃんが疾走する…！
-> CONTEXT: Skills/903/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/903/message2
+P-chan dashes forward with wind and lightning in his hands!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 相手に風と雷属性のダメージを5回与える
-> CONTEXT: Skills/903/description < UNTRANSLATED
-
+> CONTEXT: Skills/903/description
+One of the support skills of the Mysterious Masked Man (P).
+Deals Wind and Lightning damage to an enemy five times.#Ron
 > END STRING
 
 > BEGIN STRING
 ナンディオン
-> CONTEXT: Skills/903/name < UNTRANSLATED
-
+> CONTEXT: Skills/903/name
+Nandion#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはナンディオンを放った！
-> CONTEXT: Skills/903/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/903/message1
+ watches on as P-chan unleashes Nandion!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10420,7 +10422,7 @@ Prominence#Ron
 > BEGIN STRING
 の傍らで、アリスはプロミネンスを放った！
 > CONTEXT: Skills/905/message1
- hears Alice cast Prominence!#RonLocalisationIffy
+ hears Alice cast Prominence!#RonLocalizationIffy
 > END STRING
 
 > BEGIN STRING
@@ -10447,7 +10449,7 @@ Ice Age#Ron
 > BEGIN STRING
 の傍らで、アリスはアイスエイジを放った！
 > CONTEXT: Skills/906/message1
- hears Alice cast Ice Age!#RonLocalisationIffy
+ hears Alice cast Ice Age!#RonLocalizationIffy
 > END STRING
 
 > BEGIN STRING
@@ -10473,7 +10475,7 @@ Lightning#Ron
 > BEGIN STRING
 の傍らで、アリスはライトニングを放った！
 > CONTEXT: Skills/907/message1
- hears Alice cast Lightning!#RonLocalisation
+ hears Alice cast Lightning!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -10499,7 +10501,7 @@ Delta Aero#Ron
 > BEGIN STRING
 の傍らで、アリスはデルタエアロを放った！
 > CONTEXT: Skills/908/message1
- hears Alice cast Delta Aero!#RonLocalisationIffy
+ hears Alice cast Delta Aero!#RonLocalizationIffy
 > END STRING
 
 > BEGIN STRING
@@ -10784,147 +10786,154 @@ Focus#Ron
 
 > BEGIN STRING
 闇でできた大きな手が、敵を執拗に襲う…！
-> CONTEXT: Skills/923/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/923/message2
+Huge hands made of darkness relentlessly attack the enemy!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 相手に闇属性の大ダメージを与え、相手の全能力を下げる。
 > CONTEXT: Skills/923/description < UNTRANSLATED
-
+One of the support skills of the Mysterious Masked Man (P).
+Deals heavy Darkness damage and debuffs the enemy.#Ron
 > END STRING
 
 > BEGIN STRING
 ギル・メギド
-> CONTEXT: Skills/923/name < UNTRANSLATED
-
+> CONTEXT: Skills/923/name
+Gil Megido#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはギル・メギドを放った！
-> CONTEXT: Skills/923/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/923/message1
+ watches on as P-chan unleashes Gil Megido!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 \\N[1]の全能力を３ターン大幅上昇させる
-> CONTEXT: Skills/924/description < UNTRANSLATED
-
+> CONTEXT: Skills/924/description
+One of the support skills of the Mysterious Masked Man (P).
+Heavily buffs all of \\N[1]'s abilities for three turns.#Ron
 > END STRING
 
 > BEGIN STRING
 ヒーロータイム
-> CONTEXT: Skills/924/name < UNTRANSLATED
-
+> CONTEXT: Skills/924/name
+Hero Time#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはヒーロータイムを放った！
-> CONTEXT: Skills/924/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/924/message1
+ watches on as P-chan unleashes Hero Time!#Ron
 > END STRING
 
 > BEGIN STRING
 デュアルブレードでの、目にもとまらぬ乱舞が相手を襲う…！
-> CONTEXT: Skills/925/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/925/message2
+His twin blades attack in a dance too quick to follow!#Ron
 > END STRING
 
 > BEGIN STRING
 謎の仮面男【Ｐ】のサポートスキル
 相手に物理属性の８回ダメージを与える
-> CONTEXT: Skills/925/description < UNTRANSLATED
-
+> CONTEXT: Skills/925/description
+One of the support skills of the Mysterious Masked Man (P).
+Deals physical damage to an enemy eight times.#Ron
 > END STRING
 
 > BEGIN STRING
 ノヴァ・スラッシュ
-> CONTEXT: Skills/925/name < UNTRANSLATED
-
+> CONTEXT: Skills/925/name
+Nova Slash#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、Ｐちゃんはノヴァ・スラッシュを放った！
-> CONTEXT: Skills/925/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/925/message1
+ watches on as P-chan unleashes Nova Slash!#Ron
 > END STRING
 
 > BEGIN STRING
 ソテイラ・ヘカトスのサポートスキル
 相手に火炎の超特大ダメージを与える
-> CONTEXT: Skills/926/description < UNTRANSLATED
-
+> CONTEXT: Skills/926/description
+One of Hecatos Soteira's support skills.
+Inflicts incredibly high fire damage.#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、ヘカトスはサイガ・アグニを放った！
-> CONTEXT: Skills/926/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/926/message1
+ hears Psiga Agony being unleashed from behind!#Ron
 > END STRING
 
 > BEGIN STRING
 彼女を中心に、時空そのものが歪んでいく…！！
-> CONTEXT: Skills/927/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/927/message2
+Space and time are warping around her!!#Ron
 > END STRING
 
 > BEGIN STRING
 ソテイラ・ヘカトスのサポートスキル
 相手に万能の大ダメージを与え、全能力を下げる。
-> CONTEXT: Skills/927/description < UNTRANSLATED
-
+> CONTEXT: Skills/927/description
+One of Hecatos Soteira's support skills.
+Hits an enemy with huge Almighty damage and debuffs them.#Ron
 > END STRING
 
 > BEGIN STRING
 満月の女王
-> CONTEXT: Skills/927/name < UNTRANSLATED
-
+> CONTEXT: Skills/927/name
+Full Moon Queen#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 の傍らで、ヘカトスはその大きな鎌を回転させた！
-> CONTEXT: Skills/927/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/927/message1
+ sees Hecatos start spinning her huge scythes!#Ron
 > END STRING
 
 > BEGIN STRING
 ソテイラ・ヘカトスのサポートスキル
 味方全員の能力を大幅に強化する。
-> CONTEXT: Skills/928/description < UNTRANSLATED
-
+> CONTEXT: Skills/928/description
+One of Hecatos Soteira's support skills.
+Significantly buffs all of the party's abilities.#Ron
 > END STRING
 
 > BEGIN STRING
 魔女帝の号令
-> CONTEXT: Skills/928/name < UNTRANSLATED
-
+> CONTEXT: Skills/928/name
+Witch Empress' Order#RonIffy
 > END STRING
 
 > BEGIN STRING
 達に向けて、ヘカトスは号令を放った！
-> CONTEXT: Skills/928/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/928/message1
+'s party receives buffs from Hecatos!#Ron
 > END STRING
 
 > BEGIN STRING
 ソテイラ・ヘカトスのサポートスキル
 味方全員を全回復する。性欲も0にする。
-> CONTEXT: Skills/929/description < UNTRANSLATED
-
+> CONTEXT: Skills/929/description
+One of Hecatos Soteira's support skills.
+Heals the entire party and removes all lust.#Ron
 > END STRING
 
 > BEGIN STRING
 魔女帝の祝福
-> CONTEXT: Skills/929/name < UNTRANSLATED
-
+> CONTEXT: Skills/929/name
+Witch Empress' Blessing#Ron
 > END STRING
 
 > BEGIN STRING
 達に向けて、ヘカトスは祝福の呪文を放った！
-> CONTEXT: Skills/929/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/929/message1
+'s party receives a blessing from Hecatos!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11035,87 +11044,92 @@ Technique Conversion#Ron
 
 > BEGIN STRING
 全ての者への鎮魂歌
-> CONTEXT: Skills/936/name < UNTRANSLATED
-
+> CONTEXT: Skills/936/name
+Universal Requiem#Ron
 > END STRING
 
 > BEGIN STRING
 は全ての者への鎮魂歌を放った！
-> CONTEXT: Skills/936/message1 < UNTRANSLATED
-> CONTEXT: Skills/937/message1 < UNTRANSLATED
+> CONTEXT: Skills/936/message1
+ unleashes Universal Requiem!#Ron
+> END STRING
 
+> BEGIN STRING
+は全ての者への鎮魂歌を放った！
+> CONTEXT: Skills/937/message1
+ puts up his shield to defend himself!#Ron
 > END STRING
 
 > BEGIN STRING
 相手の攻撃を防ぐ体勢をとる
-> CONTEXT: Skills/937/description < UNTRANSLATED
-
+> CONTEXT: Skills/937/description
+Braces for an enemy's attack.#Ron
 > END STRING
 
 > BEGIN STRING
 盾
-> CONTEXT: Skills/937/name < UNTRANSLATED
-
+> CONTEXT: Skills/937/name
+Shield#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]の全身に力がみなぎる…！
-> CONTEXT: Skills/938/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/938/message2
+\\N[1]'s whole body fills with power!#Ron
 > END STRING
 
 > BEGIN STRING
 四大精霊の加護
-> CONTEXT: Skills/938/name < UNTRANSLATED
-
+> CONTEXT: Skills/938/name
+Protection of The Four Spirits#Ron
 > END STRING
 
 > BEGIN STRING
 に向かって、ルカは精霊たちを喚びだした！
-> CONTEXT: Skills/938/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/938/message1
+ hears Luka invoke the Spirits!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]の前方に、すさまじい魔力が展開される…！！
-> CONTEXT: Skills/939/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/939/message2
+Tremendous magic envelops the area in front of him!!#Ron
 > END STRING
 
 > BEGIN STRING
 魔王の暴虐
-> CONTEXT: Skills/939/name < UNTRANSLATED
-
+> CONTEXT: Skills/939/name
+Monster Lord's Tyranny#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、アリスは魔王の暴虐を放った！
-> CONTEXT: Skills/939/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/939/message1
+ watches on as Alice unleashes Monster Lord's Tyranny!#Ron
 > END STRING
 
 > BEGIN STRING
 その逞しい巨漢から繰り出される打撃が、アバドーンに襲いかかる！
 > CONTEXT: Skills/940/message2 < UNTRANSLATED
-
+The burly giant lunges at Abaddon with his attack!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 胴回し回転蹴り
-> CONTEXT: Skills/940/name < UNTRANSLATED
-
+> CONTEXT: Skills/940/name
+Full Body Roundhouse#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、中村は胴回し回転蹴りを放った
-> CONTEXT: Skills/940/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/940/message1
+ watches Nakamura perform a full body roundhouse kick!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 \\C[10]僕と君がここまで来られた理由
-> CONTEXT: Skills/941/description < UNTRANSLATED
-
+> CONTEXT: Skills/941/description
+\\C[10]The reason you and I could come this far.#Ron
 > END STRING
 
 > BEGIN STRING

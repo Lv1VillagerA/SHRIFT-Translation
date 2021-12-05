@@ -3,16 +3,20 @@
 クソッ……！！
 
 ナオキ！弾はあとどれくらいある……！？
-> CONTEXT: Map512/events/27/pages/0/4/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map512/events/27/pages/0/4/Dialogue/other8
+Damn it!!
 
+How much ammo do you have left, Naoki?!#Ron
 > END STRING
 
 > BEGIN STRING
 へへっ……さっきので打ち止めっス……
 
 ここまで…ですかね……
-> CONTEXT: Map512/events/27/pages/0/9/Dialogue/other8 < UNTRANSLATED
+> CONTEXT: Map512/events/27/pages/0/9/Dialogue/other8
+Hehe... I just ran out...
 
+I guess... this is it for us...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,36 +24,44 @@
 その辺の角材でぶん殴ってでも戦え！！
 
 このガキの居るコンテナだけは、死守するんだ…！
-> CONTEXT: Map512/events/27/pages/0/13/Dialogue/other8 < UNTRANSLATED
-
+> CONTEXT: Map512/events/27/pages/0/13/Dialogue/other8
+Stop whining! Use that block of wood to smack
+them if you have to! We've got to protect the
+container that kid's in at all costs!#Ron
 > END STRING
 
 > BEGIN STRING
 この穴はなんだ……！？
 
 どんどん増えていく……このままでは………
-> CONTEXT: Map512/events/27/pages/0/19/Dialogue/enemy4 < UNTRANSLATED
-
+> CONTEXT: Map512/events/27/pages/0/19/Dialogue/enemy4
+What are these holes?! More of them are starting
+to appear... if this keeps up...#Ron
 > END STRING
 
 > BEGIN STRING
 リズ………後悔してる？
 
 アタシと一緒に、ついてきたこと……
-> CONTEXT: Map512/events/27/pages/0/24/Dialogue/enemy5 < UNTRANSLATED
+> CONTEXT: Map512/events/27/pages/0/24/Dialogue/enemy5
+Liz...
 
+Do you regret being together with me...?#Ron
 > END STRING
 
 > BEGIN STRING
 ハッ、今更なんだい
 
 私はアンタが悔いがないなら、それで満足だよ、ハル。
-> CONTEXT: Map512/events/27/pages/0/29/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: Map512/events/27/pages/0/29/Dialogue/enemy7
+Ha, a little late for that...
 
+I'm happy as long as you don't have any regrets,
+Haru.#Ron
 > END STRING
 
 > BEGIN STRING
 …………ありがとう、リズ
-> CONTEXT: Map512/events/27/pages/0/34/Dialogue/enemy5 < UNTRANSLATED
-
+> CONTEXT: Map512/events/27/pages/0/34/Dialogue/enemy5
+Thanks...#Ron
 > END STRING

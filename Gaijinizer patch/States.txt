@@ -2051,20 +2051,20 @@ Ran away#Ron
 
 > BEGIN STRING
 ガードEX
-> CONTEXT: States/246/name < UNTRANSLATED
-
+> CONTEXT: States/246/name
+EX Guard#Ron
 > END STRING
 
 > BEGIN STRING
 は盾で防御した！
-> CONTEXT: States/246/message1 < UNTRANSLATED
-
+> CONTEXT: States/246/message1
+ is now in a guarded state!#Ron
 > END STRING
 
 > BEGIN STRING
 は防御体勢を解除した！
-> CONTEXT: States/246/message4 < UNTRANSLATED
-
+> CONTEXT: States/246/message4
+ returns to his normal stance!#Ron
 > END STRING
 
 > BEGIN STRING

@@ -3,16 +3,21 @@
 すごーい！！スフィンクスちゃん！！
 
 あんなにいたのに、もう全員やっつけちゃった！
-> CONTEXT: Map513/events/3/pages/0/14/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map513/events/3/pages/0/14/Dialogue/enemy30
+Amazing, Sphinx-chan!!
 
+There were so many and you got them all!#Ron
 > END STRING
 
 > BEGIN STRING
 ま、魔法の威力……すごいね……
 
 こんな特技があったんだ……
-> CONTEXT: Map513/events/3/pages/0/18/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map513/events/3/pages/0/18/Dialogue/enemy27
+T-The power of your magic is... quite something...
 
+I didn't realize you had those kinds of
+abilities.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -20,22 +25,27 @@
 
 ティターニアおばはんから貰ったこのゴボウがあれば
 あんな奴に負けないよ
-> CONTEXT: Map513/events/3/pages/0/23/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map513/events/3/pages/0/23/Dialogue/enemy39
+Fufuhn, magic's always been my strong suit.
 
+I won't lose to those Twins as long as I have this
+burdock I got from Auntie Titania.#Ron
 > END STRING
 
 > BEGIN STRING
 どうやって喋ってんだ、それ……
-> CONTEXT: Map513/events/3/pages/0/28/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map513/events/3/pages/0/28/Dialogue/enemy31
+How are you talking with that in your mouth?#Ron
 > END STRING
 
 > BEGIN STRING
 ゴボウではありません、妖精の杖です。
 
 まったく……
-> CONTEXT: Map513/events/3/pages/0/31/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map513/events/3/pages/0/31/Dialogue/enemy28
+It's not a burdock, it's a fairy wand.
 
+My goodness...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -43,8 +53,10 @@
 
 妖精の森に突如、あんな変な化け物が出てきて……
 挙げ句に空間に穴まで……
-> CONTEXT: Map513/events/3/pages/0/35/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map513/events/3/pages/0/35/Dialogue/enemy28
+But what's going on, anyway? First those strange
+monsters suddenly showed up in the Fairy Realm,
+and now all these holes are appearing...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -52,24 +64,32 @@
 根本的な解決方法がまったく分かりません………
 
 一体どうすれば……
-> CONTEXT: Map513/events/3/pages/0/40/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map513/events/3/pages/0/40/Dialogue/enemy28
+It looks like we've managed to hold them off for
+now, but I have no idea how to fix the root of
+the problem. Just what on earth are we supposed
+to do...?#Ron
 > END STRING
 
 > BEGIN STRING
 外のセかい……同じようニなってタ……
 
 街モ……公園も……穴だラけ……
-> CONTEXT: Map513/events/3/pages/0/46/Dialogue/enemy13 < UNTRANSLATED
+> CONTEXT: Map513/events/3/pages/0/46/Dialogue/enemy13
+ThE ouTSiDe woRlD... is tHe saME wAy...
 
+BotH tHE tOWN... aNd THe pArk...
+HoLEs evERywhEre...#Ron
 > END STRING
 
 > BEGIN STRING
 ここモ同じっテ事は、もしカして……
 
 世界そノモのが、壊レヨうトしてる……？
-> CONTEXT: Map513/events/3/pages/0/50/Dialogue/enemy13 < UNTRANSLATED
-
+> CONTEXT: Map513/events/3/pages/0/50/Dialogue/enemy13
+IF it'S tHE samE bOth hERe aND ouT thERe, dOes
+tHaT meAN tHeY're tRyinG to dESTroy thE wORlD
+itSELf...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -77,8 +97,11 @@
 
 ミナト　アイツラ　アフレテタ！
 アナモ　イッパイ！
-> CONTEXT: Map513/events/3/pages/0/54/Dialogue/enemy16 < UNTRANSLATED
+> CONTEXT: Map513/events/3/pages/0/54/Dialogue/enemy16
+Me hate them!
 
+They everywhere in harbor!
+Lots of holes too!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -86,14 +109,19 @@
 ボクはアイツらを出現次第撃退しておくよ
 
 まだまだ余力あるし。
-> CONTEXT: Map513/events/3/pages/0/60/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map513/events/3/pages/0/60/Dialogue/enemy39
+I don't really understand what these holes are
+all about, so I'll leave dealing with them to you
+guys while I deal with any more of those monsters
+appearing. I've still got plenty of juice left.#Ron
 > END STRING
 
 > BEGIN STRING
 正直あの程度なら、ボク一人で十分だもんね！
 
 \\C[2]もっと強いヤツとか出てきちゃったら分かんないけど……
-> CONTEXT: Map513/events/3/pages/0/65/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map513/events/3/pages/0/65/Dialogue/enemy39
+To be honest, I could probably deal with them all
+by myself if I had to! \\C[2]Things might go south if
+something actually powerful turns up, though...#Ron
 > END STRING

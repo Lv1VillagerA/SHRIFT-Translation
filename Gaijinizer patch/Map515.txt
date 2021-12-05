@@ -4,8 +4,11 @@
 
 マイルームのみんなも消えちゃうの。
 \\C[10]あなた\\C[0]と、\\N[1]のつながりも
-> CONTEXT: Map515/events/4/pages/0/21/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map515/events/4/pages/0/21/Dialogue/enemy39
+It's all over.
 
+Everyone in My Room has disappeared, along with
+\\C[10]your \\C[0]connection to \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13,8 +16,11 @@
 
 \\N[1]は、私たちが大事にするから……
 \\C[10]オールドワンなんかに、絶対渡さない。
-> CONTEXT: Map515/events/4/pages/0/44/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map515/events/4/pages/0/44/Dialogue/enemy39
+Don't worry, we'll take good care of him.
 
+We'll never hand him over to the likes of the
+\\C[10]Old One\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -22,54 +28,68 @@
 
 \\N[1]にだけは、手出しをさせない。
 私の大事なお兄ちゃんだから……
-> CONTEXT: Map515/events/4/pages/0/49/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map515/events/4/pages/0/49/Dialogue/enemy39
+Even if it manifests in this new world, he's the
+one thing we'll never let it meddle with. He's
+our precious onii-chan, after all...#Ron
 > END STRING
 
 > BEGIN STRING
 だってそれこそが、\\N[1]にぃの幸せなんだもん。
 
 まさか\\C[10]お前は、その幸せを踏みにじったりしないよね？
-> CONTEXT: Map515/events/4/pages/0/72/Dialogue/enemy39 < UNTRANSLATED
+> CONTEXT: Map515/events/4/pages/0/72/Dialogue/enemy39
+Because this is all about making \\N[1]-nii
+happy.
 
+\\C[10]And we won't let you trample on that\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]お前に出来るのは、この画面を閉じて
 
 \\N[1]にぃの新しい世界での幸せを祈ることだけ
-> CONTEXT: Map515/events/4/pages/0/76/Dialogue/enemy39 < UNTRANSLATED
-
+> CONTEXT: Map515/events/4/pages/0/76/Dialogue/enemy39
+\\C[10]All you can do is close the window and pray for
+his happiness in his new world.#Ron
 > END STRING
 
 > BEGIN STRING
 …………くん…………ごめん
 
 ボク……もう……
-> CONTEXT: Map515/events/4/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map515/events/4/pages/0/98/Dialogue
+......-kun...... I'm sorry......
 
+I... can't...#Ron
 > END STRING
 
 > BEGIN STRING
 ………を頼って…………ねがい……
 
 ……なら……なんとかしてくれる………
-> CONTEXT: Map515/events/4/pages/0/103/Dialogue < UNTRANSLATED
+> CONTEXT: Map515/events/4/pages/0/103/Dialogue
+...... please...... use the......
 
+... with that...... you should be able to......#Ron
 > END STRING
 
 > BEGIN STRING
 やり方………覚え………るよね？
 
 \\C[2]タイトル\\C[0]……\\C[2]で\\C[0]……………\\C[2]ボタン\\C[0]
-> CONTEXT: Map515/events/4/pages/0/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map515/events/4/pages/0/107/Dialogue
+...you remember...... how to......?
 
+\\C[2]Main menu\\C[0]...... \\C[2]those keys\\C[0]......#Ron
 > END STRING
 
 > BEGIN STRING
 お願い………
 
 …………救って\\.\\^
-> CONTEXT: Map515/events/4/pages/0/112/Dialogue < UNTRANSLATED
+> CONTEXT: Map515/events/4/pages/0/112/Dialogue
+Please...
 
+......Save\\.\\^
 > END STRING

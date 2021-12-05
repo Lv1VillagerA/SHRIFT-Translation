@@ -1,11 +1,11 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 \\N[1]は、キメラビーストに敗北してしまった……
-> CONTEXT: CommonEvents_789/107/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_789/142/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/362/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/387/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_789/107/Dialogue
+> CONTEXT: CommonEvents_789/142/Dialogue
+> CONTEXT: Troops/362/pages/0/17/Dialogue
+> CONTEXT: Troops/387/pages/0/18/Dialogue
+\\N[1] has been defeated by the Chimera Beast...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -22,25 +22,25 @@
 
 > BEGIN STRING
 \\N[1]は、ヴァシリカに敗北してしまった……
-> CONTEXT: CommonEvents_789/279/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_789/279/Dialogue
+\\N[1] has been defeated by Vasilica...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ウボ＝サスラに敗北してしまった……
-> CONTEXT: CommonEvents_789/313/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_789/347/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_789/313/Dialogue
+> CONTEXT: CommonEvents_789/347/Dialogue
+\\N[1] has been defeated by Ubbo-Sathla...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ベルゼバブに敗北してしまった……
-> CONTEXT: CommonEvents_789/382/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_789/382/Dialogue
+\\N[1] has been defeated by the Beelzebub...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、アバドーンに敗北してしまった……
-> CONTEXT: CommonEvents_789/414/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_789/414/Dialogue
+\\N[1] has been defeated by Abaddon...#Ron
 > END STRING
