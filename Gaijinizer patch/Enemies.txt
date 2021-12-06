@@ -3019,7 +3019,7 @@ An insect that spends its time indifferently devouring
 obsolete worlds. One day it happened to get its hands
 on a body that would allow it to manifest, attracting
 the Old One's attention. Seeing the strong-willed
-protagonist, idolized by the demons around him, it
+protagonist idolized by the demons around him, it
 started believing he could heal its loneliness.#RonLocalization
 > END STRING
 
@@ -3229,7 +3229,7 @@ it inspired Empuse's and Arachne's milking organs.#StrateLocalization
 本来は形を持たない、世界が成り立つための基本法則。
 『調律者』の手足となるために、その存在を定義されている。
 > CONTEXT: Enemies/626/BookDescription/2
-A fundamental, formless law by which the world exists,
+One of fundamental forces which makes up the universe,
 its existence defined as the servant of the "Tuner".
 Its role in carrying out Interventions to revise
 history and events comes with the ability to directly

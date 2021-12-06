@@ -6,7 +6,7 @@
 > CONTEXT: CommonEvents_802/128/Dialogue/other8 < UNTRANSLATED
 > CONTEXT: CommonEvents_802/163/Dialogue/other8 < UNTRANSLATED
 > CONTEXT: CommonEvents_802/178/Dialogue/other8 < UNTRANSLATED
-#CheckLater
+sssshhrrr...#Triketos
 > END STRING
 
 > BEGIN STRING
