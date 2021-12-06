@@ -3,8 +3,10 @@
 うふふっ……抵抗は終わりですか？
 
 私の勝ちのようですね。
-> CONTEXT: CommonEvents_799/3/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/3/Dialogue/beelzebub_fc2
+Ufufufu... have you finished resisting?
 
+It would seem it's my victory.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,24 +14,31 @@
 観念して、こちらにいらっしゃい、\\N[1]♡
 
 優しくしてあげますよ…♡
-> CONTEXT: CommonEvents_799/7/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/7/Dialogue/beelzebub_fc2
+Okay then, give up and come here, \\N[1]. ♡
 
+I'll be gentle... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 そうですね……少しサービスしてあげましょう…♡
 
 こういうのは…どうですか…？♡♡
-> CONTEXT: CommonEvents_799/99/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/99/Dialogue/beelzebub_fc2
+I know, I'll give you a little extra. ♡
 
+How about... this? ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 ああああああああああっぁっ……！♡♡♡
 
 なにこれえええええ…♡♡すごいいいぃぃ…♡
-> CONTEXT: CommonEvents_799/119/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/119/Dialogue/kazuya-0
+Aaaaaaaaaaaaaaaah! ♡♡♡
 
+What the heeeeell... ♡♡
+So gooooooooooood... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -37,32 +46,43 @@
 母乳によるヌルヌルが合わさって、更に密着感が増える…
 
 身体中がまんべんなく圧迫されて、気持ちが良いでしょう？
-> CONTEXT: CommonEvents_799/123/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_799/123/Dialogue/beelzebub_fc2
+Ufufu... ♡
+Combining the slickness of my breast milk
+further increases the tactile sensation of my
+breasts.
+The sense of pressure being applied evenly
+throughout your entire body feels good, right?#Ron
 > END STRING
 
 > BEGIN STRING
 これが、私の『抱乳溶獄』……♡♡
 
 たっぷり味わってくださいね…\\N[1]…♡♡
-> CONTEXT: CommonEvents_799/128/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/128/Dialogue/beelzebub_fc2
+I call it my "Melting Milky Hell Embrace"... ♡♡
 
+Please thoroughly enjoy it, \\N[1]... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 ああああああああああっ……♡♡♡
 
 あぁぁあ……ぁ……♡♡♡
-> CONTEXT: CommonEvents_799/200/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/200/Dialogue/kazuya-0
+Aaaaaaaaaaaaah... ♡♡♡
 
+Aaaah... aah... ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 うふふっ、もう身も心もトロトロのようですね…♡
 
 少し可愛がりすぎてしまいましたか……♡
-> CONTEXT: CommonEvents_799/204/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_799/204/Dialogue/beelzebub_fc2
+Looks like I've melted you in both body and
+mind. Did I go a little too far with my
+doting? ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -70,24 +90,29 @@
 搾り殺すような事はしませんよ…
 
 貴方はこれから、私と「子作り」するのですから…♡
-> CONTEXT: CommonEvents_799/208/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/208/Dialogue/beelzebub_fc2
+Please don't worry, I won't squeeze you to death.
 
+That's because we've got lots of babies to make. ♡
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ベルゼバブの下半身の拘束から解放され
 
 両腕に全身を抱きかかえられた……
-> CONTEXT: CommonEvents_799/216/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_799/216/Dialogue
+\\N[1] is released from the Beelzebub's lower half,
+only to be picked up and held in her arms...#RonIffyWording 
 > END STRING
 
 > BEGIN STRING
 んっ……♡♡♡
 
 んんっ……
-> CONTEXT: CommonEvents_799/236/Dialogue/kazuya-2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/236/Dialogue/kazuya-2
+Mmph... ♡♡♡
 
+Mmmmph...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -95,8 +120,11 @@
 
 今までよく頑張りましたね、\\N[1]…♡
 もう楽になってよいのですよ♡
-> CONTEXT: CommonEvents_799/240/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/240/Dialogue/beelzebub_fc2
+There, there... ♡
 
+You've been working so hard, \\N[1]... ♡
+But you can relax now. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -104,8 +132,11 @@
 
 貴方が射精した時に失われた栄養は
 私が母乳を飲ませて補ってあげます…♡
-> CONTEXT: CommonEvents_799/245/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/245/Dialogue/beelzebub_fc2
+I'll be taking care of you from now on. ♡
 
+You'll replenish the lost nutrients from
+ejaculating by drinking my breast milk. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -113,38 +144,47 @@
 普段とは違う、色々な効果が付与されているんですよ……
 
 \\C[10]世界融解\\C[0]の力というのは素晴らしいですね…♡
-> CONTEXT: CommonEvents_799/250/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_799/250/Dialogue/beelzebub_fc2
+But it's not just nutrients you'll get. Unlike
+normal milk, mine comes with all sorts of effects.
+\\C[10]World Fusion \\C[0]power really is wonderful, isn't
+it? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 んんんんっ……♡♡♡
 
 んんっ……！♡♡
-> CONTEXT: CommonEvents_799/257/Dialogue/kazuya-2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/257/Dialogue/kazuya-2
+Mmmmmmph... ♡
 
+Mmph! ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 ………そろそろ、いいでしょうね……
 
 私のお腹の卵も、準備が出来ました……
-> CONTEXT: CommonEvents_799/263/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/263/Dialogue/beelzebub_fc2
+...You should be ready about now...
 
+The eggs inside me are ready as well.#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ\\N[1]……お腹の力を抜いて……♡
 
 股をゆっくりと開くのです……
-> CONTEXT: CommonEvents_799/267/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/267/Dialogue/beelzebub_fc2
+Okay \\N[1], relax your lower half... ♡
 
+Slowly open your legs...#Ron
 > END STRING
 
 > BEGIN STRING
 ああああああああああっ……！？
-> CONTEXT: CommonEvents_799/273/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_799/273/Dialogue/kazuya-0
+Aaaaaaaaaaaaaaah?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -152,8 +192,11 @@
 
 貴方のお腹の中に、卵を産み付けているのです……
 一つ一つ……丁寧に……♡
-> CONTEXT: CommonEvents_799/275/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/275/Dialogue/beelzebub_fc2
+Don't struggle... ♡
 
+I'm laying my eggs inside you.
+One at a time... nice and carefully... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -161,16 +204,21 @@
 
 人間のオスでは味わえないこの感覚…
 たっぷりと楽しんでくださいな…♡
-> CONTEXT: CommonEvents_799/280/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/280/Dialogue/beelzebub_fc2
+Doesn't it feel good? ♡
 
+It's a sensation human males can never experience.
+So please savor it. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 がっ……！？あっ……♡
 
 うあぁぁぁ……♡
-> CONTEXT: CommonEvents_799/286/Dialogue/kazuya-2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/286/Dialogue/kazuya-2
+Gagh?! Aah... ♡
 
+Uwaaah... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -178,8 +226,10 @@
 
 アバドーンなどにも負けない
 きっと素晴らしい子供達が生まれます…
-> CONTEXT: CommonEvents_799/293/Dialogue/beelzebub_fc2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_799/293/Dialogue/beelzebub_fc2
+These are the eggs you so kindly covered in your
+seed. I'm sure they'll hatch into wonderful
+children stronger even than the likes of Abaddon.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -187,16 +237,22 @@
 その卵を、貴方に産み付ける……
 
 そうやって、軍団を増やしていくのです……
-> CONTEXT: CommonEvents_799/298/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/298/Dialogue/beelzebub_fc2
+After they've hatched, you'll cum inside me again,
+and then I'll lay those eggs inside you...
 
+That's how we'll raise an army.#Ron
 > END STRING
 
 > BEGIN STRING
 これから毎日、愉しい日が続きますよ…♡
 
 幸せにしてあげますからね…\\N[1]…♡
-> CONTEXT: CommonEvents_799/303/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/303/Dialogue/beelzebub_fc2
+Every day will be fun from now on. ♡
 
+Because I'll be here to make you happy,
+\\N[1]... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -204,8 +260,11 @@
 
 感じますか…？貴方のお腹……
 こんなにも元気に脈打って……♡
-> CONTEXT: CommonEvents_799/358/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/358/Dialogue/beelzebub_fc2
+Aah, \\N[1]... ♡
 
+Can you feel them inside you?
+They're pulsating so energetically... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -213,8 +272,11 @@
 ここまでの大きさに成長するなんて……♡
 
 やはり、私の見込みは正しかった…♡♡
-> CONTEXT: CommonEvents_799/363/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/363/Dialogue/beelzebub_fc2
+To think they'd grow this large in their larva
+stage.
 
+I knew I was right about you. ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -222,32 +284,42 @@
 
 いっぱいおっぱいを飲んで、
 元気な子供たちを産んでくださいね…♡
-> CONTEXT: CommonEvents_799/368/Dialogue/beelzebub_fc2 < UNTRANSLATED
+> CONTEXT: CommonEvents_799/368/Dialogue/beelzebub_fc2
+Those are our children inside you, \\N[1]. ♡
 
+Please have your fill of my breast milk and give
+birth to healthy children. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 とりかえしのつかない事……
 
 人としての大きな過ちが、僕のお腹で蠢いている……
-> CONTEXT: CommonEvents_799/378/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_799/378/Dialogue
+There's no going back from this...
 
+Letting her put those things squirming in my belly was a
+huge mistake as a human...#RonLocalization
 > END STRING
 
 > BEGIN STRING
 目の前の快楽に夢中になるあまり……
 
 こんなおぞましい結末すら、想像できなかったのだ……
-> CONTEXT: CommonEvents_799/382/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_799/382/Dialogue
+I got too carried away with the pleasure.
 
+I would never have imagined things would end up in this
+disgusting way.#Ron
 > END STRING
 
 > BEGIN STRING
 だけど、身体はそんな考えとは裏腹に
 
 この期に及んで、彼女の母乳を飲もうと必死に吸い付く……
-> CONTEXT: CommonEvents_799/386/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_799/386/Dialogue
+But my body, clearly taking the opposite view, is still
+desperately clinging to her breasts and drinking her milk.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -255,8 +327,10 @@
 
 失ったとき……僕は本当の意味での侵略者になる……
 ベルゼバブの子供達の、産みの親として……
-> CONTEXT: CommonEvents_799/390/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_799/390/Dialogue
+It's over when I lose this last scrap of reason. The moment
+that's gone, I'll effectively become a part of their
+invading forces as the parent of the Beelzebub's children.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -264,14 +338,17 @@
 
 快楽を伴う刺激で、お腹がぐるぐると蠢き
 その個々の存在を主張している……
-> CONTEXT: CommonEvents_799/395/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_799/395/Dialogue 
+But as if to mock my thoughts, the many individuals inside
+me assert themselves by squirming round and round in my
+belly, giving me a jolt of pleasurable stimulation at the
+same time...#Ron
 > END STRING
 
 > BEGIN STRING
 僕の理性は……
 
 一体いつまで保つだろうか……
-> CONTEXT: CommonEvents_799/400/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_799/400/Dialogue
+Just how long... will I be able to stay sane...?#Ron
 > END STRING

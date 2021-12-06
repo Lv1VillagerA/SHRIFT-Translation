@@ -3358,8 +3358,16 @@ LボタンとRボタンを押しっぱなしにしておくんだ
 『タイトル画面から次の画面に切り替わる』まで
 押しっぱなしにしておくんだよ
 =================================================="
-> CONTEXT: Scripts/テキスト出力/324:12 < UNTRANSLATED
+> CONTEXT: Scripts/テキスト出力/324:12
+"Sender: Hyakki
+Subject: No subject
 
+《Body》==========================================
+When you get to the start screen, hold down the L and R buttons
+as you hit 'START'. If you're on a keyboard, that should be the Q
+and W keys. Either way, hold down those two until you get to
+the next screen.
+=============================================="#Ron
 > END STRING
 
 > BEGIN STRING

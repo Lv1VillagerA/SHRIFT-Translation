@@ -87,8 +87,8 @@ salamander things?#Ron
 > BEGIN STRING
 
 ひどく身体がだるい………
-> CONTEXT: Map193/events/25/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map193/events/25/pages/0/27/Dialogue
+I feel incredibly worn out...#Ron
 > END STRING
 
 > BEGIN STRING

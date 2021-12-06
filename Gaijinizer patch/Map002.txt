@@ -2639,36 +2639,40 @@ Do you want to view this scene?#Ron
 
 > BEGIN STRING
 "ヒント：単独のキメラビーストに負ける"
-> CONTEXT: Map002/events/1/pages/0/2977/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2977/InlineScript/2:1
+"Hint: Lose to a single Chimera Beast"
 > END STRING
 
 > BEGIN STRING
 単独 en(s[696])
-> CONTEXT: Map002/events/1/pages/0/2991/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2991/Choice/0
+Solo en(s[696])#Ron
 > END STRING
 
 > BEGIN STRING
 集団 en(s[697])
-> CONTEXT: Map002/events/1/pages/0/2991/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2991/Choice/1
+Group en(s[697])#Ron
 > END STRING
 
 > BEGIN STRING
 【キメラビースト】：単独搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2995/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2995/Dialogue
+[Chimera Beast]: Solo Squeezing
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【キメラビースト】：集団搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3013/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3013/Dialogue
+[Chimera Beast]: Group Squeezing
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2729,14 +2733,14 @@ Vampire if(s[767])#Ron
 
 > BEGIN STRING
 ヴァシリカ if(s[764])
-> CONTEXT: Map002/events/1/pages/0/3095/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3095/Choice/2
+Vasilica if(s[764])#Ron
 > END STRING
 
 > BEGIN STRING
 ウボ＝サスラ if(s[765])
-> CONTEXT: Map002/events/1/pages/0/3095/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3095/Choice/3
+Ubbo-Sathlaif(s[765])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2751,20 +2755,20 @@ Vampire if(s[767])#Ron
 
 > BEGIN STRING
 "ヒント：通常ボス戦闘時に負ける"
-> CONTEXT: Map002/events/1/pages/0/3109/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3109/InlineScript/2:1
+"Hint: Lose during normal boss fight."#Ron
 > END STRING
 
 > BEGIN STRING
 子供あやし en(s[762])
 > CONTEXT: Map002/events/1/pages/0/3115/Choice/0
-Child's Play en(s[762])#CheckLater
+Child Charmeren(s[762])#RonLocalization
 > END STRING
 
 > BEGIN STRING
 大人あやし en(s[763])
-> CONTEXT: Map002/events/1/pages/0/3115/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3115/Choice/1
+Adult Charmeren(s[763])#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -2772,17 +2776,19 @@ Child's Play en(s[762])#CheckLater
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/3119/Dialogue
-[High Lamia]: Child's Play
+[High Lamia]: Child Charmer
 
-Do you want to watch this scene?#Ron
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【ハイラミア】：大人あやし
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3139/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3139/Dialogue
+[High Lamia]: Adult Charmer
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2813,50 +2819,58 @@ Milking#Dargoth
 【ヴァソ】：搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3205/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3205/Dialogue
+[Vanmpire]: Milking
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 捕食回帰
-> CONTEXT: Map002/events/1/pages/0/3234/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3234/Choice/0
+Predation Regression#Ron
 > END STRING
 
 > BEGIN STRING
 【ウボ＝サスラ】：捕食回帰
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3238/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3238/Dialogue
+[Ubbo-Sathla]: Predation Regression
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 アバドーン if(s[766])
-> CONTEXT: Map002/events/1/pages/0/3257/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3257/Choice/0
+Abaddon if(s[766])#Ron
 > END STRING
 
 > BEGIN STRING
 "全てを終わらせる"
-> CONTEXT: Map002/events/1/pages/0/3272/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3272/InlineScript/2:1
+"End everything"#Ron
 > END STRING
 
 > BEGIN STRING
 【アバドーン】：捕食
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3281/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3281/Dialogue
+[Abaddon]: Predation
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【アバドーン】：？？？
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3297/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3297/Dialogue
+[Abaddon]: ???
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING

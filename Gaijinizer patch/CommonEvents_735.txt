@@ -1,12 +1,12 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 んぐっ……！
-> CONTEXT: CommonEvents_735/46/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: CommonEvents_783/9/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: CommonEvents_803/9/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: CommonEvents_803/70/Dialogue/kazuya-5 < UNTRANSLATED
-> CONTEXT: Map238/events/1/pages/0/138/Dialogue/kazuya-4 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_735/46/Dialogue/kazuya-5
+> CONTEXT: CommonEvents_783/9/Dialogue/kazuya-5
+> CONTEXT: CommonEvents_803/9/Dialogue/kazuya-5
+> CONTEXT: CommonEvents_803/70/Dialogue/kazuya-5
+> CONTEXT: Map238/events/1/pages/0/138/Dialogue/kazuya-4
+Nngh!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -14,82 +14,97 @@
 触手に完全に絡みつかれてしまった……
 
 \\C[2]性器が膣のような穴にがっちり咥え込まれている……
-> CONTEXT: CommonEvents_735/48/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_803/72/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_735/48/Dialogue
+> CONTEXT: CommonEvents_803/72/Dialogue
+\\N[1] is completely wrapped up in tentacles...
 
+\\C[2]His sexual organ is being held tightly in a vagina-like
+orifice...#Ron
 > END STRING
 
 > BEGIN STRING
 くすくす……
 
 おいしいね、お兄ちゃん♡
-> CONTEXT: CommonEvents_735/53/Dialogue/enemy7 < UNTRANSLATED
-> CONTEXT: CommonEvents_803/77/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: CommonEvents_735/53/Dialogue/enemy7
+> CONTEXT: CommonEvents_803/77/Dialogue/enemy7
+Kusukusu...
 
+You're delicious, Onii-chan. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 くすくす……そうだね
 
 いーっぱい味わって食べてあげるね…♡
-> CONTEXT: CommonEvents_735/57/Dialogue/enemy7 < UNTRANSLATED
-> CONTEXT: CommonEvents_803/81/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: CommonEvents_735/57/Dialogue/enemy7
+> CONTEXT: CommonEvents_803/81/Dialogue/enemy7
+Kusukusu... he really is.
 
+We're really going to savor your taste as we
+eat you... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ぐうっ…！！
-> CONTEXT: CommonEvents_735/100/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_784/163/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Map054/events/11/pages/1/169/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Map263/events/11/pages/1/169/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_735/100/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_784/163/Dialogue/kazuya-0
+> CONTEXT: Map054/events/11/pages/1/169/Dialogue/kazuya-0
+> CONTEXT: Map263/events/11/pages/1/169/Dialogue/kazuya-0
+Gugh!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、アバドーンの口からなんとか抜け出した！
-> CONTEXT: CommonEvents_735/102/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_784/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_735/102/Dialogue
+> CONTEXT: CommonEvents_784/165/Dialogue
+\\N[1] has managed to escape from Abaddon's mouth!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん！\\C[2]服を着て！！
 
 アイツ、\\N[1]くんの裸に興奮してる！！！
-> CONTEXT: CommonEvents_735/113/Dialogue/enemy30 < UNTRANSLATED
-> CONTEXT: CommonEvents_784/178/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: CommonEvents_735/113/Dialogue/enemy30
+> CONTEXT: CommonEvents_784/178/Dialogue/enemy30
+Get your clothes on, \\N[1]-kun!!
 
+It's getting aroused seeing you naked!!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{\\{はあっ！？？
-> CONTEXT: CommonEvents_735/117/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: CommonEvents_784/182/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_735/117/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_784/182/Dialogue/kazuya-0
+\\{\\{\\{Hah?!!#Ron
 > END STRING
 
 > BEGIN STRING
 分かるの！アイツの目線、ずっと股間だもの！
 
 ガチ勢だから、私には分かるの！
-> CONTEXT: CommonEvents_735/119/Dialogue/enemy30 < UNTRANSLATED
-> CONTEXT: CommonEvents_784/184/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: CommonEvents_735/119/Dialogue/enemy30
+> CONTEXT: CommonEvents_784/184/Dialogue/enemy30
+It's been staring at your crotch this whole time!
 
+I know what it's like to be hardcore into someone,
+so I can tell!#RonIffy
 > END STRING
 
 > BEGIN STRING
 「ガチ勢」…？？？？
-> CONTEXT: CommonEvents_735/123/Dialogue/alice_fc5 < UNTRANSLATED
-> CONTEXT: CommonEvents_784/188/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_735/123/Dialogue/alice_fc5
+> CONTEXT: CommonEvents_784/188/Dialogue/alice_fc5
+"Hardcore"?!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん、とにかく\\C[2]服を着て！
 
 じゃないと、また口の中に放り込まれちゃう！！
-> CONTEXT: CommonEvents_735/125/Dialogue/enemy30 < UNTRANSLATED
-> CONTEXT: CommonEvents_784/190/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: CommonEvents_735/125/Dialogue/enemy30
+> CONTEXT: CommonEvents_784/190/Dialogue/enemy30
+Anyway, just put your clothes on!
 
+You'll end up in its mouth again if you don't!!#Ron
 > END STRING

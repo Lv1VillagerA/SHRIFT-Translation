@@ -1,8 +1,8 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 …………どうやら、上手くいったようですね。
-> CONTEXT: Map538/events/5/pages/0/7/Dialogue/yuuma < UNTRANSLATED
-
+> CONTEXT: Map538/events/5/pages/0/7/Dialogue/yuuma
+...It seems everything went well.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10,8 +10,10 @@
 世話が焼けるんだから、\\N[1]ってば
 
 あーんな不安そうな顔しちゃってさ。
-> CONTEXT: Map538/events/5/pages/0/10/Dialogue/enemy19 < UNTRANSLATED
-
+> CONTEXT: Map538/events/5/pages/0/10/Dialogue/enemy19
+That \\N[1], he's always needing someone to
+bail him out. He had such a worried look on his
+face.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -19,8 +21,11 @@
 あんな風にされちゃ、虚勢だって張っちゃうわよ。
 
 やっぱり、今後も私たちがしっかり支えてあげなくちゃね
-> CONTEXT: Map538/events/5/pages/0/15/Dialogue/enemy19 < UNTRANSLATED
-
+> CONTEXT: Map538/events/5/pages/0/15/Dialogue/enemy19
+Having the prospect of your existence being erased
+is scary, even for a demon. But we had to put on a
+brave face for him. We'll have to make sure we
+keep supporting him from here on out, too.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -28,16 +33,20 @@
 
 アイツは態度こそ優男で頼りないけど
 やるときはきっちり決める男さ。
-> CONTEXT: Map538/events/5/pages/0/21/Dialogue/enemy14 < UNTRANSLATED
-
+> CONTEXT: Map538/events/5/pages/0/21/Dialogue/enemy14
+Hmph! I believed in him from the start. He comes
+across as a pretty unreliable, effeminate guy,
+but he pulls through when push comes to shove.#Ron
 > END STRING
 
 > BEGIN STRING
 久々に外で思いきり暴れられて、スカッとしたよ
 
 さぁて、二階で昼寝でもするかねぇ……
-> CONTEXT: Map538/events/5/pages/0/26/Dialogue/enemy14 < UNTRANSLATED
-
+> CONTEXT: Map538/events/5/pages/0/26/Dialogue/enemy14
+It was so refreshing to cut loose outside like
+that, but I think I'll go upstairs and take a
+nap or something.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,14 +54,17 @@
 
 こちらで「目覚めた」ときのために
 とびきりの夕食を作って待つ事にしましょう……
-> CONTEXT: Map538/events/5/pages/0/31/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: Map538/events/5/pages/0/31/Dialogue/yuuma
+Fufu, it sure was.
 
+Let's make a huge feast and wait for him to
+"wake up".#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]………
 
 よく頑張りましたね……
-> CONTEXT: Map538/events/5/pages/0/36/Dialogue/yuuma < UNTRANSLATED
-
+> CONTEXT: Map538/events/5/pages/0/36/Dialogue/yuuma
+You've worked hard, \\N[1]...#Ron
 > END STRING

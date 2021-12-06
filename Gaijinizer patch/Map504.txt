@@ -4,24 +4,30 @@
 
 　　少し遠くの山で、この教会を眺めていた……
 　　儀式の成功を願って……」
-> CONTEXT: Map504/events/3/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map504/events/3/pages/0/0/Dialogue
+* 「On the day of the ceremony, we both walked up a
+    mountain a little ways away from here and watched
+    the church, hoping that the ceremony would be a
+    success.」#Ron
 > END STRING
 
 > BEGIN STRING
 ＊「だが、時間が経ってしばらくして
 
 　　教会の方角から見えたのは、黒い煙の柱……」
-> CONTEXT: Map504/events/3/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map504/events/3/pages/0/5/Dialogue
+* 「But after some time passed, we started to see black
+    pillars of smoke rising in the direction of the
+    church...」#Ron
 > END STRING
 
 > BEGIN STRING
 ＊「私も、妻も
 
 　　儀式で何かあったのではないかと、急いで向かったんだ」
-> CONTEXT: Map504/events/3/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map504/events/3/pages/0/9/Dialogue
+* 「Fearing that something had happened during the
+    ceremony, both my wife and I hurried over here.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,16 +35,18 @@
 
 　　お前の安否が含まれていたかどうかは……
 　　正直、自分でも分からない……」
-> CONTEXT: Map504/events/3/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map504/events/3/pages/0/13/Dialogue
+* 「As to whether that fear also included concern for
+    your safety... Honestly, even I'm not sure...」#Ron
 > END STRING
 
 > BEGIN STRING
 ＊「私が心配していたのは、我が子としてのお前なのか
 
 　　それとも、儀式の器としてのお前なのか……」
-> CONTEXT: Map504/events/3/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map504/events/3/pages/0/18/Dialogue
+* 「I don't know whether I was worried about you as my
+    child, or as the vessel for the ceremony...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -46,16 +54,19 @@
 　　私自身にも分からないんだよ。
 
 　　それが本心なのか、嘘なのかさえ……」
-> CONTEXT: Map504/events/3/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map504/events/3/pages/0/22/Dialogue
+* 「Even if I told you after all this time that I loved
+    you... I don't know myself whether that would be
+    the truth or a lie...」#Ron
 > END STRING
 
 > BEGIN STRING
 ＊「きっと、私があなたに感じている感情は
 
 　　愛ではなく、愛着なんだと思う」
-> CONTEXT: Map504/events/4/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map504/events/4/pages/0/0/Dialogue
+* 「I'm sure that what I felt for you all this time
+    wasn't love, but attachment.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -63,16 +74,24 @@
 　　あなたが嬉しそうに私をママと呼ぶことよりも……
 
 　　生け贄に捧げる日が近付くことの方が数倍嬉しかった……」
-> CONTEXT: Map504/events/4/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map504/events/4/pages/0/4/Dialogue
+* 「Even when I saw your innocent, smiling face... Even
+    when you'd call me "mommy" with that happy look in
+    your eyes...
 
+    None of that made me anywhere near as happy as knowing
+    that the day we'd sacrifice you was drawing ever
+    closer.」#Ron
 > END STRING
 
 > BEGIN STRING
 ＊「でも……何故かしらね………
 
 　　苦しかったのよ。あの日だけは……」
-> CONTEXT: Map504/events/4/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map504/events/4/pages/0/9/Dialogue
+* 「But... for some reason...
 
+    It was also painful...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -80,21 +99,25 @@
 
 　　あなたを特別な存在にしたかったから……
 　　私の子供を、唯一無二にしたかったから……」
-> CONTEXT: Map504/events/4/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map504/events/4/pages/0/13/Dialogue
+* 「As part of my effort to make absolute sure the
+    ceremony would be a success, I wanted to make you
+    into someone special. I wanted to make my child
+    into someone unique.」#RonIffy
 > END STRING
 
 > BEGIN STRING
 ＊「こんな自分勝手な感情が……
 
 　　親から子への愛であって……たまるもんですか……」
-> CONTEXT: Map504/events/4/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map504/events/4/pages/0/18/Dialogue
+* 「Were these selfish feelings the result of pent-up
+    love from a parent to a child...?」#Ron
 > END STRING
 
 > BEGIN STRING
 邪神教会
-> CONTEXT: Map504/display_name < UNTRANSLATED
-> CONTEXT: Map509/display_name < UNTRANSLATED
-
+> CONTEXT: Map504/display_name
+> CONTEXT: Map509/display_name
+Evil Deity's Church#Ron
 > END STRING

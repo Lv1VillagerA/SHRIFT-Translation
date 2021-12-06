@@ -493,7 +493,7 @@ Chimera Beast#Ron
 > CONTEXT: Enemies/361/name
 > CONTEXT: Enemies/362/name
 > CONTEXT: Enemies/363/name
-Abyss Abaddon#Ron
+Abyssal Abaddon#Ron
 > END STRING
 
 > BEGIN STRING
@@ -533,25 +533,25 @@ Vasilica#Ron
 
 > BEGIN STRING
 ウボ＝サスラ
-> CONTEXT: Enemies/384/name < UNTRANSLATED
-> CONTEXT: Enemies/385/name < UNTRANSLATED
-> CONTEXT: Enemies/397/name < UNTRANSLATED
-
+> CONTEXT: Enemies/384/name
+> CONTEXT: Enemies/385/name
+> CONTEXT: Enemies/397/name
+Ubbo-Sathla#Ron
 > END STRING
 
 > BEGIN STRING
 奈落蟲アバドーン
-> CONTEXT: Enemies/387/name < UNTRANSLATED
-> CONTEXT: Enemies/388/name < UNTRANSLATED
-> CONTEXT: Enemies/389/name < UNTRANSLATED
-> CONTEXT: Enemies/399/name < UNTRANSLATED
-
+> CONTEXT: Enemies/387/name
+> CONTEXT: Enemies/388/name
+> CONTEXT: Enemies/389/name
+> CONTEXT: Enemies/399/name
+Hell Locust Abaddon#Ron
 > END STRING
 
 > BEGIN STRING
 双子になりたかったもの
-> CONTEXT: Enemies/390/name < UNTRANSLATED
-
+> CONTEXT: Enemies/390/name
+The Would-Be Twins#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3000,35 +3000,40 @@ to defeat her found the tables turned on them.#StrateLocalization
 
 > BEGIN STRING
 【EX】奈落蟲アバドーン
-> CONTEXT: Enemies/618/name < UNTRANSLATED
-
+> CONTEXT: Enemies/618/name
+[EX] Hell Locust Abaddon#Ron
 > END STRING
 
 > BEGIN STRING
 すべての攻撃に強い
-> CONTEXT: Enemies/618/BookAttribute/0 < UNTRANSLATED
-
+> CONTEXT: Enemies/618/BookAttribute/0
+Resists All#Ron
 > END STRING
 
 > BEGIN STRING
 世界を喰らう蟲、多元宇宙におけるゴミ処理係とも。
 奈落にて淡々と口元に来る廃れた世界を喰らっていたが
 とあるきっかけで実体化に必要な身体を手にすることになる。
-> CONTEXT: Enemies/618/BookDescription/2 < UNTRANSLATED
-
+> CONTEXT: Enemies/618/BookDescription/2
+An insect that spends its time indifferently devouring
+obsolete worlds. One day it happened to get its hands
+on a body that would allow it to manifest, attracting
+the Old One's attention. Seeing the strong-willed
+protagonist idolized by the demons around him, it
+started believing he could heal its loneliness.#RonLocalization
 > END STRING
 
 > BEGIN STRING
 オールドワンに目を付けられ、協力する過程で
-> CONTEXT: Enemies/618/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/618/BookDescription/5
+ #LeftBlank
 > END STRING
 
 > BEGIN STRING
 悪魔に慕われ、強い意志を見せる主人公を見ているうちに
 彼こそが自身の奈落での孤独を癒やしてくれると盲信していた。
-> CONTEXT: Enemies/618/BookDescription/6 < UNTRANSLATED
-
+> CONTEXT: Enemies/618/BookDescription/6
+ #LeftBlank
 > END STRING
 
 > BEGIN STRING
@@ -3216,15 +3221,20 @@ it inspired Empuse's and Arachne's milking organs.#StrateLocalization
 
 > BEGIN STRING
 ■マッドハッター
-> CONTEXT: Enemies/626/name < UNTRANSLATED
-
+> CONTEXT: Enemies/626/name
+■ Mad Hatter#Ron
 > END STRING
 
 > BEGIN STRING
 本来は形を持たない、世界が成り立つための基本法則。
 『調律者』の手足となるために、その存在を定義されている。
-> CONTEXT: Enemies/626/BookDescription/2 < UNTRANSLATED
-
+> CONTEXT: Enemies/626/BookDescription/2
+One of fundamental forces which makes up the universe,
+its existence defined as the servant of the "Tuner".
+Its role in carrying out Interventions to revise
+history and events comes with the ability to directly
+eliminate others. Like White Rabbit, it's been shown
+to be multiple separate but synonymous beings.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -3232,21 +3242,26 @@ it inspired Empuse's and Arachne's milking organs.#StrateLocalization
 直接相手を消去するような能力も持ち合わせているようだ。
 白兎と同じで、同義存在が複数いることが確認されているが
 『調律者』が管理するため、それぞれ別個性となっているらしい。
-> CONTEXT: Enemies/626/BookDescription/4 < UNTRANSLATED
-
+> CONTEXT: Enemies/626/BookDescription/4
+ #LeftBlank
 > END STRING
 
 > BEGIN STRING
 ■ウボ＝サスラ
-> CONTEXT: Enemies/627/name < UNTRANSLATED
-
+> CONTEXT: Enemies/627/name
+■ Ubbo-Sathla#Ron
 > END STRING
 
 > BEGIN STRING
 無の世界に生命を創るために
 オールドワンが創り出した外来生命体（エイリアン）
-> CONTEXT: Enemies/627/BookDescription/3 < UNTRANSLATED
-
+> CONTEXT: Enemies/627/BookDescription/3
+An almost alien life-form unleashed by the Old One to
+create life in its world of nothingness. Its primary
+behavior is to collect "raw material" in its egg-like
+organs and bring it back to the Old One. Lacking overt
+sexual organs but classified as female, it uses its
+mucus to force submission through pleasure.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -3254,21 +3269,26 @@ it inspired Empuse's and Arachne's milking organs.#StrateLocalization
 オールドワンの元に持ち帰る事を行動原理としている。
 搾精器官は備わっていないが、性別はメスに分類されており
 その粘液には、相手を屈服させる快楽刺激が含まれるという。
-> CONTEXT: Enemies/627/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/627/BookDescription/5
+ #LeftBlank
 > END STRING
 
 > BEGIN STRING
 ■サマエル・アポストル
-> CONTEXT: Enemies/628/name < UNTRANSLATED
-
+> CONTEXT: Enemies/628/name
+■ Apostle Samael#Ron
 > END STRING
 
 > BEGIN STRING
 サマエルの力を、鎧として纏った人間の姿。
 ルカとマリオンによってかろうじて制御できていたが
-> CONTEXT: Enemies/628/BookDescription/3 < UNTRANSLATED
-
+> CONTEXT: Enemies/628/BookDescription/3
+A human figure clad in Samael's power as armor. Kept
+barely under control by Luka and Marion, it is an
+entity with a much greater thirst for destruction than
+Samael. If it had been unleashed in the multiverse,
+it would've gone on to destroy a world every second
+at random. Far worse than what Abaddon was planning.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -3276,21 +3296,26 @@ it inspired Empuse's and Arachne's milking organs.#StrateLocalization
 もし、多元宇宙に放たれるようなことがあったならば
 世界を秒速で無作為に壊し渡り歩いてゆく
 アバドーンよりも最悪な次元天災になっていただろう。
-> CONTEXT: Enemies/628/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/628/BookDescription/5
+ #LeftBlank
 > END STRING
 
 > BEGIN STRING
 ■オールドワン
-> CONTEXT: Enemies/629/name < UNTRANSLATED
-
+> CONTEXT: Enemies/629/name
+■ Old One#Ron
 > END STRING
 
 > BEGIN STRING
 虚無より生まれし名も無き王。
 その存在はクトゥルフ神話に起因すると考えられるが
-> CONTEXT: Enemies/629/BookDescription/3 < UNTRANSLATED
-
+> CONTEXT: Enemies/629/BookDescription/3
+A nameless ruler of nothingness born of the void.
+Often thought to have come from the Cthulhu myths, it
+is in fact not an old god, nor a former ruler of the
+cosmos. It acts through the protagonist to get
+Interveners drunk on the pleasure of killing, increase
+its followers, and solidify its existence.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -3298,6 +3323,6 @@ it inspired Empuse's and Arachne's milking organs.#StrateLocalization
 『オールドワン』も、間に合わせの呼称でしかないため
 主人公を通して、介入者を虐殺の愉悦で酔わせて操り
 自身の『信仰者』を増やし、その存在を確かなものにしようとした。
-> CONTEXT: Enemies/629/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/629/BookDescription/5
+ #LeftBlank
 > END STRING
