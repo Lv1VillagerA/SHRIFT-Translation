@@ -17,10 +17,10 @@ from here is nothing but a speck...#Ron
 それがこうやって束ねられて、星に形容されて……
 視覚情報として出されると、これまた途方もない話だね…
 > CONTEXT: Map537/events/7/pages/0/12/Dialogue/enemy29
-Even though the parallel worlds of the Official
-timeline are bundled together like this, in the
-shape of stars and visually displayed, it's
-a pretty crazy thing...#RonIffy
+Even among worlds with the same history, there's
+an almost infinite number of variations, and yet
+here they are, bundled up and appearing like
+stars in the sky... What an absurd view.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -140,9 +140,9 @@ what, I suppose I'll take you on.#Ron
 イレギュラー個体を処断する。
 > CONTEXT: Map537/events/7/pages/0/161/Dialogue/kureo_adora_fc1
 Class Zero Cross-World Contact detected...
-Second Law Corruption Rate of 0.986%...
+Second Law Corruption Rate of 98.6%...
 
-Passing sentence on irregularity...#Ron
+Executing irregularity...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -224,10 +224,8 @@ AAAAAAAAAAAH!! THANK GOD!!!
 
 
 
-If I'd actually gotten involved with Luka-kun
-back there, I would've definitely gotten the
-blame! And I'd get far worse than defying orders
-to be formatted!!#RonIffy
+Dealing with Luka directly would have ruined me!
+No way they'd stop at reformatting me for that...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -287,8 +285,11 @@ That's why this job never gets boring. ♪#Ron
 …………そろそろ限界か。
 
 ま、大目に見てくれてた方だよね……
-> CONTEXT: Map537/events/7/pages/0/256/Dialogue/enemy29 < UNTRANSLATED
-#CheckLater
+> CONTEXT: Map537/events/7/pages/0/256/Dialogue/enemy29
+...Well, I'm about at my limit.
+
+I can't complain though, they've been pretty
+lenient with me about all this.#Ron
 > END STRING
 
 > BEGIN STRING

@@ -131,9 +131,10 @@ I was summoned by Daji-sama...#Ron
 
 ツッコミ過多というか、ボケ過多というか……
 > CONTEXT: Map539/events/1/pages/0/342/Dialogue/other2
-But there were so many there already, I didn't
-really need to go. There were too many others
-making quips and comebacks...#RonIffy
+Seemed like there was no point in me going because
+so many others were already there. The rest of the
+cast was already making too many jokes, so there
+was no more room for more comedic relief...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -142,6 +143,8 @@ making quips and comebacks...#RonIffy
 あんだけ人数が居れば
 自然にボケもツッコミも入っちゃうからね……
 > CONTEXT: Map539/events/1/pages/0/346/Dialogue/kazuya
-I suppose it would be hard to make natural quips
-when there's so many people there.#RonIffyWording
+Ah, yeah...
+
+I suppose it would be hard to do your usual
+routine when it's so crowded.#Ron
 > END STRING

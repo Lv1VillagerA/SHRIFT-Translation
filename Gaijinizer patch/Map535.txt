@@ -491,9 +491,10 @@ you and Marion, though...#Ron
 　ボクの方で『責任問題』になってもイヤだし……
 　とりあえず対処しましたって事実を作っておこう……）
 > CONTEXT: Map535/events/7/pages/0/359/Dialogue/enemy29
-(It won't actually do much, but I don't want
- to be the one getting the blame for this, so I'll
- make it a fact that I dealt with it for now.)#CheckLater
+(Erasing his memories won't actually fix the
+ problem, but I don't want his mess to land on
+ my plate. So I'll just pretend I fixed it for
+ now.)#Ron
 > END STRING
 
 > BEGIN STRING

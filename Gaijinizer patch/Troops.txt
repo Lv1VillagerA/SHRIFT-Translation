@@ -18240,9 +18240,9 @@ What?! \\C[2]You dropped it in the hole?!
 『銃をぶん投げる事』って認識で間違いないか…！？
 > CONTEXT: Troops/371/pages/0/229/Dialogue/kazuya
 Nakamura!!
-\\C[2]Am I right in thinking that the condition for
-Marion generating angelic power is that he
-believes he's "throwing a gun"?!#RonIffy
+\\C[2]Am I right in saying that Marion's angelic
+power activates when he believes he's
+"throwing a gun"?!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -18335,7 +18335,7 @@ such a pathetic form the true rest it deserves.#RonIffyWording
 
 　　　　私も、素直にならねばならないようです……」
 > CONTEXT: Troops/371/pages/2/13/Dialogue
-??? 「But it looks like just this one...
+??? 「But it looks like just this once...
 
       I'll have to meekly give up.」#Ron
 > END STRING
