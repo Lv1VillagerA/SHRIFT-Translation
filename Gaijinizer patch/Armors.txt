@@ -949,14 +949,15 @@ Worn-Out Collar#Ron
 > BEGIN STRING
 この物語を終結させた者に贈られる指輪。
 \\C[10]黒狐実装はもうちょっと待ってね★
-> CONTEXT: Armors/85/description < UNTRANSLATED
-
+> CONTEXT: Armors/85/description
+A ring given to those who've finished the story.
+\\C[10]Please wait a little longer for Black Kitsune. ★#Ron
 > END STRING
 
 > BEGIN STRING
 絆の指輪
-> CONTEXT: Armors/85/name < UNTRANSLATED
-
+> CONTEXT: Armors/85/name
+Ring of Bonding#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1308,6 +1309,6 @@ Platinum Box[Black Dog]#Ron
 
 > BEGIN STRING
 白金の箱【ヴァシリカ】
-> CONTEXT: Armors/221/name < UNTRANSLATED
-
+> CONTEXT: Armors/221/name
+Platinum Box[Vasilica]#Ron
 > END STRING
