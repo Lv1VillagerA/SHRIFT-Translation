@@ -8135,20 +8135,20 @@ Energy Sucking Tail#afrg
 
 > BEGIN STRING
 ヌルヌルの乳房の波が、\\N[1]の身体を玩ぶ……
-> CONTEXT: Skills/689/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/689/message2
+The waves of slippery breasts toy with his body...#Ron
 > END STRING
 
 > BEGIN STRING
 抱乳溶獄
-> CONTEXT: Skills/689/name < UNTRANSLATED
-
+> CONTEXT: Skills/689/name
+Melting Milky Hell Embrace#CheckLater
 > END STRING
 
 > BEGIN STRING
 は大量のおっぱいで\\N[1]をもみくちゃにした！
-> CONTEXT: Skills/689/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/689/message1
+ crushes \\N[1] with a huge number of breasts!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11264,12 +11264,12 @@ Judgment Day#Ron
 
 > BEGIN STRING
 食らいつき
-> CONTEXT: Skills/953/name < UNTRANSLATED
-
+> CONTEXT: Skills/953/name
+Bite#Ron
 > END STRING
 
 > BEGIN STRING
 は\\N[1]に食らいついてきた！
-> CONTEXT: Skills/953/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/953/message1
+ bites at \\N[1]!#Ron
 > END STRING

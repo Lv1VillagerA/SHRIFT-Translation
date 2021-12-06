@@ -9,14 +9,14 @@ Predation#Ron
 
 > BEGIN STRING
 交尾
-> CONTEXT: CommonEvents_806/3/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_806/3/Choice/1
+Mating#Ron
 > END STRING
 
 > BEGIN STRING
 パイズリ
-> CONTEXT: CommonEvents_806/3/Choice/2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_806/3/Choice/2
+Paizuri#Ron
 > END STRING
 
 > BEGIN STRING
@@ -24,8 +24,11 @@ Predation#Ron
 
 こちらが安全に搾ってあげると言っているのに
 おかしな人ね……
-> CONTEXT: CommonEvents_806/5/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/5/Dialogue/highslag_fc1
+Oh? You'd like to be eaten?
 
+And after I said I wouldn't hurt you, you're a
+strange human...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -33,16 +36,21 @@ Predation#Ron
 
 私に捕食される人間は、溶かされる過程で
 その刺激で何度もイってしまうから……♡
-> CONTEXT: CommonEvents_806/10/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_806/10/Dialogue/highslag_fc1
+But it's not like I don't understand. The humans
+I eat end up cumming countless times from the
+pleasurable stimulation of being melted. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あなたも、あの刺激に病みつきになってしまったのね…？
 
 いいわ……食べてあげる…♡
-> CONTEXT: CommonEvents_806/15/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/15/Dialogue/highslag_fc1
+And it looks like you've gotten yourself addicted
+to that stimulation.
 
+That's fine... I'll eat you... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -50,16 +58,20 @@ Predation#Ron
 股の方はギンギンじゃない…♡♡
 
 こうして欲しかったんでしょう…♡
-> CONTEXT: CommonEvents_806/59/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_806/59/Dialogue/highslag_fc1
+Fufufu... though you might be making those
+pathetic little cries, your crotch is eager and
+ready to go. Isn't this what you wanted? ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 はあっ…♡
 
 はあっ…♡
-> CONTEXT: CommonEvents_806/65/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/65/Dialogue/kazuya-0
+Haah... ♡
 
+Haah... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -67,16 +79,20 @@ Predation#Ron
 やっぱりこの時の獲物の顔は、無様で素敵だわ…♡
 
 食べられているのに、恍惚に浸ったその顔…♡
-> CONTEXT: CommonEvents_806/69/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_806/69/Dialogue/highslag_fc1
+Fufu, though you may be my darling, the look on
+your face when I prey on you is wonderful. ♡
+Even though you're being eaten, you have a look
+of complete ecstasy on your face. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 こうやって身体を少し舐ってあげれば
 
 オスはすぐに堕ちちゃうのだから、単純よね…♡
-> CONTEXT: CommonEvents_806/74/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_806/74/Dialogue/highslag_fc1
+It's simple to make males instantly fall for me
+when I lick their bodies like this. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -84,8 +100,11 @@ Predation#Ron
 
 私のスカートの中にいらっしゃい…♡
 自分で頭を突っ込むの…♡
-> CONTEXT: CommonEvents_806/94/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_806/94/Dialogue/highslag_fc1
+Now then, it's about time I start properly
+squeezing you out. Come into my skirt. ♡
+I want you to put your head inside it of your own
+volition. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -93,8 +112,11 @@ Predation#Ron
 
 「食べてください」っていう意思表示…♡
 それをしっかり、私に見せて…♡
-> CONTEXT: CommonEvents_806/99/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/99/Dialogue/highslag_fc1
+Think you can do it, \\N[1]?
 
+It'd be like asking me to eat you. ♡
+Come on, show me... ♡#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -102,8 +124,11 @@ Predation#Ron
 
 私の身体に夢中になる\\N[1]……♡
 今となっては、それすらも愛おしいわ…♡
-> CONTEXT: CommonEvents_806/145/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/145/Dialogue/highslag_fc1
+Aaah... how unsightly... ♡
 
+The fact alone that you're so obsessed with my
+body makes you adorable... ♡♡#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -111,8 +136,11 @@ Predation#Ron
 私の加虐的な性格との相性が抜群と言っていたけど…
 
 あながち誇大表現ではなかったのかもしれないわね…♡
-> CONTEXT: CommonEvents_806/150/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_806/150/Dialogue/highslag_fc1
+Abaddon said my sadistic personality was a
+perfect match for this sort of thing... maybe
+that wasn't as much of an exaggeration as I
+thought... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -120,8 +148,11 @@ Predation#Ron
 
 私との交尾がしたいのね…♡
 そうこなくちゃ♡♡
-> CONTEXT: CommonEvents_806/195/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/195/Dialogue/highslag_fc1
+Fufufu... ♡
 
+You want to mate with me? ♡
+That's the spirit. ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -129,6 +160,9 @@ Predation#Ron
 
 ここに貴方の欲望を吐き出したいのね…♡
 いいわよ……貴方の頼みですもの♡
-> CONTEXT: CommonEvents_806/294/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/294/Dialogue/highslag_fc1
+Fufufu... ♡
 
+You wish to release your lust into here? ♡
+I don't mind, if that's what you want. ♡#Ron
 > END STRING

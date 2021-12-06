@@ -1281,11 +1281,12 @@ Platinum Box[Anaon]#Triketos
 > BEGIN STRING
 これを装備してベッドで眠ると、箱の閉鎖空間に引き込まれる。
 該当の悪魔と会うことができる
-> CONTEXT: Armors/218/description < UNTRANSLATED
-> CONTEXT: Armors/219/description < UNTRANSLATED
-> CONTEXT: Armors/220/description < UNTRANSLATED
-> CONTEXT: Armors/221/description < UNTRANSLATED
-
+> CONTEXT: Armors/218/description
+> CONTEXT: Armors/219/description
+> CONTEXT: Armors/220/description
+> CONTEXT: Armors/221/description
+Have this equipped when sleeping to meet the entity
+this box corresponds to.#Ron
 > END STRING
 
 > BEGIN STRING

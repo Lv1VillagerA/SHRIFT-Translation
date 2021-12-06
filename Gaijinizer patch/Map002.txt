@@ -2739,8 +2739,8 @@ Vasilica if(s[764])#Ron
 
 > BEGIN STRING
 ウボ＝サスラ if(s[765])
-> CONTEXT: Map002/events/1/pages/0/3095/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3095/Choice/3
+Ubbo-Sathlaif(s[765])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2827,44 +2827,50 @@ Do you want to view this scene?#Ron
 
 > BEGIN STRING
 捕食回帰
-> CONTEXT: Map002/events/1/pages/0/3234/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3234/Choice/0
+Predation Regression#Ron
 > END STRING
 
 > BEGIN STRING
 【ウボ＝サスラ】：捕食回帰
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3238/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3238/Dialogue
+[Ubbo-Sathla]: Predation Regression
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 アバドーン if(s[766])
-> CONTEXT: Map002/events/1/pages/0/3257/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3257/Choice/0
+Abaddon if(s[766])#Ron
 > END STRING
 
 > BEGIN STRING
 "全てを終わらせる"
-> CONTEXT: Map002/events/1/pages/0/3272/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/3272/InlineScript/2:1
+"End everything"#Ron
 > END STRING
 
 > BEGIN STRING
 【アバドーン】：捕食
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3281/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3281/Dialogue
+[Abaddon]: Predation
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【アバドーン】：？？？
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/3297/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/3297/Dialogue
+[Abaddon]: ???
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
