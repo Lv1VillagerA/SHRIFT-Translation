@@ -139,9 +139,9 @@ Weren't you supposed to erase my memories first?#Ron
 モヤが消えた\\C[0]みたいな体験に置き換わっているはずだ。
 > CONTEXT: Map536/events/7/pages/0/77/Dialogue/enemy29
 It's been set up to erase them the instant you
-cross through the gate. \\C[2]In your case, it should
-be configured to show some strange haze that
-disappears the moment you touch it\\C[0].#RonIffy
+cross through the gate. \\C[2]In your case, you'll
+simply remember reaching out for that strange
+haze, and it disappearing as you touch it\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -335,8 +335,8 @@ him becoming the leader of humanity one day?#Ron
 > CONTEXT: Map536/events/7/pages/0/197/Dialogue/enemy35
 He doesn't wish to go that far...
 
-I think he wants his valor to be passed down later
-to humanity as a whole to inspire them...#RonIffyWording
+I think he wants tales of his heroism to be passed
+down to later generations to inspire them....#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -354,8 +354,8 @@ biased one way or the other.#Ron
 
 こんなボケッとしたやつに、出来るのかしら？
 > CONTEXT: Map536/events/7/pages/0/211/Dialogue/コラボ^ヴァソ
-Can a blank-faced guy like this really become
-an "inspiration to humanity"?#Ron
+Is a blank-faced guy like this really going
+to have stories written about him?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -456,7 +456,7 @@ so it probably won't be a problem.#Ron
 > CONTEXT: Map536/events/7/pages/0/284/Dialogue/enemy38
 That's about right...
 
-That's the reason I still wear my summoners to
+That's the reason I still wear my summoner to
 school.#Ron
 > END STRING
 
@@ -541,7 +541,7 @@ You've got a little too much life experience.#Ron
 縁があれば、我らの違う姿とも相見えることもあろうが
 その時は、貴様の力を見定めさせてもらおう。
 > CONTEXT: Map536/events/7/pages/0/338/Dialogue/enemy37
-Farewell, demon-subjugator. If fate wills it, we
+Farewell, demon tamer. If fate wills it, we
 may yet again see each other when we're in
 different forms. We'll have you show us your
 power when that day comes.#Ron
@@ -661,7 +661,7 @@ you want until you're satisfied.#Ron
 この\\C[10]介入\\C[2]が終われば、ボクは初期化されるだろうから
 > CONTEXT: Map536/events/7/pages/0/412/Dialogue/enemy29
 But still... \\C[2]this will probably be the last time
-we ever meet since I'll be formatted if this
+we ever meet, since I'll be formatted if this
 \\C[10]Intervention ends.#Ron
 > END STRING
 
@@ -842,8 +842,8 @@ Use this chance to find some peace.#Ron
 > CONTEXT: Map536/events/7/pages/0/547/Dialogue/enemy29
 I won't be selfish enough to ask for forgiveness.
 
-The fact is that I did what I did... and that
-reality hasn't changed one bit...#RonIffy
+I did what I did. That fact hasn't changed, and
+it never will.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -866,7 +866,7 @@ But either way, it looks like you're serious.#Ron
 > CONTEXT: Map536/events/7/pages/0/559/Dialogue/hyakki
 But sorry, I don't have a personality so demonic
 that I'd still attack you anyway after hearing all
-that. Though I am demon...#Ron
+that. Though I am a demon...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -942,10 +942,10 @@ Also, there was something that surprised me...
 隠し事はせず、教えたらどうなんだい？
 ヤツ自身も、いい加減勘付いているはずだよ。
 > CONTEXT: Map536/events/7/pages/0/595/Dialogue/hyakki
-You know everything, don't you? So how about
-spilling the beans without hiding anything? Even
-he himself will have some kind of inkling about
-it.#RonIffy
+You know everything, don't you Cheshire? 
+Why don't you just tell him the truth already?
+I imagine even he has to be close to figuring it
+out by now.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -987,7 +987,7 @@ How long did you know I was there?#Ron
 > CONTEXT: Map536/events/7/pages/0/628/Dialogue/enemy29
 \\C[2]I knew the whooooooole time... ♪
 
-Ever since you handed me that "letter"...#Ron
+Ever since you sent me that "letter"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -995,9 +995,9 @@ Ever since you handed me that "letter"...#Ron
 
 だから、ボクに『手紙』なんて渡してきた……
 > CONTEXT: Map536/events/7/pages/0/632/Dialogue/enemy29
-It was probably impossible for you to emulate
-White Rabbit. That's why you gave me that
-letter.#RonIffy
+It was probably impossible for you to perfectly
+emulate White Rabbit, wasn't it? That's why you
+sent me that letter.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1006,10 +1006,10 @@ letter.#RonIffy
 \\C[0]ボクと彼……いや今は彼女かな？
 とにかくボクたちは、\\C[2]同じ空間での情報共有はしない。
 > CONTEXT: Map536/events/7/pages/0/636/Dialogue/enemy29
-\\C[2]White Rabbit wouldn't ever hand over a letter.\\C[0]
-
-Me and him, or "her" now... Either way we don't
-\\C[2]share information in the same space\\C[0].#RonIffy
+But, \\C[2]White Rabbit would have no need for
+letters.\\C[0] Me and him, or is it "her" now...
+Either way, we don't need to \\C[2]share information
+with one another in the same dimensional space\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1036,10 +1036,12 @@ in the world.#DL
 でも本来は、同一空間で混ざってはいけないものなんだ。
 > CONTEXT: Map536/events/7/pages/0/649/Dialogue/enemy29
 The form I'm in right now was permitted to
-materialize by the \\C[6]higher powers \\C[0]with an objective
-to complete, and with various authorities. But
-it cannot be allowed to mix in the exact same
-space.#RonIffy
+materialize by the \\C[6]higher powers \\C[0]
+with an objective to complete, and the power
+and authorization needed to do that.
+ 
+But it cannot be allowed to exist with similar
+beings in the exact same space.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1050,8 +1052,8 @@ space.#RonIffy
 > CONTEXT: Map536/events/7/pages/0/654/Dialogue/enemy29
 To give an extreme example, if the equations
 "1 + 1 = 2", and "1 + 1 = 3" both officially
-existed, \\C[2]it would cause a chain reaction of damage
-to the world's natural laws\\C[0].#RonIffyWording
+existed, \\C[2]it would cause a chain reaction that
+would heavily damage the world's natural laws\\C[0].#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1069,9 +1071,9 @@ like trying to contact me is forbidden.#Ron
 
 \\C[3]"キミが『お茶会仲間』"\\C[0]っていうキーワードは…？
 > CONTEXT: Map536/events/7/pages/0/665/Dialogue/sirousagi_fc1
-So then what about the key phrase, \\C[3]"You're a
-friend of the Tea Party"\\C[0], that's inside White
-Rabbit?#Ron
+So then what was the significance of the code
+phrase \\C[3]"friend of the Tea Party" \\C[0]that I saw
+buried within her?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1172,8 +1174,8 @@ taking this form...#Ron
 > CONTEXT: Map536/events/7/pages/0/711/Dialogue/sirousagi_fc1
 But it all worked out in the end.
 \\C[2]Even Abaddon mistook me for White Rabbit,
-and when my existence was fading, those three
-kept their connections to each other.#RonIffy
+and even when my existence was fading, those
+three kept their connections to each other.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1181,7 +1183,7 @@ kept their connections to each other.#RonIffy
 
 魔力コンバート以外は、『つながり』に何の影響もないのさ。
 > CONTEXT: Map536/events/7/pages/0/716/Dialogue/sirousagi_fc1
-That's because I was always in My Room.
+That's because \\C[2]I've always been in My Room.\\C[0]
 
 So other than my magic conversion, my presence
 or absence didn't affect the "connection".#RonIffy
@@ -1205,7 +1207,7 @@ hands.#Ron
 いいじゃん、アバドーンもオールドワンも倒せたんだし。
 > CONTEXT: Map536/events/7/pages/0/726/Dialogue/sirousagi_fc1
 It's not like you haven't had secrets of your
-own to keep. What does it matter? Both Abaddon
+own to keep. Why does it matter? Both Abaddon
 and the Old One have been defeated.#Ron
 > END STRING
 
@@ -1232,8 +1234,10 @@ Take care of Kazuya-kun for me, would you?#Ron
 なんでアイツは、私と同じで
 \\C[10]『チェシャの介入』が使えるんだい
 > CONTEXT: Map536/events/7/pages/0/756/Dialogue/hyakki
-......So then, why can you and her both \\C[10]use
-the same Cheshire Intervention\\C[0]?#Ron
+.......Hm? 
+
+So then, why can both of you \\C[10]access and use
+the same Intervention power\\C[0]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1251,10 +1255,10 @@ It's a hassle when you learn how to use it.#Ron
 
 \\C[10]『介入対象者を取り込んだ』\\C[0]世界線があるせいさ
 > CONTEXT: Map536/events/7/pages/0/769/Dialogue/enemy29
-It's the same for you as it is for her.
+For the same reason you can.
 
-Because you're in a timeline which \\C[10]incorporated
-an Intervention target\\C[0].#Ron
+Because she's from a timeline where \\C[10]she got
+too close to an Intervention target\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1276,7 +1280,7 @@ to a world that's outside of my jurisdiction\\C[0].#Ron
 > CONTEXT: Map536/events/7/pages/0/778/Dialogue/enemy29
 In your case, it was an essential part of the
 \\C[4]Official \\C[0]timeline, so you're not to blame
-for any of that. But that thing has to be
+for any of that. But that "thing" has to be
 destroyed, no matter what.#RonIffyWording
 > END STRING
 

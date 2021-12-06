@@ -445,7 +445,7 @@ the Twins...#Ron
 『もしかしたら、自分にも』とは思わなかったとおもう…
 > CONTEXT: Map508/events/6/pages/0/295/Dialogue/enemy39
 I don't think I would've thought that I had a
-chance if I hadn't meet you...#RonIffyWording
+chance if I hadn't met you...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -455,9 +455,9 @@ chance if I hadn't meet you...#RonIffyWording
 深淵で、ただひたすら喰らい続けるこの身体が……
 > CONTEXT: Map508/events/6/pages/0/299/Dialogue/enemy39
 After all that's happened, I've come to hate this
-body. I hate my "Abaddon" \\C[9]definition \\C[0].
-This body that's single-mindedly consuming in the
-abyss.#Ron
+body. I hate being \\C[9]defined \\C[0]as "Abaddon".
+This being that single-mindedly consumes in the
+Abyss.#Ron
 > END STRING
 
 > BEGIN STRING

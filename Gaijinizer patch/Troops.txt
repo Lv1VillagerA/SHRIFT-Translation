@@ -17936,7 +17936,7 @@ What a waste...#Ron
 > BEGIN STRING
 うっ……！！！
 > CONTEXT: Troops/371/pages/0/15/Dialogue/ruka_fc1
-Ugh!!!#Ron
+Ugh...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18196,8 +18196,8 @@ Did that last hit have no effect?!#Ron
 > CONTEXT: Troops/371/pages/0/206/Dialogue/enemy29
 No, that should've been a fatal hit!
 
-But the \\C[10]Old One has been studying your "never
-give up" mindset!#Ron
+But the \\C[10]Old One has learned to "never
+give up" from your actions!#Ron
 > END STRING
 
 > BEGIN STRING

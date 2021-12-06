@@ -348,7 +348,7 @@ Congratulations everyone.#Ron
 無理に実体化しようとすると、ああいう風になる…。
 > CONTEXT: Map535/events/7/pages/0/283/Dialogue/enemy29
 The Old One \\C[2]was never able to materialize until
-Abaddon has finished his turmoil world. Which is
+Abaddon has finished this Chaos world. Which is
 why it was only able to manifest like in that
 form when it forced itself to appear just before.#Ron
 > END STRING
@@ -369,10 +369,10 @@ what it was doing was pointless.#Ron
 
 アイツ、とんでもないものを学んじゃった気がするなぁ……
 > CONTEXT: Map535/events/7/pages/0/293/Dialogue/enemy29
-The \\C[10]never give up spirit\\C[0], huh...
+That \\C[10]determination\\C[0], huh...
 
 It feels like it was learning some pretty absurd
-things.#Ron#Ron
+things.#Ron
 > END STRING
 
 > BEGIN STRING

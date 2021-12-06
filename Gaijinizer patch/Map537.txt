@@ -29,9 +29,9 @@ a pretty crazy thing...#RonIffy
 
 ボクはてっきり、まだ先の事かと思ってたよ……
 > CONTEXT: Map537/events/7/pages/0/18/Dialogue/enemy29
-Though it's a parallel world, Luka-kun's world is
-already at its finale. I thought for sure it had
-more time before then...#RonIffyWording
+Speaking of parallel worlds, Luka-kun's world is
+nearing its end. I was certain it had more time
+left than this...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -75,7 +75,7 @@ N-No, it can't be!!#Ron
 
 もう、すぐ近くにいる……！
 > CONTEXT: Map537/events/7/pages/0/58/Dialogue/enemy29
-But that feeling's already so close!#Ron
+But it already feels so close!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -95,7 +95,7 @@ I see... \\C[2]so it really didn't do anything...#Ron
 > CONTEXT: Map537/events/7/pages/0/126/Dialogue
 The individual resembling Luka has approached Cheshire...
 
-There's a distinct \\C[10]desire to kill \\C[0]manifest in its eyes...#Ron
+There's a distinct \\C[10]desire to kill \\C[0]manifested in its eyes...#Ron
 > END STRING
 
 > BEGIN STRING
