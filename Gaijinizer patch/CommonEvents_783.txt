@@ -3,25 +3,29 @@
 \\N[1]は、
 
 アバドーンに口の中に咥え込まれてしまった！
-> CONTEXT: CommonEvents_783/11/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_803/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_783/11/Dialogue
+> CONTEXT: CommonEvents_803/11/Dialogue
+\\N[1] is being held in Abaddon's mouth!#Ron
 > END STRING
 
 > BEGIN STRING
 くすくす……
 
 捕まえたよ、お兄ちゃん……♡
-> CONTEXT: CommonEvents_783/15/Dialogue/enemy7 < UNTRANSLATED
-> CONTEXT: CommonEvents_803/15/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: CommonEvents_783/15/Dialogue/enemy7
+> CONTEXT: CommonEvents_803/15/Dialogue/enemy7
+Kusukusu...
 
+We've got you now, Onii-chan... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 くすくす……
 
 このまま食べてあげるね、お兄ちゃん…♡
-> CONTEXT: CommonEvents_783/19/Dialogue/enemy7 < UNTRANSLATED
-> CONTEXT: CommonEvents_803/19/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: CommonEvents_783/19/Dialogue/enemy7
+> CONTEXT: CommonEvents_803/19/Dialogue/enemy7
+Kusukusu...
 
+We'll gobble you up now, Onii-chan... ♡#Ron
 > END STRING
