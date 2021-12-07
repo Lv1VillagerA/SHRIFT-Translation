@@ -1090,8 +1090,8 @@ Do you want to project this Memento?#Triketos
 
 > BEGIN STRING
 \\C[10]まずはセーブしよう
-> CONTEXT: Map075/events/4/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map075/events/4/pages/2/1/Dialogue
+\\C[10]I'd better save first.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1109,8 +1109,8 @@ Do you want to project this Memento?#Triketos
 
 > BEGIN STRING
 想ひ魂（追遊戯）if(s[741])
-> CONTEXT: Map075/events/4/pages/2/527/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map075/events/4/pages/2/527/Choice/0
+Memento (Lamia's Chase)if(s[741])#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1119,27 +1119,32 @@ Do you want to project this Memento?#Triketos
 想ひ魂タイプ：再体験
 戦闘　　　　：なし
 備考　　　　：『免罪符』投影不可
-> CONTEXT: Map075/events/4/pages/2/529/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map075/events/4/pages/2/575/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map075/events/4/pages/2/529/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/575/ChoiceHelp
+Found In: My Room
+Memento Type: Scene Replay
+Combat: No
+Note: Indulgence not projected.#RonLocalization
 > END STRING
 
 > BEGIN STRING
 【想ひ魂（追遊戯）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/2/536/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map075/events/4/pages/2/536/Dialogue
+【Memento (Lamia's Chase)】
+Do you want to project this Memento?#Ron
 > END STRING
 
 > BEGIN STRING
 想ひ魂（母）if(s[741])
-> CONTEXT: Map075/events/4/pages/2/573/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map075/events/4/pages/2/573/Choice/0
+Memento (Mother)if(s[741])#Ron
 > END STRING
 
 > BEGIN STRING
 【想ひ魂（母）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/2/582/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map075/events/4/pages/2/582/Dialogue
+【Memento (Mother)】
+Do you want to project this Memento?#Ron
 > END STRING

@@ -3,8 +3,8 @@
 ………どうしたの？
 
 手が震えてる……
-> CONTEXT: Map539/events/1/pages/0/4/Dialogue/other7 < UNTRANSLATED
-
+> CONTEXT: Map539/events/1/pages/0/4/Dialogue/other7
+Your hand's shaking... what's the matter?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,8 +12,11 @@
 また君を失うんじゃないかって……
 
 僕の意志に反して、君の手を握り潰すんじゃないかって…
-> CONTEXT: Map539/events/1/pages/0/10/Dialogue/kazuya-d < UNTRANSLATED
+> CONTEXT: Map539/events/1/pages/0/10/Dialogue/kazuya-d
+I'm scared.
 
+I keep thinking I'm going to lose you again.
+That maybe I'll crush your hand against my will.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -21,8 +24,11 @@
 あまりに汚れすぎている………
 
 だから……手に力が入らない………
-> CONTEXT: Map539/events/1/pages/0/15/Dialogue/kazuya-d < UNTRANSLATED
+> CONTEXT: Map539/events/1/pages/0/15/Dialogue/kazuya-d
+I feel like I'm too polluted to be holding your
+hand...
 
+So... I don't put much strength into my grip.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,8 +36,11 @@
 
 きっとあなたは、優しいから……
 自分自身を許すのは、そう簡単な事じゃない……
-> CONTEXT: Map539/events/1/pages/0/22/Dialogue/other7 < UNTRANSLATED
+> CONTEXT: Map539/events/1/pages/0/22/Dialogue/other7
+Let's just take it a little bit at a time.
 
+I'm sure it's because you're a kind person that
+you're finding it so hard to forgive yourself.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -39,8 +48,10 @@
 でも……あなた自身は、あなたが癒やすしかない。
 
 その手助けになるなら、私はずっとあなたの側にいる…
-> CONTEXT: Map539/events/1/pages/0/27/Dialogue/other7 < UNTRANSLATED
-
+> CONTEXT: Map539/events/1/pages/0/27/Dialogue/other7
+Time will heal your injuries. But you're the only
+one who can heal your self. And I'll never leave
+your side if I can help with that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -48,8 +59,11 @@
 
 別の世界のあなたではなく
 あなた自身が、自分を許せるように……
-> CONTEXT: Map539/events/1/pages/0/33/Dialogue/other7 < UNTRANSLATED
+> CONTEXT: Map539/events/1/pages/0/33/Dialogue/other7
+Now, let's go.
 
+Not so a version of you from another world will
+forgive you, but so you can forgive yourself.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -57,8 +71,11 @@
 泣きたいときは、泣いていいの
 
 大事なのは、\\C[10]『諦めないこと』
-> CONTEXT: Map539/events/1/pages/0/38/Dialogue/other7 < UNTRANSLATED
+> CONTEXT: Map539/events/1/pages/0/38/Dialogue/other7
+You can stop when you want to stop...
+Cry when you want to cry...
 
+The important thing is that you \\C[10]never give up\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -66,46 +83,58 @@
 
 何度だって手を差し伸べる……
 何度だって呼びかける……
-> CONTEXT: Map539/events/1/pages/0/43/Dialogue/other7 < UNTRANSLATED
+> CONTEXT: Map539/events/1/pages/0/43/Dialogue/other7
+This time, I'll be the one close to you...
 
+I'll reach out to you as many times as it takes...
+I'll call out to you as many times as it takes...#RonLocalization
 > END STRING
 
 > BEGIN STRING
 少しずつ、前に進みましょう……
 
 私と一緒に……
-> CONTEXT: Map539/events/1/pages/0/48/Dialogue/other7 < UNTRANSLATED
+> CONTEXT: Map539/events/1/pages/0/48/Dialogue/other7
+Let's move forward, little by little...
 
+Together...#Ron
 > END STRING
 
 > BEGIN STRING
 ふぅ………
-> CONTEXT: Map539/events/1/pages/0/331/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map539/events/1/pages/0/331/Dialogue/other2
+Phew...#Ron
 > END STRING
 
 > BEGIN STRING
 あっ……すっかり存在忘れてた…！
 
 今までどこにいたんだよ！
-> CONTEXT: Map539/events/1/pages/0/334/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map539/events/1/pages/0/334/Dialogue/kazuya
+Oh crap, I totally forgot you existed!
 
+Where've you been this whole time?!#Ron
 > END STRING
 
 > BEGIN STRING
 いやぁ、ちょっとな……
 
 妲己様に呼び出されてて………
-> CONTEXT: Map539/events/1/pages/0/338/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map539/events/1/pages/0/338/Dialogue/other2
+Yeah... about that...
 
+I was summoned by Daji-sama...#Ron
 > END STRING
 
 > BEGIN STRING
 でも、あの数だったらオレ居なくてもよかったろ？
 
 ツッコミ過多というか、ボケ過多というか……
-> CONTEXT: Map539/events/1/pages/0/342/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map539/events/1/pages/0/342/Dialogue/other2
+Seemed like there was no point in me going because
+so many others were already there. The rest of the
+cast was already making too many jokes, so there
+was no more room for more comedic relief...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -113,6 +142,9 @@
 
 あんだけ人数が居れば
 自然にボケもツッコミも入っちゃうからね……
-> CONTEXT: Map539/events/1/pages/0/346/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map539/events/1/pages/0/346/Dialogue/kazuya
+Ah, yeah...
 
+I suppose it would be hard to do your usual
+routine when it's so crowded.#Ron
 > END STRING

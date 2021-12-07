@@ -17916,38 +17916,45 @@ Give \\N[1] your blessings instead of me!#Ron
 なっ……！？
 
 \\C[2]リニアキャノンが……効かない！？
-> CONTEXT: Troops/371/pages/0/4/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/4/Dialogue/kazuya
+What?!
 
+\\C[2]The Linear Cannon... didn't work?!#Ron
 > END STRING
 
 > BEGIN STRING
 ええええええーーーーっ！！？
 
 アタシのとっておきが…！！！徒労に……
-> CONTEXT: Troops/371/pages/0/8/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/8/Dialogue/hyakki
+Whaaaaat?!!
 
+That was the ace up my sleeve!!
+What a waste...#Ron
 > END STRING
 
 > BEGIN STRING
 うっ……！！！
-> CONTEXT: Troops/371/pages/0/15/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/15/Dialogue/ruka_fc1
+Ugh...!!!#Ron
 > END STRING
 
 > BEGIN STRING
 ど、どうしたルカ！！
 
 急にうずくまって……！
-> CONTEXT: Troops/371/pages/0/35/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/35/Dialogue/alice_fc5
+W-What's wrong, Luka?!!
 
+Why're you crouched down all of a sudden?!!#Ron
 > END STRING
 
 > BEGIN STRING
 う、腕が……
 
 腕が……！！
-> CONTEXT: Troops/371/pages/0/39/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/39/Dialogue/ruka_fc1
+M-My arm... it's...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17955,61 +17962,75 @@ Give \\N[1] your blessings instead of me!#Ron
 
 \\C[23][法則異常値観測][予測演算不可]
 [退避推奨]\\C[0]！！！？
-> CONTEXT: Troops/371/pages/0/43/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/43/Dialogue/enemy29
+......!!
+\\C[23][Observed values outside natural laws]
+[Predictive calculations impossible]
+[Recommend evacuation]\\C[0]?!!!#Ron
 > END STRING
 
 > BEGIN STRING
 まずい！！！
 
 \\N[1]くん、ルカくんから離れて！！！
-> CONTEXT: Troops/371/pages/0/48/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/48/Dialogue/enemy29
+This is bad!!
 
+\\N[1]-kun, get away from Luka-kun!!!#Ron
 > END STRING
 
 > BEGIN STRING
 えっ…！？
 
 な、なに……！！
-> CONTEXT: Troops/371/pages/0/52/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/52/Dialogue/kazuya
+Huh?!
 
+W-What?!#Ron
 > END STRING
 
 > BEGIN STRING
 うああああああああああああああああああああっ！！
-> CONTEXT: Troops/371/pages/0/56/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/56/Dialogue/ruka_fc1
+Uaaaaaaaaaaaaaaaaaaaaaagh!!#Ron
 > END STRING
 
 > BEGIN STRING
 【■■■】
 ――――父よ。
-> CONTEXT: Troops/371/pages/0/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/87/Dialogue
+【■■■】
+――――Father.#Ron
 > END STRING
 
 > BEGIN STRING
 る、ルカ……！！？？？
 
 その姿は、一体……！！
-> CONTEXT: Troops/371/pages/0/101/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/101/Dialogue/alice_fc5
+L-Luka?!!!
 
+W-What is that?!!#Ron
 > END STRING
 
 > BEGIN STRING
 いやいやいやいやいやいやいや……！！
 
 そりゃさすがにまずいってぇ！！！
-> CONTEXT: Troops/371/pages/0/113/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/113/Dialogue/enemy29
+Oh crapcrapcrapcrapcrapcrap!!
 
+This is bad, real bad!!!#Ron
 > END STRING
 
 > BEGIN STRING
 はあっ………！！
 
 はあっ…………！！
-> CONTEXT: Troops/371/pages/0/136/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/136/Dialogue/ruka_fc1
+Haaah...!!
 
+Haaah...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18017,8 +18038,11 @@ Give \\N[1] your blessings instead of me!#Ron
 \\C[2]腕が元に戻ってる……
 
 \\C[0]なんだったの、一体………
-> CONTEXT: Troops/371/pages/0/140/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/140/Dialogue/enemy38
+\\C[2]His arm's gone back to normal \\C[0]like nothing
+ever happened.
 
+Just what on earth was that?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18026,8 +18050,11 @@ Give \\N[1] your blessings instead of me!#Ron
 
 余も初めて見たぞ……
 なんだあれは……！？
-> CONTEXT: Troops/371/pages/0/145/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/145/Dialogue/alice_fc5
+I-I have no idea...
 
+This is the first time I've seen that happen.
+What was that?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18035,32 +18062,42 @@ Give \\N[1] your blessings instead of me!#Ron
 
 　なんであれが出てくるの……！
 　そんな兆候、今まで……）
-> CONTEXT: Troops/371/pages/0/150/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/150/Dialogue/enemy29
+(W-Why?!
 
+  Why did that appear?!
+  There was no sign of it until now...)#RonIffy
 > END STRING
 
 > BEGIN STRING
 （そうかルカくん、\\C[27]あれと繋がっちゃったのか……！
 
 　その選択だけは、しちゃいけなかったのに……）
-> CONTEXT: Troops/371/pages/0/155/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/155/Dialogue/enemy29
+(Oh I see, \\C[27]so Luka-kun got connected to that!
 
+  Even though that was the one option that
+  shouldn't have been chosen\\C[0]...)#RonIffy
 > END STRING
 
 > BEGIN STRING
 （参ったなぁ………
 
 　これ、どうしたらいいんだろう……）
-> CONTEXT: Troops/371/pages/0/159/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/159/Dialogue/enemy29
+(This is a real pickle...
 
+  What should I do about this?)#Ron
 > END STRING
 
 > BEGIN STRING
 だ、大丈夫かルカ！！
 
 しっかりしろ！！！
-> CONTEXT: Troops/371/pages/0/164/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/164/Dialogue/alice_fc5
+A-Are you okay, Luka?!!
 
+Pull yourself together!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18068,8 +18105,11 @@ Give \\N[1] your blessings instead of me!#Ron
 
 ど、どうしたのアリス……
 いったい何があったの…！？
-> CONTEXT: Troops/371/pages/0/168/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/168/Dialogue/ruka_fc1
+Huh?
 
+What's the matter, Alice?
+Did something happen?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18077,8 +18117,11 @@ Give \\N[1] your blessings instead of me!#Ron
 
 ますます意味がわかんないわ……
 なにかその子も危ないんじゃないの……？
-> CONTEXT: Troops/371/pages/0/173/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/173/Dialogue/enemy38
+H-He doesn't remember?!
 
+I'm understanding this less and less.
+Is he not in some kind of danger?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18086,48 +18129,63 @@ Give \\N[1] your blessings instead of me!#Ron
 
 ただ、予想外だったのは確かだな……
 さてどうしようか……
-> CONTEXT: Troops/371/pages/0/178/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/178/Dialogue/enemy29
+Well, he's fine. For now at least.
 
+But it certainly was unexpected.
+Now then, what to do...#Ron
 > END STRING
 
 > BEGIN STRING
 待って………！！
 
 まだ……堕ちてない！！！！
-> CONTEXT: Troops/371/pages/0/183/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/183/Dialogue/enemy30
+Wait!!
 
+It hasn't fallen yet!!!#Ron
 > END STRING
 
 > BEGIN STRING
 マリオオオオオオオン…………！！
 
 ｵｱｱｱｱｱｱｱｱｱｱ………！！！
-> CONTEXT: Troops/371/pages/0/190/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/190/Dialogue/hyakki2
+Marioooooooon!!
 
+Oooaaaaaaaaaah!!!#Ron
 > END STRING
 
 > BEGIN STRING
 オールドワンは、オクタエルの身体の左腕で
 
 かろうじて穴の端を掴み、\\C[2]這い上がろうとしている…！！
-> CONTEXT: Troops/371/pages/0/194/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/194/Dialogue
+The Old One is just barely holding on to the edge of the
+hole using Octael's left arm.
 
+\\C[2]It's trying to climb back out again!!#Ron
 > END STRING
 
 > BEGIN STRING
 しぶといな！！！！
 
 どんだけマリオンと叫ぶんだこやつは！！
-> CONTEXT: Troops/371/pages/0/198/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/198/Dialogue/alice_fc5
+This thing's pretty stubborn!!!
 
+Just how long is it going to keep calling out
+for Marion?!!#Ron
 > END STRING
 
 > BEGIN STRING
 そんな……！！
 
 さっきのが効いてなかったのか…！？
-> CONTEXT: Troops/371/pages/0/202/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/202/Dialogue/kazuya
+No way!!
 
+Did that last hit have no effect?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18135,8 +18193,11 @@ Give \\N[1] your blessings instead of me!#Ron
 
 \\C[0]でも、\\C[10]オールドワンは\\N[1]くんから
 『諦めない精神』を学習してるんだ！
-> CONTEXT: Troops/371/pages/0/206/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/206/Dialogue/enemy29
+No, that should've been a fatal hit!
 
+But the \\C[10]Old One has learned to "never
+give up" from your actions!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18144,8 +18205,11 @@ Give \\N[1] your blessings instead of me!#Ron
 
 \\C[10]『諦めない精神』はお前なんかに為し得ない\\C[0]って事を
 証明してやらなきゃ！！
-> CONTEXT: Troops/371/pages/0/211/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/211/Dialogue/enemy29
+\\C[2]Just one last push!!
 
+\\C[10]We've gotta prove that the "never give up"
+attitude wasn't meant for you!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -18153,16 +18217,20 @@ Give \\N[1] your blessings instead of me!#Ron
 
 アンタもなにか攻撃したらどうなの！！
 \\C[2]セラフィムポーチ\\C[0]はどうしたのよ！！
-> CONTEXT: Troops/371/pages/0/216/Dialogue/コラボ^ヴァソ < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/216/Dialogue/コラボ^ヴァソ
+Hey, Marion!! You should be doing some kind of
+attack as well!! Do something with that \\C[2]Seraphim
+Pouch \\C[0]of yours!!#Ron
 > END STRING
 
 > BEGIN STRING
 はぁ！？\\C[2]穴の中に落としちゃった！？
 
 \\C[0]何やってるのよアンタ……！
-> CONTEXT: Troops/371/pages/0/224/Dialogue/コラボ^ヴァソ < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/224/Dialogue/コラボ^ヴァソ
+What?! \\C[2]You dropped it in the hole?!
 
+\\C[0]What's wrong with you?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18170,50 +18238,60 @@ Give \\N[1] your blessings instead of me!#Ron
 
 \\C[2]マリオンの天使の力の発生条件……
 『銃をぶん投げる事』って認識で間違いないか…！？
-> CONTEXT: Troops/371/pages/0/229/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/229/Dialogue/kazuya
+Nakamura!!
+\\C[2]Am I right in saying that Marion's angelic
+power activates when he believes he's
+"throwing a gun"?!#RonIffy
 > END STRING
 
 > BEGIN STRING
 そうだ、弾の有無は関係ない。
 
 \\C[2]射撃武器と一般に認識されているものであれば……何でも…
-> CONTEXT: Troops/371/pages/0/234/Dialogue/enemy35 < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/234/Dialogue/enemy35
+That's correct, the presence or absence of
+ammunition is irrelevant. \\C[2]As long as it's thought
+of as a weapon that fires at range, anything will
+do...#Ron
 > END STRING
 
 > BEGIN STRING
 ！！！！！
 
 そういうことか…！！
-> CONTEXT: Troops/371/pages/0/238/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/238/Dialogue/enemy35
+!!!!
 
+So that's what you're getting at...!!#Ron
 > END STRING
 
 > BEGIN STRING
 ミズキ、頼む……！！
 
 僕の代わりに……\\C[2]マリオンに投げてくれ！
-> CONTEXT: Troops/371/pages/0/242/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/242/Dialogue/kazuya
+Here Mizuki!!
 
+\\C[2]Throw this to Marion for me!!#Ron
 > END STRING
 
 > BEGIN STRING
 任せて！！
-> CONTEXT: Troops/371/pages/0/246/Dialogue/enemy38 < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/246/Dialogue/enemy38
+Leave it to me!!#Ron
 > END STRING
 
 > BEGIN STRING
 マリオンは、\\C[5]『リニアキャノン』\\C[0]を受け取った！！
-> CONTEXT: Troops/371/pages/0/253/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/253/Dialogue
+Marion caught the \\C[5]Linear Cannon\\C[0]!!#Ron
 > END STRING
 
 > BEGIN STRING
 ｵｱｱｱｱｱｱｱｱｱｱ………！！！
-> CONTEXT: Troops/371/pages/0/256/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/256/Dialogue/hyakki2
+Ooaaaaaaaaaaaaaaah!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18221,8 +18299,11 @@ Give \\N[1] your blessings instead of me!#Ron
 その姿で相見えるくらいだったら、尚更だったわ。
 
 終わりよ……！！アンタとの因縁も！
-> CONTEXT: Troops/371/pages/0/258/Dialogue/コラボ^ヴァソ < UNTRANSLATED
-
+> CONTEXT: Troops/371/pages/0/258/Dialogue/コラボ^ヴァソ
+To be honest, I didn't want to see your face ever
+again, much less meet you when you're in that kind
+of state. But it ends here!! Both this battle
+and our connection!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18230,8 +18311,11 @@ Give \\N[1] your blessings instead of me!#Ron
 
 彼女の……哀れな姿を晒しているオクタエルの魂に
 真の安息を与えるのだ！！
-> CONTEXT: Troops/371/pages/0/263/Dialogue/enemy35 < UNTRANSLATED
+> CONTEXT: Troops/371/pages/0/263/Dialogue/enemy35
+Go, Marion!!!!
 
+Give the soul of Octael that's been reduced to
+such a pathetic form the true rest it deserves.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -18239,24 +18323,31 @@ Give \\N[1] your blessings instead of me!#Ron
 
 　　　　貴方は、いつでも誰かの計画をメチャクチャにしますね
 　　　　マリオン……」
-> CONTEXT: Troops/371/pages/2/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/371/pages/2/8/Dialogue
+??? 「Good grief...
 
+      Just how much longer are you going to keep
+      messing up people's plans, Marion...」#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？「ですが……今回ばかりは……
 
 　　　　私も、素直にならねばならないようです……」
-> CONTEXT: Troops/371/pages/2/13/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/371/pages/2/13/Dialogue
+??? 「But it looks like just this once...
 
+      I'll have to meekly give up.」#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？「感謝します……
 
 　　　　これで……私は……………」
-> CONTEXT: Troops/371/pages/2/17/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/371/pages/2/17/Dialogue
+??? 「You have my thanks...
 
+      With this... I...」#Ron
 > END STRING
 
 > BEGIN STRING
