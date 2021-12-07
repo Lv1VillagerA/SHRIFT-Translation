@@ -87,7 +87,6 @@ Will Up Lv10#Dargoth
 物理属性。
 > CONTEXT: Weapons/30/description
 > CONTEXT: Weapons/110/description
-> CONTEXT: Weapons/120/description
 This sword manifests the wielder's own magical power
 into the blade. Does physical damage.#Dargoth
 > END STRING
@@ -729,7 +728,7 @@ Oni Spirit Knife#Ron
 > BEGIN STRING
 \\C[11][ルカ専用]\\C[0]魔導の力を高めたウィザードロッドの特注品
 \\C[6]精霊召喚の持続ターン増加＆アリスのサポートスキルの威力上昇
-> CONTEXT: Weapons/128/description < UNTRANSLATED
+> CONTEXT: Weapons/128/description
 \\C[11][Luka Only] \\C[0]A specially-made, black-magic enhancing
 wizard's rod. \\C[6]Buffs Alice, increases Spirit summon duration.#Ron
 > END STRING
