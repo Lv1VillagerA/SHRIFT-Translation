@@ -142,7 +142,6 @@ Fully restores willpower and vitality, but debilitate you.#DargothPR
 > CONTEXT: Items/10/name
 > CONTEXT: Items/509/name
 Lampas Syrup#Dargoth
-
 > END STRING
 
 > BEGIN STRING
