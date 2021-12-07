@@ -138,9 +138,38 @@ Fully restores willpower and vitality, but debilitate you.#DargothPR
 
 > BEGIN STRING
 ランパスシロップ
+
 > CONTEXT: Items/10/name
 > CONTEXT: Items/509/name
 Lampas Syrup#Dargoth
+
+> END STRING
+
+> BEGIN STRING
+栄養ドリンクをわずかな魔素で変質させたもの
+\\C[2]バトル中に\\C[0]共闘者一人のＨＰを最大まで回復する。
+> CONTEXT: Items/11/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+共闘ドリンク
+> CONTEXT: Items/11/name < UNTRANSLATED
+> CONTEXT: Skills/719/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あまり声に出して読みたくないアイテム
+\\C[2]バトル中に\\C[0]味方全員のＨＰを最大まで回復する。
+> CONTEXT: Items/12/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+友情ぱわードリンク
+> CONTEXT: Items/12/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -1544,6 +1573,9 @@ Tea Party Invite#Strate/Ron
 > CONTEXT: Items/148/description
 > CONTEXT: Items/149/description
 > CONTEXT: Items/150/description
+> CONTEXT: Items/151/description
+> CONTEXT: Items/152/description
+> CONTEXT: Items/153/description
 > CONTEXT: Items/200/description
 > CONTEXT: Items/201/description
 > CONTEXT: Items/202/description
@@ -1623,6 +1655,25 @@ Memento (Snake's Pursuit)#afrgPR
 想ひ魂（蛇待伏）
 > CONTEXT: Items/150/name
 Memento (Snake's Ambush)#Triketos
+
+> END STRING
+
+> BEGIN STRING
+想ひ魂（追遊戯）
+> CONTEXT: Items/151/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+想ひ魂（母）
+> CONTEXT: Items/152/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+想ひ魂（犬群）
+> CONTEXT: Items/153/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -1660,6 +1711,7 @@ Memento (Kitsune Dream)#Triketos
 その外観はボロボロだ……
 > CONTEXT: Items/210/description
 > CONTEXT: Items/211/description
+> CONTEXT: Items/212/description
 Solidified ball of a demon's thoughts.
 It looks to be in pretty bad condition...#afrg/Ron
 > END STRING
