@@ -122,7 +122,7 @@
 > BEGIN STRING
 "%sは%s %s に上がった！"
 > CONTEXT: Scripts/Vocab/41:21
-"%s's %s went up by %s!"#Dargoth
+"%s's %s went up to %s!"#Dargoth
 > END STRING
 
 > BEGIN STRING

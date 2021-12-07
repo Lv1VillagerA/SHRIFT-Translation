@@ -1,19 +1,19 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 ルカは、敵の攻撃を避けた！
-> CONTEXT: CommonEvents_751/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_751/16/Dialogue
+Luka evaded the enemy's attack!#Ron
 > END STRING
 
 > BEGIN STRING
 ぐっ……！
-> CONTEXT: CommonEvents_751/55/Dialogue/ruka_fc1 < UNTRANSLATED
-> CONTEXT: Map054/events/11/pages/1/93/Dialogue/kazuya-a < UNTRANSLATED
-> CONTEXT: Map198/events/5/pages/0/265/Dialogue/enemy14 < UNTRANSLATED
-> CONTEXT: Map263/events/11/pages/1/93/Dialogue/kazuya-a < UNTRANSLATED
-> CONTEXT: Map403/events/1/pages/0/347/Dialogue/enemy30 < UNTRANSLATED
-> CONTEXT: Map535/events/7/pages/0/191/Dialogue/kazuya-b < UNTRANSLATED
-
+> CONTEXT: CommonEvents_751/55/Dialogue/ruka_fc1
+> CONTEXT: Map054/events/11/pages/1/93/Dialogue/kazuya-a
+> CONTEXT: Map198/events/5/pages/0/265/Dialogue/enemy14
+> CONTEXT: Map263/events/11/pages/1/93/Dialogue/kazuya-a
+> CONTEXT: Map403/events/1/pages/0/347/Dialogue/enemy30
+> CONTEXT: Map535/events/7/pages/0/191/Dialogue/kazuya-b
+Gh...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -24,9 +24,9 @@ Luka falls to his knees!#Ron
 
 > BEGIN STRING
 　　　　　　　　　　【共闘者の\\C[2]ダウン\\C[0]について】
-> CONTEXT: CommonEvents_751/64/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_752/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_751/64/Dialogue
+> CONTEXT: CommonEvents_752/79/Dialogue
+　　　　　　　　　　[About party members being \\C[2]downed\\C[0].]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -34,9 +34,12 @@ Luka falls to his knees!#Ron
 
 ダウン中は、行動の指示が出来なくなりますが
 ３ターンすると、\\C[2]ＨＰを５０％回復して復活します。
-> CONTEXT: CommonEvents_751/66/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_752/81/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_751/66/Dialogue
+> CONTEXT: CommonEvents_752/81/Dialogue
+Party members will be "downed" if their HP reaches 1.
 
+While downed, they cannot take any actions, but will recover
+on their own with 50% of their HP after three turns.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -44,14 +47,17 @@ Luka falls to his knees!#Ron
 \\C[24]「回復系のサポートスキル」\\C[0]で、ＨＰを回復させると
 
 \\C[2]即座に次のターンから行動が出来るようになります。
-> CONTEXT: CommonEvents_751/71/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_752/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_751/71/Dialogue
+> CONTEXT: CommonEvents_752/86/Dialogue
+If you recover their HP through \\C[24]support skills\\C[0] or \\C[5]other
+recovery methods \\C[0]before the turn ends, \\C[2]they'll be able
+to act again on the next turn.#Ron
 > END STRING
 
 > BEGIN STRING
 説明は以上です。もう一度説明しますか？
-> CONTEXT: CommonEvents_751/78/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_752/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_751/78/Dialogue
+> CONTEXT: CommonEvents_752/93/Dialogue
+That's it for the explanation. Would you like to read it
+again?#Ron
 > END STRING

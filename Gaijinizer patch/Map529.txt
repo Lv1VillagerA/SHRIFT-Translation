@@ -665,7 +665,7 @@ of \\N[1] like you\\C[0]!!!!#Ron
 
 お前らなんか、オールドワンのクソ以下だ！！！
 > CONTEXT: Map529/events/8/pages/0/461/Dialogue/enemy30
-I only want a \\C[4]\\N[1] who is a strong and
+I only want a \\C[4]\\N[1] who is strong and
 kind, one who's loved and needed by everyone\\C[0].
 You're all such trash you're even more worthless
 than the Old One's shit.#Ron

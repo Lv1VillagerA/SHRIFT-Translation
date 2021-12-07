@@ -424,7 +424,7 @@ psychological attack...#Ron
 Perhaps as a result of the \\C[10]World Fusion \\C[0]you
 mentioned, I seem to have lost some control over
 that aspect of it. Exercising fine control over
-is still a little tricky...#Ron
+it is still a little tricky...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -549,8 +549,9 @@ catch you all in one fell swoop!#Ron
 
 魔法が解けるまで、果たして逃げ切れるかしらねぇ…？
 > CONTEXT: Map466/events/4/pages/0/385/Dialogue/enemy37
-High Lamia's isn't so easy to dispel. I wonder if
-you'll be able to hold on until it wears off?#RonLocalization
+High Lamia's magic isn't so easy to dispel. I
+wonder if you'll be able to hold on until it
+wears off?#RonLocalization
 > END STRING
 
 > BEGIN STRING

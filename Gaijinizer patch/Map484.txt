@@ -5,9 +5,9 @@
 　　遘√?鬲皮黄縺溘■縺梧?縺
 　　縺ｪ縺懈?縺??縺九☆繧芽ｦ壹∴縺ｦ縺?∪縺帙ｓ縺代←」
 > CONTEXT: Map484/events/23/pages/0/0/Dialogue
-*　「\\X[50]Why did the village lights ■ ■ ■ have to be ■ ■ ■
-    I ■ ■ ■ monsters ■ ■ ■ why is ■ ■ ■ all I can
-    remember?\\X[0]」#Ron
+*　「\\X[50]Why did the village lights ■ ■ ■ have to be ■ ■ ■\\X[0]
+    \\X[50]I ■ ■ ■ monsters ■ ■ ■ why is ■ ■ ■ all I can\\X[0]
+    \\X[50]remember?\\X[0]」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -592,7 +592,7 @@ research material.#RonIffy
 > CONTEXT: Map484/events/35/pages/0/256/Dialogue/other8
 That's why \\C[10]I destroyed her tribe.
 Because I was tasked with fixing the timeline\\C[0], I
-did was I was told by the higher powers without
+did what I was told by the higher powers without
 hesitation.#RonIffyWording
 > END STRING
 
@@ -778,7 +778,7 @@ her anyway.#Ron
 でも、今はその時じゃない………
 > CONTEXT: Map484/events/35/pages/0/341/Dialogue/other8
 Though I don't know if you could say that I'm an
-entity with a "life" as such, but I'll gladly pay
+entity with a "life" as such, I'll gladly pay
 for my sins in any way I can. But now's not the
 time for that.#Ron
 > END STRING

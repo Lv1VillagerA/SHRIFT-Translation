@@ -227,7 +227,7 @@ besides myself.#Ron
 巨大な蛞蝓の下半身をもつ、貴族のような格好をした女性…
 > CONTEXT: Map419/events/1/pages/0/138/Dialogue
 Appearing in front of me is a female with the lower half
-of a huge slug, and the upper half of a aristocratic
+of a huge slug, and the upper half of an aristocratic
 woman.#Ron
 > END STRING
 

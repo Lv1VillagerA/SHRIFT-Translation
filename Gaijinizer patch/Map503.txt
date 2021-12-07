@@ -41,7 +41,7 @@ Woman 「That's all the more reason not to. If that child
 > BEGIN STRING
 男「だ、だが………」
 > CONTEXT: Map503/events/4/pages/0/29/Dialogue
-Man 「B.But...」#Ron
+Man 「B-But...」#Ron
 > END STRING
 
 > BEGIN STRING

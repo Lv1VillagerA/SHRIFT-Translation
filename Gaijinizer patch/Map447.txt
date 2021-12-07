@@ -364,7 +364,7 @@ I've gotta run!#Ron
 
 パパッと行って、『仕込み』を終えてくるよ。
 > CONTEXT: Map447/events/1/pages/0/218/Dialogue/sirousagi_fc1
-Thing's will get troublesome if I miss this
+Things will get troublesome if I miss this
 chance, so I've got to rush off and finish
 getting everything ready. I'll be back after I'm
 done.#Ron

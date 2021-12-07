@@ -309,10 +309,10 @@ Fake hero?!#Ron
 
 そやつを倒すため、我らは策を練り、決戦に備えた。
 > CONTEXT: Map454/events/2/pages/0/164/Dialogue/alice_fc5
-The Dream Lord was the cause of Kazuya, or rather
-the other \\N[1] getting lost in our world.
-We made a plan to defeat him and prepared for a
-final battle.#Ron
+The Queen of Dreams was the cause of Kazuya, or
+rather the other \\N[1] getting lost in our
+world. We made a plan to defeat him and prepared
+for a final battle.#Ron
 > END STRING
 
 > BEGIN STRING
