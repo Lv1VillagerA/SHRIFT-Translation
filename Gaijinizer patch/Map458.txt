@@ -459,9 +459,9 @@ the time to teach you how that works.#Amaboye
 
 \\C[0]ルカくんの世界の形式を、そのまま使えるようにね
 > CONTEXT: Map458/events/9/pages/1/49/Dialogue/sirousagi_fc1
-And so \\C[2]I'm using a "bond" between you and
-\\N[1]-kun from when I went to My Room, and
-converting that into usable power for you.
+And so \\C[2]I'm using a "connection" between you
+and \\N[1]-kun from when I went to My Room,
+and converting that into usable power for you.
 \\C[0]That way Luka and Alice can use magic as normal.#Amaboye/iffy
 > END STRING
 
@@ -482,7 +482,7 @@ an issue. Go wild.#Amaboye
 　そういう意図もあったのか……）
 > CONTEXT: Map458/events/9/pages/1/59/Dialogue/kazuya
 (...So that's why she showed up in front of the
-door at the start...)#Amaboye
+ door at the start...)#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -492,9 +492,10 @@ door at the start...)#Amaboye
 まぁ、\\C[2]『つながり』が絶たれてしまえば終わりだね
 > CONTEXT: Map458/events/9/pages/1/65/Dialogue/sirousagi_fc1
 Game over...
-When the enemy's put you in "checkmate"...
+When enemies put you in "checkmate"...
 
-Basically, \\C[2]if you lose your "bonds", it's over.#Amaboye
+Basically, \\C[2]if you lose your "connection",
+it's over.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -505,8 +506,8 @@ Basically, \\C[2]if you lose your "bonds", it's over.#Amaboye
 > CONTEXT: Map458/events/9/pages/1/70/Dialogue/sirousagi_fc1
 Yami-chan and Luka are connected to you through
 me. \\C[2]I'm dragging together existences which
-should normally never meet, using My Room's
-"bonds".#Amaboye
+should normally never meet using My Room's
+connection.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -518,7 +519,7 @@ should normally never meet, using My Room's
 So if My Room becomes unstable... say, \\C[10]by you
 losing yourself to pleasure...
 
-The "bonds" I'm holding for you will break.#Amaboye
+The connection I'm maintaining will break.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -527,10 +528,10 @@ The "bonds" I'm holding for you will break.#Amaboye
 
 \\C[0]全員、強制的に自分の世界に帰っちゃうって事
 > CONTEXT: Map458/events/9/pages/1/80/Dialogue/sirousagi_fc1
-\\C[2]If these "bonds" break, all the "guests",
-even those like Yami-chan, will lose their
-ability to hold form here. \\C[0]Everyone will
-be forcibly sent back to their own worlds.#Amaboye
+\\C[2]And if it breaks, all the "guests", even those
+like Yami-chan, will lose their ability to hold
+form here. \\C[0]Everyone will be forcibly sent
+back to their own worlds.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -552,7 +553,8 @@ ejaculation, you will become their food.#Amaboye
 > CONTEXT: Map458/events/9/pages/1/90/Dialogue/ruka_fc1
 But aren't there several White Rabbits?
 
-If the "bonds" break, couldn't you repair them?#Amaboye
+If the connection breaks, couldn't you repair
+it?#Amaboye
 > END STRING
 
 > BEGIN STRING

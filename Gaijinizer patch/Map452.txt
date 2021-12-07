@@ -482,7 +482,7 @@ there!! What're you playing at?#Ron
 
 それより今は、この状況をどうにかした方がいいんじゃない？
 > CONTEXT: Map452/events/1/pages/0/400/Dialogue/sirousagi_fc1
-Hold on, hold in, explanations can wait.
+Hold on, hold on, explanations can wait.
 
 You should be more worried about dealing with
 this situation right now.#Ron

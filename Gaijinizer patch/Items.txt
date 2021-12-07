@@ -148,14 +148,15 @@ Lampas Syrup#Dargoth
 栄養ドリンクをわずかな魔素で変質させたもの
 \\C[2]バトル中に\\C[0]共闘者一人のＨＰを最大まで回復する。
 > CONTEXT: Items/11/description < UNTRANSLATED
-
+An energy drink spiked with a modicum of magic.
+\\C[2]Use in battle \\C[0]to restore a party member to full HP.
 > END STRING
 
 > BEGIN STRING
 共闘ドリンク
-> CONTEXT: Items/11/name < UNTRANSLATED
-> CONTEXT: Skills/719/name < UNTRANSLATED
-
+> CONTEXT: Items/11/name
+> CONTEXT: Skills/719/name
+Revival Drink#RonIffyWording
 > END STRING
 
 > BEGIN STRING

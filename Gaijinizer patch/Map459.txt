@@ -52,7 +52,7 @@ Let the kid go!#Amaboye
 > BEGIN STRING
 ………新たな対象を、２体、確認……
 > CONTEXT: Map459/events/5/pages/0/45/Dialogue/c_beast_fc1
-...2 new targets detected...#Amaboye
+...Two new targets detected...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -60,7 +60,7 @@ Let the kid go!#Amaboye
 
 \\C[0]どうしてこんなところに…！！
 > CONTEXT: Map459/events/5/pages/0/47/Dialogue/ruka_fc1
-...\\C[2]a Chimera Beast!?
+...\\C[2]A Chimera Beast!?
 
 \\C[0]Why is one here...!?#Amaboye
 > END STRING
@@ -96,7 +96,7 @@ assassins?#Amaboye
 可能性としては、そっちの方が高いね。
 > CONTEXT: Map459/events/5/pages/0/61/Dialogue/sirousagi_fc1
 They could have been \\C[2]brought here by one of the
-assassins\\C[0] like the Black Dogs were instead...
+assassins\\C[0] like the Black Dogs were...
 
 That seems to be more likely.#Amaboye
 > END STRING
@@ -305,8 +305,10 @@ But these numbers are rough...#Amaboye
 
 うち１名、射精による衰弱を検知……
 > CONTEXT: Map459/events/5/pages/0/248/Dialogue/c_beast_fc1
-3 targets confirmed...
-1 detected to have ejaculation-induced weakness...#Amaboye
+Three targets confirmed...
+
+One detected to have ejaculation-induced
+weakness...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -314,8 +316,9 @@ But these numbers are rough...#Amaboye
 
 開始……
 > CONTEXT: Map459/events/5/pages/0/253/Dialogue/c_beast_fc1
-Other 2, priority targets to neutralize...
-Beginning...#Amaboye
+Remaining two are priority neutralization targets.
+
+Engaging...#Amaboye
 > END STRING
 
 > BEGIN STRING

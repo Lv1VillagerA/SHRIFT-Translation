@@ -62,7 +62,7 @@ gate archway where you can relieve yourself.#Ron
 > CONTEXT: Map448/events/2/pages/1/27/Dialogue/kazuya
 Ah! No... that's not it...
 
-Sorry, I just just having a quick look around
+Sorry, I was just having a quick look around
 the perimeter.#Ron
 > END STRING
 
@@ -220,7 +220,7 @@ Sheep「\\C[2]I've brought the save point and item box here with me.\\C[0]
 　　僕に出来ることはこれくらい………」
 > CONTEXT: Map448/events/24/pages/0/6/Dialogue
 Sheep「\\C[2]From here on I'll be leaving these two things in
-	   helpful places.\\C[0]
+       helpful places.\\C[0]
 
        It's about the only thing I can do.」#Ron
 > END STRING
