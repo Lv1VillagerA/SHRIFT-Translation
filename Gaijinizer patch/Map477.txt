@@ -486,7 +486,7 @@ using demons to fan the flames of war.#Ron/Triketos
 > CONTEXT: Map477/events/11/pages/0/21/Dialogue/ruka_fc1
 M.O.W....
 
-So they're \\N[1]the root of all evil in this world\\N[0]...#Ron
+So they're the root of all evil in your world...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -669,7 +669,7 @@ She was already in this form when we first met.#Ron
 よいな！？
 > CONTEXT: Map477/events/12/pages/1/1/Dialogue/alice_fc5
 Luka! When the omelet rice comes out, write my
-name on it in ketchup! You got that that?!#Ron
+name on it in ketchup! You got that?!#Ron
 > END STRING
 
 > BEGIN STRING

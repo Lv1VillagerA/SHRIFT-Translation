@@ -126,9 +126,9 @@ These enemies would be too much for
 いわゆる\\C[10]『アバター』\\C[0]ってやつ？
 > CONTEXT: Map478/events/5/pages/0/62/Dialogue/other8
 So I took what data I had left on the \\C[10]Intervener
-through my Medium\\C[0], and used it to create
-\\C[2]Kazuya-kun just before his escape from the city\\C[0].
-One of those so-called \\C[10]Avatar \\C[0]things.#Ron
+through my Medium\\C[0], and used it to create the
+\\C[2]Kazuya-kun from just before his escape from the
+city\\C[0]. One of those so-called \\C[10]Avatar \\C[0]things.#Ron
 > END STRING
 
 > BEGIN STRING

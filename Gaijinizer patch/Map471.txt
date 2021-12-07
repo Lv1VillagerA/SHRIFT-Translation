@@ -141,7 +141,7 @@ indiscriminately devour any and all worlds.#Ron
 > CONTEXT: Map471/events/1/pages/0/65/Dialogue/enemy27
 Yes, those are both right.
 
-Abaddon is not in his right mind any more. You
+Abaddon is not in his right mind anymore. You
 could say he's \\C[2]completely out of control\\C[0] now.#Ron
 > END STRING
 
@@ -237,7 +237,7 @@ goings on of other worlds.#Ron
 些細な特異点なんかを潰していく。
 > CONTEXT: Map471/events/1/pages/0/108/Dialogue/sirousagi_fc1
 \\C[10]One cannot change their own fate.\\C[0]
-Using \\C[10]Intervention\\C[0], however, someone
+Using \\C[10]Intervention\\C[0], however, someone can
 change the course of events, and crush small
 singularities that arise.#RonIffy
 > END STRING
@@ -249,7 +249,7 @@ singularities that arise.#RonIffy
 各々の世界に付従して、何も知らず生きていける。
 > CONTEXT: Map471/events/1/pages/0/113/Dialogue/sirousagi_fc1
 In all affected worlds, this is done secretly,
-without exception. Any effected individuals would
+without exception. Any affected individuals would
 live normally without the knowledge that any
 changes had been made.#RonIffy
 > END STRING
@@ -560,7 +560,7 @@ certainly hard to wrap your head around.#Ron/Triketos
 
 ボーットシテナイカ？？？
 > CONTEXT: Map471/events/1/pages/0/261/Dialogue/enemy37
-OI, YOU UNDERSTAND THIS?!!
+HEY, YOU UNDERSTAND THIS?!!
 
 YOUR FACE BLANK!!#Ron
 > END STRING
@@ -776,7 +776,7 @@ of materializing itself.#RonIffy
 > CONTEXT: Map471/events/1/pages/0/363/Dialogue/enemy27
 In order for it to truly materialize, it must
 be feared and have \\C[10]religious faith \\C[0]to make
-sense of it. It also needs a \\C[10]vessel \\C[0] that
+sense of it. It also needs a \\C[10]vessel \\C[0]that
 it can take control of.#Ron
 > END STRING
 
@@ -889,7 +889,7 @@ wouldn't choose...#Ron
 But...
 
 Mad Hatter underestimated how many Interveners
-exists who would follow a path like that.#Ron
+exist who would follow a path like that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1106,8 +1106,8 @@ such a neat conclusion.#RonIffy
 > CONTEXT: Map471/events/1/pages/0/528/Dialogue/enemy27
 Let's go back a bit.
 
-Let's tell the reason of why Abaddon is here,
-which is plunging all of your worlds in danger...#RonIffyWording
+Let's talk about the reason why Abaddon is here,
+the reason why all of your worlds are in danger...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1177,7 +1177,7 @@ that same process to connect to you.#Ron
 > CONTEXT: Map471/events/1/pages/0/564/Dialogue/enemy27
 But it didn't really have rights to access
 Intervention, and it didn't have enough influence
-on you. Trying to meddle from it's isolated
+on you. Trying to meddle from its isolated
 timeline didn't amount to much.#RonIffy
 > END STRING
 
@@ -1693,9 +1693,9 @@ W-What do you mean?!#Ron
 
 \\C[2]実体を持たないが故に、アバドーンを介さないと力を出せない
 > CONTEXT: Map471/events/1/pages/0/808/Dialogue/enemy27
-As I said before, the Old One doesn't truly have
-a true name or form, \\C[2]it's a being that's closer
-to a liquid\\C[0]. Because of that, it relies on using
+As I said before, the Old One doesn't have a true
+name or form, \\C[2]it's a being that's closer to a
+liquid\\C[0]. Because of that, it relies on using
 Abaddon as an intermediary to exercise its power.#Ron
 > END STRING
 

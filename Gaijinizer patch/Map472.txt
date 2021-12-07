@@ -279,8 +279,8 @@ of my misery.#Ron
 > CONTEXT: Map472/events/1/pages/0/239/Dialogue/enemy27
 Because...... she couldn't do it.
 She knew that behind you was an \\C[10]Intervener\\C[0],
-and that whole reason this happened was the will of
-theirs that she was opposing.#RonIffyWording
+that the whole reason this happened was the will
+of theirs that she was opposing.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -291,7 +291,7 @@ theirs that she was opposing.#RonIffyWording
 > CONTEXT: Map472/events/1/pages/0/244/Dialogue/enemy27
 She apparently lost any desire to kill once she
 comprehended those things. \\C[10]That's because
-having a final battle would only just be for
+having a final battle would just end up being for
 the amusement of the Intervener\\C[0].#Ron
 > END STRING
 
@@ -422,7 +422,7 @@ First Hyakki, and now you too?!!#Ron
 > CONTEXT: Map472/events/1/pages/0/303/Dialogue/enemy39
 I don't know, maybe it's because I've been so
 attached to you, but I might have worked a little
-too much as an \\C[10]Medium\\C[0].#Ron
+too much as a \\C[10]Medium\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
