@@ -155,8 +155,8 @@ protect the world they live in by defeating you.#Ron
 > CONTEXT: Map510/events/4/pages/0/76/Dialogue/kazuya-b
 Lucy, Nina, Titanoboa, along with everyone else...
 
-I'm connecting to them all by the \\C[9]bonds \\C[0]we share,
-and I'm going to go home to them.#Ron
+I'm connected to them all by the \\C[9]bonds \\C[0]we share,
+I'm going to go home to them.#Ron
 > END STRING
 
 > BEGIN STRING

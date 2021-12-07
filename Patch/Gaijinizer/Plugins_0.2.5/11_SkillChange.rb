@@ -24,8 +24,9 @@ module DataManager
 				VERSES = [
 					"I pray amidst despair, standing in God's love and justice...\nFor those who could not stand for themselves.",
 					"Let us pause to remember those who have lost their lives,\nwho died along the way—never having seen the Promised Land.",
-					"As we pause to remember the worlds who are left to mourn,\nmay our mourning join with theirs; and may you comfort us, oh God.",
-					"In your mercy, hear our prayer.\nAmen."
+					"As we pause to remember the worlds who are left to mourn,",
+					"may our mourning join with theirs; and may you comfort us,\nin your mercy, hear our prayer, oh God.",
+					"Amen."
 				]
 				
 				# Description getter.

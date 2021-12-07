@@ -118,9 +118,9 @@ power to one another.#Ron
 人間への復讐で使うなんてもってのほかよ。
 > CONTEXT: Map530/events/7/pages/0/67/Dialogue/enemy2
 That's why I put everything I had into \\C[24]that form\\C[0].
-\\C[2]I never wanted to change back into it that ever again.
-It'd be absurd to use it just to get revenge on a
-human.#Ron
+\\C[2]I never wanted to change back into it ever
+again, so it'd be absurd to use it just to get
+revenge on a human.#Ron
 > END STRING
 
 > BEGIN STRING

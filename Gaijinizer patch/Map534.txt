@@ -6,7 +6,7 @@
 > CONTEXT: Map534/events/1/pages/0/5/Dialogue/enemy29
 Hey, \\N[1]-kun...
 
-\\C[10]never giving up \\C[2]can be really cruel sometimes...#Ron
+\\C[10]Never giving up \\C[2]can be really cruel sometimes...#Ron
 > END STRING
 
 > BEGIN STRING

@@ -285,7 +285,7 @@ But the one we want is just Onii-chan...
 私は、お前の世界も喰いに行くから！
 そう遠くないうちに、また会えるよ！
 > CONTEXT: Map517/events/6/pages/1/22/Dialogue/enemy39
-But won't worry! We'll come to eat your world
+But don't worry! We'll come to eat your world
 as well! So it won't be long until we can meet
 again!#Ron
 > END STRING

@@ -276,7 +276,7 @@ after he went down the \\C[10]Genocide route\\C[0].#RonIffy
 
 \\C[2]\\V[40]本人を正気に戻さないと……
 > CONTEXT: Map370/events/1/pages/1/26/Dialogue/hyakki
-But my power alone, isn't enough to restore your
+But my power alone isn't enough to restore your
 Intervention power over \\V[40].
 \\C[2]We'll have to bring the man himself back
 to his senses...#Ron
